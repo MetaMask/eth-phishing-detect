@@ -1,6 +1,7 @@
 const test = require('tape')
 const PhishingDetector = require('../src/detector')
 const config = require('../src/config.json')
+const alexaTopSites = require('./alexa.json')
 
 const detector = new PhishingDetector(config)
 
@@ -60,6 +61,13 @@ test('basic test', (t) => {
   t.end()
 })
 
+test('alexa top sites', (t) => {
+  // alexa top sites
+  testAnyType(t, false, alexaTopSites)
+  t.end()
+})
+
+
 function testBlacklist(t, domains) {
   domains.forEach((domain) => {
     testDomain(t, {
@@ -100,11 +108,25 @@ function testNoMatch(t, domains) {
   })
 }
 
+function testAnyType(t, expected, domains) {
+  domains.forEach((domain) => {
+    testDomain(t, {
+      domain: domain,
+      expected,
+    })
+  })
+}
+
 function testDomain(t, { domain, type, expected }) {
   const value = detector.check(domain)
+  // log fuzzy match for debugging
   if (value.type === 'fuzzy') {
     t.comment(`"${domain}" fuzzy matches against "${value.match}"`)
   }
-  t.equal(value.type, type, `type: "${domain}" should be "${type}"`)
+  // enforcing type is optional
+  if (type) {
+    t.equal(value.type, type, `type: "${domain}" should be "${type}"`)
+  }
+  // enforcing result is required
   t.equal(value.result, expected, `result: "${domain}" should be match "${expected}"`)
 }
