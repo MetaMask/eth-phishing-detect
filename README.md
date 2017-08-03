@@ -1,5 +1,7 @@
 # eth-phishing-detect
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/eth-phishing-detect.svg)](https://greenkeeper.io/)
+
 Utility for detecting phishing domains targeting Ethereum users.
 
 ### basic usage
