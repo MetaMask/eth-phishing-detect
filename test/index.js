@@ -12,11 +12,8 @@ test('basic test', (t) => {
 
   testBlacklist(t, [
     'metamask.com',
-    'myetherwaillet.com',
-    'myetherwaller.com',
-    'myetherweb.com.de',
-    'myeterwallet.com',
-    'xn--mytherwallet-fvb.com',
+    'wallet-ethereum.net',
+    'etherclassicwallet.com',
   ])
 
   // whitelist
@@ -56,6 +53,45 @@ test('basic test', (t) => {
     'cryptocompare.com',
     'kraken.com',
     'myetherwallet.groovehq.com',
+  ])
+
+  // do detect as phishing
+  testAnyType(t, true, [
+    "myethervvallet.com",
+    "metherwallet.com",
+    "mtetherwallet.com",
+    "my-etherwallet.com",
+    "my-etherwallet.in",
+    "myeherwallet.com",
+    "myetcwallet.com",
+    "myetehrwallet.com",
+    "myeterwallet.com",
+    "myethe.rwallet.com",
+    "myethereallet.com",
+    "myetherieumwallet.com",
+    "myetherswallet.com",
+    "myetherw.allet.com",
+    "myetherwal.let.com",
+    "myetherwalet.com",
+    "myetherwaliet.com",
+    "myetherwall.et.com",
+    "myetherwaller.com",
+    "myetherwallett.com",
+    "myetherwaillet.com",
+    "myetherwalllet.com",
+    "myetherweb.com.de",
+    "myethetwallet.com",
+    "myethewallet.com",
+    "myÄ—therwallet.com",
+    "myelherwallel.com",
+    "mvetherwallet.com",
+    "myethewallet.net",
+    "myetherwillet.com",
+    "myetherwallel.com",
+    "myeltherwallet.com",
+    "myelherwallet.com",
+    "wwwmyetherwallet.com",
+    "myethermwallet.com",
   ])
 
   // etc...
