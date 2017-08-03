@@ -2,7 +2,7 @@ const test = require('tape')
 const PhishingDetector = require('../src/detector')
 const config = require('../src/config.json')
 const alexaTopSites = require('./alexa.json')
-
+const popularDapps = require('./dapps.json')
 const detector = new PhishingDetector(config)
 
 
@@ -24,6 +24,8 @@ test('basic test', (t) => {
   testWhitelist(t, [
     'ledgerwallet.com',
     'metamask.io',
+    'etherscan.io',
+    'ethereum.org',
     // whitelist subdomains
     'www.metamask.io',
     'faucet.metamask.io',
@@ -42,12 +44,10 @@ test('basic test', (t) => {
     'myetherwallet.z',
   ])
 
-  // no match
+  // not detected as phishing
 
-  testNoMatch(t, [
+  testAnyType(t, false, [
     'example.com',
-    'etherscan.io',
-    'ethereum.org',
     'etherid.org',
     'ether.cards',
     'easyeth.com',
@@ -58,12 +58,25 @@ test('basic test', (t) => {
     'myetherwallet.groovehq.com',
   ])
 
+  // etc...
+
+  testNoMatch(t, [
+    'MetaMask',
+    'localhost',
+    'bancor',
+    '127.0.0.1',
+  ])
+
   t.end()
 })
 
 test('alexa top sites', (t) => {
-  // alexa top sites
   testAnyType(t, false, alexaTopSites)
+  t.end()
+})
+
+test('popular dapps', (t) => {
+  testAnyType(t, false, popularDapps)
   t.end()
 })
 
