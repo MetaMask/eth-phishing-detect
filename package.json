@@ -1,12 +1,12 @@
 {
   "name": "eth-phishing-detect",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Utility for detecting phishing domains targeting Ethereum users",
+  "main": "src/index.js",
   "scripts": {
     "test": "node test"
   },
-  "author": "",
+  "author": "kumavis",
   "license": "ISC",
   "dependencies": {
     "fast-levenshtein": "^2.0.6"
