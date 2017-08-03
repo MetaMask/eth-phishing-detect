@@ -16,7 +16,7 @@ console.log(value) // true
 ```js
 const PhishingDetector = require('eth-phishing-detect/src/detector')
 
-const detector = new PhishingDetector({ whitelist, blacklist, tolerance })
+const detector = new PhishingDetector({ whitelist, blacklist, fuzzylist, tolerance })
 const value = detector.check('etherclassicwallet.com')
 console.log(value)
 /*

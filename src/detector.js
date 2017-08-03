@@ -1,11 +1,12 @@
 const levenshtein = require('fast-levenshtein')
-const DEFAULT_TOLERANCE = 4
+const DEFAULT_TOLERANCE = 3
 
 class PhishingDetector {
 
   constructor (opts) {
-    this.blacklist = processDomainList(opts.blacklist || [])
     this.whitelist = processDomainList(opts.whitelist || [])
+    this.blacklist = processDomainList(opts.blacklist || [])
+    this.fuzzylist = processDomainList(opts.fuzzylist || [])
     this.tolerance = ('tolerance' in opts) ? opts.tolerance : DEFAULT_TOLERANCE
   }
 
@@ -22,7 +23,7 @@ class PhishingDetector {
 
     // check if near-match of whitelist domain, FAIL
     const fuzzyForm = domainPartsToFuzzyForm(source)
-    const levenshteinMatched = this.whitelist.find((targetParts) => {
+    const levenshteinMatched = this.fuzzylist.find((targetParts) => {
       const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
       const distance = levenshtein.get(fuzzyForm, fuzzyTarget)
       return distance <= this.tolerance

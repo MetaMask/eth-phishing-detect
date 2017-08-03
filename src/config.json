@@ -1,10 +1,21 @@
 {
+  "tolerance": 3,
+  "fuzzylist": [
+    "ethereum.org",
+    "metamask.io",
+    "myetherwallet.com"
+  ],
   "whitelist": [
+    "ethereum.org",
     "metamask.io",
     "myetherwallet.com",
     "myetheroll.com",
     "myetherapi.com",
-    "ledgerwallet.com"
+    "ledgerwallet.com",
+    "etherscan.io",
+    "etherid.org",
+    "ether.cards",
+    "etheroll.com"
   ],
   "blacklist": [
     "wallet-ethereum.net",
