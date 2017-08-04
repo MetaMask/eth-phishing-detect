@@ -27,7 +27,9 @@
     "ethereal.capital",
     "etherisc.com",
     "m.famalk.net",
-    "etherecho.com"
+    "etherecho.com",
+    "ethereum.os.tc",
+    "theethereum.wiki"
   ],
   "blacklist": [
     "wallet-ethereum.net",
@@ -77,6 +79,7 @@
     "tenx-tech.com",
     "tokensale-tenx.tech",
     "ubiqcoin.org",
-    "metamask.com"
+    "metamask.com",
+    "ethtrade.io"
   ]
 }

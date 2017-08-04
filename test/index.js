@@ -61,10 +61,20 @@ test("basic test", (t) => {
     "ethereumdev.io",
     "ethereumdev.kr",
     "etherplan.com",
+    "etherplay.io",
+    "ethtrade.org",
+    "ethereumpool.co",
+    "estream.to",
+    "ethereum.os.tc",
+    "theethereum.wiki",
+    "taas.fund",
   ])
 
   // do detect as phishing
   testAnyType(t, true, [
+    "ethtrade.io",
+    "myetherwallèt.com",
+    "myetherwallet.cm",
     "myethervvallet.com",
     "metherwallet.com",
     "mtetherwallet.com",
