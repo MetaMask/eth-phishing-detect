@@ -68,6 +68,10 @@ test("basic test", (t) => {
     "ethereum.os.tc",
     "theethereum.wiki",
     "taas.fund",
+    "tether.to",
+    "ether.direct",
+    "themem.io",
+    "metajack.im",
   ])
 
   // do detect as phishing

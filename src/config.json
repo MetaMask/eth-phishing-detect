@@ -1,5 +1,5 @@
 {
-  "tolerance": 3,
+  "tolerance": 2,
   "fuzzylist": [
     "ethereum.org",
     "metamask.io",
@@ -29,7 +29,8 @@
     "m.famalk.net",
     "etherecho.com",
     "ethereum.os.tc",
-    "theethereum.wiki"
+    "theethereum.wiki",
+    "metajack.im"
   ],
   "blacklist": [
     "wallet-ethereum.net",
@@ -80,6 +81,8 @@
     "tokensale-tenx.tech",
     "ubiqcoin.org",
     "metamask.com",
-    "ethtrade.io"
+    "ethtrade.io",
+    "myetcwallet.com",
+    "wwwmyetherwallet.com"
   ]
 }
