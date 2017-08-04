@@ -53,6 +53,8 @@ test('basic test', (t) => {
     'cryptocompare.com',
     'kraken.com',
     'myetherwallet.groovehq.com',
+    "ethereumdev.kr",
+    "dether.io",
   ])
 
   // do detect as phishing
