@@ -1,5 +1,5 @@
 {
-  "tolerance": 4,
+  "tolerance": 3,
   "fuzzylist": [
     "ethereum.org",
     "metamask.io",
@@ -18,8 +18,11 @@
     "etheroll.com",
     "ethnews.com",
     "ethex.market",
+    "ethereumdev.io",
     "ethereumdev.kr",
-    "dether.io"
+    "dether.io",
+    "ethermine.org",
+    "slaask.com"
   ],
   "blacklist": [
     "wallet-ethereum.net",
@@ -49,6 +52,7 @@
     "ethereumchamber.net",
     "ethereumchest.com",
     "myetherweb.com.de",
+    "myetherieumwallet.com",
     "myethervallet.com",
     "myetherwallet.com.gl",
     "myetherwallet.com.ua",

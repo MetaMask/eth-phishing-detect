@@ -41,7 +41,7 @@ test("basic test", (t) => {
     "myetherwallet.z",
   ])
 
-  // not detected as phishing
+  // do NOT detected as phishing
 
   testAnyType(t, false, [
     "example.com",
@@ -53,8 +53,11 @@ test("basic test", (t) => {
     "cryptocompare.com",
     "kraken.com",
     "myetherwallet.groovehq.com",
-    "ethereumdev.kr",
     "dether.io",
+    "ethermine.org",
+    "slaask.com",
+    "ethereumdev.io",
+    "ethereumdev.kr",
   ])
 
   // do detect as phishing
