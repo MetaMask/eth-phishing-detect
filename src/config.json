@@ -31,7 +31,10 @@
     "etherecho.com",
     "ethereum.os.tc",
     "theethereum.wiki",
-    "metajack.im"
+    "metajack.im",
+    "etherhub.io",
+    "ethereum.network",
+    "ethereum.link"
   ],
   "blacklist": [
     "wallet-ethereum.net",
@@ -75,6 +78,23 @@
     "xn--myetherwallt-yeb.com",
     "secure-myetherwallet.com",
     "update-myetherwallet.com",
+    "wwwmyetherwallet.com",
+    "myelherwallel.com",
+    "myetherwaillet.com",
+    "myetherwaliet.com",
+    "myetherwallel.com",
+    "myetherwallet.cam",
+    "myetherwallet.cc",
+    "myetherwallet.co",
+    "myetherwallét.com",
+    "myetherwallèt.com",
+    "myėtherwallet.com",
+    "myetherwallet.cm",
+    "myetherwallet.cz",
+    "myetherwallet.org",
+    "myetherwallet.tech",
+    "myetherwallet.top",
+    "myetherwallet.net",
     "etherclassicwallet.com",
     "omg-omise.co",
     "omise-go.com",
@@ -83,7 +103,6 @@
     "ubiqcoin.org",
     "metamask.com",
     "ethtrade.io",
-    "myetcwallet.com",
-    "wwwmyetherwallet.com"
+    "myetcwallet.com"
   ]
 }

@@ -12,6 +12,7 @@
     "fast-levenshtein": "^2.0.6"
   },
   "devDependencies": {
+    "csv-parse": "^1.2.1",
     "tape": "^4.8.0"
   }
 }

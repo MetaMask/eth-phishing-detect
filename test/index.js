@@ -1,10 +1,23 @@
+const fs = require("fs")
 const test = require("tape")
+const parseCsv = require("csv-parse/lib/sync")
 const PhishingDetector = require("../src/detector")
 const config = require("../src/config.json")
 const alexaTopSites = require("./alexa.json")
 const popularDapps = require("./dapps.json")
 const ealWhitelist = require("./ealWhitelist.json")
 const ealBlacklist = require("./ealBlacklist.json")
+
+// extract hits from Google Analytics data from metamask.io phishing warning
+// fetch from https://analytics.google.com/analytics/web/#my-reports/N6OapMZATf-zAzHjpa9Wcw/a37075177w102798190p106879314/%3F_u.dateOption%3Dlast7days%26454-table.plotKeys%3D%5B%5D%26454-table.rowStart%3D0%26454-table.rowCount%3D250/
+const rawCsv = fs.readFileSync(__dirname + '/metamaskGaq.csv', 'utf8')
+const metamaskGaq = parseCsv(rawCsv, {
+  skip_empty_lines: true,
+  comment: '#',
+  columns: true,
+}).map(row => row.Source)
+
+
 const detector = new PhishingDetector(config)
 
 
@@ -74,6 +87,7 @@ test("basic test", (t) => {
     "metajack.im",
     "mestatalsl.biz",
     "thregg.com",
+    "steem.io",
   ])
 
   // do detect as phishing
@@ -147,6 +161,19 @@ test("eal whitelist", (t) => {
 
 test("eal blacklist", (t) => {
   testAnyType(t, true, ealBlacklist.filter((domain) => !domain.includes('/')))
+  t.end()
+})
+
+// make sure all metamask phishing hits are explicitly blacklisted
+test("metamask gaq", (t) => {
+  metamaskGaq.forEach((domain) => {
+    const value = detector.check(domain)
+    // enforcing type is optional
+    if (value.type === 'all') {
+      t.comment(`"${domain}" was NOT identified as phishing`)
+    }
+    t.notEqual(value.type, 'fuzzy', `MetaMask Gaq result: "${domain}" should NOT be "fuzzy"`)
+  })
   t.end()
 })
 
