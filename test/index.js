@@ -72,6 +72,8 @@ test("basic test", (t) => {
     "ether.direct",
     "themem.io",
     "metajack.im",
+    "mestatalsl.biz",
+    "thregg.com",
   ])
 
   // do detect as phishing
