@@ -1,58 +1,58 @@
-const test = require('tape')
-const PhishingDetector = require('../src/detector')
-const config = require('../src/config.json')
-const alexaTopSites = require('./alexa.json')
-const popularDapps = require('./dapps.json')
+const test = require("tape")
+const PhishingDetector = require("../src/detector")
+const config = require("../src/config.json")
+const alexaTopSites = require("./alexa.json")
+const popularDapps = require("./dapps.json")
 const detector = new PhishingDetector(config)
 
 
-test('basic test', (t) => {
+test("basic test", (t) => {
 
   // blacklist
 
   testBlacklist(t, [
-    'metamask.com',
-    'wallet-ethereum.net',
-    'etherclassicwallet.com',
+    "metamask.com",
+    "wallet-ethereum.net",
+    "etherclassicwallet.com",
   ])
 
   // whitelist
 
   testWhitelist(t, [
-    'ledgerwallet.com',
-    'metamask.io',
-    'etherscan.io',
-    'ethereum.org',
+    "ledgerwallet.com",
+    "metamask.io",
+    "etherscan.io",
+    "ethereum.org",
     // whitelist subdomains
-    'www.metamask.io',
-    'faucet.metamask.io',
-    'zero.metamask.io',
-    'zero-faucet.metamask.io',
-    'www.myetherwallet.com',
+    "www.metamask.io",
+    "faucet.metamask.io",
+    "zero.metamask.io",
+    "zero-faucet.metamask.io",
+    "www.myetherwallet.com",
   ])
 
   // fuzzy
 
   testFuzzylist(t, [
-    'metmask.io',
-    'myetherwallet.cx',
-    'myetherwallet.aaa',
-    'myetherwallet.za',
-    'myetherwallet.z',
+    "metmask.io",
+    "myetherwallet.cx",
+    "myetherwallet.aaa",
+    "myetherwallet.za",
+    "myetherwallet.z",
   ])
 
   // not detected as phishing
 
   testAnyType(t, false, [
-    'example.com',
-    'etherid.org',
-    'ether.cards',
-    'easyeth.com',
-    'etherdomain.com',
-    'ethnews.com',
-    'cryptocompare.com',
-    'kraken.com',
-    'myetherwallet.groovehq.com',
+    "example.com",
+    "etherid.org",
+    "ether.cards",
+    "easyeth.com",
+    "etherdomain.com",
+    "ethnews.com",
+    "cryptocompare.com",
+    "kraken.com",
+    "myetherwallet.groovehq.com",
     "ethereumdev.kr",
     "dether.io",
   ])
@@ -99,21 +99,21 @@ test('basic test', (t) => {
   // etc...
 
   testNoMatch(t, [
-    'MetaMask',
-    'localhost',
-    'bancor',
-    '127.0.0.1',
+    "MetaMask",
+    "localhost",
+    "bancor",
+    "127.0.0.1",
   ])
 
   t.end()
 })
 
-test('alexa top sites', (t) => {
+test("alexa top sites", (t) => {
   testAnyType(t, false, alexaTopSites)
   t.end()
 })
 
-test('popular dapps', (t) => {
+test("popular dapps", (t) => {
   testAnyType(t, false, popularDapps)
   t.end()
 })
@@ -123,7 +123,7 @@ function testBlacklist(t, domains) {
   domains.forEach((domain) => {
     testDomain(t, {
       domain: domain,
-      type: 'blacklist',
+      type: "blacklist",
       expected: true,
     })
   })
@@ -133,7 +133,7 @@ function testWhitelist(t, domains) {
   domains.forEach((domain) => {
     testDomain(t, {
       domain: domain,
-      type: 'whitelist',
+      type: "whitelist",
       expected: false,
     })
   })
@@ -143,7 +143,7 @@ function testFuzzylist(t, domains) {
   domains.forEach((domain) => {
     testDomain(t, {
       domain: domain,
-      type: 'fuzzy',
+      type: "fuzzy",
       expected: true,
     })
   })
@@ -153,7 +153,7 @@ function testNoMatch(t, domains) {
   domains.forEach((domain) => {
     testDomain(t, {
       domain: domain,
-      type: 'all',
+      type: "all",
       expected: false,
     })
   })
@@ -171,7 +171,7 @@ function testAnyType(t, expected, domains) {
 function testDomain(t, { domain, type, expected }) {
   const value = detector.check(domain)
   // log fuzzy match for debugging
-  if (value.type === 'fuzzy') {
+  if (value.type === "fuzzy") {
     t.comment(`"${domain}" fuzzy matches against "${value.match}"`)
   }
   // enforcing type is optional
