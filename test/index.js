@@ -60,6 +60,7 @@ test("basic test", (t) => {
     "slaask.com",
     "ethereumdev.io",
     "ethereumdev.kr",
+    "etherplan.com",
   ])
 
   // do detect as phishing
