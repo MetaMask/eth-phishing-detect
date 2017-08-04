@@ -21,19 +21,21 @@ class PhishingDetector {
     const blacklistMatch = matchPartsAgainstList(source, this.blacklist)
     if (blacklistMatch) return { type: 'blacklist', result: true }
 
-    // check if near-match of whitelist domain, FAIL
-    let fuzzyForm = domainPartsToFuzzyForm(source)
-    // strip www
-    fuzzyForm = fuzzyForm.replace('www.', '')
-    // check against fuzzylist
-    const levenshteinMatched = this.fuzzylist.find((targetParts) => {
-      const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
-      const distance = levenshtein.get(fuzzyForm, fuzzyTarget)
-      return distance <= this.tolerance
-    })
-    if (levenshteinMatched) {
-      const match = domainPartsToDomain(levenshteinMatched)
-      return { type: 'fuzzy', result: true, match }
+    if (this.tolerance > 0) {
+      // check if near-match of whitelist domain, FAIL
+      let fuzzyForm = domainPartsToFuzzyForm(source)
+      // strip www
+      fuzzyForm = fuzzyForm.replace('www.', '')
+      // check against fuzzylist
+      const levenshteinMatched = this.fuzzylist.find((targetParts) => {
+        const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
+        const distance = levenshtein.get(fuzzyForm, fuzzyTarget)
+        return distance <= this.tolerance
+      })
+      if (levenshteinMatched) {
+        const match = domainPartsToDomain(levenshteinMatched)
+        return { type: 'fuzzy', result: true, match }
+      }
     }
 
     // matched nothing, PASS
