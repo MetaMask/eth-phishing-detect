@@ -22,7 +22,10 @@ class PhishingDetector {
     if (blacklistMatch) return { type: 'blacklist', result: true }
 
     // check if near-match of whitelist domain, FAIL
-    const fuzzyForm = domainPartsToFuzzyForm(source)
+    let fuzzyForm = domainPartsToFuzzyForm(source)
+    // strip www
+    fuzzyForm = fuzzyForm.replace('www.', '')
+    // check against fuzzylist
     const levenshteinMatched = this.fuzzylist.find((targetParts) => {
       const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
       const distance = levenshtein.get(fuzzyForm, fuzzyTarget)

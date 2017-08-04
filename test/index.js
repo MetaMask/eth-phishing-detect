@@ -3,6 +3,8 @@ const PhishingDetector = require("../src/detector")
 const config = require("../src/config.json")
 const alexaTopSites = require("./alexa.json")
 const popularDapps = require("./dapps.json")
+const ealWhitelist = require("./ealWhitelist.json")
+const ealBlacklist = require("./ealBlacklist.json")
 const detector = new PhishingDetector(config)
 
 
@@ -118,6 +120,16 @@ test("alexa top sites", (t) => {
 
 test("popular dapps", (t) => {
   testAnyType(t, false, popularDapps)
+  t.end()
+})
+
+test("eal whitelist", (t) => {
+  testAnyType(t, false, ealWhitelist)
+  t.end()
+})
+
+test("eal blacklist", (t) => {
+  testAnyType(t, true, ealBlacklist.filter((domain) => !domain.includes('/')))
   t.end()
 })
 
