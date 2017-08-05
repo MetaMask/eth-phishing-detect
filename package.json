@@ -4,7 +4,7 @@
   "description": "Utility for detecting phishing domains targeting Ethereum users",
   "main": "src/index.js",
   "scripts": {
-    "test": "node test"
+    "test": "node test | tap-summary"
   },
   "author": "kumavis",
   "license": "ISC",
@@ -12,7 +12,11 @@
     "fast-levenshtein": "^2.0.6"
   },
   "devDependencies": {
+    "async": "^2.5.0",
     "csv-parse": "^1.2.1",
+    "needle": "^1.6.0",
+    "punycode": "^2.1.0",
+    "tap-summary": "^3.0.2",
     "tape": "^4.8.0"
   }
 }
