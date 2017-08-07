@@ -118,6 +118,7 @@ function startTests () {
 
     // DO INDEED detect as phishing
     testAnyType(t, true, [
+      "tokenswap.org",
       "ethtrade.io",
       "myetherwallèt.com",
       "myetherwallet.cm",
