@@ -80,7 +80,7 @@ function startTests () {
       "myetherwallet.z",
     ])
 
-    // do NOT detected as phishing
+    // DO NOT detected as phishing
 
     testAnyType(t, false, [
       "example.com",
@@ -112,9 +112,11 @@ function startTests () {
       "mestatalsl.biz",
       "thregg.com",
       "steem.io",
+      "ethereum1.cz",
+      "metalab.co",
     ])
 
-    // do detect as phishing
+    // DO INDEED detect as phishing
     testAnyType(t, true, [
       "ethtrade.io",
       "myetherwallèt.com",
