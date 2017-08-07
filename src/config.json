@@ -2,14 +2,13 @@
   "version": 2,
   "tolerance": 2,
   "fuzzylist": [
-    "ethereum.org",
     "metamask.io",
     "myetherwallet.com"
   ],
   "whitelist": [
-    "ethereum.org",
     "metamask.io",
     "myetherwallet.com",
+    "ethereum.org",
     "myetheroll.com",
     "myetherapi.com",
     "ledgerwallet.com",
@@ -42,10 +41,13 @@
     "ethereum.dev",
     "1ethereum.ru",
     "ethereum.nz",
-    "nethereum.com"
+    "nethereum.com",
+    "metabank.com",
+    "metamas.com"
   ],
   "blacklist": [
     "netherum.com",
+    "etherexx.org",
     "etherume.io",
     "ethereum.plus",
     "ehtereum.org",
@@ -55,6 +57,7 @@
     "ethereum.io",
     "etherwallet.online",
     "wallet-ethereum.net",
+    "bitsdigit.com",
     "etherswap.org",
     "eos.ac",
     "uasfwallet.com",

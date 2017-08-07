@@ -1,28 +1,30 @@
 # ----------------------------------------
 # All Web Site Data
 # Phishing
-# 20170706-20170804
+# 20170707-20170805
 # ----------------------------------------
 
 Landing Page,Source,Sessions
-/phishing.html,ethermine.org,"1,651"
+/phishing.html,ethermine.org,"1,676"
 /phishing.html,ethtrade.org,185
-/phishing.html,ethereumpool.co,71
-/phishing.html,theethereum.wiki,66
-/phishing.html,ziber.io,64
-/phishing.html,ethtrade.io,60
-/phishing.html,estream.to,56
-/phishing.html,ethereum.os.tc,54
+/phishing.html,ziber.io,111
+/phishing.html,ethereumpool.co,72
+/phishing.html,theethereum.wiki,70
+/phishing.html,ethtrade.io,67
+/phishing.html,estream.to,57
+/phishing.html,ethereum.os.tc,55
 /phishing.html,taas.fund,54
 /phishing.html,tether.to,48
-/phishing.html,steem.io,34
-/phishing.html,myetherwallet.cm,25
-/phishing.html,myetherwallèt.com,24
-/phishing.html,dether.io,22
+/phishing.html,steem.io,37
+/phishing.html,etherexx.org,29
+/phishing.html,myetherwallet.cm,27
+/phishing.html,myetherwallèt.com,27
+/phishing.html,dether.io,25
 /phishing.html,mestatalsl.biz,22
 /phishing.html,theweek.com,22
+/phishing.html,my.ether-wallet.co,21
+/phishing.html,(direct),17
 /phishing.html,the.exa.website,17
-/phishing.html,(direct),15
 /phishing.html,stream.moe,13
 /phishing.html,etherhub.io,11
 /phishing.html,etherplan.com,11
@@ -31,26 +33,28 @@ Landing Page,Source,Sessions
 /phishing.html,ethereumdev.io,10
 /phishing.html,etherisc.com,10
 /phishing.html,steem.supply,10
+/phishing.html,themem.io,10
+/phishing.html,metalist.space,9
 /phishing.html,metrarail.com,9
 /phishing.html,thecrux.com,9
-/phishing.html,themem.io,9
 /phishing.html,betalist.com,8
 /phishing.html,ethereumdev.kr,8
 /phishing.html,google,8
-/phishing.html,metalist.space,8
+/phishing.html,tenx-tech.com,8
 /phishing.html,theamm.org,8
 /phishing.html,ether.direct,7
 /phishing.html,etherbtc.io,7
 /phishing.html,etherplay.io,7
 /phishing.html,meta.ua,7
+/phishing.html,myetherwallet.org,7
 /phishing.html,omise-go.com,7
-/phishing.html,tenx-tech.com,7
+/phishing.html,prethereum.org,7
 /phishing.html,tether.io,7
 /phishing.html,athemes.com,6
+/phishing.html,coin-wallet.info,6
 /phishing.html,ethermine.ru,6
+/phishing.html,metamask.com,6
 /phishing.html,myėtherwallet.com,6
-/phishing.html,myetherwallet.org,6
-/phishing.html,prethereum.org,6
 /phishing.html,steem.cool,6
 /phishing.html,ethereum.link,5
 /phishing.html,ethers.io,5
@@ -61,7 +65,6 @@ Landing Page,Source,Sessions
 /phishing.html,maas.museum,5
 /phishing.html,mediamart.vn,5
 /phishing.html,megatest.online,5
-/phishing.html,my.ether-wallet.co,5
 /phishing.html,tamasha.com,5
 /phishing.html,theme.co,5
 /phishing.html,thetamail.ru,5
@@ -70,15 +73,17 @@ Landing Page,Source,Sessions
 /phishing.html,m.famtalk.net,4
 /phishing.html,multiply-ethereum.info,4
 /phishing.html,mxtads.com,4
+/phishing.html,myetharwallet.com,4
 /phishing.html,myetherwaillet.com,4
 /phishing.html,thehun.net,4
 /phishing.html,arzamas.academy,3
 /phishing.html,dotamax.net,3
 /phishing.html,etherdice.io,3
+/phishing.html,ethereum-wallet.net,3
 /phishing.html,mamahd.com,3
 /phishing.html,megamp4.net,3
+/phishing.html,metabank.com,3
 /phishing.html,metalpay.chat,3
-/phishing.html,metamask.com,3
 /phishing.html,myelherwallel.com,3
 /phishing.html,myethervvalet.com,3
 /phishing.html,myetherwallet.com.cm,3
@@ -87,7 +92,6 @@ Landing Page,Source,Sessions
 /phishing.html,webtask.io,3
 /phishing.html,bitherium.kr,2
 /phishing.html,btctask.net,2
-/phishing.html,coin-wallet.info,2
 /phishing.html,emark.space,2
 /phishing.html,ethcast.com,2
 /phishing.html,etheraus.com,2
@@ -113,7 +117,8 @@ Landing Page,Source,Sessions
 /phishing.html,minereum.com,2
 /phishing.html,myams.org,2
 /phishing.html,myeatherwallet.com,2
-/phishing.html,myetharwallet.com,2
+/phishing.html,myetherwallet.cam,2
+/phishing.html,myetherwallet.co,2
 /phishing.html,myetherwallet.com.gl,2
 /phishing.html,myetherwallet.top,2
 /phishing.html,netease.im,2
@@ -141,6 +146,7 @@ Landing Page,Source,Sessions
 /phishing.html,esteem.ws,1
 /phishing.html,etereurm.org,1
 /phishing.html,eternell.net,1
+/phishing.html,eternum.io,1
 /phishing.html,eth3r.co,1
 /phishing.html,ethalert.com,1
 /phishing.html,ether-api.com,1
@@ -149,17 +155,20 @@ Landing Page,Source,Sessions
 /phishing.html,ethereal.capital,1
 /phishing.html,etheream.com,1
 /phishing.html,ethererum.org,1
-/phishing.html,ethereum-wallet.net,1
 /phishing.html,ethereum.io,1
+/phishing.html,ethereum.nyc,1
 /phishing.html,ethereum.nz,1
+/phishing.html,ethereum.pl,1
 /phishing.html,ethereum.plus,1
 /phishing.html,ethereum101.org,1
 /phishing.html,ethereumfaq.org,1
 /phishing.html,ethereumpool.com,1
 /phishing.html,etheria.world,1
 /phishing.html,etherian.world,1
+/phishing.html,etherium.org,1
 /phishing.html,etheriya.com,1
 /phishing.html,ethermine.com,1
+/phishing.html,ethernut.de,1
 /phishing.html,etheroll.io,1
 /phishing.html,etherpad.org,1
 /phishing.html,etherpunks.com,1
@@ -167,6 +176,7 @@ Landing Page,Source,Sessions
 /phishing.html,etherswap.org,1
 /phishing.html,etherume.io,1
 /phishing.html,ethident.com,1
+/phishing.html,ethreum.org,1
 /phishing.html,ethteam.com,1
 /phishing.html,ethtrade.biz,1
 /phishing.html,ethtrade.com,1
@@ -200,6 +210,7 @@ Landing Page,Source,Sessions
 /phishing.html,meta.vn,1
 /phishing.html,metajack.im,1
 /phishing.html,metaline.it,1
+/phishing.html,metamas.com,1
 /phishing.html,metaphy.org,1
 /phishing.html,metapicz.com,1
 /phishing.html,metax.io,1
@@ -209,10 +220,8 @@ Landing Page,Source,Sessions
 /phishing.html,my.avast.com,1
 /phishing.html,myetherwaliet.com,1
 /phishing.html,myetherwallel.com,1
-/phishing.html,myetherwallet.cam,1
 /phishing.html,myetherwallet.cc,1
 /phishing.html,myetherwallet.ch,1
-/phishing.html,myetherwallet.co,1
 /phishing.html,myetherwallét.com,1
 /phishing.html,myetherwallet.cz,1
 /phishing.html,myetherwallet.tech,1
@@ -234,5 +243,6 @@ Landing Page,Source,Sessions
 /phishing.html,thereset.com,1
 /phishing.html,thregg.com,1
 /phishing.html,vedmak.biz,1
+/phishing.html,vrethereum.com,1
 /phishing.html,wheremy.com,1
 /phishing.html,whereto.info,1
