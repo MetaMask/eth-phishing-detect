@@ -43,9 +43,11 @@
     "ethereum.nz",
     "nethereum.com",
     "metabank.com",
-    "metamas.com"
+    "metamas.com",
+    "metabase.com"
   ],
   "blacklist": [
+    "mettamask.io",
     "tokenswap.org",
     "netherum.com",
     "etherexx.org",
@@ -85,7 +87,12 @@
     "ethereumchest.com",
     "myetherweb.com.de",
     "myetherieumwallet.com",
+    "myetehrwallet.com",
+    "myeterwalet.com",
+    "myetherwaiiet.com",
+    "myetherwallet.info",
     "myetherwallet.ch",
+    "myetherwallet.om",
     "myethervallet.com",
     "myetherwallet.com.cm",
     "myetherwallet.com.co",
