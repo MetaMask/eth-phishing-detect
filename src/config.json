@@ -47,6 +47,7 @@
     "metabase.com"
   ],
   "blacklist": [
+    "myetherwallet.com.ethpromonodes.com",
     "mettamask.io",
     "tokenswap.org",
     "netherum.com",
