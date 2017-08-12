@@ -118,6 +118,7 @@ function startTests () {
 
     // DO INDEED detect as phishing
     testAnyType(t, true, [
+      "decentraiand.org",
       "myetherwallet.com.ethpromonodes.com",
       "blockcrein.info",
       "blockchealn.info",
