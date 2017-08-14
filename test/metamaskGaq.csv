@@ -1,27 +1,23 @@
 # ----------------------------------------
 # All Web Site Data
 # Phishing Traffic
-# 20170711-20170809
+# 20170715-20170813
 # ----------------------------------------
 
 Landing Page,Source,Sessions,Pages / Session,Avg. Session Duration,% New Sessions,Bounce Rate
-/phishing.html,ethermine.org,"1,726",2.51,00:05:13,16.63%,61.88%
-/phishing.html,ziber.io,268,1.41,00:00:47,24.63%,76.87%
-/phishing.html,ethtrade.org,186,1.80,00:01:35,19.35%,55.38%
+/phishing.html,ethermine.org,"1,745",2.49,00:05:10,16.45%,62.18%
+/phishing.html,ziber.io,366,1.42,00:00:43,22.13%,76.23%
+/phishing.html,omise-go.com,277,1.34,00:00:30,36.46%,80.51%
+/phishing.html,ethtrade.org,187,1.80,00:01:35,19.25%,55.61%
+/phishing.html,etherexx.org,116,1.30,00:00:23,38.79%,85.34%
 /phishing.html,ethtrade.io,100,1.53,00:00:47,20.00%,71.00%
-/phishing.html,etherexx.org,87,1.32,00:00:17,44.83%,86.21%
-/phishing.html,theethereum.wiki,81,1.26,00:01:01,29.63%,83.95%
-/phishing.html,omise-go.com,80,1.36,00:00:20,36.25%,80.00%
-/phishing.html,ethereumpool.co,79,1.51,00:01:37,12.66%,77.22%
-/phishing.html,estream.to,57,1.49,00:00:29,28.07%,73.68%
-/phishing.html,taas.fund,57,1.95,00:01:09,45.61%,43.86%
-,,"3,830",1.95,00:02:54,23.58%,68.22%
+/phishing.html,theethereum.wiki,85,1.25,00:00:59,28.24%,84.71%
+/phishing.html,ethereumpool.co,81,1.49,00:01:35,12.35%,77.78%
+/phishing.html,bitsdigit.com,75,1.36,00:00:33,25.33%,80.00%
+/phishing.html,my.ether-wallet.co,70,1.17,00:00:27,20.00%,85.71%
+,,"4,557",1.84,00:02:31,23.70%,70.64%
 
 Day Index,Sessions
-7/11/17,0
-7/12/17,0
-7/13/17,0
-7/14/17,0
 7/15/17,0
 7/16/17,0
 7/17/17,0
@@ -48,4 +44,8 @@ Day Index,Sessions
 8/7/17,142
 8/8/17,188
 8/9/17,135
-,"3,830"
+8/10/17,203
+8/11/17,179
+8/12/17,166
+8/13/17,179
+,"4,557"
