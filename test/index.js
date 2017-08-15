@@ -118,6 +118,8 @@ function startTests () {
 
     // DO INDEED detect as phishing
     testAnyType(t, true, [
+      "omise-go.com",
+      "omise-go.net",
       "numerai.tech",
       "decentraiand.org",
       "myetherwallet.com.ethpromonodes.com",
