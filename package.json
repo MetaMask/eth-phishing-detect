@@ -18,5 +18,16 @@
     "punycode": "^2.1.0",
     "tap-summary": "^3.0.2",
     "tape": "^4.8.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaMask/eth-phishing-detect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MetaMask/eth-phishing-detect/issues"
+  },
+  "homepage": "https://github.com/MetaMask/eth-phishing-detect#readme"
 }
