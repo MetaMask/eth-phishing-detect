@@ -166,6 +166,8 @@ function startTests () {
       "myelherwallet.com",
       "wwwmyetherwallet.com",
       "myethermwallet.com",
+      "myeth4rwallet.com",
+      "myethterwallet.com",
     ])
 
     // etc...
