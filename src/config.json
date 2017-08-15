@@ -47,6 +47,8 @@
     "metabase.com"
   ],
   "blacklist": [
+    "0xproject.io",
+    "0xtoken.com",
     "numerai.tech",
     "decentraiand.org",
     "blockcrein.info",
