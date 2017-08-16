@@ -47,6 +47,8 @@
     "metabase.com"
   ],
   "blacklist": [
+    "unocoin.company",
+    "unocoin.fund",
     "0xproject.io",
     "0xtoken.com",
     "numerai.tech",
