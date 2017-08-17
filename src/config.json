@@ -47,6 +47,7 @@
     "metabase.com"
   ],
   "blacklist": [
+    "bittrex.cam",
     "unocoin.company",
     "unocoin.fund",
     "0xproject.io",
