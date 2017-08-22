@@ -47,6 +47,9 @@
     "metabase.com"
   ],
   "blacklist": [
+    "decentraland.tech",
+    "decentraland.pro",
+    "status-token.com",
     "bittrex.cam",
     "enigmatoken.com",
     "unocoin.company",
@@ -107,6 +110,7 @@
     "ethereumchamber.com",
     "ethereumchamber.net",
     "ethereumchest.com",
+    "myetherwallet.com.u0387831.cp.regruhosting.ru",
     "myetherweb.com.de",
     "myetherieumwallet.com",
     "myetehrwallet.com",
