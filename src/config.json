@@ -47,6 +47,7 @@
     "metabase.com"
   ],
   "blacklist": [
+    "bittrex.cam",
     "enigmatoken.com",
     "unocoin.company",
     "unocoin.fund",
