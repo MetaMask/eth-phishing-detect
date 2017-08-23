@@ -13,6 +13,7 @@ const detector = new PhishingDetector(config)
 const metamaskGaq = loadMetamaskGaq()
 let mewBlacklist, mewWhitelist
 let ealBlacklist, ealWhitelist
+const remoteBlacklistException = ['bittreat.com']
 
 // load MEW blacklist
 mapValues({
@@ -27,6 +28,9 @@ mapValues({
   mewWhitelist = results.mewWhitelist.map(entry => entry.id).filter((domain) => !domain.includes('/')).map(punycode.toASCII)
   ealBlacklist = results.ealBlacklist.filter((domain) => !domain.includes('/')).map(punycode.toASCII)
   ealWhitelist = results.ealWhitelist.filter((domain) => !domain.includes('/')).map(punycode.toASCII)
+  // remove exceptions
+  mewBlacklist = mewBlacklist.filter((domain) => !domain.includes(remoteBlacklistException))
+  ealBlacklist = ealBlacklist.filter((domain) => !domain.includes(remoteBlacklistException))
   startTests()
 })
 
