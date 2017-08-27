@@ -47,6 +47,7 @@
     "metabase.com"
   ],
   "blacklist": [
+    "statustoken.im",
     "decentraland.tech",
     "decentraland.pro",
     "status-token.com",
