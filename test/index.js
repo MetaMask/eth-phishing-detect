@@ -17,8 +17,8 @@ const remoteBlacklistException = ['bittreat.com']
 
 // load MEW blacklist
 mapValues({
-  mewBlacklist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/urls-darklist.json',
-  mewWhitelist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/urls-lightlist.json',
+  mewBlacklist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/urls/urls-darklist.json',
+  mewWhitelist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/urls/urls-lightlist.json',
   ealWhitelist: 'https://raw.githubusercontent.com/409H/EtherAddressLookup/master/whitelists/domains.json',
   ealBlacklist: 'https://raw.githubusercontent.com/409H/EtherAddressLookup/master/blacklists/domains.json',
 }, (url, _, cb) => loadRemoteJson(url, cb), (err, results) => {
