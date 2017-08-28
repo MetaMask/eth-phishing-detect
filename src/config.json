@@ -47,6 +47,7 @@
     "metabase.com"
   ],
   "blacklist": [
+    "aragon.one",
     "decentraland.tech",
     "decentraland.pro",
     "status-token.com",
