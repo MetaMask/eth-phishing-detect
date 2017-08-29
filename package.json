@@ -4,7 +4,8 @@
   "description": "Utility for detecting phishing domains targeting Ethereum users",
   "main": "src/index.js",
   "scripts": {
-    "test": "node test | tap-summary"
+    "test": "node test | tap-summary",
+    "ci": "node test | tap-summary --no-progress"
   },
   "author": "kumavis",
   "license": "ISC",
