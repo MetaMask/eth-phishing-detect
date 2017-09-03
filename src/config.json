@@ -47,6 +47,7 @@
     "metabase.com"
   ],
   "blacklist": [
+    "dmarket.ltd",
     "etherdelta.gilthub.io",
     "golem-network.com",
     "etnerscan.io",
