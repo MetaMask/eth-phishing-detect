@@ -47,6 +47,7 @@
     "metabase.com"
   ],
   "blacklist": [
+    "etherdelta.githulb.io",
     "herotoken.co",
     "kinico.net",
     "dmarket.ltd",
