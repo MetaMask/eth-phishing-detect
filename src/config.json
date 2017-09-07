@@ -72,6 +72,8 @@
     "metabase.com"
   ],
   "blacklist": [
+    "omise-go.org",
+    "iconexus.social",
     "bittirrex.com",
     "aventus.pro",
     "atlant.solutions",
