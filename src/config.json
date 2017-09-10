@@ -74,6 +74,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "qtum-token.com",
     "omisego.com.co",
     "rivetzintl.org",
     "etherdelta.one",
