@@ -17,7 +17,7 @@
     "csv-parse": "^1.2.1",
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
-    "tap-summary": "^3.0.2",
+    "tap-summary": "^4.0.0",
     "tape": "^4.8.0"
   },
   "directories": {
