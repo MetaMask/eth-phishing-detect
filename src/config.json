@@ -6,6 +6,7 @@
     "myetherwallet.com"
   ],
   "whitelist": [
+    "ico.nexus.social",
     "metamesh.org",
     "metatask.io",
     "metmask.com",
@@ -74,6 +75,13 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "coindash.su",
+    "myethwallet.co.uk",
+    "swarm.credit",
+    "myethereumwallet.uk",
+    "iconexu.social",
+    "wanchain.co",
+    "enigrna.co",
     "linknetwork.co",
     "qtum-token.com",
     "omisego.com.co",
