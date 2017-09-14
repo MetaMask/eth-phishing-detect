@@ -75,6 +75,8 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "tokensale.kyber.digital",
+    "kyber.digital",
     "omise-go.me",
     "my.etherwallet.com.de",
     "bepartof.change-bank.co",
