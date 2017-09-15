@@ -75,6 +75,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "myetherwalletconfirm.com",
     "kvnuke.github.io",
     "kin.kikpro.co",
     "myethereumwallet.co.uk",
