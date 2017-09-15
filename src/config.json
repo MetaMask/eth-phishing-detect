@@ -75,6 +75,9 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "kin.kikpro.co",
+    "myethereumwallet.co.uk",
+    "tokensale-kyber.network",
     "kyber-network.co",
     "tokensale.kyber-network.co",
     "pyro0.github.io",
