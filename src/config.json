@@ -75,6 +75,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "myetherwalletcontract.com",
     "change-bank.io",
     "chainlink.tech",
     "myetherwallet-confirm.com",
