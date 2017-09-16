@@ -75,6 +75,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "chainlink.tech",
     "myetherwallet-confirm.com",
     "tokensale.kybernet.network",
     "kybernet.network",
