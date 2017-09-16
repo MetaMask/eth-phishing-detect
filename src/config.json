@@ -75,6 +75,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "change-bank.org",
     "charge-bank.com",
     "myetherwalletsingin.com",
     "myetherwalletcontract.com",
