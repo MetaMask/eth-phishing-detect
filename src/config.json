@@ -75,6 +75,11 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "0xtoken.io",
+    "augurproject.co",
+    "ethereumus.one",
+    "myetherumwalet.com",
+    "myetherwalletsignin.com",
     "change-bank.org",
     "charge-bank.com",
     "myetherwalletsingin.com",
