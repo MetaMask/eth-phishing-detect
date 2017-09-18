@@ -76,6 +76,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "smartcontractlink",
     "shapesshift.io",
     "0xtoken.io",
     "augurproject.co",
