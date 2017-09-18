@@ -76,6 +76,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "myetherwallet-singin.com",
     "smartcontractlink.com",
     "shapesshift.io",
     "0xtoken.io",
