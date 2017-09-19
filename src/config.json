@@ -76,6 +76,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "bitfienex.com",
     "iconn.foundation",
     "centra.vip",
     "smartcontract.live",
