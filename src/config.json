@@ -76,6 +76,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "myetherumwalletview.com",
     "coinrbase.com",
     "myetherwalletlogin.com",
     "omisegotoken.com",
