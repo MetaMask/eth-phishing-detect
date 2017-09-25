@@ -12,25 +12,19 @@ const popularDapps = require("./dapps.json")
 const detector = new PhishingDetector(config)
 const metamaskGaq = loadMetamaskGaq()
 let mewBlacklist, mewWhitelist
-let ealBlacklist, ealWhitelist
 const remoteBlacklistException = ['bittreat.com']
 
 // load MEW blacklist
 mapValues({
   mewBlacklist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/urls/urls-darklist.json',
   mewWhitelist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/urls/urls-lightlist.json',
-  ealWhitelist: 'https://raw.githubusercontent.com/409H/EtherAddressLookup/master/whitelists/domains.json',
-  ealBlacklist: 'https://raw.githubusercontent.com/409H/EtherAddressLookup/master/blacklists/domains.json',
 }, (url, _, cb) => loadRemoteJson(url, cb), (err, results) => {
   if (err) throw err
   // parse results
   mewBlacklist = results.mewBlacklist.map(entry => entry.id).filter((domain) => !domain.includes('/')).map(punycode.toASCII)
   mewWhitelist = results.mewWhitelist.map(entry => entry.id).filter((domain) => !domain.includes('/')).map(punycode.toASCII)
-  ealBlacklist = results.ealBlacklist.filter((domain) => !domain.includes('/')).map(punycode.toASCII)
-  ealWhitelist = results.ealWhitelist.filter((domain) => !domain.includes('/')).map(punycode.toASCII)
   // remove exceptions
   mewBlacklist = mewBlacklist.filter((domain) => !domain.includes(remoteBlacklistException))
-  ealBlacklist = ealBlacklist.filter((domain) => !domain.includes(remoteBlacklistException))
   startTests()
 })
 
@@ -194,14 +188,6 @@ function startTests () {
 
   test("popular dapps", (t) => {
     testAnyType(t, false, popularDapps)
-    t.end()
-  })
-
-  test("EAL lists", (t) => {
-    testListIsPunycode(t, ealWhitelist)
-    testListIsPunycode(t, ealBlacklist)
-    testAnyType(t, false, ealWhitelist)
-    testAnyType(t, true, ealBlacklist)
     t.end()
   })
 
