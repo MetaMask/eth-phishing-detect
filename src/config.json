@@ -76,6 +76,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "coinkbase.com",
     "cindicator.pro",
     "myetherwallet.com.ailogin.me",
     "eventchain.co",
