@@ -76,6 +76,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "real-markets.io",
     "wallet-ethereum.org",
     "request-network.com",
     "shapeshifth.io",
