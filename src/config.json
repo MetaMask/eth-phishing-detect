@@ -76,6 +76,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "wallet-ethereum.org",
     "request-network.com",
     "shapeshifth.io",
     "shiapeshift.in",
