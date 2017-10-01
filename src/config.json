@@ -77,6 +77,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "tenxwallet.io",
     "golem-network.net",
     "myyethwallet.ml",
     "mywetherwailiet.com",
