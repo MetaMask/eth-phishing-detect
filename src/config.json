@@ -77,6 +77,8 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "wanchain.network",
+    "nimiq.su",
     "enjincoin.sale",
     "tenxwallet.io",
     "golem-network.net",
