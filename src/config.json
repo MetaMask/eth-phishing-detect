@@ -77,6 +77,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "numerai-token.com",
     "www-bankera.com",
     "vvanchain.org",
     "omisegoairdrop.com",
