@@ -77,6 +77,11 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "launch.airswap.cc",
+    "airswap.cc",
+    "airswaptoken.com",
+    "launch.airswap.in",
+    "airswap.in",
     "security-steemit.com.mx",
     "blockchalnwallet.com",
     "blodkchainwallet.com",
