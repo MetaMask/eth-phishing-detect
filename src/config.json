@@ -77,6 +77,8 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "mymyetherwallet.com",
+    "myetherwallets.net",
     "myetherwalletverify.info",
     "stormxtoken.com",
     "myethereum-wallet.com",
