@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "async": "^2.5.0",
-    "csv-parse": "^1.2.1",
+    "csv-parse": "^2.0.0",
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
     "tap-summary": "^4.0.0",
