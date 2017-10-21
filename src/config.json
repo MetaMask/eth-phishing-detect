@@ -77,6 +77,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "stormtoken.cc",
     "raiden.online",
     "stormstoken.com",
     "myetereumwallet.com",
