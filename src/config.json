@@ -78,6 +78,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "block-v.io",
     "bittrex.cash",
     "shapishift.io",
     "ripiocerdit.network",
