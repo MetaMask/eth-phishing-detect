@@ -78,6 +78,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "stormtoken.site",
     "httpmyetherwallet.com",
     "myetherwalletverify.com",
     "byzantiumfork.com",
