@@ -78,6 +78,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "bittrex.cash",
     "shapishift.io",
     "ripiocerdit.network",
     "rnyetherwa11et.com",
