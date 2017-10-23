@@ -6,7 +6,7 @@
     "myetherwallet.com"
   ],
   "whitelist": [
-    "metamesh.tech", 
+    "metamesh.tech",
     "ico.nexus.social",
     "metamesh.org",
     "metatask.io",
@@ -78,6 +78,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "myetherwalletcnf.com",
     "myetherwalletver.com",
     "privatix.top",
     "privatix.pro",
