@@ -78,6 +78,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "myetherwallet.com.byzantiumfork.com",
     "www-myethervvallet.com",
     "ether24.info",
     "block-v.io",
