@@ -78,6 +78,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "httpmyetherwallet.com",
     "myetherwalletverify.com",
     "byzantiumfork.com",
     "myetherwallet.com.byzantiumfork.com",
