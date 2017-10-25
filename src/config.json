@@ -78,6 +78,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "reqest.network",
     "senstoken.com",
     "myetherwallat.services",
     "ripiocredit.net",
