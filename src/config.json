@@ -78,6 +78,8 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "hydrominer.biz",
+    "rdrblock.com",
     "reqest.network",
     "senstoken.com",
     "myetherwallat.services",
