@@ -78,6 +78,7 @@
     "etherdelta.com"
   ],
   "blacklist": [
+    "myetherwalletjson.com",
     "mettalpay.com",
     "bricklblock.io",
     "bittrexy.com",
