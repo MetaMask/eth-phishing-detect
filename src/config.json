@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "ether-delta.com",
     "ethconnect.live",
     "ethconnect.trade",
     "xn--bttrex-3va.net",
