@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "stormtokens.io",
     "ether-delta.com",
     "ethconnect.live",
     "ethconnect.trade",
