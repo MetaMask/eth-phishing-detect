@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "storntoken.com",
     "stromtoken.com",
     "storm-token.com",
     "stormtokens.io",
