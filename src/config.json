@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "stormltoken.com",
     "xn--quanttamp-42b.com",
     "stormtoken.co",
     "storntoken.com",
