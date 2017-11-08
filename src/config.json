@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "stormtoken.eu",
     "omise-go.tech",
     "saltending.com",
     "stormltoken.com",
