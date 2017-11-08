@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "omise-go.tech",
     "saltending.com",
     "stormltoken.com",
     "xn--quanttamp-42b.com",
