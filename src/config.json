@@ -79,6 +79,8 @@
     "metabase.one"
   ],
   "blacklist": [
+    "simpletoken.live",
+    "sale.simpletoken.live",
     "qauntstamp.com",
     "raiden-network.com",
     "metalpayme.com",
