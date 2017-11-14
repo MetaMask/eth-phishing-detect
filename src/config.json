@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "qauntstamp.com",
     "raiden-network.com",
     "metalpayme.com",
     "quantstamp-ico.com",
