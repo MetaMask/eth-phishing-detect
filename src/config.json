@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "spectre-ai.org",
     "powerledgr.com",
     "simpletoken.live",
     "sale.simpletoken.live",
