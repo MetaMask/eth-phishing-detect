@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "datum.sale",
     "spectre-ai.org",
     "powerledgr.com",
     "simpletoken.live",
