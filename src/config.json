@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "golemairdrop.com",
     "omisegoairdrop.net",
     "blodkchainwallet.info",
     "walton-chain.org",
