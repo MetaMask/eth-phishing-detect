@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "quantstamp-ico.com",
     "myetherwailetclient.com",
     "biockchain.biz",
     "wallets-blockchain.com",
