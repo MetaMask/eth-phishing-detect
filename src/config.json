@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "myetherwailetclient.com",
     "biockchain.biz",
     "wallets-blockchain.com",
     "golemairdrop.com",
