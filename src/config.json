@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "myetherwalletfork.com",
     "datum.sale",
     "spectre-ai.org",
     "powerledgr.com",
