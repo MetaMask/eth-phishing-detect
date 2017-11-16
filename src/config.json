@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "spectre.site",
     "tzero.pw",
     "spectre-ai.net",
     "xn--waxtokn-y8a.com",
