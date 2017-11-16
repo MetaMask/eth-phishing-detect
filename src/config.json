@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "blockstack.network",
     "ico-tzero.com",
     "spectre.site",
     "tzero.pw",
