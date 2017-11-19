@@ -79,6 +79,10 @@
     "metabase.one"
   ],
   "blacklist": [
+    "oracles-network.org",
+    "xn--myeherwalle-zb9eia.com",
+    "blockstack.one",
+    "urtust.io",
     "bittrex.one",
     "t0-ico.com",
     "xn--cinbase-90a.com",
