@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "blockstack.one",
     "urtust.io",
     "bittrex.one",
     "t0-ico.com",
