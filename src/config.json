@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "powrledger.io",
     "shape-shift.io",
     "oracles-network.org",
     "xn--myeherwalle-zb9eia.com",
