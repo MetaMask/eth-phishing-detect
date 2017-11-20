@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "oracls.network",
     "sirinlabs.website",
     "powrledger.io",
     "slackconfirm.com",
