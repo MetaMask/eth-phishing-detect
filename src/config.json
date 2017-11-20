@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "xn--cinbase-90a.com",
     "sirinlabs.website",
     "powrledger.io",
     "slackconfirm.com",
