@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "sirinlabs.website",
     "powrledger.io",
     "slackconfirm.com",
     "shape-shift.io",
