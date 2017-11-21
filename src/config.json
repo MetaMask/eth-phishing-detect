@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "xn--coinbas-pya.com",
     "requestt.network",
     "oracls.network",
     "sirinlabs.website",
