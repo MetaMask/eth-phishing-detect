@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "requestt.network",
     "oracls.network",
     "sirinlabs.website",
     "powrledger.io",
