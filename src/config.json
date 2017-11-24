@@ -79,6 +79,8 @@
     "metabase.one"
   ],
   "blacklist": [
+    "coinbasenews.co.uk",
+    "xn--metherwallet-hmb.com",
     "envoin.org",
     "powerledger.com",
     "bitstannp.net",
