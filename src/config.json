@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "quanttstamp.com",
     "gladius.im",
     "ethereumstorage.net",
     "powerledgerr.com",
