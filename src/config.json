@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "wabitoken.com",
     "xn--metherwallt-8bb4w.com",
     "quanttstamp.com",
     "gladius.im",
