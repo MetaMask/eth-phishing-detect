@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "powerrledger.com",
     "xn--cointeegraph-wz4f.com",
     "myerherwalet.com",
     "qauntstanp.com",
