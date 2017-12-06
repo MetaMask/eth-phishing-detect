@@ -79,6 +79,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "mobus.network",
     "powrrledger.com",
     "xn--myeherwalet-ms8eyy.com",
     "qlink-ico.com",
