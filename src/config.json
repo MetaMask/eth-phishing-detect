@@ -80,6 +80,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "powrerledger.com",
     "cryptokitties.com",
     "superbitcoin-blockchain.info",
     "hellobloom.me",
