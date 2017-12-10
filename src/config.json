@@ -80,6 +80,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "cryptokitties.com",
     "superbitcoin-blockchain.info",
     "hellobloom.me",
     "mobus.network",
