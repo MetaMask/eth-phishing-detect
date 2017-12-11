@@ -80,6 +80,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "sirin-labs.com",
     "propsproject.org",
     "propsprojects.com",
     "decentralland.org",
