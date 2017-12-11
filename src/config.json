@@ -80,6 +80,7 @@
     "metabase.one"
   ],
   "blacklist": [
+    "xn--myetherwllet-fnb.com",
     "sirin-labs.com",
     "propsproject.org",
     "propsprojects.com",
