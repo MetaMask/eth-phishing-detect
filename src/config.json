@@ -3,7 +3,8 @@
   "tolerance": 2,
   "fuzzylist": [
     "metamask.io",
-    "myetherwallet.com"
+    "myetherwallet.com",
+    "cryptokitties.co"
   ],
   "whitelist": [
     "metamate.cc",
@@ -77,7 +78,8 @@
     "aventus.io",
     "metabase.com",
     "etherdelta.com",
-    "metabase.one"
+    "metabase.one",
+    "cryptokitties.co"
   ],
   "blacklist": [
     "ethereumdoubler.life",
