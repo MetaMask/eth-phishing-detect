@@ -86,6 +86,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "ethtools.com",
     "wabicoin.co",
     "sirinslabs.com",
     "tronlab.co",
