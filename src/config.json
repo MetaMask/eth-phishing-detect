@@ -87,6 +87,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "eos-token.org",
     "venchain.org",
     "deepbrainchain.co",
     "myetherwalililet.info",
