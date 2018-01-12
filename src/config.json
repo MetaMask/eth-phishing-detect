@@ -87,6 +87,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "xn--coinelegraph-wk5f.com",
     "dai-stablecoin.com",
     "eos-token.org",
     "venchain.org",
