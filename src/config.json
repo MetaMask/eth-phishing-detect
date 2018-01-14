@@ -87,6 +87,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "token-selfkey.org",
     "xn--etherdlta-0f7d.com",
     "sether.in",
     "xn--ttrex-ysa9423c.com",
