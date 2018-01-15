@@ -87,6 +87,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "ethblender.com",
     "ethpaperwallet.net",
     "waltontoken.org",
     "icoselfkey.org",
