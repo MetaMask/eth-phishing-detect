@@ -87,6 +87,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "tronlabs.network",
     "bluzelle.cc",
     "ethblender.com",
     "ethpaperwallet.net",
