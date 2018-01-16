@@ -87,6 +87,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "vechain.foundation",
     "tronlab.site",
     "tronlabs.network",
     "bluzelle.cc",
