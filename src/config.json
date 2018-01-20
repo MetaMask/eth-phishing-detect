@@ -87,6 +87,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "ether-zero.net",
     "ins.foundation",
     "nastoken.org",
     "telcointoken.com",
