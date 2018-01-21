@@ -87,6 +87,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "intchain.network",
     "wanchain.cloud",
     "bluzelle-ico.com",
     "ethzero-wallet.com",
