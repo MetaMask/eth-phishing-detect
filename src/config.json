@@ -89,6 +89,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "venchain.foundation",
     "grampreico.com",
     "tgram.cc",
     "ton-gramico.com",
