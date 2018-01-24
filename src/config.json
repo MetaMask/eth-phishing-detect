@@ -89,6 +89,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "login-kucoin.net",
     "venchain.foundation",
     "grampreico.com",
     "tgram.cc",
