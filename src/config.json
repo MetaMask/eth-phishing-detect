@@ -89,6 +89,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "dimnsions.network",
     "www-gemini.com",
     "login-kucoin.net",
     "venchain.foundation",
