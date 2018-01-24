@@ -89,6 +89,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "www-gemini.com",
     "login-kucoin.net",
     "venchain.foundation",
     "grampreico.com",
