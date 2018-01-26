@@ -7,7 +7,6 @@
     "cryptokitties.co"
   ],
   "whitelist": [
-    "wanchainetwork.org",
     "metahash.io",
     "metahash.net",
     "metahash.org",
@@ -92,6 +91,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "wanchainetwork.org",
     "wamchain.org",
     "wanchainltd.org",
     "wanchainalliance.org",
