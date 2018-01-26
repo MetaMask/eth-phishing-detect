@@ -91,6 +91,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "wamchain.org",
     "wanchainltd.org",
     "wanchainalliance.org",
     "nucleus-vision.net",
