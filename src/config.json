@@ -91,6 +91,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "nucleus.foundation",
     "beetoken-ico.com",
     "data-token.com",
     "tron-labs.com",
