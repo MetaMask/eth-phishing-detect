@@ -91,6 +91,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "iost.co",
     "telegramcoin.us",
     "daddi.cloud",
     "daditoken.com",
