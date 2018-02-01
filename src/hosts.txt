@@ -1033,3 +1033,4 @@
 0.0.0.0 zeepln.io
 0.0.0.0 wepowers.network
 0.0.0.0 wepower.vision
+0.0.0.0 sparc.pro
