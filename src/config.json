@@ -4,9 +4,11 @@
   "fuzzylist": [
     "metamask.io",
     "myetherwallet.com",
-    "cryptokitties.co"
+    "cryptokitties.co",
+    "mycrypto.com"
   ],
   "whitelist": [
+    "mycrypto.com",
     "remix.ethereum.org",
     "metahash.io",
     "metahash.net",
