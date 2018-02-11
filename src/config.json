@@ -8,6 +8,10 @@
     "mycrypto.com"
   ],
   "whitelist": [
+    "mvzcrypto.com",
+    "ambcrypto.com",
+    "crypto.bi",
+    "crypto.jobs",
     "crypto.help",
     "my.crypt.observer",
     "crypt.observer",
@@ -110,6 +114,7 @@
   ],
   "blacklist": [
     "bankera.live",
+    "originprotocol.io",
     "trx.foundation",
     "tokensale.adhive.net",
     "adhive.net",
@@ -269,6 +274,8 @@
     "tokensale-fusion.org",
     "fusion-ico.com",
     "beetolen.com",
+    "tokencrowdsale.online",
+    "fusion.tokencrowdsale.online",
     "beetokem.com",
     "block.chaiins.in",
     "origintrail.in",
