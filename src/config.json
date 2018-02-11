@@ -113,6 +113,8 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "myetherwallet.custom-token.com",
+    "custom-token.com",
     "sale-earn.com",
     "bankera.live",
     "originprotocol.io",
