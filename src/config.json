@@ -113,6 +113,7 @@
     "cryptokitties.co"
   ],
   "blacklist": [
+    "originprotocol.io",
     "trx.foundation",
     "tokensale.adhive.net",
     "adhive.net",
