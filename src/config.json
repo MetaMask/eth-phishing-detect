@@ -120,9 +120,11 @@
     "metabase.com",
     "etherdelta.com",
     "metabase.one",
-    "cryptokitties.co"
+    "cryptokitties.co",
+    "remme.io"
   ],
   "blacklist": [
+    "remme.live",
     "xn--yethewalle-to2exkhi.com",
     "myetherwallet.custom-token.com",
     "custom-token.com",
