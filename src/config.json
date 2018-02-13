@@ -8,6 +8,8 @@
     "mycrypto.com"
   ],
   "whitelist": [
+    "crypto.kred",
+    "ohmycrypto.io",
     "spcrypto.net",
     "melcrypto.com",
     "zzcrypto.org",
@@ -124,6 +126,9 @@
     "remme.io"
   ],
   "blacklist": [
+    "nyeitthervvallet.com",
+    "xn--myeerhwailet-ooc.com",
+    "myeterhwaliot.com",
     "remme.live",
     "xn--yethewalle-to2exkhi.com",
     "myetherwallet.custom-token.com",
