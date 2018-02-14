@@ -126,9 +126,11 @@
     "etherdelta.com",
     "metabase.one",
     "cryptokitties.co",
-    "remme.io"
+    "remme.io",
+    "jibrel.network"
   ],
   "blacklist": [
+    "jibreltoken.in",
     "dock.so",
     "dock.promo",
     "xn--mycrypt-r0a.com",
