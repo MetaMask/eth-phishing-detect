@@ -8,6 +8,9 @@
     "mycrypto.com"
   ],
   "whitelist": [
+    "ocrypto.org",
+    "wecrypto.net",
+    "iccrypto.io",
     "crypto.kred",
     "ohmycrypto.io",
     "spcrypto.net",
@@ -126,6 +129,12 @@
     "remme.io"
   ],
   "blacklist": [
+    "dock.so",
+    "dock.promo",
+    "xn--mycrypt-r0a.com",
+    "xn--mycrypt-g1a.com",
+    "xn--mycrpto-y2a.com",
+    "ethexploit.org",
     "remme.in",
     "remme.ws",
     "remme.com.ng",
