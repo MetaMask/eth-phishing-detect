@@ -130,6 +130,8 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "token.gonetwork.pro",
+    "gonetwork.pro",
     "gonetwork.eu",
     "nucleus-vision.cc",
     "jibreltoken.in",
