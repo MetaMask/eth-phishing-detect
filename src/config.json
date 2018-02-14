@@ -130,6 +130,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "nucleus-vision.cc",
     "jibreltoken.in",
     "dock.so",
     "dock.promo",
