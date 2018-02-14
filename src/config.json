@@ -130,6 +130,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "gonetwork.live",
     "token.gonetwork.pro",
     "gonetwork.pro",
     "gonetwork.eu",
