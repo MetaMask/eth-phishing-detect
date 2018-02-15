@@ -131,6 +131,10 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "rightmesh.in",
+    "waxtoken.in",
+    "nebulastoken.in",
+    "vechain-foundation.com",
     "icotoken-current.top",
     "xn--myethrwalle-jb9e19a.com",
     "xn--myetheralle-7b9ezl.com",
