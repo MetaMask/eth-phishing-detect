@@ -131,6 +131,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "openplatform.tech",
     "rightmesh.in",
     "waxtoken.in",
     "nebulastoken.in",
