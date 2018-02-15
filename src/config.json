@@ -131,6 +131,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "waxtoken.in",
     "nebulastoken.in",
     "vechain-foundation.com",
     "icotoken-current.top",
