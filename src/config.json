@@ -133,6 +133,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "myeithereiuwallet.com",
     "fin-trux.com",
     "finetrux.com",
     "telcoin.pro",
