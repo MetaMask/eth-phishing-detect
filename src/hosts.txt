@@ -1034,3 +1034,6 @@
 0.0.0.0 wepowers.network
 0.0.0.0 wepower.vision
 0.0.0.0 sparc.pro
+0.0.0.0 seele.promo
+0.0.0.0 seele-ico.eu
+0.0.0.0 seele-ico.pro
