@@ -140,6 +140,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "dock-io.org",
     "dock.network",
     "blocklancer.me",
     "tokensale-havven.io",
