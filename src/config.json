@@ -140,6 +140,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "tokentelegram.com",
     "ico-telegram.me",
     "myetherzero.com",
     "seele-token.pro",
