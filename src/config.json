@@ -138,6 +138,8 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "polyswarm.co",
+    "polyswarm.bid",
     "ton.fund",
     "forkdeita.github.io",
     "xn--binnce-5nf.com",
