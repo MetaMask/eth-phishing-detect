@@ -140,6 +140,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "dflnlty.org",
     "polyswarm.tech",
     "tokensale.polyswarm.tech",
     "polyswarm.ru",
