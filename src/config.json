@@ -140,6 +140,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "electrify-asia.info",
     "tron-foundation.org",
     "dflnlty.org",
     "polyswarm.tech",
