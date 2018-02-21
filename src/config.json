@@ -140,6 +140,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "tron-foundation.org",
     "dflnlty.org",
     "polyswarm.tech",
     "tokensale.polyswarm.tech",
