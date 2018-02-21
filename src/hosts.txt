@@ -1039,3 +1039,4 @@
 0.0.0.0 seele-ico.pro
 0.0.0.0 syncfab.tech
 0.0.0.0 tokensale.syncfab.tech
+0.0.0.0 dflnlty.org
