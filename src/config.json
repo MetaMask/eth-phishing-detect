@@ -140,6 +140,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "polyswarm.pw",
     "dock-io.org",
     "dock.network",
     "blocklancer.me",
