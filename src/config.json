@@ -140,6 +140,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "dock-tokensale.eu",
     "polyswarm.pw",
     "dock-io.org",
     "dock.network",
