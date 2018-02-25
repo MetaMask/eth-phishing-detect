@@ -147,6 +147,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "huobipro.com",
     "xn--coindes-bx3c.com",
     "locaeltherum.com",
     "myetherwallet.tokenimport.com",
