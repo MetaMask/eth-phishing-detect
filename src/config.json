@@ -5,9 +5,11 @@
     "metamask.io",
     "myetherwallet.com",
     "cryptokitties.co",
-    "mycrypto.com"
+    "mycrypto.com",
+    "localethereum.com"
   ],
   "whitelist": [
+    "localbitcoins.net",
     "ncrypto.tech",
     "9crypto.co",
     "netmask.hu",
@@ -145,6 +147,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "localethereum.com",
     "myetherwallet.tokenimport.com",
     "tokenimport.com",
     "localethereom.com",
