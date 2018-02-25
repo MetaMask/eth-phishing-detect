@@ -145,6 +145,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "localethereom.com",
     "xn--myetheralle-jb9exm.com",
     "tefood.me",
     "mywalletether.com",
