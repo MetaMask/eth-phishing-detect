@@ -150,6 +150,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "akasha-world.com",
     "address-transfer-confirmation.droppages.com",
     "b5z.net",
     "p.b5z.net",
