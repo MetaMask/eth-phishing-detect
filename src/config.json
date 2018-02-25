@@ -150,6 +150,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "address-transfer-confirmation.droppages.com",
     "b5z.net",
     "p.b5z.net",
     "xn--coindes-bx3c.com",
