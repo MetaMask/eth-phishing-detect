@@ -145,6 +145,8 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "myetherwallet.tokenimport.com",
+    "tokenimport.com",
     "localethereom.com",
     "xn--myetheralle-jb9exm.com",
     "tefood.me",
