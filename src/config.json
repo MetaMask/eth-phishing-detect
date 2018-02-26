@@ -152,6 +152,8 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "poloniex.work",
+    "secure.poloniex.work",
     "vechain-foundation.org",
     "telegram.tokyo",
     "forkdelta.io",
