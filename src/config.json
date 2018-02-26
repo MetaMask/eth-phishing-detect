@@ -152,6 +152,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "dfinlty.org",
     "poloniex.work",
     "secure.poloniex.work",
     "vechain-foundation.org",
