@@ -150,6 +150,8 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "telegram.tokyo",
+    "forkdelta.io",
     "ton-sale.com",
     "ico-telegram.online",
     "telegramtoken.io",
