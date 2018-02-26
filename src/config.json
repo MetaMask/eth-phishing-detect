@@ -150,6 +150,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "forkdelta.io",
     "ico-telegram.online",
     "telegramtoken.io",
     "gonetwork-airdrop.co",
