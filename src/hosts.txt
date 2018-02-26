@@ -1041,4 +1041,4 @@
 0.0.0.0 tokensale.syncfab.tech
 0.0.0.0 dflnlty.org
 0.0.0.0 telegram.tokyo
-0.0.0.0 dfinlty.org/
+0.0.0.0 dfinlty.org
