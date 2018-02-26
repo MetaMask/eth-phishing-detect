@@ -150,6 +150,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "ton-sale.com",
     "ico-telegram.online",
     "telegramtoken.io",
     "gonetwork-airdrop.co",
