@@ -150,6 +150,8 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "ico-telegram.online",
+    "telegramtoken.io",
     "gonetwork-airdrop.co",
     "secure-transaction-confirmation.droppages.com",
     "neonexchanges.org",
