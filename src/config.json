@@ -152,6 +152,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "vechain-foundation.org",
     "telegram.tokyo",
     "forkdelta.io",
     "ton-sale.com",
