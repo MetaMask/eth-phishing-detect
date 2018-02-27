@@ -152,6 +152,9 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "ataritoken.ltd",
+    "transfer-address-confirmation.droppages.com",
+    "droppages.com",
     "dfinlty.org",
     "poloniex.work",
     "secure.poloniex.work",
