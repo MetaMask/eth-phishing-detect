@@ -152,6 +152,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "ipsx.promo",
     "tokensale-adhive.com",
     "ataritoken.ltd",
     "transfer-address-confirmation.droppages.com",
