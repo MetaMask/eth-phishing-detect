@@ -154,6 +154,8 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "xn--yetherwalle-iw8e1s.com",
+    "tron-online.org",
     "myenthereumwallet.com",
     "myetherwallet-team.com",
     "myetherwallet.usermd.net",
