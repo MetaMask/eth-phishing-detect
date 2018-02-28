@@ -152,6 +152,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "myenthereumwallet.com",
     "myetherwallet-team.com",
     "myetherwallet.usermd.net",
     "xn--yetherwalle-tv8ezt.com",
