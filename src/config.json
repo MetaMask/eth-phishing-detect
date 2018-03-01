@@ -154,6 +154,8 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "ethereum-promo.bitballoon.com",
+    "bitballoon.com",
     "dfintty.org",
     "dftnity.org",
     "usermd.net",
