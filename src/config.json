@@ -154,6 +154,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "xn--conbase-pza.com",
     "xn--conbase-sfb.com",
     "xn--coinbas-xya.com",
     "xn--coinbas-z8a.com",
