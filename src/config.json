@@ -154,6 +154,11 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "telegramfoundation.org",
+    "polymathnetwork.org",
+    "ethereum-promo.bitballoon.com",
+    "bitballoon.com",
+    "dfintty.org",
     "dftnity.org",
     "usermd.net",
     "xn--gemn-nzab.com",
