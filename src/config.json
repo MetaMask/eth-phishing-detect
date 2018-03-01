@@ -154,6 +154,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "polymathnetwork.org",
     "ethereum-promo.bitballoon.com",
     "bitballoon.com",
     "dfintty.org",
