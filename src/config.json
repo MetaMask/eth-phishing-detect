@@ -6,9 +6,11 @@
     "myetherwallet.com",
     "cryptokitties.co",
     "mycrypto.com",
-    "localethereum.com"
+    "localethereum.com",
+    "dfinity.org",
   ],
   "whitelist": [
+    "dfinity.org",
     "ggcrypto.net",
     "mycrypto.website",
     "pqcrypto.org",
