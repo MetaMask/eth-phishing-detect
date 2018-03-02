@@ -163,6 +163,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "rnyertherwallet.com",
     "xn--thabyss-u8a.com",
     "callisto-airdrop.com",
     "telegramfoundation.org",
