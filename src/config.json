@@ -162,6 +162,8 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "xn--thabyss-u8a.com",
+    "callisto-airdrop.com",
     "telegramfoundation.org",
     "polymathnetwork.org",
     "ethereum-promo.bitballoon.com",
