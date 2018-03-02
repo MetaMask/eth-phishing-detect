@@ -162,6 +162,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "callisto-airdrop.com",
     "telegramfoundation.org",
     "polymathnetwork.org",
     "ethereum-promo.bitballoon.com",
