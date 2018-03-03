@@ -165,6 +165,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "odachi.neocities.org",
     "bittrex-give.com",
     "policypal.info",
     "changlley.org",
