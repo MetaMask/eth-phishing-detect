@@ -1047,3 +1047,4 @@
 0.0.0.0 tomocoln.io
 0.0.0.0 dftnity.org
 0.0.0.0 dfintty.org
+0.0.0.0 docai.science
