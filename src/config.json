@@ -166,6 +166,7 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "data-token.org",
     "eth953883.htmlcomponentservice.com",
     "reeveclancy.wixsite.com",
     "transfer-eth.neocities.org",
