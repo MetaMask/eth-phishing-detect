@@ -1048,3 +1048,4 @@
 0.0.0.0 dftnity.org
 0.0.0.0 dfintty.org
 0.0.0.0 docai.science
+0.0.0.0 tomocoin.network
