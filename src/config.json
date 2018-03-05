@@ -166,6 +166,10 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "reeveclancy.wixsite.com",
+    "transfer-eth.neocities.org",
+    "eth.secure-transactionssecure.com",
+    "secure-transactionssecure.com",
     "nnyiictehervvailiat.com",
     "odachi.neocities.org",
     "bittrex-give.com",
