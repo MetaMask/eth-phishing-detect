@@ -166,6 +166,8 @@
     "jibrel.network"
   ],
   "blacklist": [
+    "eth.secure-transactionssecure.com",
+    "secure-transactionssecure.com",
     "nnyiictehervvailiat.com",
     "odachi.neocities.org",
     "bittrex-give.com",
