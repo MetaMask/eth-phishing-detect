@@ -172,6 +172,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "telegram.auction",
     "miroskii.com",
     "eth-transactions.neocities.org",
     "online-eos.org",
