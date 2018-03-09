@@ -182,6 +182,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "ico-telegram-ton.com",
     "telegram.tw",
     "gramton.info",
     "gramsap.enterprises",
