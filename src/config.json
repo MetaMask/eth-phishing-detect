@@ -182,6 +182,9 @@
     "twinity.com"
   ],
   "blacklist": [
+    "polyswamr.io",
+    "polyswarm.me",
+    "polyswarms.io",
     "eth4free.ml",
     "ico-telegram-ton.com",
     "telegram.tw",
