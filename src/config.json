@@ -182,6 +182,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "etharscan.io",
     "xn--coindes-jhb.com",
     "blocikchair.info",
     "eth-cz-319.htmlcomponentservice.com",
