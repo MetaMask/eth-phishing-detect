@@ -1049,3 +1049,5 @@
 0.0.0.0 dfintty.org
 0.0.0.0 docai.science
 0.0.0.0 tomocoin.network
+0.0.0.0 xn--coindes-jhb.com
+0.0.0.0 xn--mtherwallet-z19ex1a.com
