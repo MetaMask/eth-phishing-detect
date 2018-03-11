@@ -183,6 +183,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "eth-giveaway.info",
     "syncfab.eu",
     "eth-giveaway.com",
     "icoeth.tk",
@@ -1636,6 +1637,6 @@
     "tomo-coin.io",
     "tomocoln.io",
     "docai.science",
-    "tomocoin.network" 
+    "tomocoin.network"
   ]
 }
