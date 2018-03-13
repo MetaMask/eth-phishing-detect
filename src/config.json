@@ -184,6 +184,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "paymentaddress.tumblr.com",
     "cryptongram.org",
     "campaigntoken.blogspot.de",
     "coin-promos.com",
