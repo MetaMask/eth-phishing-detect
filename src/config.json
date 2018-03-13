@@ -184,6 +184,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "eth.vote",
     "eth-promo.bitballoon.com",
     "ethfreepay.com",
     "promo-trx.tk",
