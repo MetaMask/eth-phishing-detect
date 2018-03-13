@@ -184,6 +184,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "ethfreepay.com",
     "promo-trx.tk",
     "paymentaddress.tumblr.com",
     "cryptongram.org",
