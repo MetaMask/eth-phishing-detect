@@ -184,6 +184,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "etherscanio.github.io",
     "ico-gram.net",
     "gramtoken.network",
     "ethfreegive.com",
