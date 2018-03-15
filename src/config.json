@@ -190,6 +190,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "trust-cryptopayment.com",
     "ethereum-transfer.online",
     "icotonsale.com",
     "etherbonuses.com",
