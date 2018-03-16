@@ -190,6 +190,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "airdrop-ether.bitballoon.com",
     "info-transaction.com",
     "eth.hn",
     "binance-promo.net",
