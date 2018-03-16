@@ -190,6 +190,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "eth.hn",
     "binance-promo.net",
     "trust-cryptopayment.com",
     "ethereum-transfer.online",
