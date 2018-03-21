@@ -200,6 +200,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "telegramnetwork.org",
     "geth.cc",
     "telegram.ceo",
     "etherscan-giveaway.epizy.com",
