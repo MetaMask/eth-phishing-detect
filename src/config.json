@@ -200,6 +200,8 @@
     "twinity.com"
   ],
   "blacklist": [
+    "coin-zc.com",
+    "xn--bitcon-mwa.com",
     "myettherwallet.xyz",
     "ethpayment.bitballoon.com",
     "ethopen.com",
