@@ -200,6 +200,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "secure-eth-transactions.bitballoon.com",
     "giveaway-ethereum.org",
     "ethpayd.com",
     "ethdrop.info",
