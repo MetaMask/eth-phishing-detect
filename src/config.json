@@ -200,6 +200,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "metronome-token.io",
     "coin-zc.com",
     "xn--bitcon-mwa.com",
     "myettherwallet.xyz",
