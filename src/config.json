@@ -200,6 +200,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "coinnbase.ml",
     "coinnbase.tk",
     "binaance.ga",
     "binaance.cf",
