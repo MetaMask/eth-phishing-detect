@@ -200,6 +200,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "eth-transaction.site44.com",
     "xn--metherwllet-ln9eqi.com",
     "xn--bitcointlk-85a.org",
     "coinbaase.cf",
