@@ -203,6 +203,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "myetherwallet.heliohost.org",
     "ton-telegram.com",
     "tonpublic.org",
     "claim.ethdeal.info",
