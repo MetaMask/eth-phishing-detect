@@ -203,6 +203,8 @@
     "twinity.com"
   ],
   "blacklist": [
+    "ton-telegram.com",
+    "tonpublic.org",
     "claim.ethdeal.info",
     "telegram.trade",
     "telegram-coin.org",
