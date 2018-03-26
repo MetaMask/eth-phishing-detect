@@ -203,6 +203,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "coinmakerbot.com",
     "blnnance.com",
     "myetherwallet.heliohost.org",
     "ton-telegram.com",
