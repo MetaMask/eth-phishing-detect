@@ -8,9 +8,11 @@
     "mycrypto.com",
     "localethereum.com",
     "dfinity.org",
-    "hederahashgraph.com"
+    "hederahashgraph.com",
+    "auctus.org"
   ],
   "whitelist": [
+    "auctus.org",
     "ncrypto.io",
     "dfinery.com",
     "hederahashgraph.com",
@@ -205,6 +207,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "auctus.network",
     "auctuss.org",
     "auctus.org.in",
     "auctus-ico.network",
