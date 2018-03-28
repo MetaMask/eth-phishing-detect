@@ -207,6 +207,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "www-myetherwellet.com",
     "eth-today.com",
     "ethg.gift",
     "ether-zero.info",
