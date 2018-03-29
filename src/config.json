@@ -209,6 +209,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "crypto-payout.tk",
     "trust-cryptopayment.com",
     "vechain-ven.com",
     "tokensale-telegram.com",
