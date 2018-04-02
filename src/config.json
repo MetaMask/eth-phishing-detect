@@ -215,6 +215,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "get-eth.pl",
     "cz-binance.com",
     "signalsx.com",
     "eth-gift.tw1.su",
