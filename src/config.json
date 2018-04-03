@@ -215,6 +215,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "gram-token.org",
     "lco-telegram.org",
     "tonogram.org",
     "eth-give.kissr.com",
