@@ -215,6 +215,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "ico-telegram-ton.com.ru",
     "ton-ico.ga",
     "mailingserver2.com",
     "gram-token.org",
