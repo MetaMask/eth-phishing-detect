@@ -12,6 +12,7 @@
     "auctus.org"
   ],
   "whitelist": [
+    "gocrypto.tools",
     "crypto.eu",
     "auditus.cc",
     "divinity.game",
