@@ -223,6 +223,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "coinbase.droppages.com",
     "meythapvettal.com",
     "get-ethers.com",
     "gramfoundation.io",
