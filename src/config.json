@@ -223,6 +223,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "get-ethers.com",
     "gramfoundation.io",
     "check-ethpayments.kissr.com",
     "centratoken.site",
