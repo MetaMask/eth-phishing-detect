@@ -223,6 +223,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "check-ethpayments.kissr.com",
     "centratoken.site",
     "gramtokenico.com",
     "bitballoon.com",
