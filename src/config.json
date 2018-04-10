@@ -237,6 +237,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "ico-telegram.money",
     "icontoken.foundation",
     "eth-give-away.webz.cz",
     "5000eth.info",
