@@ -237,6 +237,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "etherscans.net",
     "io-eos.com",
     "telegram-ico.tech",
     "ico-telegram.money",
