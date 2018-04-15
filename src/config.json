@@ -239,6 +239,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "collect-eth.com",
     "myetherwallet.lt",
     "myetherwallet-register.com",
     "eth-promotion.getforge.io",
