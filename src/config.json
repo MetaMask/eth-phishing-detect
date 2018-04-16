@@ -239,6 +239,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "tokentelegram.net",
     "eth-private-key.webz.cz",
     "collect-eth.com",
     "myetherwallet.lt",
