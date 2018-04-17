@@ -9,9 +9,11 @@
     "localethereum.com",
     "dfinity.org",
     "hederahashgraph.com",
-    "auctus.org"
+    "auctus.org",
+    "etherscan.io"
   ],
   "whitelist": [
+    "etherplan.com",
     "octus.network",
     "underwear-leaderboard.bitballoon.com",
     "pmacrypto.com",
@@ -239,6 +241,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "etherscan.tech",
     "xn--myethewllet-ife6494g.com",
     "ncashtoken.org",
     "eth.kissr.com",
