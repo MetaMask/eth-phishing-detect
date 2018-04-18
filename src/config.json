@@ -250,6 +250,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "win-eth.org",
     "eth-today.epizy.com",
     "give5000eth.com",
     "ethhit.org",
