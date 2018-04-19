@@ -253,6 +253,8 @@
     "twinity.com"
   ],
   "blacklist": [
+    "aelftoken.com",
+    "dfinity.ml",
     "myethverwallet.com",
     "mithriltoken.tech",
     "win-eth.org",
