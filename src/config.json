@@ -253,6 +253,11 @@
     "twinity.com"
   ],
   "blacklist": [
+    "eth-drop.com",
+    "mnycryptoethwallet.com",
+    "bonus.ether-gives.com",
+    "ether-gives.com",
+    "ethforeth.com",
     "ethereumpomo.online",
     "mnyetnherwaliet.com",
     "eth-foundation.github.io",
