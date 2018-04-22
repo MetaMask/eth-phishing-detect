@@ -10,7 +10,8 @@
     "dfinity.org",
     "hederahashgraph.com",
     "auctus.org",
-    "etherscan.io"
+    "etherscan.io",
+    "originprotocol.com"
   ],
   "whitelist": [
     "kactus.io",
@@ -831,6 +832,7 @@
     "originprotocol.io",
     "originprotocol.online",
     "originprotocols.com",
+    "origirprotocol.com",
     "trx.foundation",
     "tokensale.adhive.net",
     "adhive.net",
