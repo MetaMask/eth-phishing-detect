@@ -261,6 +261,9 @@
     "twinity.com"
   ],
   "blacklist": [
+    "ethereum-give.czweb.org",
+    "czweb.org",
+    "5000eth-giveaway.com",
     "ether-giveaway.atspace.eu",
     "atspace.eu",
     "eth-airdrop.online",
