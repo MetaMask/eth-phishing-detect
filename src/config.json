@@ -261,6 +261,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "ico-telegram.is",
     "ico-telegramcoin.com",
     "ico-telegram.cc",
     "tokentelegram.info",
