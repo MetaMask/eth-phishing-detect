@@ -261,6 +261,8 @@
     "twinity.com"
   ],
   "blacklist": [
+    "ether_promo.kissr.com",
+    "kissr.com",
     "eth-giveavvay.online",
     "ethereums.cloud",
     "ico-telegram.net",
