@@ -261,6 +261,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "ico-telegram.cc",
     "tokentelegram.info",
     "tokentelegram.live",
     "letherwindows.com",
