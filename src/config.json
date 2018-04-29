@@ -262,6 +262,9 @@
     "twinity.com"
   ],
   "blacklist": [
+    "etherdrops.com",
+    "ethereumdrop.batcave.net",
+    "batcave.net",
     "eth-platform.com",
     "main-myetherwallet.com",
     "eth-get.online",
