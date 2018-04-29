@@ -262,6 +262,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "main-myetherwallet.com",
     "eth-get.online",
     "collecteth.com",
     "promo-ether.com",
