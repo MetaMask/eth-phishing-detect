@@ -11,9 +11,11 @@
     "hederahashgraph.com",
     "auctus.org",
     "etherscan.io",
-    "originprotocol.com"
+    "originprotocol.com",
+    "blockchain.info",
   ],
   "whitelist": [
+    "blockchain.info",
     "nem-dns.bitballoon.com",
     "ethersat.io",
     "sanctus.io",
@@ -265,6 +267,8 @@
     "twinity.com"
   ],
   "blacklist": [
+    "cken.site",
+    "blockchaihs.info",
     "ethereum.vu",
     "myetherewallet.net",
     "myetharwallet.stream",
