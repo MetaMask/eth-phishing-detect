@@ -11,11 +11,9 @@
     "hederahashgraph.com",
     "auctus.org",
     "etherscan.io",
-    "originprotocol.com",
-    "blockchain.info"
+    "originprotocol.com"
   ],
   "whitelist": [
-    "blockchain.info",
     "nem-dns.bitballoon.com",
     "ethersat.io",
     "sanctus.io",
