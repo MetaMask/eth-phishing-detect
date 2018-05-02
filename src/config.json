@@ -265,6 +265,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "get-ethereum.org",
     "axpire.tech",
     "eth-givea-way.com",
     "eosreward.io",
