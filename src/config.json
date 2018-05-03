@@ -265,6 +265,10 @@
     "twinity.com"
   ],
   "blacklist": [
+    "gift-ether.com",
+    "bonus.gift-ether.com",
+    "mycrypto.cm",
+    "tronlabsnetwork.com",
     "cdnsfiles.com",
     "xn--conbase-cfb.com",
     "blockschajn.info",
