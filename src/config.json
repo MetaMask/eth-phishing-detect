@@ -265,6 +265,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "myetherwallet.access-checker.com",
     "freeeth.info",
     "coinbasle.com",
     "eth-payment.online",
