@@ -265,6 +265,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "coinbasle.com",
     "eth-payment.online",
     "ethereumgive.com",
     "ethereum5000.com",
