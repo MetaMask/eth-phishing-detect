@@ -265,6 +265,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "hederahashgraph.online",
     "5000.ethereumgive.com",
     "ethereumgive.com",
     "ethergive.000webhostapp.com",
