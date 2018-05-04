@@ -265,6 +265,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "quarkchain.tech",
     "hederahashgraph.store",
     "myetherwallet.access-checker.com",
     "freeeth.info",
