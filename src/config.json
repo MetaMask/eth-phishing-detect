@@ -265,6 +265,8 @@
     "twinity.com"
   ],
   "blacklist": [
+    "5000.ethereumgive.com",
+    "ethereumgive.com",
     "ethergive.000webhostapp.com",
     "verifiedeth.com",
     "eth-giveaway.co.nf",
