@@ -265,6 +265,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "hederahashgraph.store",
     "myetherwallet.access-checker.com",
     "freeeth.info",
     "coinbasle.com",
