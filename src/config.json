@@ -265,6 +265,7 @@
     "twinity.com"
   ],
   "blacklist": [
+    "orchidprotocols.com",
     "hadeplatform.net",
     "quarkchain.tech",
     "hederahashgraph.store",
