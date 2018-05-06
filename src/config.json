@@ -275,6 +275,9 @@
     "twinity.com"
   ],
   "blacklist": [
+    "helpcoinbase.com",
+    "account-coinbase.com",
+    "coinbase-eth-giveaway.com",
     "free-eth.news",
     "forkdeltas.com",
     "elon-giveaway.com",
