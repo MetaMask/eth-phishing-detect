@@ -275,6 +275,11 @@
     "twinity.com"
   ],
   "blacklist": [
+    "coinbtcnews.com",
+    "xn--polomex-cza.com",
+    "helpcoinbase.com",
+    "account-coinbase.com",
+    "coinbase-eth-giveaway.com",
     "free-eth.news",
     "forkdeltas.com",
     "elon-giveaway.com",
