@@ -275,6 +275,8 @@
     "twinity.com"
   ],
   "blacklist": [
+    "forkdelta.net",
+    "i-idex.market",
     "kinecosystem.io",
     "quark-chain.io",
     "quarkchain.org",
