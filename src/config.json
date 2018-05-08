@@ -275,6 +275,10 @@
     "twinity.com"
   ],
   "blacklist": [
+    "quark-chain.io",
+    "quarkchain.org",
+    "quarkchaln.io",
+    "quarkchain.website",
     "get-ethereum.ml",
     "5000eth.net",
     "claim.payeths.com",
