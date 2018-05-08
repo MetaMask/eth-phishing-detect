@@ -275,6 +275,9 @@
     "twinity.com"
   ],
   "blacklist": [
+    "promo-give-ethereum.org",
+    "give-ethereum.org",
+    "ethereum-giveaway.site",
     "forkdelta.net",
     "i-idex.market",
     "kinecosystem.io",
