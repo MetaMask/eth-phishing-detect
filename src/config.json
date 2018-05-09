@@ -275,6 +275,9 @@
     "twinity.com"
   ],
   "blacklist": [
+    "ethsafepay.net",
+    "presale.getmyethers.net",
+    "getmyethers.net",
     "xn--tbtc-upa94a.com",
     "xn--itbtc-9g1b.com",
     "myetherwalleth.org",
