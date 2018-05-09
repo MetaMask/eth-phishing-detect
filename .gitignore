@@ -2,6 +2,10 @@
 # Created by https://www.gitignore.io/api/osx,node
 
 ### Node ###
+# NodeJS Files for BatchAdd
+runGit.js
+makeNew.js
+
 # Logs
 logs
 *.log
