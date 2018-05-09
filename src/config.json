@@ -275,6 +275,9 @@
     "twinity.com"
   ],
   "blacklist": [
+    "collect.ethforyou.com",
+    "ethforyou.com",
+    "getmyetho.paperplane.io",
     "xn--myetherwallt-ovb.net",
     "idexmarkets.com",
     "ethsafepay.net",
