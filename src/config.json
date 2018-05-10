@@ -275,6 +275,8 @@
     "twinity.com"
   ],
   "blacklist": [
+    "telegram-token.io",
+    "icostats.io",
     "musk-party-gifts.updog.co",
     "yobittrading.net",
     "yobit-trading.net",
