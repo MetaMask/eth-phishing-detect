@@ -275,6 +275,8 @@
     "twinity.com"
   ],
   "blacklist": [
+    "securetransfer.ethpromotion.com",
+    "ethpromotion.com",
     "brickblockio.info",
     "collect.ethforyou.com",
     "ethforyou.com",
