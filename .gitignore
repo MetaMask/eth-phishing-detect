@@ -5,6 +5,7 @@
 # NodeJS Files for BatchAdd
 runGit.js
 makeNew.js
+download.js
 
 # Logs
 logs

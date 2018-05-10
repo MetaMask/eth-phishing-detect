@@ -18,7 +18,9 @@
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
     "tap-summary": "^4.0.0",
-    "tape": "^4.8.0"
+    "tape": "^4.8.0",
+    "follow-redirects": "^1.4.1",
+    "json": "^9.0.6"
   },
   "directories": {
     "test": "test"
