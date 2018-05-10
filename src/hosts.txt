@@ -1055,3 +1055,8 @@
 0.0.0.0 tokenpublicsale.com
 0.0.0.0 dfinity.ml
 0.0.0.0 dfnity.org
+0.0.0.0 poa.net
+0.0.0.0 poa.network
+0.0.0.0 oracles.org
+0.0.0.0 jet8.io
+0.0.0.0 repux.io
