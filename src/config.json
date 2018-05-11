@@ -275,6 +275,20 @@
     "twinity.com"
   ],
   "blacklist": [
+    "secure-ethereum.tw1.su",
+    "phantasma-ico.io",
+    "sentinelprotocol.pw",
+    "24h.infora.hu",
+    "eth-securepay.com",
+    "secureceth.com",
+    "eth-giving.ga",
+    "free-eths.paperplane.io",
+    "nexotoken.org",
+    "quarkchain-tokens.io",
+    "giveavvay-10000eth.online",
+    "ethpromo.org",
+    "i-dexmarkets.com",
+    "edenchain.site",
     "xn--mytherwallet-5vb.net",
     "i-dexmarket.com",
     "bi-ttrex.com",
@@ -2390,6 +2404,7 @@
     "myethcrwallet-d.com",
     "myethervvallet.win",
     "myetherwallat.date",
-    "myetherwallet.accountant"
+    "myetherwallet.accountant",
+    "quarkchain.live"
   ]
 }
