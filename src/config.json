@@ -284,6 +284,12 @@
     "decrypto.net"
   ],
   "blacklist": [
+    "5000ethereum.online",
+    "hederahashgaph.com",
+    "5000-eth.paperplane.io",
+    "zilliqablockchain.org",
+    "idec.market",
+    "ihex.market",
     "zclassiccoins.com",
     "omisegowallet.network",
     "musk.vu",
