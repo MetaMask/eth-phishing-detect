@@ -284,6 +284,8 @@
     "decrypto.net"
   ],
   "blacklist": [
+    "xn--myetherwalt-crb27c.com",
+    "hydroplatform.org",
     "eth-giveaway.today",
     "etherget.online",
     "ethplatform.org",
