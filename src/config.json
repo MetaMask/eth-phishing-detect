@@ -284,6 +284,10 @@
     "decrypto.net"
   ],
   "blacklist": [
+    "eth-giveaway.today",
+    "etherget.online",
+    "ethplatform.org",
+    "mycrypton.net",
     "5000ethereum.online",
     "hederahashgaph.com",
     "5000-eth.paperplane.io",
