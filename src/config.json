@@ -14,6 +14,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "hederahashgra.ph",
     "arcrypto.xyz",
     "l-crypto.com",
     "aptus.de",
@@ -284,6 +285,19 @@
     "decrypto.net"
   ],
   "blacklist": [
+    "tokenairdrop.typeform.com",
+    "transfer.saferpayeth.com",
+    "saferpayeth.com",
+    "r5.ms",
+    "xn--mytherwalet-3qb97c.com",
+    "xn--myethrwllet-pjb5u.com",
+    "xn--myetherwalt-0rb64c.com",
+    "cryptofaze.com",
+    "hederaheshgraph.com",
+    "ethergift.org",
+    "myetheerwallet.pw",
+    "secure-give-eth.com",
+    "kann.io",
     "pundix.tech",
     "quarkchains.io",
     "ethcollection.paperplane.io",
