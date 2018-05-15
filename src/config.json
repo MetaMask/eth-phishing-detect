@@ -284,6 +284,7 @@
     "decrypto.net"
   ],
   "blacklist": [
+    "mycrypto-com.com",
     "quarkchain.pl",
     "get-5001-ethereum.com",
     "get-5000-ethereum.com",
