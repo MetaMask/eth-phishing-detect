@@ -285,6 +285,8 @@
     "audius.co"
   ],
   "blacklist": [
+    "waves-ethereum-eth.org",
+    "ethereum-eth.life",
     "mycrypto-com.com",
     "quarkchain.pl",
     "get-5001-ethereum.com",
