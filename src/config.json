@@ -285,6 +285,11 @@
     "audius.co"
   ],
   "blacklist": [
+    "pay.ethconfirm.com",
+    "ethconfirm.com",
+    "eth-share.com",
+    "eth-gift.com.paperplane.io",
+    "iidexmarket.com",
     "ebtweinfinance.com",
     "cardanoethereum.com",
     "ethergiveaway.website",
