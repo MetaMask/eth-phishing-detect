@@ -112,6 +112,7 @@ function startTests () {
       "steem.io",
       "ethereum1.cz",
       "metalab.co",
+      "originprotocol.com"
     ])
 
     // DO INDEED detect as phishing
@@ -167,6 +168,7 @@ function startTests () {
       "myethermwallet.com",
       "myeth4rwallet.com",
       "myethterwallet.com",
+      "origirprotocol.com"
     ])
 
     // etc...
