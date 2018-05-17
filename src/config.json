@@ -291,6 +291,9 @@
     "audius.co"
   ],
   "blacklist": [
+    "eth-promo.net",
+    "tdex.market",
+    "login-myetherwallets.com",
     "claimeth.epizy.com",
     "walleteos.org",
     "nathanielpopper.promo-eths.com",
