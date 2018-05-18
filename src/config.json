@@ -292,6 +292,9 @@
     "audius.co"
   ],
   "blacklist": [
+    "ethconfirm.info",
+    "offer.ethsn.com",
+    "ethsn.com",
     "hydroraindrop.typeform.com",
     "ethgift.org",
     "etherdelta.githiub.io",
