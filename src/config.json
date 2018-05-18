@@ -292,6 +292,9 @@
     "audius.co"
   ],
   "blacklist": [
+    "hydroraindrop.typeform.com",
+    "typeform.com",
+    "ethgift.org",
     "etherdelta.githiub.io",
     "githiub.io",
     "ether-promo.org",
