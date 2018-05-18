@@ -292,6 +292,11 @@
     "audius.co"
   ],
   "blacklist": [
+    "get.ico-eth.org",
+    "ico-eth.org",
+    "payment-ethereum.online",
+    "tron-block.info",
+    "neo-online.info",
     "ethconfirm.info",
     "offer.ethsn.com",
     "ethsn.com",
