@@ -292,6 +292,11 @@
     "audius.co"
   ],
   "blacklist": [
+    "brm.10000eth-gift.com",
+    "ethsecure.info",
+    "get.ico-eth.net",
+    "ico-eth.net",
+    "collectmyethers.org",
     "givefree-eth.com",
     "now-5000ether.paperplane.io",
     "eth-give.info",
