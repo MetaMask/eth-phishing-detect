@@ -292,6 +292,7 @@
     "audius.co"
   ],
   "blacklist": [
+    "wallets-ether.com",
     "brm.10000eth-gift.com",
     "ethsecure.info",
     "get.ico-eth.net",
