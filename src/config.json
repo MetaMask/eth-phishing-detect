@@ -292,6 +292,13 @@
     "audius.co"
   ],
   "blacklist": [
+    "eth-request.org",
+    "eths.space",
+    "btc-gift.org",
+    "eth-free.github.io",
+    "ethergiveme.com",
+    "ether-give.com",
+    "eth-share.org",
     "myerherwallet.tk",
     "myetherwallet.news",
     "myetherwalletz.org",
