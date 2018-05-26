@@ -292,6 +292,7 @@
     "audius.co"
   ],
   "blacklist": [
+    "eoslaunch.io",
     "coinbase.pro-fork.com",
     "pro-fork.com",
     "ethgiveaway.zkr.kr",
