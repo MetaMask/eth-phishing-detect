@@ -292,6 +292,8 @@
     "audius.co"
   ],
   "blacklist": [
+    "coinbase.pro-fork.com",
+    "pro-fork.com",
     "ethgiveaway.zkr.kr",
     "eth-promo.wixsite.com",
     "calchain.io",
