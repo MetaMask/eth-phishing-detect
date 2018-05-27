@@ -292,6 +292,7 @@
     "audius.co"
   ],
   "blacklist": [
+    "coinbaseverifier.com",
     "ether-giveaway.net",
     "ethget.me",
     "ethbonus.org",
