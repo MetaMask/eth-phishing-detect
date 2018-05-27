@@ -292,6 +292,11 @@
     "audius.co"
   ],
   "blacklist": [
+    "ethg.me",
+    "jdex.market",
+    "idex-myaccount.com",
+    "index-markct.com",
+    "ldox.market",
     "10000eth.net",
     "eoslaunch.io",
     "coinbase.pro-fork.com",
