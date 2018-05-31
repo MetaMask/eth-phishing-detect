@@ -14,6 +14,16 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "crypto.tube",
+    "aureus.nl",
+    "crypto.ca",
+    "fallin.rf.gd",
+    "adcrypto.io",
+    "wbored2.usermd.net",
+    "gocrypto.dk",
+    "etherscape.io",
+    "mlbcrypto.io",
+    "trinity.design",
     "secrypto.io",
     "acus.gov",
     "cryptonia-dash.bitballoon.com",
@@ -292,6 +302,7 @@
     "audius.co"
   ],
   "blacklist": [
+    "bitcointalk.to",
     "ethbonus.net",
     "etherspromo.org",
     "ethergiving.org",
