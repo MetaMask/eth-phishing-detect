@@ -304,6 +304,8 @@
     "audius.co"
   ],
   "blacklist": [
+    "calchain.net",
+    "ethpays.me",
     "idex-info.com",
     "idex-market.org",
     "myetherewallete.com",
