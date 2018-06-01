@@ -304,6 +304,12 @@
     "audius.co"
   ],
   "blacklist": [
+    "saferpayether.com",
+    "ethgive.global",
+    "ethpromo.info",
+    "ethereum-promo.org",
+    "crypto-claims.org",
+    "getethnow.com",
     "tron.gg",
     "tronfoundation.cc",
     "tronfoundation.gift",
