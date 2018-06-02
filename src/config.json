@@ -304,6 +304,9 @@
     "audius.co"
   ],
   "blacklist": [
+    "ethpromo.cc",
+    "idex-market.eu",
+    "idex-login.net",
     "eos-swap.com",
     "keyfund.io",
     "ethereum-promo.xf.cz",
