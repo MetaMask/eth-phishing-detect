@@ -304,6 +304,9 @@
     "audius.co"
   ],
   "blacklist": [
+    "index-macro.com",
+    "185.156.173.87",
+    "eos-paperwallet.com",
     "promotoeth.org",
     "ethpromo.cc",
     "idex-market.eu",
