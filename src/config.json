@@ -304,6 +304,8 @@
     "audius.co"
   ],
   "blacklist": [
+    "electrocoin.typeform.com",
+    "myetherwalllet.trade",
     "btcoin.vu",
     "btc-giveaway.com",
     "btcofficial.info",
