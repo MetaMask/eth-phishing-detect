@@ -304,6 +304,9 @@
     "audius.co"
   ],
   "blacklist": [
+    "get.ethpublic.com",
+    "ethpublic.com",
+    "ethereum-get.org",
     "ethereum.website.tk",
     "ethereum-bonus.com",
     "blttrex.us",
