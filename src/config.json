@@ -306,6 +306,10 @@
     "audius.co"
   ],
   "blacklist": [
+    "cryptoaway.org",
+    "ethdeals.org",
+    "ethgiveaway.io",
+    "claimeth.me",
     "ethereumgiveaway.typeform.com",
     "xn--myetherwalett-4hc.net",
     "zecblock.info",
