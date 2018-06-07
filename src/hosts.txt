@@ -1055,3 +1055,4 @@
 0.0.0.0 tokenpublicsale.com
 0.0.0.0 dfinity.ml
 0.0.0.0 dfnity.org
+0.0.0.0 dfinitydrop.ml
