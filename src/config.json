@@ -303,7 +303,8 @@
     "jibrel.network",
     "twinity.com",
     "decrypto.net",
-    "audius.co"
+    "audius.co",
+    "verasity.io"
   ],
   "blacklist": [
     "academiconswap.typeform.com",
@@ -2934,6 +2935,7 @@
     "myetherwallat.date",
     "myetherwallet.accountant",
     "quarkchain.live",
+    "verasiity.co",
     "monerozero.trade"
   ]
 }
