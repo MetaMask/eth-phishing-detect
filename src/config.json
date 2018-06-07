@@ -307,6 +307,8 @@
     "verasity.io"
   ],
   "blacklist": [
+    "meta-mask.com",
+    "metamaskwallet.com",
     "myethertrust.com",
     "academiconswap.typeform.com",
     "zillowblockchain.org",
