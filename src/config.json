@@ -316,6 +316,17 @@
     "verasity.io"
   ],
   "blacklist": [
+    "idexs.market",
+    "itex.market",
+    "ideh.market",
+    "xn--idx-kma.market",
+    "xn--idx-cma.market",
+    "iclex.market",
+    "xn--idx-4qa.market",
+    "xn--dex-qma.market",
+    "xn--idx-gma.market",
+    "iddex.market",
+    "iedx.market",
     "eteclum.org",
     "myighther.net",
     "ethpubs.com",
