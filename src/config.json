@@ -316,6 +316,8 @@
     "verasity.io"
   ],
   "blacklist": [
+    "putty-portal.com",
+    "arweave.pw",
     "xn--myethrwalt-inbe64c.com",
     "kentra.tech",
     "xn--myetherwalle-mm5f.com",
