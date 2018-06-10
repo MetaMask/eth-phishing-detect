@@ -317,6 +317,10 @@
     "verasity.io"
   ],
   "blacklist": [
+    "eth.blogmedium.top",
+    "blogmedium.top",
+    "eosregistry.site",
+    "xn--coindes-jhb.com",
     "giveethers.info",
     "creteprint-driveways.co.uk",
     "ethype.org",
