@@ -317,6 +317,12 @@
     "verasity.io"
   ],
   "blacklist": [
+    "hederahashgraph.tokenico.me",
+    "tokenico.me",
+    "secure.ethxchanges.com",
+    "ethgift.io",
+    "verify.officialeth.com",
+    "officialeth.com",
     "welcome.promotionaleth.com",
     "promotionaleth.com",
     "binance-giveaway.com",
