@@ -318,6 +318,10 @@
     "verasity.io"
   ],
   "blacklist": [
+    "ethpays.org",
+    "safe.ethpaynow.com",
+    "ethpaynow.com",
+    "elon-gives.com",
     "index-markels.com",
     "etherbonus.win",
     "getethpro.com",
