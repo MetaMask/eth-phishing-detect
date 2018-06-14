@@ -318,6 +318,8 @@
     "verasity.io"
   ],
   "blacklist": [
+    "ethereumgw.org",
+    "epromo.cc",
     "index-marketz.com",
     "68.168.123.85",
     "eth-promos.org",
