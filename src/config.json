@@ -318,6 +318,8 @@
     "verasity.io"
   ],
   "blacklist": [
+    "myetherwalllet.online",
+    "odyssey.plus",
     "ethereumgw.org",
     "epromo.cc",
     "index-marketz.com",
