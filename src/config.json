@@ -325,6 +325,10 @@
     "verasity.io"
   ],
   "blacklist": [
+    "get.perfecteth.com",
+    "perfecteth.com",
+    "newsair.org",
+    "top-ethereum.com",
     "s-msg-myetherwallet.com",
     "elon-shares.com",
     "xn--myeterwallet-o0b.com",
