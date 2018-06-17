@@ -325,6 +325,11 @@
     "verasity.io"
   ],
   "blacklist": [
+    "ethshare.org",
+    "ethergive.info",
+    "myetherwalet.heliohost.org",
+    "keyfundairdrop.typeform.com",
+    "eosdash.io",
     "ethereum-claim.org",
     "safesteth.com",
     "ethscan.us",
