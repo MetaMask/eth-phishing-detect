@@ -325,6 +325,9 @@
     "verasity.io"
   ],
   "blacklist": [
+    "ethereum-claim.org",
+    "safesteth.com",
+    "ethscan.us",
     "get.perfecteth.com",
     "rd.com",
     "perfecteth.com",
