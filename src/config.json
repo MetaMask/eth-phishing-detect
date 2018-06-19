@@ -327,6 +327,12 @@
     "verasity.io"
   ],
   "blacklist": [
+    "c-kamowski.fr",
+    "eosprivate.io",
+    "signmessage.me",
+    "myetherwallet.com.api.signmessage.me",
+    "shapeshiftv.com",
+    "get-ether-now.com",
     "waves-platform.net",
     "myefherwaliet.com",
     "ethsafe.net",
