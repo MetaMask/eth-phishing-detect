@@ -328,6 +328,8 @@
     "verasity.io"
   ],
   "blacklist": [
+    "eos-platform.net",
+    "btcfast.io",
     "giveawaypromo.org",
     "event-eth.org",
     "ethaction.io",
