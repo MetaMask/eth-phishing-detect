@@ -330,6 +330,9 @@
     "verasity.io"
   ],
   "blacklist": [
+    "xn--eosauthorty-wcb.com",
+    "etherfree.info",
+    "free-ethers.org",
     "myeostrust.com",
     "eosdrop.xn--mythrwallt-c7a86c5a.com",
     "eth-claim.net",
