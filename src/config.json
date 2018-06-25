@@ -331,6 +331,9 @@
     "verasity.io"
   ],
   "blacklist": [
+    "ethereum-event.com",
+    "ethereum-giveaway.safe-eth.top",
+    "safe-eth.top",
     "myautocentmarks.com",
     "io-tron.com",
     "ethereum-platform.org",
