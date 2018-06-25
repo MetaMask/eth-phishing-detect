@@ -332,6 +332,8 @@
     "verasity.io"
   ],
   "blacklist": [
+    "eos-authority.com",
+    "myethrawallet.com",
     "freeethpromo.com",
     "ethereum-event.com",
     "ethereum-giveaway.safe-eth.top",
