@@ -334,6 +334,7 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "telegram.market",
     "ethgift.net",
     "ethfortune.com",
     "ethereumdrop.info",
