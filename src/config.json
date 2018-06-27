@@ -334,6 +334,11 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "wallet.eostoolkits.io",
+    "eostoolkits.io",
+    "chanfelly.com",
+    "idiex.market",
+    "ethtransfer.online",
     "telegram.market",
     "ethgift.net",
     "ethfortune.com",
