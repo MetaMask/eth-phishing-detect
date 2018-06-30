@@ -1,4 +1,3 @@
-
 {
   "version": 2,
   "tolerance": 2,
@@ -338,6 +337,11 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "myethenrwallet.site",
+    "myetherium.ru",
+    "myetherwalleft.ru",
+    "myethrewallets.com",
+    "myethrwalet.com",
     "myethswallets.info",
     "myetherwallet-singmgs.top",
     "safe.ethincrease.com",
