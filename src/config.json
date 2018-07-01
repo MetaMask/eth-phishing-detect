@@ -337,6 +337,7 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "eosauthority.website",
     "yobit.tilda.ws",
     "eth2018.net",
     "ethtwitter.com",
