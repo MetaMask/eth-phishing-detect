@@ -337,6 +337,11 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "hitbtc-login.com",
+    "promobinance.com",
+    "bittrex-ix.com",
+    "bittrex-app.com",
+    "bittrecx.com",
     "pumphash.com",
     "tronplay.network",
     "xn--mytherwalet-srb35c.com",
