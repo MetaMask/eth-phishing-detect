@@ -338,6 +338,8 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "eosauthority.com.globatalent.network",
+    "globatalent.network",
     "eth-gift.club",
     "buterin-giveaway.org",
     "freegiveaway-eth.com",
