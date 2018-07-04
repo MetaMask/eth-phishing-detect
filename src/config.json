@@ -338,6 +338,11 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "trx.claims",
+    "coinscrypto.info",
+    "giveaway.eth-safe.net",
+    "eth-safe.net",
+    "bonus-ethereum.com",
     "myetherwalletverification.signmsg.work",
     "signmsg.work",
     "xn--con-vta.site",
