@@ -338,8 +338,11 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "myetherwalletverification.signmsg.work",
+    "signmsg.work",
+    "xn--con-vta.site",
     "xn--ethrdelta-iib.com",
-    "ethergiveaway.site"
+    "ethergiveaway.site",
     "eosclassic.network",
     "eosauthority-kyc.com",
     "eoscountdown.network",
