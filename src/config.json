@@ -341,8 +341,6 @@
     "anatomia.me"
   ],
   "blacklist": [
-    "autodiscover.cryptobridge.co.uk",
-    "cryptobridge.co.uk",
     "ettheriwallet.trade",
     "getherwallet.com",
     "mail.cryptobridge.co.uk",
@@ -361,8 +359,6 @@
     "myettheriwallet.com",
     "myettherwallet.win",
     "mytherwallets.com",
-    "webdisk.cryptobridge.co.uk",
-    "webmail.cryptobridge.co.uk",
     "hydrogen-raindrop.bitballoon.com",
     "airtoken.typeform.com",
     "myetherwallet.ethersignmsg.services",
