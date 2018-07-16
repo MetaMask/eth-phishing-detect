@@ -343,6 +343,8 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "refundcontract-etherwallet.net",
+    "idexr.market",
     "autodiscover.mvetherwallet.ml",
     "etherwallet.ethsign.icu",
     "mvetherwallet.ml",
