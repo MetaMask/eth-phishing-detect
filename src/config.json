@@ -343,6 +343,9 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "login.blockchaim.co",
+    "blockchaim.co",
+    "transactionlist.info",
     "idexx-corpcom.com",
     "metherwallet.info",
     "meytherwallete.com",
