@@ -343,6 +343,8 @@
     "anatomia.me"
   ],
   "blacklist": [
+    "coinssafe.org",
+    "idex.group",
     "mcafee.promo",
     "eth60.top",
     "getfree-eth.org",
