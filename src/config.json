@@ -346,6 +346,12 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "myetherwallet.com.api.root3.icu",
+    "myetherwallet.com.api3.icu",
+    "myetherwallet.com.api4.icu",
+    "myetherwallet.com.root4.icu",
+    "myetherwallet.com.signinverication.karaokekiralama.club",
+    "myethrwelllet.net"
     "xn--mycypto-xld.com",
     "xn--mycrpto-8i4c.com",
     "xn--mcrypto-5i4c.com",
