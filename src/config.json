@@ -347,6 +347,14 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "claimprize.org",
+    "eosgas.net",
+    "myetherwallet.com.api6.icu",
+    "api6.icu",
+    "api7.icu",
+    "api8.icu",
+    "api9.icu",
+    "api10.uicu",
     "myetherwallet.com.api5.icu",
     "api5.icu",
     "nuetheriumllet.com",
