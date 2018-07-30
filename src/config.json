@@ -347,6 +347,18 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "binance-app.com",
+    "binance-club.com",
+    "binance-coins.com",
+    "binance-daytrading.com",
+    "binance-ethh.com",
+    "binance-market.com",
+    "binancep.com",
+    "https-binance.com",
+    "m-binance.com",
+    "pay-binance.com",
+    "site-binance.com",
+    "xn--idex-vpa.market",
     "eth-giveaway.space",
     "claimprize.xyz",
     "ethereum-transfer.com",
