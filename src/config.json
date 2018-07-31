@@ -347,6 +347,7 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "ethersdrop.online",
     "mail.mynetherwallet.site",
     "mycryrptto.com",
     "myetherwallet.com.api7.icu",
