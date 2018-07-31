@@ -347,6 +347,11 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "grabeth.cf",
+    "eos-airdrop.info",
+    "ether-claim.com",
+    "myethervallet.000webhostapp.com",
+    "myetheruvvalet.com",
     "mail.mynetherwallet.site",
     "mycryrptto.com",
     "myetherwallet.com.api7.icu",
