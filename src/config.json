@@ -348,6 +348,9 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "kraken-ixz.com",
+    "kraken-check.com",
+    "airdrops.delivery",
     "buzovacoin.io",
     "buz-coin.io",
     "buzcoinio.com",
