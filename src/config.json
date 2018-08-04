@@ -348,6 +348,10 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "myetheatrwallet.com", 
+    "myethertawallet.com", 
+    "myetherwallet.com.api12.icu",
+    "api12.icu",
     "xn--etereum-yt3c.com",
     "myetheruwlleet.site",
     "myetherwallet.com.signmsg.api11.icu",
