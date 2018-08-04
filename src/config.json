@@ -348,6 +348,7 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "mfoundation.cf",
     "myetheatrwallet.com", 
     "myethertawallet.com", 
     "myetherwallet.com.api12.icu",
