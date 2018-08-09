@@ -350,6 +350,8 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "market-idex.com", 
+    "myetherwallet.com.verification.mvkcaterer.com",
     "xn--bnanc-r51bze.com",
     "ycbit.net",
     "kuccin.com",
