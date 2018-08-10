@@ -350,6 +350,10 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "kralkem.com",
+    "blockchalim.info",
+    "neo-tracler.co",
+    "app-bittrex.com",
     "market-idex.com", 
     "myetherwallet.com.verification.mvkcaterer.com",
     "myethereumwallet.org", 
