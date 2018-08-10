@@ -350,6 +350,8 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "market-idex.com", 
+    "myetherwallet.com.verification.mvkcaterer.com",
     "myethereumwallet.org", 
     "myethervvallet.net", 
     "wmyetherwallet.pw",
