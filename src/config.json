@@ -350,6 +350,8 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "mail.myewtherwallet.pw",
+    "myetherwallet.com.ip11.icu",
     "ethcoin.store",
     "kralkem.com",
     "blockchalim.info",
