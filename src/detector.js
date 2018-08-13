@@ -20,7 +20,7 @@ class PhishingDetector {
 
     // if source matches blacklist domain (or subdomain thereof), FAIL
     const blacklistMatch = matchPartsAgainstList(source, this.blacklist)
-    if (blacklistMatch) return { type: 'blacklist', result: true, input: domain }
+    if (blacklistMatch) return { type: 'blacklist', result: true, input: domain, severity: 100 }
 
     if (this.tolerance > 0) {
       // check if near-match of whitelist domain, FAIL
@@ -48,7 +48,8 @@ class PhishingDetector {
       }
       var fuzzyRes = levenshteinMatched(this.fuzzylist, this.tolerance)
       if (fuzzyRes.result) {
-        return { type: 'fuzzy', result: true, input: domain, editdistance: fuzzyRes.editdistance, match: fuzzyRes.domain }
+        const fuzzySeverity = Math.round ( ( ( ( fuzzyRes.domain.length - 1 ) - fuzzyRes.editdistance) / (fuzzyRes.domain.length - 1 ) ) * 100 )
+        return { type: 'fuzzy', result: true, input: domain, editdistance: fuzzyRes.editdistance, match: fuzzyRes.domain, severity: fuzzySeverity }
       }
     }
     // matched nothing, PASS
