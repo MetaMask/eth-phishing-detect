@@ -11,15 +11,16 @@ class PhishingDetector {
   }
 
   check (domain) {
+
     const source = domainToParts(domain)
 
     // if source matches whitelist domain (or subdomain thereof), PASS
     const whitelistMatch = matchPartsAgainstList(source, this.whitelist)
-    if (whitelistMatch) return { type: 'whitelist', result: false }
+    if (whitelistMatch) return { type: 'whitelist', result: false, input: domain }
 
     // if source matches blacklist domain (or subdomain thereof), FAIL
     const blacklistMatch = matchPartsAgainstList(source, this.blacklist)
-    if (blacklistMatch) return { type: 'blacklist', result: true }
+    if (blacklistMatch) return { type: 'blacklist', result: true, input: domain }
 
     if (this.tolerance > 0) {
       // check if near-match of whitelist domain, FAIL
@@ -27,19 +28,31 @@ class PhishingDetector {
       // strip www
       fuzzyForm = fuzzyForm.replace('www.', '')
       // check against fuzzylist
-      const levenshteinMatched = this.fuzzylist.find((targetParts) => {
-        const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
-        const distance = levenshtein.get(fuzzyForm, fuzzyTarget)
-        return distance <= this.tolerance
-      })
-      if (levenshteinMatched) {
-        const match = domainPartsToDomain(levenshteinMatched)
-        return { type: 'fuzzy', result: true, match }
+      function levenshteinMatched(fuzzylist, tolerance) {
+        var shortestfuzzy
+        var shortestlength = 15
+        fuzzylist.forEach((targetParts) => {
+          const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
+          const distance = levenshtein.get(fuzzyForm, fuzzyTarget)
+          if (distance <= shortestlength) {
+            shortestfuzzy = domainPartsToDomain(targetParts)
+            shortestlength = distance
+          }
+        })
+        if (shortestlength <= tolerance) {
+          return { result: true, editdistance: shortestlength, domain: shortestfuzzy }
+        }
+        else {
+          return { result: false }
+        }
+      }
+      var fuzzyRes = levenshteinMatched(this.fuzzylist, this.tolerance)
+      if (fuzzyRes.result) {
+        return { type: 'fuzzy', result: true, input: domain, editdistance: fuzzyRes.editdistance, match: fuzzyRes.domain }
       }
     }
-
     // matched nothing, PASS
-    return { type: 'all', result: false }
+    return { type: 'all', result: false, input: domain }
   }
 
 }
