@@ -352,6 +352,7 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "bittrex-sigin.com",
     "safe.justgeteth.com",
     "promotion-eth.net",
     "eth-airdrop.info",
