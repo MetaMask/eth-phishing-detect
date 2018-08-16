@@ -352,6 +352,14 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "coinbas-esignin.com",
+    "ee-myetherwallet-un.com",
+    "myehterwallete.com",
+    "myethervvalllett.com",
+    "myetherwallet.api20.icu",
+    "myethforkwallet.com",
+    "myethirwaliet.info",
+    "myetpwallet.com",
     "bittrex-sigin.com",
     "safe.justgeteth.com",
     "promotion-eth.net",
