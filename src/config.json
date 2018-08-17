@@ -352,6 +352,10 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "musk-air.org",
+    "safe-claims.info",
+    "bitstamp.pw",
+    "binance-web.com",
     "eth-club.club",
     "ethgiving.000webhostapp.com",
     "mediumapp.org",
