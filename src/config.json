@@ -352,6 +352,10 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "walletverify.info",
+    "myetherwallet.com.walletverify.info",
+    "myetherwwllet.github.io",
+    "myethforkwallet.com",
     "eth-secure.top",
     "freetokens.online",
     "ether-promo.biz",
