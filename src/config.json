@@ -356,6 +356,9 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "tokensale.ws",
+    "google.com.tokensale.ws",
+    "google-coin.io",
     "airdrop-binance.com",
     "auroradao.co.uk",
     "binanceethereum.com",
