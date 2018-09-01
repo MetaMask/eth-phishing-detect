@@ -358,6 +358,10 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "ethertoken.online", 
+    "mywindorwallert.space",
+    "binance-ether.org",
+    "neostracker.com",
     "elonmusk.ltd",
     "elonmusk.fund",
     "loginbinance-com.umbler.net",
