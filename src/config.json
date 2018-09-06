@@ -362,6 +362,17 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "medium-io.site",
+    "claim.safepaycoins.com",
+    "safepaycoins.com",
+    "airdrop-exchange.com",
+    "secure.eth-claim.online",
+    "eth-claim.online",
+    "airdrops.investments",
+    "medium.in.net",
+    "eth5321left.pw",
+    "send-transaction.online",
+    "medium-smartcontract.space",
     "access-myetherwallet.com",
     "mew-myetherwallet.com",
     "meythereumwallet.com",
