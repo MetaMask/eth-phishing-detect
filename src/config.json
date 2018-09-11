@@ -362,6 +362,9 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "medium.com.7a4c7b234069.site",
+    "etherium.org.7a4c7b234069.site",
+    "7a4c7b234069.site",
     "elctrurn.org",
     "jaxx.one",
     "lkraken.xbtxv.com",
