@@ -362,6 +362,12 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "bonus.client-stellarterm.com",
+    "client-stellarterm.com",
+    "mixprize.cn",
+    "medium-secure.com",
+    "ginexis.blogspot.com",
+    "giftsatoshi.space",
     "myethcrwallet.net",
     "myetherewa11ets.com",
     "mvyetherwallet.com",
