@@ -362,6 +362,8 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "ubex.us",
+    "bnbdex-ethcampaign.com",
     "binance-ether.online",
     "binance.win",
     "binanceethevent.net",
