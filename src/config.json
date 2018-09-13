@@ -362,6 +362,13 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "coinbasesecuritytokens.com",
+    "coinbasepay.info",
+    "hitbtcrecovery.com",
+    "hitbtc-adv.com",
+    "gemini-wallet.com",
+    "gemini2fa.com",
+    "geminiaccount.com",
     "binantlabsinfo.com",
     "binanetlabsinfo.com",
     "mymonerocom.com",
