@@ -362,6 +362,11 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "cryptoeth.live",
+    "crypto-win.club",
+    "crypto-medium.com",
+    "getairdrop.eu",
+    "sending-smartcontract.website",
     "idex-market.exchange",
     "protect.minedcoins.online",
     "minedcoins.online",
