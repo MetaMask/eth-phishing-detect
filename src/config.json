@@ -362,6 +362,12 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "medium-coinbaseblog.tumblr.com",
+    "safe.geteasycrypto.com",
+    "geteasycrypto.com",
+    "lixozy.blogspot.com",
+    "eloncrypto.info",
+    "mediumcoinbase.tumblr.com",
     "cryptoeth.live",
     "crypto-win.club",
     "crypto-medium.com",
