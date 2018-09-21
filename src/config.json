@@ -367,6 +367,8 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "bittcrex.com",
+    "myetherwallet-knt.space",
     "myetherwallet-knc.space",
     "etherdelta.press",
     "xn--paxfl-nva.com",
