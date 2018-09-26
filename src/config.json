@@ -367,6 +367,12 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "myetnerwallet.com.send-status.info",
+    "send-status.info",
+    "paxful.com.pl",
+    "myetherwallet-id.space",
+    "eth-databasecontract.website",
+    "geteos.eu",
     "binance-campaign.info",
     "binance-campaign.site",
     "binance-exchange.cricket",
