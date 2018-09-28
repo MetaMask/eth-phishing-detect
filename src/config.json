@@ -367,6 +367,10 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "bjttrex.com",
+    "id-ex.market",
+    "iidex-market.eu",
+    "myetherwallet.biz",
     "myetherwallet.auth.slgnmsg.info",
     "slgnmsg.info",
     "spectrocoinlog-in.com",
