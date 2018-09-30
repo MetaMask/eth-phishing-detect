@@ -367,6 +367,8 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "idex.auroradao.market",
+    "auroradao.market",
     "bnbdecentralizedcompetition.com",
     "bnbdecentralizedcompetition.info",
     "bnbdecentralizedevent.info",
@@ -375,7 +377,6 @@
     "bnbethereumairdroppevent.com",
     "bortnarnce.com",
     "check1.pw",
-    "decentralizedbitcoincampaign.info",
     "decentralizedspecialevent.info",
     "mniyehtcwalliot.com",
     "mnyicthervallat.com",
