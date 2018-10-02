@@ -368,6 +368,8 @@
     "orionprotocol.io"
   ],
   "blacklist": [
+    "tron-network.info",
+    "electrumwallet.org",
     "cew.safewallet.replayattack.us",
     "replayattack.us",
     "medium.com.7t23-srv.site",
