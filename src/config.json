@@ -1,3 +1,4 @@
+
 {
   "version": 2,
   "tolerance": 2,
@@ -397,6 +398,11 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "cutduct.com",
+    "myetherwallett.tech",
+    "mymonero.me",
+    "xn--dex-fkb.market",
+    "xn--myetherwale-z3b32c.com",
     "binance-dx.org",
     "coinbase.markets",
     "localbitcoins-4f.com",
