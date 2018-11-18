@@ -1053,3 +1053,7 @@
 0.0.0.0 xn--mtherwallet-z19ex1a.com
 0.0.0.0 dfinity.org.in
 0.0.0.0 tokenpublicsale.com
+0.0.0.0 dfinity.ml
+0.0.0.0 dfnity.org
+0.0.0.0 dfinitydrop.ml
+0.0.0.0 blocknux.com

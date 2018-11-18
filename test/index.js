@@ -16,8 +16,8 @@ const remoteBlacklistException = ['bittreat.com']
 
 // load MEW blacklist
 mapValues({
-  mewBlacklist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/urls/urls-darklist.json',
-  mewWhitelist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/urls/urls-lightlist.json',
+  mewBlacklist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-darklist.json',
+  mewWhitelist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-lightlist.json',
 }, (url, _, cb) => loadRemoteJson(url, cb), (err, results) => {
   if (err) throw err
   // parse results
@@ -112,6 +112,7 @@ function startTests () {
       "steem.io",
       "ethereum1.cz",
       "metalab.co",
+      "originprotocol.com"
     ])
 
     // DO INDEED detect as phishing
@@ -167,6 +168,7 @@ function startTests () {
       "myethermwallet.com",
       "myeth4rwallet.com",
       "myethterwallet.com",
+      "origirprotocol.com"
     ])
 
     // etc...
