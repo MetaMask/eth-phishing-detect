@@ -399,6 +399,11 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "dexairdropevent.com",
+    "eth.tronnetwork.pw",
+    "btc.tronnetwork.pw",
+    "tronnetwork.pw",
+    "pool-neo.blogspot.com",
     "lbexm.com", 
     "lbexmarnet.com", 
     "lbexmet.com", 
