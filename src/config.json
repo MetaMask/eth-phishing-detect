@@ -399,6 +399,7 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "stellar-term.store",
     "binance-giveaways.com",
     "btc-verified.com",
     "crypto-giveaways.com",
