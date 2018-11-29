@@ -400,6 +400,10 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "blog.0xproject.co",
+    "0xproject.co",
+    "wallet.pollux.network",
+    "pollux.network",
     "mvelnerwallet.com",
     "multplatforlex.asia",
     "cryptoblackfriday.blogspot.com",
