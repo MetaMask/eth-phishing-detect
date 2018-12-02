@@ -406,6 +406,9 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "xn--tro-rwa.net",
+    "erc-20.myetherwallet.bonus.tokens-mew.com",
+    "tokens-mew.com",
     "binance-home-app.com",
     "binance-il.com",
     "binance.cricket",
