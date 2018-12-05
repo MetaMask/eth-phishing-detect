@@ -14,6 +14,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "coindesk-email.com",
     "buycrypto.gr",
     "atfinity.io",
     "atfinity.de",
@@ -2192,7 +2193,6 @@
     "myvolt.site",
     "coindesk-login.com",
     "wwwcoindesk.com",
-    "coindesk-email.com",
     "xn--condesk-gw4c.com",
     "coinbase-codepromo.com",
     "coinbase-customer-support.online",
