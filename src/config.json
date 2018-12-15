@@ -417,6 +417,9 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "coinbase.pro-xca.com",
+    "pro-xca.com",
+    "awx-ly.store",
     "binance-dex.life",
     "binance-dex.live",
     "binance-dexonline.info",
