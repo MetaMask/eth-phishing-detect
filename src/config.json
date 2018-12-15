@@ -417,6 +417,9 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "doublecoinio.jdevcloud.com",
+    "mediium.org",
+    "myetherwallet-be.space",
     "binance-dexbeta.net",
     "bittrex-rf.com",
     "bittrex-rx.com",
