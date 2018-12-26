@@ -420,6 +420,12 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "coinbasedexio.online",
+    "myetherwallet-ico.space",
+    "myetherwallet-xo.space",
+    "myetherwellet.cc",
+    "trezor.ltd",
+    "user.paxfulreports.com",
     "crypto-positive.club",
     "erc-20-tokens-gift.com",
     "trustwallet.com.erc-20-tokens-gift.com",
