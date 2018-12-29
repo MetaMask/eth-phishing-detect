@@ -420,6 +420,13 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "cash-bitcoin.online",
+    "yobitex.info",
+    "yobit-admin.net",
+    "yobit--net.com",
+    "supportyobit.net",
+    "xn--ybit-gra.net",
+    "xn--yobt-sya.net",
     "bankcor.network",
     "bankor.network",
     "binance-tr.com",
