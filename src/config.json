@@ -421,6 +421,10 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "2fa-myetherwallet.com",
+    "blocktower.info",
+    "myetherwallet-eb.space",
+    "trezor-shop.org",
     "hydroproject.io",
     "rnyetherwallet.site",
     "xn--mythrwllt-576dqjcf.com",
