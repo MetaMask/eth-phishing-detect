@@ -421,6 +421,8 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "idex.ru.com",
+    "hydroproject.io",
     "2fa-myetherwallet.com",
     "blocktower.info",
     "myetherwallet-eb.space",
