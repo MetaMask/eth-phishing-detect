@@ -421,6 +421,7 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "idex.ru.com",
     "2fa-myetherwallet.com",
     "blocktower.info",
     "myetherwallet-eb.space",
