@@ -421,6 +421,8 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "bitmartpro.live",
+    "etcvwallet.com",
     "coinibase.pro", 
     "myetherwallet-ne.space", 
     "trezor-sales.online",
