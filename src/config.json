@@ -423,6 +423,9 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "ethnowawallet.com", 
+    "myetherwallet-dfz.space", 
+    "sdf34myetherwallet.site",
     "wallet.bancor.network.xbancor.online",
     "xbancor.online",
     "23423myetherwallet.site",
