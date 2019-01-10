@@ -423,6 +423,8 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "wallet.bancor.network.xbancor.online",
+    "xbancor.online",
     "23423myetherwallet.site",
     "33333myetherwallet.site",
     "44332myetherwallet.site",
