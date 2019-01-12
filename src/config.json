@@ -423,6 +423,7 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "myetcvwallet.com",
     "wallet.hydroproject.io",
     "hydroprotocol.tech",
     "etcv-wallet.com",
