@@ -423,6 +423,7 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "coinbvse.com",
     "bancor.network.xbancor.online",
     "binancegift.online",
     "bitcoincoinbase.top",
