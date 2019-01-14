@@ -423,6 +423,8 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "dex-hbiglobal.info",
+    "xn--wvww-krakn-5q3e.com",
     "bancor.network.xbancor.online",
     "binancegift.online",
     "bitcoincoinbase.top",
