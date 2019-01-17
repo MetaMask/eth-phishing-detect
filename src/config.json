@@ -423,6 +423,9 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "dexchainlaunchpad.com",
+    "ethgws.com",
+    "xpro.icu",
     "airdropcampaign.com",
     "bttlaunchpad.com",
     "client-wavesx.com",
