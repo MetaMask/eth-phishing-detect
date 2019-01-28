@@ -424,6 +424,9 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "xn--bttorrent-54a.com",
+    "btcaim.com",
+    "bizzilion.com",
     "seth-transaction.info",
     "cryptocreditfoundation.com",
     "circlemix.io",
