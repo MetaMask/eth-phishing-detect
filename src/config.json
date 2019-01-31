@@ -424,6 +424,7 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "stellar-lightning.org",
     "xllwallet.com",
     "idexmarket.website",
     "cryptoexcoins.com",
