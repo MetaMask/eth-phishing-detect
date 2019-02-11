@@ -431,6 +431,8 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "ldex.exchange",
+    "bittrex-m.com",
     "rnuathervvalfet.com",
     "spacex.promo",
     "paxful.com.ru",
