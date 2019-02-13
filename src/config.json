@@ -431,6 +431,9 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "enjin.pro",
+    "tronxwallet.com",
+    "tronxcash.com",
     "electrumupgrade.org",
     "wwwmycrypto.com",
     "coindesk.me.16640.aqq.ru",
