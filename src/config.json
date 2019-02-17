@@ -437,6 +437,13 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "myetherwallet.com.access-wallet.info",
+    "access-wallet.info",
+    "electrumfix.com",
+    "electrumsource.org",
+    "bltaddress.org",
+    "cryptoxcash.com",
+    "cryptonback.com",
     "binannn.blogspot.com",
     "binanxrp.blogspot.com",
     "unfreeze-paxful.com",
