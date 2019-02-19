@@ -437,6 +437,9 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "myelhitorwailct.com",
+    "vintage-myethereswallet.com",
+    "bitcoin-mixer.tk",
     "46.226.108.171:8000",
     "bancor.network.sign-in-by-wallet.event-distributors.com",
     "bancor.network.sign-in-by-wallet.members-gift.com",
