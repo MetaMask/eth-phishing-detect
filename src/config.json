@@ -437,6 +437,17 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "bittrex-login.inter-cliente.online",
+    "inter-cliente.online",
+    "store-trezor.com",
+    "store-trezor.org",
+    "storetrezor.com",
+    "trezor-shops.com",
+    "trezor-wallet.info",
+    "wallet-trezor.info",
+    "trezor-shops.com",
+    "wallets-trezor.ltd",
+    "store-trezor.eu",
     "myelhitorwailct.com",
     "vintage-myethereswallet.com",
     "bitcoin-mixer.tk",
