@@ -437,6 +437,7 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "fetchai.org",
     "electrumhome.org",
     "xn--myethewalt-zmb75bgl.com",
     "vintaqe-myetherwallet.com",
