@@ -437,6 +437,11 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "electrum.org.uk",
+    "rnyuthevallet.xyz",
+    "fetch-ai.net",
+    "paxfull.ga",
+    "musk.center",
     "telegram.systems",
     "fetchai.co",
     "fetchai.org",
