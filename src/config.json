@@ -437,6 +437,7 @@
     "etherspin.co"
   ],
   "blacklist": [
+    "binance-testnet.site",
     "monero-rings.org",
     "myxrmwallet.com",
     "rnyuthewallet.xyz",
