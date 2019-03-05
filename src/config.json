@@ -444,6 +444,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "paxfulconfirmation.com",
     "p-eos.one",
     "idex.website",
     "x-crypto.info",
