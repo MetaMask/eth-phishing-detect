@@ -444,6 +444,10 @@
     "actua.ad"
   ],
   "blacklist": [
+    "wallet.elitetreum.com",
+    "elitetreum.com",
+    "dogx.dog",
+    "cryptoxinvest.com",
     "paxfulconfirmation.com",
     "p-eos.one",
     "idex.website",
