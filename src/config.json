@@ -444,6 +444,8 @@
     "actua.ad"
   ],
   "blacklist": [
+    "celer.space",
+    "launchpad.celer.space",
     "wallet.elitetreum.com",
     "elitetreum.com",
     "dogx.dog",
