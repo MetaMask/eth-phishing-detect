@@ -445,6 +445,8 @@
     "actua.ad"
   ],
   "blacklist": [
+    "electrumproject.org",
+    "idex.money",
     "celerc.network",
     "kraken-com.ga",
     "exoduswallet.online",
