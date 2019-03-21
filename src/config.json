@@ -445,6 +445,9 @@
     "actua.ad"
   ],
   "blacklist": [
+    "wbscoins.com",
+    "neotracker.me",
+    "gift-wallet-stellar.org",
     "eth.elon-musk.space",
     "btc.elon-musk.space",
     "elon-musk.space",
