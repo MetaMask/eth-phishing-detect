@@ -445,6 +445,11 @@
     "actua.ad"
   ],
   "blacklist": [
+    "eth.elon-musk.space",
+    "btc.elon-musk.space",
+    "elon-musk.space",
+    "rnuathervaltet.com",
+    "rnyetherwaliet.com",
     "celer.work",
     "electrumproject.org",
     "idex.money",
