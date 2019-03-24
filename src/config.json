@@ -445,6 +445,9 @@
     "actua.ad"
   ],
   "blacklist": [
+    "usddex.io",
+    "mithril.pro",
+    "cryptoxfan.website",
     "wbscoins.com",
     "neotracker.me",
     "gift-wallet-stellar.org",
