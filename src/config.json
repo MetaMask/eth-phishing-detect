@@ -445,6 +445,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "official-trezor.cc",
     "usddex.io",
     "mithril.pro",
     "cryptoxfan.website",
