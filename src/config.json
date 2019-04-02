@@ -446,6 +446,14 @@
     "actua.ad"
   ],
   "blacklist": [
+    "coinbase-getcrypto.890m.com",
+    "bithextrade.com",
+    "matic.work",
+    "xn--bttrx-y3a5604c.com",
+    "blockchain-130.ru",
+    "binance-testnet.host",
+    "binance-testnet.fun",
+    "binance-dextestnet.site",
     "rnuathervatlet.com",
     "myetherwallet-bonus.info",
     "exodus-support.com",
