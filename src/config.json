@@ -446,6 +446,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "ethers.today",
     "bitcoinru-wallet.site",
     "bitcoin24-wallet.site",
     "bitcoin-walletru.site",
