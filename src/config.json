@@ -446,6 +446,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "dextestnet.com",
     "drep-wallet.com",
     "updatebinance.com",
     "myetherwallet-admin.com",
