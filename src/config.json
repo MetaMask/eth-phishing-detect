@@ -446,6 +446,11 @@
     "actua.ad"
   ],
   "blacklist": [
+    "dex.binance.org.nz",
+    "binance.org.nz",
+    "rnyatharwellat.com",
+    "get-xlm-stellar.org",
+    "kartiy.com",
     "dextestnet.com",
     "drep-wallet.com",
     "updatebinance.com",
