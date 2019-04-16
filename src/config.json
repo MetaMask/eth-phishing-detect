@@ -453,6 +453,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "bin-dex.club",
     "claim-token-dgtx.com",
     "digitexfutures.com.claim-token-dgtx.com",
     "dex-launch.com",
