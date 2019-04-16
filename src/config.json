@@ -453,6 +453,8 @@
     "actua.ad"
   ],
   "blacklist": [
+    "claim-token-dgtx.com",
+    "digitexfutures.com.claim-token-dgtx.com",
     "dex-launch.com",
     "dexbetalaunchcampaign.com",
     "bitcoin-btc-adder.com",
