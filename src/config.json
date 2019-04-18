@@ -453,6 +453,9 @@
     "actua.ad"
   ],
   "blacklist": [
+    "xrp-ripple.org",
+    "idex.dev",
+    "get-ltc-now.online",
     "hellogoldcontract.com",
     "the-spectrumnetwork.com",
     "paxfuiverify.info",
