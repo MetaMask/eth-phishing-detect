@@ -14,6 +14,8 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "binance.cloud",
+    "binance.vision",
     "infinity.cm",
     "sccrypto.net",
     "crypto.ie",
@@ -3326,7 +3328,6 @@
     "trustwallet.co.uk",
     "binance-event.com",
     "binance-labs.com",
-    "binance.cloud",
     "binance.com986213.ga",
     "binnance24.com",
     "bittrex-login.accountt-apps.com",
