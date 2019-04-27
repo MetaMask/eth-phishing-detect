@@ -453,6 +453,9 @@
     "actua.ad"
   ],
   "blacklist": [
+    "microtestdigitalagency.host",
+    "bitcointoolmining.com",
+    "bitcoin-doubler.us",    
     "atomicwallet.tech",
     "idex.cash",
     "ripplebounty.blogspot.com",
