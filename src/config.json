@@ -455,6 +455,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "bin-testnet.com",
     "4-xrp.com",
     "live-ethers.com",
     "coinmining.website",
