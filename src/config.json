@@ -455,6 +455,9 @@
     "actua.ad"
   ],
   "blacklist": [
+    "coinpromo.fund",
+    "bitcoin-btc-qr-code-generator.com",
+    "thundercore.space",
     "xn--mrcatox-bya.com",
     "trustswallet.xyz",
     "electrum.la",
