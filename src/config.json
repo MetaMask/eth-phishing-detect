@@ -455,6 +455,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "client-tezbox.com",
     "binance.bintestnet.com",
     "bintestnet.com",
     "ico-samsung.org",
