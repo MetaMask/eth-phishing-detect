@@ -455,6 +455,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "mybitcoinqrcode.com",
     "client-tezbox.com",
     "binance.bintestnet.com",
     "bintestnet.com",
