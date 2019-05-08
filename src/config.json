@@ -455,6 +455,9 @@
     "actua.ad"
   ],
   "blacklist": [
+    "official-elon.space",
+    "idexmartk.net",
+    "airdrop-running.info",
     "mybitcoinqrcode.com",
     "client-tezbox.com",
     "binance.bintestnet.com",
