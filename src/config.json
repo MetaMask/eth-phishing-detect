@@ -455,6 +455,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "ethmarket.store",
     "btc-pro.co",
     "platform-bitmex.com",
     "constantinoplehardfork.cf",
