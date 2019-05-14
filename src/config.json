@@ -455,6 +455,9 @@
     "actua.ad"
   ],
   "blacklist": [
+    "btc-pro.co",
+    "platform-bitmex.com",
+    "constantinoplehardfork.cf",
     "elon-gifting.website",
     "tesla3.org",
     "ethnocrypt.com",
