@@ -455,6 +455,8 @@
     "actua.ad"
   ],
   "blacklist": [
+    "blockchainxyz.000webhostapp.com",
+    "blockchainhacker.net",
     "binance-zendesk.net",
     "cashbit.world",
     "miningbanking.com",
