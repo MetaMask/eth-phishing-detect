@@ -456,6 +456,8 @@
     "actua.ad"
   ],
   "blacklist": [
+    "dextestnet-binance.com",
+    "dexbinance.in",
     "myehtervallet.com",
     "receive-ethereum.com",
     "goxtrade.com",
