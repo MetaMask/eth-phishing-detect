@@ -456,6 +456,11 @@
     "actua.ad"
   ],
   "blacklist": [
+    "news-bnb.com",
+    "origin.foundation",
+    "cloudtokenexchange.com",
+    "blockchaincomexplorer.z13.web.core.windows.net",
+    "cryptotronx.com",
     "xn--coinbse-dwa.com",
     "no-replycoinbase.com",
     "hmrcmeclaim.com",
