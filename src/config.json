@@ -456,6 +456,9 @@
     "actua.ad"
   ],
   "blacklist": [
+    "com-eth.top",
+    "binance.com-eth.top",
+    "binance-trade.com",
     "musk-event.info",
     "binance-presents.fund",
     "airdrop.center",
