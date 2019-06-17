@@ -456,6 +456,8 @@
     "actua.ad"
   ],
   "blacklist": [
+    "coinexminer.site",
+    "bit-donor.com",
     "bnb-launch.com",
     "mediumcdn.today",
     "mcafee.crypto-airdrop.space",
