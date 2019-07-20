@@ -473,6 +473,10 @@
     "actua.ad"
   ],
   "blacklist": [
+    "binance2yo.com",
+    "mybinance.net",
+    "localbitcoins.com.digicerts.live",
+    "20eth.org",
     "binclic.com",
     "binancepro.epizy.com",
     "mcafee-official-comeback.netlify.com",
