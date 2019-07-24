@@ -473,6 +473,12 @@
     "actua.ad"
   ],
   "blacklist": [
+    "bakkt-btc-event.netlify.com",
+    "buylibracoins.com",
+    "mcafee-official.net",
+    "mcafee-eth.netlify.com",
+    "mcafee-btc.netlify.com",
+    "calibra-ico.net",
     "tron-official-btc-promo.netlify.com",
     "crypto-promo-get.tech",
     "tron-foundation-redeem.netlify.com",
