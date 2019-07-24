@@ -473,6 +473,9 @@
     "actua.ad"
   ],
   "blacklist": [
+    "calibra-token.com",
+    "calibraico.com",
+    "calibra-ico.com",
     "bakkt-btc-event.netlify.com",
     "buylibracoins.com",
     "mcafee-official.net",
