@@ -474,6 +474,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "drop-crypto.com",
     "coinbasetop.com",
     "coinbase.promo",
     "100kbtc.com",
