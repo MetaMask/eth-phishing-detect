@@ -475,6 +475,8 @@
     "actua.ad"
   ],
   "blacklist": [
+    "coinbase-drop.com",
+    "teamofbinance.com",
     "neoaugust.blogspot.com",
     "binance.jerseyexchange.site",
     "jerseyexchange.site",
