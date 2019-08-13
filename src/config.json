@@ -475,6 +475,10 @@
     "actua.ad"
   ],
   "blacklist": [
+    "ethereum-mixer.org",
+    "feathercoin.top",
+    "myethdex.com",
+    "ethcombo.com",
     "locaibitcoins.net",
     "giveaway-transfer.com",
     "decentralized-exchange.info",
