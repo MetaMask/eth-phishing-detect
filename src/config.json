@@ -476,6 +476,9 @@
     "actua.ad"
   ],
   "blacklist": [
+    "forkdelta.id",
+    "forkdelta.co.uk",
+    "forkdelta.club",
     "ethereum-mixer.org",
     "feathercoin.top",
     "myethdex.com",
