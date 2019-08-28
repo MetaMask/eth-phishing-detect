@@ -483,6 +483,11 @@
     "actua.ad"
   ],
   "blacklist": [
+    "btcandeth.com",
+    "dropkraken.com",
+    "binance-get.org",
+    "project2019.services",
+    "bloclkchain.net",
     "coinbase-prize.com",
     "idex.net.ru",
     "gram-chain.com",
