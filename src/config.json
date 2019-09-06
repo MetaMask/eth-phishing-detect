@@ -483,6 +483,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "trezor.blog",
     "doubleinv.com",
     "medium-crypto.xyz",
     "idtex.market",
