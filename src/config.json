@@ -484,6 +484,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "atlantis-wallet.com",
     "go-testnet.com",
     "info-dex.com",
     "biboxgive.com",
