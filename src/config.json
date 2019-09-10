@@ -484,6 +484,7 @@
     "actua.ad"
   ],
   "blacklist": [
+    "go-testnet.com",
     "info-dex.com",
     "biboxgive.com",
     "toreovonline.uk",
