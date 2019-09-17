@@ -485,6 +485,9 @@
     "aditus.io"
   ],
   "blacklist": [
+    "ddexbit.com",
+    "secure-ledger.com",
+    "ethereumatlantis.network",
     "btcethgift.com",
     "blockkchain.ru",
     "login.bllocklnain.com",
