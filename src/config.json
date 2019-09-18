@@ -485,6 +485,9 @@
     "aditus.io"
   ],
   "blacklist": [
+    "wallet.my-trezor.com",
+    "my-trezor.com",
+    "snegir-shop.ru",
     "tokenairdrops.net",
     "idexmarket.info",
     "xn--localitcoins-bh4f.net",
