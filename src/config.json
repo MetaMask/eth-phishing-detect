@@ -485,6 +485,8 @@
     "aditus.io"
   ],
   "blacklist": [
+    "ledger-live.co",
+    "ledger-ad.com",
     "wallet.my-trezor.com",
     "my-trezor.com",
     "snegir-shop.ru",
