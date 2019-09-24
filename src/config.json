@@ -485,6 +485,10 @@
     "aditus.io"
   ],
   "blacklist": [
+    "ltdex.market",
+    "dogechain.org",
+    "exodus.icu",
+    "ton-telegram.net",
     "freebakkt.com",
     "libratokensale.com",
     "getbabb-claims.exclusive-extra-bonuses.com",
