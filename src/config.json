@@ -501,6 +501,8 @@
     "aditus.io"
   ],
   "blacklist": [
+    "muskbit.com",
+    "blockchain5th.com",
     "ltdex.market",
     "dogechain.org",
     "exodus.icu",
