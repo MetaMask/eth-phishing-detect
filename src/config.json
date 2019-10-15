@@ -502,6 +502,9 @@
     "aditus.io"
   ],
   "blacklist": [
+    "eth-charity.tech",
+    "tonpresale.com",
+    "ethget.org",
     "ildex.host",
     "blittrex.intrenational.com",
     "lcgin-blockchian.com",
