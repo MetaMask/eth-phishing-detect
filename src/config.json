@@ -502,6 +502,15 @@
     "aditus.io"
   ],
   "blacklist": [
+    "chianlink.io",
+    "wallet.chianlink.io",
+    "claimlink.org",
+    "wallet.chianlink.org",
+    "chianlink.org",
+    "wallet.xn--chainlik-o99c.com",
+    "xn--chainlik-o99c.com",
+    "wallet.chianlink.com",
+    "chianlink.com",
     "earnxrp.live",
     "tron-network.live",
     "btc-titan.com",
