@@ -75,6 +75,7 @@
     "ohmycrypto.news",
     "aureus.cl",
     "audius.de",
+    "ethplode.org",
     "sfcrypto.co",
     "alytus.lt",
     "nbcrypto.eu",
@@ -502,6 +503,7 @@
     "aditus.io"
   ],
   "blacklist": [
+    "ethplode.live",
     "mygram.pro",
     "gramsale.org",
     "mc2020get.com",
