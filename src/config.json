@@ -514,6 +514,17 @@
     "aditus.io"
   ],
   "blacklist": [
+    "margineth.online",
+    "bloom.reward-programs.erc20-tokens.com",
+    "erc20-tokens.com",
+    "exchange.bnbdex.top",
+    "bnbdex.top",
+    "wallet-thetatoken-extrabonuses.000webhostapp.com",
+    "wallet-thetatoken-claim-extra-bonuses.000webhostapp.com",
+    "wallet-thetatoken-bonuses.000webhostapp.com",
+    "wallet-thetatoken-extrabonuses-erc20.000webhostapp.com",
+    "get-extra.tk",
+    "next.get-extra.tk",
     "myetherwallet-getfreetoken.000webhostapp.com",
     "get-extra.ml",
     "myetherwallet.rekllama.com",
