@@ -514,6 +514,8 @@
     "aditus.io"
   ],
   "blacklist": [
+    "coinxback.com",
+    "cryptocloudx.com",    
     "saitodai.app",
     "cryptoback.org",
     "trezor.bz",
@@ -593,7 +595,6 @@
     "beentrade.org",
     "coinspin.net",
     "bitlare.com",
-    "cryptocloudx.com",
     "uni-pouch.com",
     "elon-get.com",
     "lite.foundation",
