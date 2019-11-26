@@ -514,6 +514,7 @@
     "aditus.io"
   ],
   "blacklist": [
+    "saitodai.app",
     "cryptoback.org",
     "trezor.bz",
     "wallet.trezor.bz",
