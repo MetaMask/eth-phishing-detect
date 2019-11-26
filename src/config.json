@@ -513,6 +513,7 @@
     "aditus.io"
   ],
   "blacklist": [
+    "saitodai.app",
     "3mdl.pw",
     "trezor-info-wallet.musicfestes.com",
     "muskbonus.info",
@@ -9992,6 +9993,5 @@
     "bcrypto.club",
     "airdrop-bitnational.com",
     "wasabibitcoinwallet.org"
-    "saitodai.app"
   ]
 }
