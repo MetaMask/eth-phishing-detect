@@ -514,6 +514,9 @@
     "aditus.io"
   ],
   "blacklist": [
+    "myetherwallet-getextratoken.000webhostapp.com",
+    "triezor.io",
+    "ldexmarket.ru.com",
     "margineth.online",
     "bloom.reward-programs.erc20-tokens.com",
     "erc20-tokens.com",
