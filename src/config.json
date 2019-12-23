@@ -529,6 +529,14 @@
     "aditus.io"
   ],
   "blacklist": [
+    "trezors.io",
+    "blockchainsevent.claim-free-btc.com",
+    "airdrop-stx-blockchain.info",
+    "coinbase-promo.info",
+    "login.lblockhcoin.com",
+    "lblockhcoin.com",
+    "login-bllockchain.com",
+    "brestchange.ru",
     "site-blockchain.jdevcloud.com",
     "myehterwalltet.info",
     "lastchance.tech",
