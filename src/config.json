@@ -532,6 +532,7 @@
     "aditus.io"
   ],
   "blacklist": [
+    "makerdao.tools",
     "tmdl3.company",
     "login-blockchain.com.br",
     "btcgenplus.fr.fo",
