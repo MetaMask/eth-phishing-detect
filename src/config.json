@@ -533,6 +533,7 @@
     "aditus.io"
   ],
   "blacklist": [
+    "lrezor.io",
     "instant2xreward.com",
     "makerdao.click",
     "elonairdrop.com",
