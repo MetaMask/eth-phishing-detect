@@ -533,6 +533,11 @@
     "aditus.io"
   ],
   "blacklist": [
+    "makerdao.one",
+    "migrate.makerdao.one",
+    "makerdao.cash",
+    "migrate.makerdao.cash",
+    "maezawaotoshidama.info",
     "lrezor.io",
     "instant2xreward.com",
     "makerdao.click",
