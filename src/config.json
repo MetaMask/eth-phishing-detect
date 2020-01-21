@@ -12,9 +12,19 @@
     "hederahashgraph.com",
     "auctus.org",
     "etherscan.io",
-    "originprotocol.com"
+    "originprotocol.com",
+    "makerdao.com",
+    "makerfoundation.com",
+    "oasis.app"
   ],
   "whitelist": [
+    "vk.com",
+    "msn.com",
+    "ok.ru",
+    "makerdao.com",
+    "makerfoundation.com",
+    "oasis.app",
+    "mkr.tools",
     "mlcrypt.de",
     "buycrypto.work",
     "metamail.app",
