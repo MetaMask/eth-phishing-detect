@@ -19,6 +19,9 @@
     "mkr.tools"
   ],
   "whitelist": [
+    "vk.com",
+    "msn.com",
+    "ok.ru",
     "makerdao.com",
     "makerfoundation.com",
     "oasis.app",
