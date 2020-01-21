@@ -18,6 +18,7 @@
     "oasis.app"
   ],
   "whitelist": [
+    "oasis.fish",
     "vk.com",
     "msn.com",
     "ok.ru",
