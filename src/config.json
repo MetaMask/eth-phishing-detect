@@ -18,6 +18,7 @@
     "oasis.app"
   ],
   "whitelist": [
+    "oasis.fish",
     "vk.com",
     "alis.to",
     "groasis.investments",
