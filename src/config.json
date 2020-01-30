@@ -18,6 +18,8 @@
     "oasis.app"
   ],
   "whitelist": [
+    "wasi.dev",
+    "nosis.com",
     "odasie.fr",
     "orvis.com",
     "orasio.org",
