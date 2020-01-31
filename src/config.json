@@ -18,6 +18,9 @@
     "oasis.app"
   ],
   "whitelist": [
+    "infinivi.io",
+    "bytetrade.com",
+    "bytetrade.io",
     "wasi.dev",
     "nosis.com",
     "odasie.fr",
@@ -595,9 +598,6 @@
   ],
   "blacklist": [
     "razebit.com",
-    "infinivi.io",
-    "bytetrade.com",
-    "bytetrade.io",
     "cgen.fr.fo",
     "cryptotabscript.online",
     "cryptotabscripts.com",
