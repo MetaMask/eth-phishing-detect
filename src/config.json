@@ -18,6 +18,7 @@
     "oasis.app"
   ],
   "whitelist": [
+    "okasi.me",
     "wasi.dev",
     "nosis.com",
     "odasie.fr",
