@@ -18,6 +18,7 @@
     "oasis.app"
   ],
   "whitelist": [
+    "basic.international",
     "actua.ca",
     "oai.io",
     "yasiv.com",
