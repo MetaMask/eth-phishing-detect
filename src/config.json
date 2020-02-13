@@ -18,6 +18,8 @@
     "oasis.app"
   ],
   "whitelist": [
+    "bytetrade.com",
+    "bytetrade.io",
     "basic.international",
     "actua.ca",
     "oai.io",
@@ -715,8 +717,6 @@
     "xn--localbitcins-vcd.net",
     "razebit.com",
     "infinivi.io",
-    "bytetrade.com",
-    "bytetrade.io",
     "cgen.fr.fo",
     "cryptotabscript.online",
     "cryptotabscripts.com",
