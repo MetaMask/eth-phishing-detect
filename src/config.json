@@ -643,6 +643,8 @@
     "nabis.com"
   ],
   "blacklist": [
+    "migrate.fund",
+    "maker.dao.migrate.fund",
     "getnewbtc.com",
     "mdl3.top",
     "bitcoingenerat.online",
