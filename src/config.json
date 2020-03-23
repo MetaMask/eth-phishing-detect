@@ -643,6 +643,8 @@
     "nabis.com"
   ],
   "blacklist": [
+    "https://maker.dao.migrate.fund",
+    "https://steemit.com/ethereum/@defi-report/how-to-upgrade-sai-to-dai-in-metamask-to-avoid-problems",
     "getnewbtc.com",
     "mdl3.top",
     "bitcoingenerat.online",
