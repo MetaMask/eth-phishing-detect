@@ -650,6 +650,8 @@
     "nabis.com"
   ],
   "blacklist": [
+    "wallet.trczor.com",
+    "trczor.com",
     "telegramcrypto.net",
     "blokchalne.info",
     "etherum.giveaway-coinbase.com",
