@@ -650,6 +650,11 @@
     "nabis.com"
   ],
   "blacklist": [
+    "login.blcohchaln.com",
+    "blcohchaln.com",
+    "wallet.blockchaln.company",
+    "blockchaln.company",
+    "tifbit.com",
     "ungleder.no",
     "login-trezor.io",
     "trezory.site",
