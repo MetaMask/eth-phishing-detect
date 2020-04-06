@@ -650,6 +650,10 @@
     "nabis.com"
   ],
   "blacklist": [
+    "trust-wallet.me",
+    "trustwollet.com",
+    "xn--blnnce-yc8b.com",
+    "coinbase.fund",
     "login.blcohchaln.com",
     "blcohchaln.com",
     "wallet.blockchaln.company",
