@@ -651,6 +651,9 @@
   ],
   "blacklist": [
     "sso-github.com",
+    "glthubs.info"
+    "githb.co",
+    "git-secure-service.in",
     "wallet.terzcr.com",
     "terzcr.com",
     "muskfund.info",
