@@ -650,6 +650,7 @@
     "nabis.com"
   ],
   "blacklist": [
+    "sso-github.com",
     "wallet.terzcr.com",
     "terzcr.com",
     "muskfund.info",
