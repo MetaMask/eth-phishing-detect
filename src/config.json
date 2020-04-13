@@ -651,6 +651,8 @@
     "fscrypto.co"
   ],
   "blacklist": [
+    "leakedbitcoin.excelerate.co.nz",
+    "nixetrade.com",
     "bitcoin.cryptogenerator.live",
     "cryptogenerator.live",
     "ethereum.cryptogenerator.live",
