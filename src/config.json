@@ -651,6 +651,9 @@
     "fscrypto.co"
   ],
   "blacklist": [
+    "bitcoin.cryptogenerator.live",
+    "cryptogenerator.live",
+    "ethereum.cryptogenerator.live",
     "musktesla.press",
     "tesladrops.info",
     "spacexgifts.info",
