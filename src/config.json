@@ -651,6 +651,11 @@
     "fscrypto.co"
   ],
   "blacklist": [
+    "elonlive.org",
+    "promocoinbase.xyz",
+    "myelthermwallet.com",
+    "asset-erc-20-token.com",
+    "daostack.asset-erc-20-token.com",
     "neblidex.xyz",
     "leakedbitcoin.excelerate.co.nz",
     "nixetrade.com",
