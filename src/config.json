@@ -651,6 +651,9 @@
     "fscrypto.co"
   ],
   "blacklist": [
+    "glybit.com",
+    "aprilcontest.tumblr.com",
+    "bezos.xyz",
     "xn--trstwallet-odb.com",
     "10xbitcoin.net.deepprofitstreams.com",
     "elonlive.org",
