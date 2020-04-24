@@ -651,6 +651,9 @@
     "fscrypto.co"
   ],
   "blacklist": [
+    "yolbit.com",
+    "rewards-holders-erc20-tokens.com",
+    "taas.fund.rewards-holders-erc20-tokens.com",
     "spacexgiveaway.com",
     "ethdrop.org",
     "prethbonus.com",
