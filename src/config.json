@@ -651,6 +651,8 @@
     "fscrypto.co"
   ],
   "blacklist": [
+    "metamosk.info",
+    "metamosk.com",
     "yolbit.com",
     "rewards-holders-erc20-tokens.com",
     "taas.fund.rewards-holders-erc20-tokens.com",
