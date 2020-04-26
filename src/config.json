@@ -651,6 +651,8 @@
     "fscrypto.co"
   ],
   "blacklist": [
+    "metamosk.info",
+    "metamosk.com",
     "paubit.com",
     "spacexgives.com",
     "ethereumfond.com",
