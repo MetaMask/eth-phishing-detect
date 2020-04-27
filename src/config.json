@@ -651,6 +651,9 @@
     "fscrypto.co"
   ],
   "blacklist": [
+    "metmamask.com"
+    "metamask.info",
+    "metamask.com",
     "metamosk.info",
     "metamosk.com",
     "paubit.com",
