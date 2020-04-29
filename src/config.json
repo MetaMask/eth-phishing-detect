@@ -651,6 +651,9 @@
     "fscrypto.co"
   ],
   "blacklist": [
+    "faobit.com",
+    "teslapromo.org",
+    "xlmget.org",
     "metmamask.com",
     "metamask.info",
     "metamosk.info",
