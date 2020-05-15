@@ -7,13 +7,20 @@ interface checkReturnInterface {
   match?: string;
 }
 
-class PhishingDetector {
+interface optsInterface {
+  whitelist: Array<string>;
+  blacklist: Array<string>;
+  fuzzylist: Array<string>;
+  tolerance: Number;
+}
+
+ class PhishingDetector {
   whitelist: Array<string[]>;
   blacklist: Array<string[]>;
   fuzzylist: Array<string[]>;
   tolerance: Number;
   
-  constructor (opts) {
+  constructor (opts: optsInterface) {
     this.whitelist = processDomainList(opts.whitelist || [])
     this.blacklist = processDomainList(opts.blacklist || [])
     this.fuzzylist = processDomainList(opts.fuzzylist || [])
@@ -41,7 +48,7 @@ class PhishingDetector {
         const fuzzyTarget: string = domainPartsToFuzzyForm(targetParts)
         const distance: Number = levenshtein.get(fuzzyForm, fuzzyTarget)
         return distance <= this.tolerance
-      })
+      })!
       if (levenshteinMatched) {
         const match = domainPartsToDomain(levenshteinMatched)
         return { type: 'fuzzy', result: true, match }
@@ -58,7 +65,7 @@ module.exports = PhishingDetector
 
 // util
 
-function processDomainList (list):Array<string[]> {
+function processDomainList (list:Array<string>):Array<string[]> {
   return list.map(domainToParts)
 }
 

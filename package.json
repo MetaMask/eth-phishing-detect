@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "node test | tap-summary",
-    "ci": "node test | tap-summary --no-progress"
+    "ci": "node test | tap-summary --no-progress",
+    "build": "tsc"
   },
   "author": "kumavis",
   "license": "DBAD",

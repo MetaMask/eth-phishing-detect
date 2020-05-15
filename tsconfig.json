@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "ES6",
+    "experimentalDecorators": true,
+    "declaration": true,
+    "moduleResolution": "node",
+    "strict": true,
+    "resolveJsonModule": true
+  },
+  "exclude": ["./test"]
+}
