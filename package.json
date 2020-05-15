@@ -13,13 +13,16 @@
     "fast-levenshtein": "^2.0.6"
   },
   "devDependencies": {
+    "@types/node": "^14.0.1",
     "async": "^2.5.0",
     "csv-parse": "^4.4.6",
     "isomorphic-fetch": "^2.2.1",
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
     "tap-summary": "^4.0.0",
-    "tape": "^4.8.0"
+    "tape": "^4.8.0",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.2"
   },
   "directories": {
     "test": "test"
