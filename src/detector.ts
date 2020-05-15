@@ -1,8 +1,18 @@
 const levenshtein = require('fast-levenshtein')
 const DEFAULT_TOLERANCE = 3
 
-class PhishingDetector {
+interface checkReturnInterface {
+  type: string;
+  result: boolean;
+  match?: string;
+}
 
+class PhishingDetector {
+  whitelist: Array<string[]>;
+  blacklist: Array<string[]>;
+  fuzzylist: Array<string[]>;
+  tolerance: Number;
+  
   constructor (opts) {
     this.whitelist = processDomainList(opts.whitelist || [])
     this.blacklist = processDomainList(opts.blacklist || [])
@@ -10,7 +20,7 @@ class PhishingDetector {
     this.tolerance = ('tolerance' in opts) ? opts.tolerance : DEFAULT_TOLERANCE
   }
 
-  check (domain) {
+  check (domain: string): checkReturnInterface {
     const source = domainToParts(domain)
 
     // if source matches whitelist domain (or subdomain thereof), PASS
@@ -27,9 +37,9 @@ class PhishingDetector {
       // strip www
       fuzzyForm = fuzzyForm.replace('www.', '')
       // check against fuzzylist
-      const levenshteinMatched = this.fuzzylist.find((targetParts) => {
-        const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
-        const distance = levenshtein.get(fuzzyForm, fuzzyTarget)
+      const levenshteinMatched: Array<string> = this.fuzzylist.find((targetParts) => {
+        const fuzzyTarget: string = domainPartsToFuzzyForm(targetParts)
+        const distance: Number = levenshtein.get(fuzzyForm, fuzzyTarget)
         return distance <= this.tolerance
       })
       if (levenshteinMatched) {
@@ -48,20 +58,20 @@ module.exports = PhishingDetector
 
 // util
 
-function processDomainList (list) {
+function processDomainList (list):Array<string[]> {
   return list.map(domainToParts)
 }
 
-function domainToParts (domain) {
+function domainToParts (domain: string): Array<string> {
   return domain.split('.').reverse()
 }
 
-function domainPartsToDomain(domainParts) {
+function domainPartsToDomain(domainParts: Array<string>): string {
   return domainParts.slice().reverse().join('.')
 }
 
 // for fuzzy search, drop TLD and re-stringify
-function domainPartsToFuzzyForm(domainParts) {
+function domainPartsToFuzzyForm(domainParts: Array<string>): string {
   return domainParts.slice(1).reverse().join('.')
 }
 
@@ -69,7 +79,7 @@ function domainPartsToFuzzyForm(domainParts) {
 //   source: [io, metamask, xyz]
 //   target: [io, metamask]
 //   result: PASS
-function matchPartsAgainstList(source, list) {
+function matchPartsAgainstList(source: Array<string>, list: Array<string[]>) {
   return list.some((target) => {
     // target domain has more parts than source, fail
     if (target.length > source.length) return false
