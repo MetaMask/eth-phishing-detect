@@ -655,6 +655,7 @@
     "divinity.ai"
   ],
   "blacklist": [
+    "giveaway-token-member.com",
     "accountviewer-stellar.com",
     "ledgerslive.web.app",
     "ledgerlivewallet.000webhostapp.com",
