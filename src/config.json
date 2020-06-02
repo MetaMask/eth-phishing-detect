@@ -657,6 +657,10 @@
     "torque.loans"
   ],
   "blacklist": [
+    "kucoin-info.live",
+    "elon.gifts",
+    "simpleswap.org",
+    "getbtcx.com",
     "makerdao.redeem.fund",
     "sai.redeem.fund",
     "redeem.fund",
