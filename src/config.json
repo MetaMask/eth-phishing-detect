@@ -652,7 +652,9 @@
     "cass.ad",
     "nabis.com",
     "fscrypto.co",
-    "divinity.ai"
+    "divinity.ai",
+    "fulcrum.trade",
+    "torque.loans"
   ],
   "blacklist": [
     "librasale.io",
@@ -11038,6 +11040,7 @@
     "bcrypto.club",
     "airdrop-bitnational.com",
     "wasabibitcoinwallet.org",
-    "idex-claim.su"
+    "idex-claim.su",
+    "fulcrum.repair"
   ]
 }
