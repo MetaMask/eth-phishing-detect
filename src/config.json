@@ -657,6 +657,12 @@
     "torque.loans"
   ],
   "blacklist": [
+    "paxful-verifier.com",
+    "paxful-fra.com",
+    "bitoprowallet.000webhostapp.com",
+    "ftx-com-exchange-cryptocurrency.000webhostapp.com",
+    "pionex-com-exchange-giveaway.000webhostapp.com",
+    "paxfulsecured.com",
     "cryptoxluck.com",
     "kucoin-info.live",
     "elon.gifts",
