@@ -660,6 +660,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "teslapayout.com",
     "givetesla.com",
     "teslax.live",
     "ainbit.com",
