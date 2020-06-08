@@ -660,6 +660,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "givetesla.com",
+    "teslax.live",
     "ainbit.com",
     "spacexbtc.net",
     "makerdao.redeem.bz",
