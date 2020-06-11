@@ -660,6 +660,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "max-maicoin-bonusbtc.000webhostapp.com",
     "profittesla.com",
     "teslapayout.com",
     "givetesla.com",
