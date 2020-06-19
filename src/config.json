@@ -660,6 +660,9 @@
     "torque.loans"
   ],
   "blacklist": [
+    "dropelon.co",
+    "btc-event.org",
+    "btcmixer.tech",
     "muskevent.net",
     "muskxdrop.info",
     "musk-give.online",
