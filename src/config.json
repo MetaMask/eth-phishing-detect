@@ -660,6 +660,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "max-maicoin-bonusbtc.000webhostapp.com",
     "fxoption27.com",
     "lcon.foundation",
     "wallet.fantom.link",
