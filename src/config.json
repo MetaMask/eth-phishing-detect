@@ -660,6 +660,12 @@
     "torque.loans"
   ],
   "blacklist": [
+    "electrume.org",
+    "fulcrum.codes",
+    "xn--blocchan-cib7h.com",
+    "coinbiz.me",
+    "fulcrum.repair",
+    "uniswap.services",
     "max-maicoin-bonusbtc.000webhostapp.com",
     "fxoption27.com",
     "lcon.foundation",
@@ -11167,9 +11173,6 @@
     "bcrypto.club",
     "airdrop-bitnational.com",
     "wasabibitcoinwallet.org",
-    "idex-claim.su",
-    "fulcrum.repair",
-    "uniswap.services",
-    "fulcrum.codes"
+    "idex-claim.su"
   ]
 }
