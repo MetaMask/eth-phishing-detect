@@ -660,6 +660,17 @@
     "torque.loans"
   ],
   "blacklist": [
+    "node-binancedex.online",
+    "hexnode.online",
+    "uniswapv2v1.org",
+    "paxfulc.com",
+    "paxful-verified.com",
+    "paxfuloffers.com",
+    "tronscan.me",
+    "tronscan.in",
+    "xn--tronsan-65a.com",
+    "oauth-deriv-binary.website",
+    "paxful-com-login.oauth-deriv-binary.website",
     "electrume.org",
     "fulcrum.codes",
     "xn--blocchan-cib7h.com",
