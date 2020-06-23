@@ -660,6 +660,10 @@
     "torque.loans"
   ],
   "blacklist": [
+    "fulcrum.plus",
+    "eth.fulcrum.plus",
+    "usdc.fulcrum.plus",
+    "dai.usdc.fulcrum.plus",
     "xn--ripp-yva1x.com",
     "ripple.com.bz",
     "chainlinktoken.info",
