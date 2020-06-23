@@ -660,6 +660,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "chainlinktoken.info",
     "node-binancedex.online",
     "hexnode.online",
     "uniswapv2v1.org",
