@@ -660,6 +660,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "0101.systems",
+    "bitcoinblack.cash",
     "xn--rippl-8ra.com",
     "blogstellar.org",
     "claimstellar.com",
