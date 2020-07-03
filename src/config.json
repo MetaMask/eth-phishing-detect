@@ -660,6 +660,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "compoundnode.dev",
     "lumiwalletapp.com",
     "dashwalletapp.com",
     "metamask.ltd",
