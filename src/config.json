@@ -660,6 +660,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "notall.eshost.com.ar",
+    "notallwallet.ml",
     "bavbit.com",
     "tesla-bonus.com",
     "trez0r.com",
