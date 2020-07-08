@@ -660,6 +660,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "avaxweb.typeform.com,
+    "elonx.co",
     "notall.eshost.com.ar",
     "notallwallet.ml",
     "bavbit.com",
