@@ -660,6 +660,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "uniswop.exchange",
     "event-eth.info",
     "fundsretrieve.com",
     "bat-airdrop.com",
