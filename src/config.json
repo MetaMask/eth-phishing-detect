@@ -660,6 +660,9 @@
     "torque.loans"
   ],
   "blacklist": [
+    "event-eth.info",
+    "fundsretrieve.com",
+    "bat-airdrop.com",
     "cryptotabhack.com",
     "freebitgenerator.com",
     "tron-project.com",
