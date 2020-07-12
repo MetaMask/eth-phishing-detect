@@ -660,6 +660,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "uniswapv3.org",
     "uniswop.exchange",
     "event-eth.info",
     "fundsretrieve.com",
