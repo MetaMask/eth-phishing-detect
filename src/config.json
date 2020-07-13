@@ -660,6 +660,10 @@
     "torque.loans"
   ],
   "blacklist": [
+    "tesla3.gifts",
+    "musk-gifts.com",
+    "muskpromotion.com",
+    "musk-coin.com",
     "cardanoevent.org",
     "event-eth.com",
     "adafund.pro",
