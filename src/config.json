@@ -660,6 +660,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "tronairdrop.com",
+    "stellar-limited.com",
     "verify.paxfulsupport.online",
     "paxfulsupport.online",
     "im-creator.com",
