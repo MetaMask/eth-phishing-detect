@@ -660,6 +660,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "verify.paxfulsupport.online",
+    "paxfulsupport.online",
     "im-creator.com",
     "bitcoinmonth-top.info",
     "smartcontractbiz.com",
