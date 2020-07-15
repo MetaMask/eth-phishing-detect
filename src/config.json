@@ -661,6 +661,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "cryptoforhealth.com",
     "xn--binnce-kta.com",
     "xn--blnnce-dd8b.com",
     "node.uniswapv1v2.app",
