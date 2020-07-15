@@ -17,6 +17,7 @@
     "makerfoundation.com"
   ],
   "whitelist": [
+    "uniswap.exchange",
     "auctia.io",
     "sgcrypto.info",
     "mr-crypto.net",
@@ -660,6 +661,13 @@
     "torque.loans"
   ],
   "blacklist": [
+    "xn--binnce-kta.com",
+    "xn--blnnce-dd8b.com",
+    "node.uniswapv1v2.app",
+    "uniswapv1v2.app",
+    "uniswapexchange.online",
+    "xmr-wallet.com",
+    "uniswop.shop",
     "tronairdrop.com",
     "stellar-limited.com",
     "verify.paxfulsupport.online",
