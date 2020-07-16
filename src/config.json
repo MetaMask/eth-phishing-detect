@@ -661,6 +661,11 @@
     "torque.loans"
   ],
   "blacklist": [
+    "fundusdt.com",
+    "v4-antpool.com",
+    "airdrop2020.com",
+    "wozbtcfunds-joinpromotion.com",
+    "btcxevent.com",
     "cryptoforhealth.com",
     "xn--binnce-kta.com",
     "xn--blnnce-dd8b.com",
