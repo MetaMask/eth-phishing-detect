@@ -14,7 +14,8 @@
     "etherscan.io",
     "originprotocol.com",
     "makerdao.com",
-    "makerfoundation.com"
+    "makerfoundation.com", 
+    "fulcrum.trade"
   ],
   "whitelist": [
     "uniswap.exchange",
@@ -11395,6 +11396,7 @@
     "bcrypto.club",
     "airdrop-bitnational.com",
     "wasabibitcoinwallet.org",
-    "idex-claim.su"
+    "idex-claim.su",
+    "fulcrum.click"
   ]
 }
