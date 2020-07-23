@@ -662,6 +662,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "ia601405.us.archive.org",
     "batairdrop.net",
     "makerdaoweb.org",
     "vitalik.top",
