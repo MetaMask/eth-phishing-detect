@@ -662,6 +662,15 @@
     "torque.loans"
   ],
   "blacklist": [
+    "etherscan.io.rewards-user-info.com",
+    "zedxe.com.rewards-user-info.com",
+    "rewards-user-info.com",
+    "multiminer.website",
+    "landcoinlnc.com",
+    "appuniswop.com",
+    "unisvvap.org",
+    "app.unisvvap.org",
+    "uniswapv1v2.org",
     "giveawayairdrop-eth.ga",
     "secretmethodsnow.com",
     "airdropbat.com",
