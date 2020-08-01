@@ -662,6 +662,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "accountviewer.stellar.org.so",
+    "stellar.org.so",
     "giveaway-eth-trustwallets.000webhostapp.com",
     "app-trustwallet.erc20-airdrop.icu",
     "erc20-airdrop.icu",
