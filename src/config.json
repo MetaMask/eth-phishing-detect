@@ -662,6 +662,10 @@
     "torque.loans"
   ],
   "blacklist": [
+    "ethereumupdate.info",
+    "ethereumofficial.org",
+    "social-capital.us",
+    "ethereum.ltda",
     "accountviewer.stellar.org.so",
     "stellar.org.so",
     "giveaway-eth-trustwallets.000webhostapp.com",
