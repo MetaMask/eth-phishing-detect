@@ -662,6 +662,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "uniswapdex.org",
     "ethereumupdate.info",
     "ethereumofficial.org",
     "social-capital.us",
