@@ -21,6 +21,7 @@
   "whitelist": [
     "uniswap.ch",
     "uniswap.io",
+    "uniswap.ninja",
     "unisocks.exchange",
     "unipig.exchange",
     "uniswap.vision",
@@ -676,6 +677,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "xn--unswap-q9a.com",
     "bestchamge.ru",
     "chamathcapital.com",
     "cardano-page.org",
