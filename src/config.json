@@ -677,6 +677,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "metamask.eu",
     "appuniswap.live",
     "xn--unswap-xk8b.com",
     "app.xn--unswap-xk8b.com",
