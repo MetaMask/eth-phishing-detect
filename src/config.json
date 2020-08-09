@@ -678,6 +678,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "exoddus.net",
     "uniswap.net", 
     "uniswap.eu",
     "muskto.fun",
