@@ -679,6 +679,12 @@
     "torque.loans"
   ],
   "blacklist": [
+    "btcsystem-web-app.com",
+    "hederabit.com",
+    "nivbit.com",
+    "kavbit.com",
+    "jocbit.com",
+    "mivbit.com",
     "xn--pxfull-pta.com",
     "trustwalletapp-erc-20-tokens.000webhostapp.com",
     "starlinkbtc.com",
