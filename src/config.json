@@ -679,6 +679,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "appuniswop.site",
+    "unswap.site",
     "btcsystem-web-app.com",
     "hederabit.com",
     "nivbit.com",
