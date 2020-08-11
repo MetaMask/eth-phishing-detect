@@ -679,6 +679,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "cutve.finance",
+    "appuniswop.org",
     "appuniswop.site",
     "unswap.site",
     "btcsystem-web-app.com",
