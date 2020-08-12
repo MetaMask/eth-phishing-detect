@@ -679,6 +679,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "mintable.app",
     "cutve.finance",
     "appuniswop.org",
     "appuniswop.site",
