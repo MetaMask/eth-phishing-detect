@@ -680,6 +680,10 @@
     "torque.loans"
   ],
   "blacklist": [
+    "moonswap.exchange",
+    "xn--uniswp-mta.com",
+    "app.xn--uniswp-mta.com",
+    "org-connect-wallet.com",
     "bizstar.icu",
     "atomicwallet.website",
     "cryptoiqoptions.com",
