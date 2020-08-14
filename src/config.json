@@ -680,6 +680,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "check-ledger.com",
     "moonswap.exchange",
     "xn--uniswp-mta.com",
     "app.xn--uniswp-mta.com",
