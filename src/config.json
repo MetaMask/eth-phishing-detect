@@ -680,6 +680,9 @@
     "torque.loans"
   ],
   "blacklist": [
+    "exoddus.net",
+    "buterin-gold.xyz",
+    "etherh-vitalik.top",
     "check-ledger.com",
     "moonswap.exchange",
     "xn--uniswp-mta.com",
