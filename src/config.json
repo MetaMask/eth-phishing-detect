@@ -680,6 +680,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "buterin-gold.xyz",
+    "etherh-vitalik.top",
     "check-ledger.com",
     "moonswap.exchange",
     "xn--uniswp-mta.com",
