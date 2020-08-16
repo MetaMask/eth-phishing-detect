@@ -680,6 +680,9 @@
     "torque.loans"
   ],
   "blacklist": [
+    "app.unlswap.org",
+    "unlswap.org",
+    "coinbitmex.com",
     "buterin-gold.xyz",
     "etherh-vitalik.top",
     "check-ledger.com",
