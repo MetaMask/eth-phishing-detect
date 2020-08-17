@@ -680,6 +680,12 @@
     "torque.loans"
   ],
   "blacklist": [
+    "app.unjswap.org",
+    "unjswap.org",
+    "uniswap-org.com",
+    "app.uniswap-org.com",
+    "xn--niswap-hq8b.com",
+    "app.xn--niswap-hq8b.com",
     "ethevent.top",
     "crypto-safe.ltd",
     "elonhelp.in",
