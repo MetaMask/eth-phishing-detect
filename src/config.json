@@ -680,6 +680,11 @@
     "torque.loans"
   ],
   "blacklist": [
+    "stellar.org.im",
+    "accountviewer.stellar.org.im",
+    "cdn-stellar.org",
+    "go-stellar.org",
+    "steliar.org",
     "stellar.org.sb",
     "excodus.cf",
     "exodus.cf",
