@@ -680,6 +680,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "stellar.org.sb",
     "excodus.cf",
     "exodus.cf",
     "electrumy.org",
