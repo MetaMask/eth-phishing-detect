@@ -680,6 +680,9 @@
     "torque.loans"
   ],
   "blacklist": [
+    "omg-giveaway.blogspot.com",
+    "uniswap-x.com",
+    "app.uniswap-x.com",
     "stellar.org.im",
     "accountviewer.stellar.org.im",
     "cdn-stellar.org",
