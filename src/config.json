@@ -680,6 +680,13 @@
     "torque.loans"
   ],
   "blacklist": [
+    "ethoff.org",
+    "fulcrum.nu",
+    "eth.fulcrum.nu",
+    "eth-giveaway.top",
+    "vit-ethx.top",
+    "eth-vitya.top",
+    "airdrop-bit.top",
     "cryptogifts.s3.amazonaws.com",
     "xrp-event.com",
     "cryptogifts.s3.us-east-2.amazonaws.com",
