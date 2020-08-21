@@ -680,6 +680,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "cryptogifts.s3.amazonaws.com",
+    "xrp-event.com",
     "cryptogifts.s3.us-east-2.amazonaws.com",
     "xrp-funds.com",
     "omisego-giveaway.blogspot.com",
