@@ -681,6 +681,8 @@
     "torque.loans"
   ],
   "blacklist": [
+    "morphtoken.co",
+    "libraglobalcoin.io",
     "elon2.top",
     "litecoinminer.space",
     "dogecoinminer.space",
