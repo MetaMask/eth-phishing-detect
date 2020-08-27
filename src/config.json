@@ -681,6 +681,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "stellarpay.org",
     "ethbv.com",
     "officialvitalik.com",
     "chainlink-giveaway.blogspot.com",
