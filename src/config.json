@@ -681,6 +681,13 @@
     "torque.loans"
   ],
   "blacklist": [
+    "omgnetwork.info",
+    "atomicweb.network",
+    "wallet.atomicweb.network",
+    "ethfo.com",
+    "tether-mixer.com",
+    "ethereum-giveaway.network",
+    "chainlinksgiveaways.blogspot.com",
     "stellarpay.org",
     "ethbv.com",
     "officialvitalik.com",
