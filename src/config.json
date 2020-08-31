@@ -684,6 +684,9 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "binance.oktaplatform.com",
+    "trustswap-rewards-programs-claims-tokens.com",
+    "freebitcoinmining.website",
     "omgnetwork.info",
     "atomicweb.network",
     "wallet.atomicweb.network",
