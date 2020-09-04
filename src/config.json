@@ -684,6 +684,9 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "trezor.com.se",
+    "restore-ledger.org",
+    "wallet.restore-ledger.org",
     "binance.oktaplatform.com",
     "trustswap-rewards-programs-claims-tokens.com",
     "freebitcoinmining.website",
