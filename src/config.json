@@ -684,6 +684,7 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "swerve-finance.com",
     "sushiswap.blogspot.com",
     "binance-medium.com",
     "ripplebonus.events",
