@@ -19,6 +19,7 @@
     "uniswap.org"
   ],
   "whitelist": [
+    "qiswap.com",
     "decrypto.finance",
     "uniswap.eth",
     "anyswap.exchange",
@@ -504,6 +505,7 @@
     "vscrypto.com",
     "affinity.com",
     "affinity.co",
+    "upfinity.io",
     "crypto.news",
     "dbcrypto.com",
     "ezcrypto.guide",
@@ -682,7 +684,8 @@
     "oneswap.net"
   ],
   "blacklist": [
-    "swerve-finance.com",
+    "czbinance.co",
+    "crypto2xpool.com",
     "sushiswap.blogspot.com",
     "binance-medium.com",
     "ripplebonus.events",
