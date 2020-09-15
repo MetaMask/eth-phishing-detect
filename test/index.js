@@ -50,8 +50,7 @@ function startTests () {
     testBlacklist(t, [
       "metamask.com",
       "wallet-ethereum.net",
-      "etherclassicwallet.com",
-    ])
+      "etherclassicwallet.com", ])
 
     // whitelist
 
@@ -233,6 +232,18 @@ function startTests () {
     testListOnlyIncludesDomains(t, config.whitelist)
     testListOnlyIncludesDomains(t, config.fuzzylist)
     testListOnlyIncludesDomains(t, config.blacklist)
+    t.end()
+  })
+
+  test("a path will not block a non-blocked domain", (t) => {
+    const topLevel = "audius.co"
+    const topResult = detector.check(topLevel)
+    t.notOk(topResult.result, 'audius is not blocked')
+
+    const domain = "audius.co/coin_artist"
+    const value = detector.check(domain)
+    console.log(value)
+    t.notOk(value.result, 'an audius subdomain should not be blocked')
     t.end()
   })
 

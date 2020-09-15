@@ -53,7 +53,7 @@ function processDomainList (list) {
 }
 
 function domainToParts (domain) {
-  return domain.split('.').reverse()
+  return domain.split('/')[0].split('.').reverse()
 }
 
 function domainPartsToDomain(domainParts) {
