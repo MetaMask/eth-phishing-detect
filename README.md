@@ -6,6 +6,14 @@ Utility for detecting phishing domains targeting Ethereum users.
 
 For checking why a given domain was blocked, try our interactive page [here](https://metamask.github.io/eth-phishing-detect)
 
+## Blocking Policy
+
+We are constantly evolving the ideal policy that guides this list, but a few clearly defined rules have emerged. We will be quick and decisive to block websites that:
+- Impersonate other known and established sites.
+- Use their interfaces to collect user signing keys (especially cryptocurrency keys) and send them back to home servers.
+
+There are other grounds for blocking, and we will ultimately do our best to keep our users safe.
+
 ### basic usage
 
 ```js

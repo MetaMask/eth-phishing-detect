@@ -1,6 +1,6 @@
 {
   "name": "eth-phishing-detect",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "description": "Utility for detecting phishing domains targeting Ethereum users",
   "main": "src/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "async": "^2.5.0",
-    "csv-parse": "^2.0.0",
+    "csv-parse": "^4.4.6",
     "isomorphic-fetch": "^2.2.1",
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
