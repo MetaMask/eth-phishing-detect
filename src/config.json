@@ -684,6 +684,8 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "un2app.com",
+    "fund-vechain.com",
     "chico-eth.com",
     "cryptogenscript.com",
     "officialvbuterin.com",
