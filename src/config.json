@@ -684,6 +684,10 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "chico-eth.com",
+    "cryptogenscript.com",
+    "officialvbuterin.com",
+    "spacexfoundation.com",
     "airdropsushi.com",
     "vifbit.com",
     "zifbit.com",
