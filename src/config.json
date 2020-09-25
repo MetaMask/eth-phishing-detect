@@ -684,6 +684,9 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "accountviewer.stellar.org.za",
+    "stellar.org.za",
+    "uni-drop.org",
     "un2app.com",
     "fund-vechain.com",
     "chico-eth.com",
