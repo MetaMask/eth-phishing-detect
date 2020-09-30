@@ -685,6 +685,8 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "metamask.site",
+    "trustwallet.in",
     "etherscan.member.event.monesrg.com",
     "monesrg.com",
     "musk-elon.co",
