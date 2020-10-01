@@ -685,6 +685,8 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "unigiveaway.org",
+    "uniswapdex.com",
     "metamask.site",
     "trustwallet.in",
     "etherscan.member.event.monesrg.com",
