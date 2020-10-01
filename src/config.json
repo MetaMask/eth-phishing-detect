@@ -685,6 +685,11 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "unigiveaway.net",
+    "stellar.org.in",
+    "accountviewer.stellar.org.in",
+    "info-binance.us",
+    "myus-app.com",
     "unigiveaway.org",
     "metamask.site",
     "trustwallet.in",
