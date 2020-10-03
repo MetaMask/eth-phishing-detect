@@ -685,6 +685,10 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "uniswap-claim.com",
+    "get-stellar.com",
+    "zilliqa-live.org",
+    "ryebit.com",
     "unigiveaway.net",
     "stellar.org.in",
     "accountviewer.stellar.org.in",
