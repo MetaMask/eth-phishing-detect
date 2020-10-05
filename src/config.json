@@ -685,6 +685,10 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "sushiback.com",
+    "ripple.supply",
+    "zillet.org",
+    "chico-ethers.com",
     "login-metamask.com",
     "eventuniswap.com",
     "xrpceo.com",
