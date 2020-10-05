@@ -685,6 +685,7 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "login-metamask.com",
     "eventuniswap.com",
     "xrpceo.com",
     "vechainevent.com",
