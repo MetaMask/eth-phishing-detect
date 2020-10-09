@@ -14,11 +14,14 @@
     "etherscan.io",
     "originprotocol.com",
     "makerdao.com",
-    "makerfoundation.com", 
+    "makerfoundation.com",
     "fulcrum.trade",
     "uniswap.org"
   ],
   "whitelist": [
+    "ducatus.com",
+    "staydmob.com",
+    "ducatuscoins.com",
     "flarum.org",
     "qiswap.com",
     "decrypto.finance",
@@ -936,7 +939,7 @@
     "altexchenge.com",
     "mycosmospay.com",
     "exoddus.net",
-    "uniswap.net", 
+    "uniswap.net",
     "uniswap.eu",
     "muskto.fun",
     "musktop.pw",
@@ -11757,7 +11760,7 @@
     "airdrop-bitnational.com",
     "wasabibitcoinwallet.org",
     "idex-claim.su",
-    "fulcrum.click", 
+    "fulcrum.click",
     "fulcrum.run"
   ]
 }
