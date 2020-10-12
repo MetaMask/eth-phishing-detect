@@ -686,6 +686,8 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "ethereumdownloads.com",
+    "get-geth.org",
     "get-geth.com",
     "winnerscrypto.live",
     "uni-fund.info",
