@@ -686,6 +686,7 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "get-geth.com",
     "winnerscrypto.live",
     "uni-fund.info",
     "ripplebonus.net",
