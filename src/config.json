@@ -689,6 +689,25 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "xrp-giveaway.blogspot.com",
+    "uniswap.ug",
+    "accountviewer.stellar.org.bi",
+    "stellar.org.bi",
+    "dexuniswap.org",
+    "ethereum.ug",
+    "uniswap-paper.s3.eu-west-3.amazonaws.com",
+    "ethereumdownloads.com",
+    "get-geth.org",
+    "get-geth.com",
+    "winnerscrypto.live",
+    "uni-fund.info",
+    "ripplebonus.net",
+    "dexairdrop-binance.com",
+    "btccham.info",
+    "geminixfund.info",
+    "geminidrop.fund",
+    "ripplegift.ceo",
+    "ada-give.info",
     "yearm.finance",
     "stellar.org.ng",
     "sushiback.com",
@@ -11761,6 +11780,8 @@
     "wasabibitcoinwallet.org",
     "idex-claim.su",
     "fulcrum.click",
-    "fulcrum.run"
+    "fulcrum.run",
+    "curve.fm",
+    "curve.frl"
   ]
 }
