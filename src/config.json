@@ -686,6 +686,7 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "paradefi.network",
     "get30bnb.live",
     "pdfescape.su",
     "uniswap.org.claim-tokens-airdrop.info",
