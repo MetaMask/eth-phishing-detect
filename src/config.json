@@ -686,6 +686,10 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "giveawaysushi.com",
+    "login.blockhaln.com",
+    "blockhaln.com",
+    "wallets-tlx-blockchain.com",
     "paradefi.network",
     "get30bnb.live",
     "pdfescape.su",
