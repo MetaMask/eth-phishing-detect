@@ -1060,3 +1060,5 @@
 0.0.0.0 uniswap.services
 0.0.0.0 curve.fm
 0.0.0.0 curve.frl
+0.0.0.0 curve.fyi
+0.0.0.0 curve.si
