@@ -687,6 +687,11 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "ledger.com-client.email",
+    "xn--ledgr-q51b.com",
+    "keepkey.app",
+    "ethgiveaways.me",
+    "ethx2.io",
     "ledger.report",
     "xn--ldger-6za.com",
     "uniairdrop.org",
