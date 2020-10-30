@@ -687,6 +687,7 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "yrean.finance",
     "live.ledgerorigin.com",
     "ledgerorigin.com",
     "ledger.com-client.email",
