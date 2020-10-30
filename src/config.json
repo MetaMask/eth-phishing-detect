@@ -687,6 +687,8 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "live.ledgerorigin.com",
+    "ledgerorigin.com",
     "ledger.com-client.email",
     "xn--ledgr-q51b.com",
     "keepkey.app",
