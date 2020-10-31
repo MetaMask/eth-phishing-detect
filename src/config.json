@@ -689,6 +689,8 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "metamask.bonus-erc20-token.info",
+    "dice2win.co",
     "bonus-erc20-token.info",
     "yrean.finance",
     "live.ledgerorigin.com",
