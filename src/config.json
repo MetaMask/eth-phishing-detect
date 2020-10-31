@@ -20,6 +20,7 @@
     "ledger.com"
   ],
   "whitelist": [
+    "ledger.com",
     "wax.community",
     "flarum.org",
     "qiswap.com",
