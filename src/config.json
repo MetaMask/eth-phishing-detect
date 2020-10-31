@@ -16,7 +16,8 @@
     "makerdao.com",
     "makerfoundation.com", 
     "fulcrum.trade",
-    "uniswap.org"
+    "uniswap.org",
+    "ledger.com"
   ],
   "whitelist": [
     "wax.community",
@@ -688,6 +689,7 @@
   ],
   "blacklist": [
     "dice2win.co",
+    "bonus-erc20-token.info",
     "yrean.finance",
     "live.ledgerorigin.com",
     "ledgerorigin.com",
@@ -697,6 +699,14 @@
     "ethgiveaways.me",
     "ethx2.io",
     "ledger.report",
+    "ledger.buzz",
+    "us-ledger.com",
+    "ledger.org.pl",
+    "ledgersupport.pro",
+    "ledgersupport.online",
+    "ledgerconnect.stream",
+    "ledgir.xyz",
+    "xn--ldgr-vvac.com",
     "xn--ldger-6za.com",
     "uniairdrop.org",
     "ledger.media",
