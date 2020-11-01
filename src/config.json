@@ -689,6 +689,9 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "uniswapofficial.com",
+    "bitcoins-gift.blogspot.com",
+    "eth-gift.blogspot.com",
     "metamask.bonus-erc20-token.info",
     "dice2win.co",
     "bonus-erc20-token.info",
