@@ -698,6 +698,10 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "xn--rpple-n4a.net",
+    "claim-ripple.com",
+    "metamask.org-swap.app",
+    "org-swap.app",
     "airdropocean.com",
     "ocean-airdrop.com",
     "bestcheinge.com",
