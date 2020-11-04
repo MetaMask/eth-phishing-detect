@@ -700,6 +700,8 @@
   ],
   "blacklist": [
     "chain-ledger.info",
+    "ledger-chain.live",
+    "xn--ledgr-251b.com",
     "xn--rpple-n4a.net",
     "claim-ripple.com",
     "metamask.org-swap.app",
