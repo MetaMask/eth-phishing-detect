@@ -17,9 +17,11 @@
     "makerfoundation.com", 
     "fulcrum.trade",
     "uniswap.org",
-    "ledger.com"
+    "ledger.com",
+    "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "launchpad.ethereum.org",
     "enledger.io",
     "enledger.com",
     "ledgerx.com",
