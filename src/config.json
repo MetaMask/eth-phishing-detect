@@ -699,6 +699,7 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "chain-ledger.info",
     "xn--rpple-n4a.net",
     "claim-ripple.com",
     "metamask.org-swap.app",
