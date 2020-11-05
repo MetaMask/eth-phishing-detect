@@ -703,6 +703,8 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "stellar-info.org",
+    "stake-ethereum.org",
     "eth67.blogspot.com",
     "airdrop-ocean.com",
     "musk-coins.com",
