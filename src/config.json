@@ -704,6 +704,10 @@
     "oneswap.net"
   ],
   "blacklist": [
+    "oceanairdrop.info",
+    "eth-generator.com",
+    "tether-tumbler.com",
+    "uni-promo.net",
     "stellar-info.org",
     "stake-ethereum.org",
     "eth67.blogspot.com",
