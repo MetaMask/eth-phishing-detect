@@ -705,6 +705,7 @@
     "hedget.com"
   ],
   "blacklist": [
+    "airdrop-uniswap.com",
     "oceanairdrop.info",
     "eth-generator.com",
     "tether-tumbler.com",
