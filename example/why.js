@@ -1,4 +1,5 @@
-const PhishingDetector = require('../src/detector')
+const PhishingDetector = require('eth-phishing-detect/src/detector')
+const fetch = require('isomorphic-fetch')
 let phishing = require('../src/config.json')
 
 const detector = new PhishingDetector(phishing)
