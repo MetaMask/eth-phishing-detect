@@ -17,13 +17,14 @@
     "makerfoundation.com",
     "fulcrum.trade",
     "uniswap.org",
-    "ledger.com",
     "launchpad.ethereum.org"
   ],
   "whitelist": [
     "mdxcrypto.com",
     "launchpad.ethereum.org",
     "enledger.io",
+    "crypto.tt",
+    "badger.finance",
     "enledger.com",
     "ledgerx.com",
     "ledgerql.com",
@@ -708,6 +709,7 @@
   ],
   "blacklist": [
     "airdrop-uniswap.com",
+    "metamas.io",
     "oceanairdrop.info",
     "eth-generator.com",
     "tether-tumbler.com",
@@ -949,6 +951,7 @@
     "tokenlink.info",
     "trezor.com.se",
     "restore-ledger.org",
+    "restore-ledgerwallet.org",
     "wallet.restore-ledger.org",
     "binance.oktaplatform.com",
     "trustswap-rewards-programs-claims-tokens.com",
