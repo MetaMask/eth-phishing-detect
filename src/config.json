@@ -20,6 +20,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "chrome-extension.link",
     "mdxcrypto.com",
     "launchpad.ethereum.org",
     "enledger.io",
