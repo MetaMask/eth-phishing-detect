@@ -708,6 +708,12 @@
     "ladder.to"
   ],
   "blacklist": [
+    "claimuni.com",
+    "x2crypts.com",
+    "ltcminer.com",
+    "metaswap.dev",
+    "ledger.org.pl",
+    "eth-found.live",
     "uniswap.bid",
     "app.uniswap.bid",
     "curve.run",
