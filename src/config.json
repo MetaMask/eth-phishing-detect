@@ -708,6 +708,12 @@
     "ladder.to"
   ],
   "blacklist": [
+    "uniswap.bid",
+    "app.uniswap.bid",
+    "curve.run",
+    "moz-extension.link",
+    "app.uniswap.ws",
+    "uniswap.ws",
     "dropmusk.in",
     "chrome-extension.link",
     "money-tesla.com",
