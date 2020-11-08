@@ -704,10 +704,12 @@
     "torque.loans",
     "oneswap.net",
     "ducatus.com",
-    "hedget.com"
+    "hedget.com",
+    "ladder.to"
   ],
   "blacklist": [
     "chrome-extension.link",
+    "money-tesla.com",
     "airdrop-uniswap.com",
     "metamas.io",
     "oceanairdrop.info",
@@ -951,6 +953,7 @@
     "tokenlink.info",
     "trezor.com.se",
     "restore-ledger.org",
+    "restore-ledgerwallet.org",
     "wallet.restore-ledger.org",
     "binance.oktaplatform.com",
     "trustswap-rewards-programs-claims-tokens.com",
