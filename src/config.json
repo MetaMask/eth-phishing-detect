@@ -20,7 +20,6 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
-    "chrome-extension.link",
     "mdxcrypto.com",
     "launchpad.ethereum.org",
     "enledger.io",
@@ -708,6 +707,7 @@
     "hedget.com"
   ],
   "blacklist": [
+    "chrome-extension.link",
     "airdrop-uniswap.com",
     "metamas.io",
     "oceanairdrop.info",
