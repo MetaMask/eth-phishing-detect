@@ -17,7 +17,6 @@
     "async": "^2.5.0",
     "browserify": "^17.0.0",
     "csv-parse": "^4.4.6",
-    "isomorphic-fetch": "^2.2.1",
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
     "tap-summary": "^4.0.0",
