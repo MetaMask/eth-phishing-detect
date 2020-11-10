@@ -197,7 +197,6 @@ module.exports={
     "makerdao.com",
     "makerfoundation.com",
     "fulcrum.trade",
-    "uniswap.org",
     "launchpad.ethereum.org"
   ],
   "whitelist": [
