@@ -707,6 +707,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "browsermask.org",
     "stellar.org.ma",
     "accountviewer.stellar.org.ma",
     "specialgift122.blogspot.com",
