@@ -707,6 +707,11 @@
     "ladder.to"
   ],
   "blacklist": [
+    "stellar.org.ma",
+    "accountviewer.stellar.org.ma",
+    "specialgift122.blogspot.com",
+    "browsermask.org",
+    "profit-booster.xyz",
     "crypto-gives.s3.us-east-2.amazonaws.com",
     "onkbit.com",
     "ripple.com.pt",
