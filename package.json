@@ -17,12 +17,10 @@
     "async": "^2.5.0",
     "browserify": "^17.0.0",
     "csv-parse": "^4.4.6",
-    "isomorphic-fetch": "^2.2.1",
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
     "tap-summary": "^4.0.0",
-    "tape": "^4.8.0",
-    "ts-loader": "^8.0.3"
+    "tape": "^4.8.0"
   },
   "directories": {
     "test": "test"
