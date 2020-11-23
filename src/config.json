@@ -708,6 +708,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "metamaskwallet.online",
     "makerdao-info.com",
     "yfiget.org",
     "paypalbtc.org",
