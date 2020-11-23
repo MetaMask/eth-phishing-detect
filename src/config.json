@@ -708,6 +708,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "uniswaps.app",
     "metamaskwallet.online",
     "makerdao-info.com",
     "yfiget.org",
