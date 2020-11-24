@@ -708,6 +708,27 @@
     "ladder.to"
   ],
   "blacklist": [
+    "takebtc.net",
+    "bitcoin-revolution2.cashvolume.monster",
+    "btc-gemini.live",
+    "paypal-btc.com",
+    "claim-airdrop-uniswap-v2.info",
+    "app.uniswap.claim-airdrop-uniswap-v2.info",
+    "login-blocklnain.top",
+    "uniswaps.app",
+    "metamaskwallet.online",
+    "makerdao-info.com",
+    "yfiget.org",
+    "paypalbtc.org",
+    "ufibit.com",
+    "udrop.finance",
+    "xrp-reward.org",
+    "gemini.social",
+    "unigive.net",
+    "ether-give.ceo",
+    "unipromotion.net",
+    "woodfund.info",
+    "celiswap.com",
     "ledgerweb.digital",
     "litecoingiveaway-live.com",
     "yfiairdrop.com",
@@ -11970,6 +11991,8 @@
     "curve.fm",
     "curve.frl",
     "curve.fyi",
+    "curves.fi",
+    "curves.exchange",
     "xn--ledgr-9za.com",
     "xn--ledgr-esa.com",
     "xn--leder-b3b.com",
@@ -12044,6 +12067,7 @@
     "ledgerwalletrestore.com",
     "ledlqer.com",
     "labger.com",
-    "xn--edgr-z1a5736b.com"
+    "xn--edgr-z1a5736b.com",
+    "xn--ledger-mcb.com"
   ]
 }
