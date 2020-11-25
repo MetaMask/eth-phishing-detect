@@ -708,6 +708,8 @@
     "ladder.to"
   ],
   "blacklist": [
+    "orc-get-access.com",
+    "uniswap.orc-get-access.com",
     "chainlink.click",
     "uni-redirects.blogspot.com",
     "afin-app.com",
