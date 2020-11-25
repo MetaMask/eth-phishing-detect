@@ -708,6 +708,17 @@
     "ladder.to"
   ],
   "blacklist": [
+    "chainlink.click",
+    "uni-redirects.blogspot.com",
+    "afin-app.com",
+    "mymonero.co",
+    "wallet.mymonero.co",
+    "coinarbitrade.com",
+    "bitcointrader.trckoffers.xyz",
+    "ripple-xrp.me",
+    "accountts-binance.com",
+    "xn--lgder-6za.com",
+    "ledger-live.io",
     "chrome-extension.info",
     "takebtc.net",
     "bitcoin-revolution2.cashvolume.monster",
