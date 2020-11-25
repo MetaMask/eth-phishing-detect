@@ -708,6 +708,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "chrome-extension.info",
     "takebtc.net",
     "bitcoin-revolution2.cashvolume.monster",
     "btc-gemini.live",
