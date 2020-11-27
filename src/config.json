@@ -708,6 +708,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "aaveapp.com",
     "installmeta.com",
     "maskmeha.io",
     "chainlink.click",
