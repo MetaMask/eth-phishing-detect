@@ -708,6 +708,9 @@
     "ladder.to"
   ],
   "blacklist": [
+    "ripple-xrp.live",
+    "dropbinance.exchange",
+    "bithomp.work",
     "ripplebonus.us",
     "litecoin-event.net",
     "btcminerapp.com",
