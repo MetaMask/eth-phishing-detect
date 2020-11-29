@@ -708,6 +708,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "aaveapp.com",
     "ripple-xrp.live",
     "dropbinance.exchange",
     "bithomp.work",
