@@ -709,6 +709,22 @@
   ],
   "blacklist": [
     "aaveapp.com",
+    "ripple-xrp.live",
+    "dropbinance.exchange",
+    "bithomp.work",
+    "ripplebonus.us",
+    "litecoin-event.net",
+    "btcminerapp.com",
+    "thebigdeal.clickfunnels.com",
+    "easyripple.claims",
+    "xrp-fund.live",
+    "coinbaseeth.org",
+    "geminisspaymentsd.blogspot.com",
+    "eosauthority.link",
+    "zillet.net",
+    "cosmostation.network",
+    "wallet.cosmostation.network",
+    "ripple-spark.info",
     "installmeta.com",
     "maskmeha.io",
     "chainlink.click",
@@ -1086,6 +1102,8 @@
     "tozbit.com",
     "stellar.org.lv",
     "tesla3-bonus.com",
+    "defi-universe.vip",
+    "marketplace.axieinfinity.com.inventoryclaim.defi-universe.vip",
     "brad-gift.com",
     "coinaxel.com",
     "eth-drop.club",
@@ -12084,6 +12102,8 @@
     "ledlqer.com",
     "labger.com",
     "xn--edgr-z1a5736b.com",
-    "xn--ledger-mcb.com"
+    "xn--ledger-mcb.com",
+    "ledger.com-device.id73457.app",
+    "ledger.com-device.id45663.app"
   ]
 }
