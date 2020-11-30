@@ -708,6 +708,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "installmetamask.com",
     "metamask.is",
     "charles-hoskinson.live",
     "uniswapdrop.finance",
