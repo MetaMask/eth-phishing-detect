@@ -708,6 +708,12 @@
     "ladder.to"
   ],
   "blacklist": [
+    "ripple-labs.dev",
+    "winklevoss-gemini.com",
+    "xrp2021.net",
+    "ethuniswap.com",
+    "sushiswapcoin.com",
+    "ledgerlive.io",
     "ripple2021.com",
     "register-ripple.com",
     "stellarwallet.org",
