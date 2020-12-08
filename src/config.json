@@ -12143,6 +12143,14 @@
     "ledger.com.device.id.893900.app",
     "ledger.com.device.id.745583.app",
     "ledger.com.device.id.688338.app",
-    "ledger.com.device.id.883882.app"
+    "ledger.com.device.id.883882.app",
+    "ledger.com.device-u23-verification.app",
+    "ledger.com.device-e72-verification.app",
+    "ledger.com.verification-login-s61.app",
+    "ledger.com.acc-verification-login.app",
+    "ledger.com.device.id.7537472.app",
+    "ledger.com.hardware.id.54656346.app",
+    "ledger.com.device.id.6567288.app",
+    "ledger.com.hardware.id.953781832.app"   
   ]
 }
