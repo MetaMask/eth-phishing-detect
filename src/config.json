@@ -684,6 +684,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "metamaskapp.com",
     "walletconnect.info",
     "install-metamask-io.com",
     "metamaskstart-io.com",
