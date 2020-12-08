@@ -684,6 +684,12 @@
     "ladder.to"
   ],
   "blacklist": [
+    "blockchainsupport.network",
+    "give-crypto.s3-us-west-2.amazonaws.com",
+    "myeterhwallet.com",
+    "etheruniswap.com",
+    "uniswap-bonus.com",
+    "247cryptotrade.online",
     "metamaskapp.com",
     "walletconnect.info",
     "install-metamask-io.com",
