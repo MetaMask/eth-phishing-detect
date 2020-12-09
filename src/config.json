@@ -684,6 +684,12 @@
     "ladder.to"
   ],
   "blacklist": [
+    "muskx.online",
+    "mark-direct.com",
+    "trust-myfood.com",
+    "enjin-books.com",
+    "brigadtechnic.com",
+    "secure-beta.com",
     "blockchainsupport.network",
     "give-crypto.s3-us-west-2.amazonaws.com",
     "myeterhwallet.com",
