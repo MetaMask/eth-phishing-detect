@@ -684,6 +684,10 @@
     "ladder.to"
   ],
   "blacklist": [
+    "orc-get-access.com",
+    "uniswap.orc-get-access.com",
+    "metamsk.io",
+    "chrome-extension.icu",
     "binance2021.com",
     "s1-ripple.com",
     "ripple.com.so",
