@@ -684,6 +684,9 @@
     "ladder.to"
   ],
   "blacklist": [
+    "binance2021.com",
+    "s1-ripple.com",
+    "ripple.com.so",
     "muskx.online",
     "metamask.online",
     "mark-direct.com",
