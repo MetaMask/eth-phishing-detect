@@ -685,6 +685,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "maskmeta.org",
     "metamaskwallet.net",
     "maskmera.io",
     "installmetamask.org",
