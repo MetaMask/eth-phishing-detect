@@ -685,6 +685,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "1inch.app",
     "maskmeta.me",
     "maskmeta.org",
     "metamaskwallet.net",
