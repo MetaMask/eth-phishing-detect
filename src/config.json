@@ -685,6 +685,8 @@
     "ladder.to"
   ],
   "blacklist": [
+    "metamask-online-io.com",
+    "maskmetaa.io",
     "mooniswap.app",
     "1inch-exchange.com",
     "fundmusk.com",
