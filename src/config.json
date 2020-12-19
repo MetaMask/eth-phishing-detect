@@ -699,6 +699,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "uniswapsite.com",
     "metamask-online-io.com",
     "maskmetaa.io",
     "mooniswap.app",
