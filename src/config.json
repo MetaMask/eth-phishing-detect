@@ -12230,6 +12230,12 @@
     "ledger.com-login-authorization.app",
     "ledger.com-login-verification.app",
     "xn--ldr-krab5e.com",
-    "xn--ledr-nxa8556b.com"
+    "xn--ledr-nxa8556b.com",
+    "ledger.com.login-account.app",
+    "ledger.com.wallet-login.app",
+    "ledger.com.login-verification.app",
+    "ledger.com-login-account.app",
+    "ledger.com-login-activity.app",
+    "xn--lder-cxa8656b.com"
   ]
 }
