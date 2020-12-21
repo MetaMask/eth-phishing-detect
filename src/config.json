@@ -699,6 +699,10 @@
     "ladder.to"
   ],
   "blacklist": [
+    "uniswapupdate.com",
+    "live-tesla.com",
+    "elon.fund",
+    "ledger-chain.co.uk",
     "1inch.dev",
     "uniswapsite.com",
     "metamask-online-io.com",
