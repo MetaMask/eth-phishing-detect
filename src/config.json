@@ -699,6 +699,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "1inch.dev",
     "uniswapsite.com",
     "metamask-online-io.com",
     "maskmetaa.io",
