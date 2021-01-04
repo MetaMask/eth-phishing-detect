@@ -699,6 +699,8 @@
     "ladder.to"
   ],
   "blacklist": [
+    "swap-uniswap.org",
+    "iologin.org",
     "myetherwallet.comim.org",
     "musk-event.org",
     "elon-crypto.fund",
