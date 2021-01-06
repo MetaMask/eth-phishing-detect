@@ -700,6 +700,18 @@
     "ladder.to"
   ],
   "blacklist": [
+    "polkadot-airdrop.live",
+    "wallet-connect.net",
+    "wallet-connect.org",
+    "xn--stellr-mta.com",
+    "tokens-airdrop-holders.com",
+    "app.uniswap.tokens-airdrop-holders.com",
+    "cryptfundz.com",
+    "tether-usdt-mixer.com",
+    "anonymous-tether-mixer.com",
+    "ethereums-mixer.com",
+    "ethereum-mixer.com",
+    "thetamaintoken.online",
     "swap-uniswap.org",
     "iologin.org",
     "myetherwallet.comim.org",
