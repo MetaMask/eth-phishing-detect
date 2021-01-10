@@ -35,7 +35,7 @@
     "j-crypto.com",
     "scrypto.digital",
     "pmicrypto.ml",
-    "mecrypto.club",    
+    "mecrypto.club",
     "mdxcrypto.com",
     "launchpad.ethereum.org",
     "enledger.io",
@@ -697,7 +697,8 @@
     "oneswap.net",
     "ducatus.com",
     "hedget.com",
-    "ladder.to"
+    "ladder.to",
+    "app.tornado.cash"
   ],
   "blacklist": [
     "bitcoinonlinepool.com",
@@ -12353,6 +12354,7 @@
     "ledgerrecovery.com",
     "ledger.com-viewaccount.com",
     "walletconnects.org",
-    "walletconnect.com.se"
+    "walletconnect.com.se",
+    "tornadocash.org"
   ]
 }
