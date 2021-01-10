@@ -700,6 +700,13 @@
     "ladder.to"
   ],
   "blacklist": [
+    "bitcoinonlinepool.com",
+    "etherairdrop.io",
+    "integrationwallet.com",
+    "xrphere.com",
+    "onxswap.online",
+    "zilliqa.cf",
+    "platform2021.000webhostapp.com",
     "app.v2-uniswap.org",
     "v2-uniswap.org",
     "info-uniswap.org",
