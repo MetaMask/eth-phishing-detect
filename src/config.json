@@ -700,6 +700,15 @@
     "ladder.to"
   ],
   "blacklist": [
+    "app.v2-uniswap.org",
+    "v2-uniswap.org",
+    "info-uniswap.org",
+    "myapp.fyi",
+    "balancerc.exchange",
+    "compound.fyi",
+    "curve.onl",
+    "currve.org",
+    "app-aave.org",
     "btcfaze.com",
     "gemini-giveaways2.blogspot.com",
     "g34gerfge33.blogspot.com",
