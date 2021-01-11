@@ -700,6 +700,7 @@
     "ladder.to"
   ],
   "blacklist": [
+    "login-metamask.io",
     "bitcoinonlinepool.com",
     "etherairdrop.io",
     "integrationwallet.com",
