@@ -701,6 +701,12 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "walletconnects.org",
+    "trezor.xn--wllet-tcc.com",
+    "trezor-hardware-wallet.reklama-ads.com",
+    "trezor-hardware.reklama-ads.com",
+    "claim-airdrop-uniswap.org",
+    "login-metamask.io",
     "crryptod3423.blogspot.com",
     "uniswapbalance.com",
     "ethereumgift.us",
