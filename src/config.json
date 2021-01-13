@@ -701,6 +701,8 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "yeanr.finance",
+    "eth-airdrop.io",
     "trezor.xn--wllet-tcc.com",
     "trezor-hardware-wallet.reklama-ads.com",
     "trezor-hardware.reklama-ads.com",
