@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "metaswap.dev",
     "yeanr.finance",
     "eth-airdrop.io",
     "trezor.xn--wllet-tcc.com",
