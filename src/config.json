@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "maskpmeta.com",
     "airdrop-official-uniswap.org",
     "exshengee.com",
     "trezor-io.com",
