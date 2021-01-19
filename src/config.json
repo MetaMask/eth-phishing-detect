@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "harvestfinance.app",
     "online.metamaslk.com",
     "solitairenetwork.com",
     "winklevoss-events.blogspot.com",
