@@ -705,6 +705,8 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "online.metamaslk.com",
+    "solitairenetwork.com",
     "winklevoss-events.blogspot.com",
     "justinsun.ceo",
     "uniswap-aidrop.info",
