@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "metamaskconnect.net",
     "airdrop-gemini.blogspot.com",
     "paygemini.blogspot.com",
     "lorebtc.com",
