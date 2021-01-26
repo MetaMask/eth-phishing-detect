@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "walletconnet.life",
     "xmr-qr-code-generator.com",
     "shadebit.com",
     "app.uniswap.info-holders-airdrop.com",
