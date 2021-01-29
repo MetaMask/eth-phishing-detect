@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "metamask.io-install.com",
     "walletconnet.life",
     "xmr-qr-code-generator.com",
     "shadebit.com",
