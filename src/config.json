@@ -705,6 +705,11 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "socialcapital.page",
+    "bitmycap.com",
+    "binexor.com",
+    "musk-prize.com",
+    "elon-bonus.org",
     "presearch.token-giveaway.com",
     "vitalikbuterin.io",
     "uniswap-coin.com",
