@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "presearch.token-giveaway.com",
     "vitalikbuterin.io",
     "uniswap-coin.com",
     "gemini-event.blogspot.com",
