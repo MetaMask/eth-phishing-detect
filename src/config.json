@@ -705,6 +705,12 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "receiveuniswap.com",
+    "exodus-supports.com",
+    "claim-crypto.site",
+    "xn--accounts-bnance-epb.com",
+    "musk2.top",
+    "token-giveaway.com",
     "socialcapital.page",
     "bitmycap.com",
     "binexor.com",
