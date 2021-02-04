@@ -705,6 +705,13 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "appuniswaps.org",
+    "metamasck.com",
+    "univwaps.com",
+    "gemini-gives.com",
+    "chamath-social.com",
+    "coinrayz.com",
+    "xn--ave-sgz.com",
     "receiveuniswap.com",
     "exodus-supports.com",
     "claim-crypto.site",
