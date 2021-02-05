@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "walletsconnect.top",
     "walletsconnect.online",
     "appuniswaps.org",
     "metamasck.com",
