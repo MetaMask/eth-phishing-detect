@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "zapperi.fi",
     "walletsconnect.top",
     "walletsconnect.online",
     "appuniswaps.org",
