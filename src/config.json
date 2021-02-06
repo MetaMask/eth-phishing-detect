@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "synthetix.us",
     "walletsconnect.org",
     "zapperi.fi",
     "walletsconnect.top",
