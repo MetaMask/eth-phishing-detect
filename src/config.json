@@ -705,6 +705,16 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "coinbase.com.auth-value-token-9929929.ru",
+    "coinbase.com.secure-account188.ru",
+    "secure-account188.ru",
+    "auth-token-authentication-value-4782365234.ru",
+    "authenticate-coinbase.com",
+    "integratewallet.live",
+    "synthetix.us",
+    "walletsconnect.org",
+    "zapperi.fi",
+    "walletsconnect.top",
     "walletsconnect.online",
     "appuniswaps.org",
     "metamasck.com",
