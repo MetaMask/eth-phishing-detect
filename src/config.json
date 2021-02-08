@@ -705,6 +705,8 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "uniswapgiveaway.com",
+    "sushiairdrop.net",
     "coinbase.com.auth-value-token-9929929.ru",
     "coinbase.com.secure-account188.ru",
     "secure-account188.ru",
