@@ -705,6 +705,11 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "uniswapback.com",
+    "app.uniswap.org.adhef.com",
+    "uni2021.org",
+    "xn--blcokchan-d5a55g.com",
+    "2021uni.org",
     "1icnch.exchange",
     "giveawayuniswap.com",
     "exodus-update.com",
