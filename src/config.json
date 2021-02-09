@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "1icnch.exchange",
     "giveawayuniswap.com",
     "exodus-update.com",
     "connectionlivewallet.org",
