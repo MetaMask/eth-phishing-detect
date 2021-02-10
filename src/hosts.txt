@@ -1065,6 +1065,7 @@
 0.0.0.0 curve.si
 0.0.0.0 curves.fi
 0.0.0.0 curves.exchange
+0.0.0.0 cuvre.financial
 0.0.0.0 curve.so
 0.0.0.0 curvefi.io
 0.0.0.0 curwe.fi
