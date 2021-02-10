@@ -1058,3 +1058,12 @@
 0.0.0.0 dfinitydrop.ml
 0.0.0.0 blocknux.com
 0.0.0.0 uniswap.services
+0.0.0.0 curve.fm
+0.0.0.0 curve.frl
+0.0.0.0 curve.fyi
+0.0.0.0 curve.si
+0.0.0.0 curves.fi
+0.0.0.0 curves.exchange
+0.0.0.0 curve.so
+0.0.0.0 curvefi.io
+0.0.0.0 curwe.fi
