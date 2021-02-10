@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "aavee.co",
     "uniswapback.com",
     "app.uniswap.org.adhef.com",
     "uni2021.org",
