@@ -705,6 +705,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "cuvre.financial",
     "swerve.fo",
     "swerve.fm",
     "swerve.financial",
