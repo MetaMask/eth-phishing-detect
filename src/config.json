@@ -708,6 +708,7 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "yearnson.finance",
     "cuvre.financial",
     "swerve.fo",
     "swerve.fm",
