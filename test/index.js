@@ -16,8 +16,8 @@ const remoteBlacklistException = ['bittreat.com']
 
 // load MEW blacklist
 mapValues({
-  mewBlacklist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/urls/urls-darklist.json',
-  mewWhitelist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/urls/urls-lightlist.json',
+  mewBlacklist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-darklist.json',
+  mewWhitelist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-lightlist.json',
 }, (url, _, cb) => loadRemoteJson(url, cb), (err, results) => {
   if (err) throw err
   // parse results
@@ -112,6 +112,7 @@ function startTests () {
       "steem.io",
       "ethereum1.cz",
       "metalab.co",
+      "originprotocol.com"
     ])
 
     // DO INDEED detect as phishing
@@ -167,6 +168,7 @@ function startTests () {
       "myethermwallet.com",
       "myeth4rwallet.com",
       "myethterwallet.com",
+      "origirprotocol.com"
     ])
 
     // etc...
@@ -227,6 +229,13 @@ function startTests () {
     t.end()
   })
 
+  test("config only includes domains", (t) => {
+    testListOnlyIncludesDomains(t, config.whitelist)
+    testListOnlyIncludesDomains(t, config.fuzzylist)
+    testListOnlyIncludesDomains(t, config.blacklist)
+    t.end()
+  })
+
 }
 
 function testBlacklist (t, domains) {
@@ -256,6 +265,20 @@ function testFuzzylist (t, domains) {
       type: "fuzzy",
       expected: true,
     })
+  })
+}
+
+function testListOnlyIncludesDomains (t, domains) {
+  domains.forEach((domain) => {
+    if (domain.includes('/')) {
+      t.fail('should be valid domain, not path')
+    }
+    try {
+      const url = new URL(`https://${domain}`)
+      t.equal(url.hostname, domain, `parsed domain name should match hostname`)
+    } catch (err) {
+      t.fail(`should only be valid domain, saw "${domain}"\n:${err.message}`)
+    }
   })
 }
 

@@ -1,4 +1,5 @@
 127.0.0.1 localhost
+0.0.0.0 yearnson.finance
 0.0.0.0 myetherwallet.uk.com
 0.0.0.0 kodakone.cc
 0.0.0.0 nyeihitervvallet.com
@@ -1052,3 +1053,19 @@
 0.0.0.0 xn--coindes-jhb.com
 0.0.0.0 xn--mtherwallet-z19ex1a.com
 0.0.0.0 dfinity.org.in
+0.0.0.0 tokenpublicsale.com
+0.0.0.0 dfinity.ml
+0.0.0.0 dfnity.org
+0.0.0.0 dfinitydrop.ml
+0.0.0.0 blocknux.com
+0.0.0.0 uniswap.services
+0.0.0.0 curve.fm
+0.0.0.0 curve.frl
+0.0.0.0 curve.fyi
+0.0.0.0 curve.si
+0.0.0.0 curves.fi
+0.0.0.0 curves.exchange
+0.0.0.0 cuvre.financial
+0.0.0.0 curve.so
+0.0.0.0 curvefi.io
+0.0.0.0 curwe.fi

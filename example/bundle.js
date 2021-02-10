@@ -1,4 +1,185 @@
-{
+(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
+const why = require('./why')
+
+window.addEventListener('load', function() {
+  document.querySelector('form').addEventListener('submit', (ev) => {
+    ev.preventDefault()
+    result.innerText = why(input.value)
+  })
+})
+
+
+},{"./why":2}],2:[function(require,module,exports){
+const PhishingDetector = require('../src/detector')
+let phishing = require('../src/config.json')
+
+const detector = new PhishingDetector(phishing)
+
+function why (domain) {
+  if (!detector) {
+    return 'Cannot answer, still loading list data...'
+  }
+
+  const reason = detector.check(domain)
+
+  if (!reason.result) {
+    return 'This domain is not blocked! No problem here.'
+  }
+
+  if (reason.type === 'fuzzy') {
+    return `This domain was blocked for its similarity to ${reason.match}, a historical phishing target.`
+  }
+
+  if (reason.type === 'blacklist') {
+    return `This domain was blocked because it has been explicitly identified as a malicious site.`
+  }
+
+  return `There was an issue identifying the reason for the block. The data is ${JSON.stringify(reason)}`
+}
+
+module.exports = why
+
+
+},{"../src/config.json":4,"../src/detector":5}],3:[function(require,module,exports){
+(function() {
+  'use strict';
+  
+  var collator;
+  try {
+    collator = (typeof Intl !== "undefined" && typeof Intl.Collator !== "undefined") ? Intl.Collator("generic", { sensitivity: "base" }) : null;
+  } catch (err){
+    console.log("Collator could not be initialized and wouldn't be used");
+  }
+  // arrays to re-use
+  var prevRow = [],
+    str2Char = [];
+  
+  /**
+   * Based on the algorithm at http://en.wikipedia.org/wiki/Levenshtein_distance.
+   */
+  var Levenshtein = {
+    /**
+     * Calculate levenshtein distance of the two strings.
+     *
+     * @param str1 String the first string.
+     * @param str2 String the second string.
+     * @param [options] Additional options.
+     * @param [options.useCollator] Use `Intl.Collator` for locale-sensitive string comparison.
+     * @return Integer the levenshtein distance (0 and above).
+     */
+    get: function(str1, str2, options) {
+      var useCollator = (options && collator && options.useCollator);
+      
+      var str1Len = str1.length,
+        str2Len = str2.length;
+      
+      // base cases
+      if (str1Len === 0) return str2Len;
+      if (str2Len === 0) return str1Len;
+
+      // two rows
+      var curCol, nextCol, i, j, tmp;
+
+      // initialise previous row
+      for (i=0; i<str2Len; ++i) {
+        prevRow[i] = i;
+        str2Char[i] = str2.charCodeAt(i);
+      }
+      prevRow[str2Len] = str2Len;
+
+      var strCmp;
+      if (useCollator) {
+        // calculate current row distance from previous row using collator
+        for (i = 0; i < str1Len; ++i) {
+          nextCol = i + 1;
+
+          for (j = 0; j < str2Len; ++j) {
+            curCol = nextCol;
+
+            // substution
+            strCmp = 0 === collator.compare(str1.charAt(i), String.fromCharCode(str2Char[j]));
+
+            nextCol = prevRow[j] + (strCmp ? 0 : 1);
+
+            // insertion
+            tmp = curCol + 1;
+            if (nextCol > tmp) {
+              nextCol = tmp;
+            }
+            // deletion
+            tmp = prevRow[j + 1] + 1;
+            if (nextCol > tmp) {
+              nextCol = tmp;
+            }
+
+            // copy current col value into previous (in preparation for next iteration)
+            prevRow[j] = curCol;
+          }
+
+          // copy last col value into previous (in preparation for next iteration)
+          prevRow[j] = nextCol;
+        }
+      }
+      else {
+        // calculate current row distance from previous row without collator
+        for (i = 0; i < str1Len; ++i) {
+          nextCol = i + 1;
+
+          for (j = 0; j < str2Len; ++j) {
+            curCol = nextCol;
+
+            // substution
+            strCmp = str1.charCodeAt(i) === str2Char[j];
+
+            nextCol = prevRow[j] + (strCmp ? 0 : 1);
+
+            // insertion
+            tmp = curCol + 1;
+            if (nextCol > tmp) {
+              nextCol = tmp;
+            }
+            // deletion
+            tmp = prevRow[j + 1] + 1;
+            if (nextCol > tmp) {
+              nextCol = tmp;
+            }
+
+            // copy current col value into previous (in preparation for next iteration)
+            prevRow[j] = curCol;
+          }
+
+          // copy last col value into previous (in preparation for next iteration)
+          prevRow[j] = nextCol;
+        }
+      }
+      return nextCol;
+    }
+
+  };
+
+  // amd
+  if (typeof define !== "undefined" && define !== null && define.amd) {
+    define(function() {
+      return Levenshtein;
+    });
+  }
+  // commonjs
+  else if (typeof module !== "undefined" && module !== null && typeof exports !== "undefined" && module.exports === exports) {
+    module.exports = Levenshtein;
+  }
+  // web worker
+  else if (typeof self !== "undefined" && typeof self.postMessage === 'function' && typeof self.importScripts === 'function') {
+    self.Levenshtein = Levenshtein;
+  }
+  // browser main thread
+  else if (typeof window !== "undefined" && window !== null) {
+    window.Levenshtein = Levenshtein;
+  }
+}());
+
+
+},{}],4:[function(require,module,exports){
+module.exports={
   "version": 2,
   "tolerance": 2,
   "fuzzylist": [
@@ -612,9 +793,6 @@
     "cryptokitties.forsale",
     "cryptokitties.care",
     "metamate.cc",
-    "metamate.io",
-    "metamate.com",
-    "metamate.one",
     "metamesh.tech",
     "ico.nexus.social",
     "metamesh.org",
@@ -680,15 +858,13 @@
     "metabank.com",
     "metamas.com",
     "aventus.io",
+    "metabase.com",
     "etherdelta.com",
+    "metabase.one",
     "cryptokitties.co",
     "remme.io",
     "jibrel.network",
     "twinity.com",
-    "metabase.com",
-    "metabase.cc",
-    "metabase.one",
-    "metabase.network"
     "decrypto.net",
     "audius.co",
     "audius.org",
@@ -710,42 +886,6 @@
     "app.tornado.cash"
   ],
   "blacklist": [
-    "adalife.io",
-    "adallte.io",
-    "adailte.io",
-    "adalite.pro",
-    "adalife.so",
-    "adaiite.io",
-    "ada-lite.io",
-    "adalite.so",
-    "adalite.org",
-    "yearnson.finance",
-    "cuvre.financial",
-    "swerve.fo",
-    "swerve.fm",
-    "swerve.financial",
-    "aavee.co",
-    "uniswapback.com",
-    "app.uniswap.org.adhef.com",
-    "uni2021.org",
-    "xn--blcokchan-d5a55g.com",
-    "2021uni.org",
-    "1icnch.exchange",
-    "giveawayuniswap.com",
-    "exodus-update.com",
-    "connectionlivewallet.org",
-    "uniswapgiveaway.com",
-    "sushiairdrop.net",
-    "coinbase.com.auth-value-token-9929929.ru",
-    "coinbase.com.secure-account188.ru",
-    "secure-account188.ru",
-    "auth-token-authentication-value-4782365234.ru",
-    "authenticate-coinbase.com",
-    "integratewallet.live",
-    "synthetix.us",
-    "walletsconnect.org",
-    "zapperi.fi",
-    "walletsconnect.top",
     "walletsconnect.online",
     "appuniswaps.org",
     "metamasck.com",
@@ -12360,8 +12500,6 @@
     "wasabibitcoinwallet.org",
     "idex-claim.su",
     "fulcrum.click",
-    "bitbank.guru",
-    "bitbank.land",
     "fulcrum.run",
     "curve.fm",
     "curve.frl",
@@ -12489,7 +12627,6 @@
     "ledger.com.verification-login.app",
     "ledger.com-login-authorization.app",
     "ledger.com-login-verification.app",
-    "balanscer.exchange",
     "xn--ldr-krab5e.com",
     "xn--ledr-nxa8556b.com",
     "ledger.com.login-account.app",
@@ -12530,20 +12667,88 @@
     "uniaward.net",
     "unipromo.org",
     "unireward.org",
-    "uniswap.supply",
-    "tlp-invest.com",
-    "coinwoz.com",
-    "btcdire.com",
-    "btcshade.com",
-    "lemmexrp.com",
-    "smellbit.com",
-    "lirbit.com",
-    "peetdecentralized.finance",
-    "coinmik.com",
-    "bitzau.com",
-    "yfinew.com",
-    "bounce.finance",
-    "masternodes.online",
-    "hohbit.com"
+    "uniswap.supply"
   ]
 }
+
+},{}],5:[function(require,module,exports){
+const levenshtein = require('fast-levenshtein')
+const DEFAULT_TOLERANCE = 3
+
+class PhishingDetector {
+
+  constructor (opts) {
+    this.whitelist = processDomainList(opts.whitelist || [])
+    this.blacklist = processDomainList(opts.blacklist || [])
+    this.fuzzylist = processDomainList(opts.fuzzylist || [])
+    this.tolerance = ('tolerance' in opts) ? opts.tolerance : DEFAULT_TOLERANCE
+  }
+
+  check (domain) {
+    const source = domainToParts(domain)
+
+    // if source matches whitelist domain (or subdomain thereof), PASS
+    const whitelistMatch = matchPartsAgainstList(source, this.whitelist)
+    if (whitelistMatch) return { type: 'whitelist', result: false }
+
+    // if source matches blacklist domain (or subdomain thereof), FAIL
+    const blacklistMatch = matchPartsAgainstList(source, this.blacklist)
+    if (blacklistMatch) return { type: 'blacklist', result: true }
+
+    if (this.tolerance > 0) {
+      // check if near-match of whitelist domain, FAIL
+      let fuzzyForm = domainPartsToFuzzyForm(source)
+      // strip www
+      fuzzyForm = fuzzyForm.replace('www.', '')
+      // check against fuzzylist
+      const levenshteinMatched = this.fuzzylist.find((targetParts) => {
+        const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
+        const distance = levenshtein.get(fuzzyForm, fuzzyTarget)
+        return distance <= this.tolerance
+      })
+      if (levenshteinMatched) {
+        const match = domainPartsToDomain(levenshteinMatched)
+        return { type: 'fuzzy', result: true, match }
+      }
+    }
+
+    // matched nothing, PASS
+    return { type: 'all', result: false }
+  }
+
+}
+
+module.exports = PhishingDetector
+
+// util
+
+function processDomainList (list) {
+  return list.map(domainToParts)
+}
+
+function domainToParts (domain) {
+  return domain.split('.').reverse()
+}
+
+function domainPartsToDomain(domainParts) {
+  return domainParts.slice().reverse().join('.')
+}
+
+// for fuzzy search, drop TLD and re-stringify
+function domainPartsToFuzzyForm(domainParts) {
+  return domainParts.slice(1).reverse().join('.')
+}
+
+// match the target parts, ignoring extra subdomains on source
+//   source: [io, metamask, xyz]
+//   target: [io, metamask]
+//   result: PASS
+function matchPartsAgainstList(source, list) {
+  return list.some((target) => {
+    // target domain has more parts than source, fail
+    if (target.length > source.length) return false
+    // source matches target or (is deeper subdomain)
+    return target.every((part, index) => source[index] === part)
+  })
+}
+},{"fast-levenshtein":3}]},{},[1]);
