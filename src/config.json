@@ -705,6 +705,9 @@
     "app.tornado.cash"
   ],
   "blacklist": [
+    "swerve.fo",
+    "swerve.fm",
+    "swerve.financial",
     "aavee.co",
     "uniswapback.com",
     "app.uniswap.org.adhef.com",
