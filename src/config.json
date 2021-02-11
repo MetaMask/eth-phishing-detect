@@ -712,6 +712,10 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "myetherwallet.comat.cc",
+    "stellar.org.ag",
+    "accountviewer.stellar.org.ag",
+    "mail4-stellar.org",
     "metamask.in.net",
     "adalife.io",
     "adallte.io",
