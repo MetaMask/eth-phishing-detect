@@ -712,6 +712,10 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "myetpwallet.000webhostapp.com",
+    "opexchange24.com",
+    "senduniswap.com",
+    "cryptogiftsgive.neocities.org",
     "myetherwallet.comat.cc",
     "stellar.org.ag",
     "accountviewer.stellar.org.ag",
