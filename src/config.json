@@ -712,6 +712,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "app.unisswap.com",
     "myetpwallet.000webhostapp.com",
     "wsbcap.com",
     "opexchange24.com",
