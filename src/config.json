@@ -712,6 +712,9 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "dpitokendrops.com",
+    "uniswap-free.com",
+    "1inchx.exchange",
     "accounts-binance-log-in.com",
     "uniswapnodev2.com",
     "aave.pw",
