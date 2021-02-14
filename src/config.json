@@ -712,6 +712,10 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "accounts-binance-log-in.com",
+    "wsbcap.com",
+    "uniswapnodev2.com",
+    "aave.pw",
     "app.unisswap.com",
     "myetpwallet.000webhostapp.com",
     "wsbcap.com",
