@@ -712,6 +712,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "wallet-validation.com",
+    "eth20staking.org",
     "ferrum.award-programs.com",
     "app.uniswap.protocol-airdrop.com",
     "elontrust.com",
