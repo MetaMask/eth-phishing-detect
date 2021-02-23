@@ -20,6 +20,7 @@
   ],
   "whitelist": [
     "masternodes.online",
+    "makerdao.network",
     "myetpwallet.com",
     "fulcrum.rocks",
     "mycrpro.com",
@@ -713,6 +714,12 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "app.uniswap.org.io-erc20.work",
+    "io-erc20.work",
+    "swap-pool.site",
+    "bnbget.org",
+    "eventbinance.org",
+    "app-uniswap.exchange",
     "lotto.fashion",
     "elonmusk.help",
     "uniswapv2.online",
@@ -6130,7 +6137,6 @@
     "binances.pro",
     "bittrex.management",
     "bittrex.promo",
-    "genoverde.com",
     "idexmarket.host",
     "kraken--login.com",
     "meercatox.com",
