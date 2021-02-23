@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "masternodes.online",
     "makerdao.network",
     "myetpwallet.com",
     "fulcrum.rocks",
@@ -12673,7 +12674,6 @@
     "coinmik.com",
     "bitzau.com",
     "yfinew.com",
-    "masternodes.online",
     "hohbit.com"
   ]
 }
