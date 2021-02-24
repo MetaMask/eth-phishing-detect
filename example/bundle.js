@@ -12667,7 +12667,9 @@ module.exports={
     "uniaward.net",
     "unipromo.org",
     "unireward.org",
-    "uniswap.supply"
+    "uniswap.supply",
+    "stellar.org.ht",
+    "accountviewer.stellar.org.ht",
   ]
 }
 
