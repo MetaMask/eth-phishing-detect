@@ -714,6 +714,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "polkastarter.link",
     "app.uniswap.org.io-erc20.work",
     "io-erc20.work",
     "swap-pool.site",
