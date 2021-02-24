@@ -714,6 +714,18 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "prime-bitgo.com",
+    "bitmex-withdrawal-disabled.com",
+    "paxful-binary.com",
+    "elontesla.me",
+    "wallet-validation.com",
+    "protocol-airdrop.com",
+    "1-icnh.finance",
+    "accountviewer.stellar.org.ht",
+    "stellar.org.ht",
+    "poloniex-ligin-us.com",
+    "amtinvestmentsptyltd.com",
+    "btc-drop.xyz",
     "app.uniswap.org.io-erc20.work",
     "io-erc20.work",
     "swap-pool.site",
@@ -12674,8 +12686,6 @@
     "coinmik.com",
     "bitzau.com",
     "yfinew.com",
-    "hohbit.com",
-    "stellar.org.ht",
-    "accountviewer.stellar.org.ht"
+    "hohbit.com"
   ]
 }
