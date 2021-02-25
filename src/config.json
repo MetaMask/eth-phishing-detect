@@ -714,6 +714,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "restorewalletsio.link",
     "prime-bitgo.com",
     "bitmex-withdrawal-disabled.com",
     "paxful-binary.com",
