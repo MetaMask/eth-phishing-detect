@@ -714,6 +714,12 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "restorewalletsio.link",
+    "waveslitewallet.org",
+    "muskteam.ml",
+    "trust-wallets.info",
+    "cosmochange.com",
+    "elon-musk-medium.com",
     "dodoex.us",
     "elon.so",
     "app.beta-v2-uniswap.org",
