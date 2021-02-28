@@ -714,6 +714,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "ewalletconnect.link",
     "waveslitewallet.org",
     "muskteam.ml",
     "trust-wallets.info",
