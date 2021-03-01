@@ -714,6 +714,12 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "solanabit.com",
+    "btcsam.com",
+    "btclam.com",
+    "walletsconnets.com",
+    "coin-event.com",
+    "elon-portal.com",
     "ewalletconnect.link",
     "waveslitewallet.org",
     "muskteam.ml",
