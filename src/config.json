@@ -714,6 +714,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "app-uniswap-exchange.org",
+    "airdrop-uniswap-app.org",
     "solanabit.com",
     "btcsam.com",
     "btclam.com",
