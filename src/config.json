@@ -714,6 +714,10 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "uniswapaddress.com",
+    "rocld.com",
+    "stellar-airdrop.com",
+    "uni-project.org",
     "connectionlivewallets.org",
     "httpsappmycryptocom.slack.com",
     "claim-btc.net",
