@@ -714,6 +714,9 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "oferonrain.web.app",
+    "thegraph.us",
+    "nucypher.biz",
     "musk.info",
     "claim-now.me",
     "smartintegration.live",
