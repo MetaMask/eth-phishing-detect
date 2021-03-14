@@ -714,6 +714,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "casper.limited",
     "wall.prohoster.biz",
     "teslab.us",
     "elonmusk-gives.s3.amazonaws.com",
