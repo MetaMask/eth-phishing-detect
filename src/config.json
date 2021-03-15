@@ -714,6 +714,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "app.cream.finance",
+    "pancakeswap.finance",
     "api-walletconnect.org",
     "wall.prohoster.biz",
     "teslab.us",
