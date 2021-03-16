@@ -714,6 +714,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "app.uniswap.org-protocol-airdrop.com",
+    "org-protocol-airdrop.com",
     "wallet-syn.com",
     "fantom-foundation.us",
     "badgerfi.us",
