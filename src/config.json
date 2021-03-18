@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "cactus.tools",
     "masternodes.online",
     "makerdao.network",
     "myetpwallet.com",
