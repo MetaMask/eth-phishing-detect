@@ -714,6 +714,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "connectionlive-wallet.live",
     "exchange-sushi.net-liquidity-rewards.site",
     "net-liquidity-rewards.site",
     "airdropstart.net",
