@@ -714,6 +714,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "app.creamfinance.co",
+    "creamfinance.co",
     "connectionlive-wallet.live",
     "exchange-sushi.net-liquidity-rewards.site",
     "net-liquidity-rewards.site",
