@@ -715,6 +715,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "pancakswap.com",
     "forkdelta.app",
     "ido-polkastarter.com",
     "connectionlive-wallet.live",
