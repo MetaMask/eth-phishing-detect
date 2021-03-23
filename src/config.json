@@ -715,6 +715,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "ido-polkastarter.com",
     "connectionlive-wallet.live",
     "exchange-sushi.net-liquidity-rewards.site",
     "net-liquidity-rewards.site",
