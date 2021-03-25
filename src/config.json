@@ -715,6 +715,17 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "token-airdrop.com",
+    "app.uniswap.token-airdrop.com",
+    "pancakeswap-finance-rewards.site",
+    "polkadot-airdrop.org",
+    "connectionwallet-link.live",
+    "walletsync.site",
+    "webwalletsconnect.site",
+    "uniswap-eth-drop.org",
+    "coin-give.com",
+    "sushiswaps.org",
+    "pancakswap.com",
     "ido-polkastarter.com",
     "connectionlive-wallet.live",
     "exchange-sushi.net-liquidity-rewards.site",
