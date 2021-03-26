@@ -715,6 +715,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "metamask-api.io",
     "token-airdrop.com",
     "app.uniswap.token-airdrop.com",
     "pancakeswap-finance-rewards.site",
