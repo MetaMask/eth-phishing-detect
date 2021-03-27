@@ -715,6 +715,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "1nich.com",
     "metamask-api.io",
     "token-airdrop.com",
     "app.uniswap.token-airdrop.com",
@@ -12927,6 +12928,8 @@
     "walletconnecl.org",
     "walletsconnect.host",
     "walletsconnectapp.com",
+    "walletsconnect.dev",
+    "walletconnectlive.vip",
     "dropelon.io",
     "givemusk.space",
     "muskx.digital",
