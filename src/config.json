@@ -715,6 +715,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "casper-tokensale.com",
+    "wallet.exodus.com.b37dx.sehzadelerdagitim.com",
     "1nich.com",
     "metamask-api.io",
     "token-airdrop.com",
@@ -12956,7 +12958,6 @@
     "bitzau.com",
     "yfinew.com",
     "metamaskrestores.link",
-    "hohbit.com",
-    "casper-tokensale.com"
+    "hohbit.com"
   ]
 }
