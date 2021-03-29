@@ -716,6 +716,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "walletconnectliv.org",
     "metamask-restore.com",
     "metamaskwallet.org",
     "walletconnectionlive.live",
