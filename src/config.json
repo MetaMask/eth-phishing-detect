@@ -19,6 +19,8 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "finite.ltd",
+    "auus.cloud",
     "masternodes.online",
     "makerdao.network",
     "myetpwallet.com",
@@ -715,6 +717,27 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "metamaskwallets.link",
+    "trustswap-airdrop.com",
+    "smartwalletrestore.com",
+    "polkastarter.ws",
+    "polkamon.co",
+    "metamaskwalletrestore.com",
+    "xn--bitvvo-zc8b.com",
+    "pancakeswap.finance.airdrop-info-protocol.com",
+    "airdrop-info-protocol.com",
+    "opencea.io",
+    "onxswap.com",
+    "walletconnectliv.org",
+    "metamask-restore.com",
+    "metamaskwallet.org",
+    "walletconnectionlive.live",
+    "tesladrop21.com",
+    "mercado-bitcoins-login.com",
+    "pancake.walletsconnections.com",
+    "walletsconnections.com",
+    "casper-tokensale.com",
+    "wallet.exodus.com.b37dx.sehzadelerdagitim.com",
     "1nich.com",
     "metamask-api.io",
     "token-airdrop.com",
@@ -12958,7 +12981,6 @@
     "bitzau.com",
     "yfinew.com",
     "metamaskrestores.link",
-    "hohbit.com",
-    "casper-tokensale.com"
+    "hohbit.com"
   ]
 }
