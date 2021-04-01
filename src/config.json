@@ -718,6 +718,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "rally.sale",
+    "asva.sale",
     "metamaskswalletsio.com",
     "metamaskwallets.link",
     "trustswap-airdrop.com",
