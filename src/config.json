@@ -718,6 +718,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "firmware-metamask.repair",
     "metamaskswalletsio.com",
     "metamaskwallets.link",
     "trustswap-airdrop.com",
