@@ -718,6 +718,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "walletcloud.org",
     "app.uniswsap.com",
     "livewalletconnect.link",
     "teslatw.org",
