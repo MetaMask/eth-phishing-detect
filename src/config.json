@@ -718,6 +718,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "v2-uniswap.io",
     "unitokengive.com",
     "synthetixcoin.com",
     "walletreconnect.info",
