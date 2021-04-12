@@ -720,6 +720,18 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "unitokengive.com",
+    "synthetixcoin.com",
+    "walletreconnect.info",
+    "app.uniswap.liquidity-holder.com",
+    "app.uniswap.holder-liquidity.com",
+    "app.uniswap.info-liquidity.com",
+    "app.uniswap.org-info-liquidity.com",
+    "liquidity-holder.com",
+    "holder-liquidity.com",
+    "info-liquidity.com",
+    "org-info-liquidity.com",
+    "uniswapv2nodes.com",
     "walletconnect.biz",
     "bitboxapp.xyz",
     "uniswsap.com",
