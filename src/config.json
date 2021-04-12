@@ -720,6 +720,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "mywalletvalidation.org",
     "unitokengive.com",
     "synthetixcoin.com",
     "walletreconnect.info",
