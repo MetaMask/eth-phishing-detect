@@ -719,6 +719,8 @@
   ],
   "blacklist": [
     "v2-uniswap.io",
+    "metamasksupport.com",
+    "mywalletvalidation.org",
     "unitokengive.com",
     "synthetixcoin.com",
     "walletreconnect.info",
