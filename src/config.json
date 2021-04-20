@@ -718,6 +718,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "metamask-restores.net",
     "instadapp.net",
     "unifreebonus.com",
     "airdrop-liquidity.info",
