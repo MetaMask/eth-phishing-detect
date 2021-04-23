@@ -718,6 +718,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "metamask-zendesk.com",
     "foundatlon.app",
     "trustwalletrestore.org",
     "metamaskswallets.io",
