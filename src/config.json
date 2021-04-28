@@ -718,6 +718,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "nexus-swap.com",
+    "tronlink-wallet.com",
     "1inch.new",
     "musk-founder.com",
     "terolbit.com",
