@@ -718,6 +718,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "solstarter.app",
     "coinxhash.com",
     "nexus-swap.com",
     "tronlink-wallet.com",
