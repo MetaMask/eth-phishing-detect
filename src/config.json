@@ -718,6 +718,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "wallets-connects.support",
     "solstarter.app",
     "coinxhash.com",
     "nexus-swap.com",
