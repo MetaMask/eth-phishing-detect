@@ -718,6 +718,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "giveaway-app.info",
+    "metamask.giveaway-app.info",
     "uni-event.info",
     "solstarter.app",
     "coinxhash.com",
