@@ -718,6 +718,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "walletconnect.to",
+    "opensiao.io",
     "ledgerlive.com.de",
     "bitgoodey.com",
     "elondrop.pro",
