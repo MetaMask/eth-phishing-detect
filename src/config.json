@@ -718,6 +718,8 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "walletnetworks.org",
+    "connectionwallet.live",
     "walletconnect.to",
     "opensiao.io",
     "ledgerlive.com.de",
