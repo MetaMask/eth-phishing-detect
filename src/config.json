@@ -718,6 +718,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "Walletmerger.net",
     "walletnetworks.org",
     "connectionwallet.live",
     "walletconnect.to",
