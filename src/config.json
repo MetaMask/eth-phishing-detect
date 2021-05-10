@@ -17,9 +17,13 @@
     "makerfoundation.com",
     "fulcrum.trade",
     "launchpad.ethereum.org"
+    
   ],
   "whitelist": [
     "cactus.tools",
+    "metamasks.com",
+    "metacask.com",
+    "metacask.io",
     "efinity.io",
     "finite.ltd",
     "auus.cloud",
@@ -719,6 +723,9 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "thortrading.com",
+    "snlmusk.com",
+    "uniholders.com",
     "walletnetworks.org",
     "connectionwallet.live",
     "walletconnect.to",
