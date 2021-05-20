@@ -728,6 +728,8 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "walletcloud.org",
+    "livewallet.org",
     "metamaskcc.live",
     "walletsync.tech",
     "larvalab.net",
