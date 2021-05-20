@@ -725,6 +725,8 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "app.uniswap.org-protocol-airdrop.com",
+    "org-protocol-airdrop.com",
     "spi.club",
     "waxtokenrewards.com",
     "app-uniswap-exchange.org",
