@@ -728,6 +728,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "metamaskcc.live",
     "walletsync.tech",
     "larvalab.net",
     "nkbihfbeogaeaoehlefnkodbefgpgkmn.cc",
