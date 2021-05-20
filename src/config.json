@@ -723,6 +723,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "metamaskwallet.live",
     "metamaskonline.com",
     "metamask-zendesk.com",
     "metamaskconnects.online",
