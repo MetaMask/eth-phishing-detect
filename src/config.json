@@ -722,6 +722,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "wallets-connects.support",
     "xn--metamsk-30c.com",
     "extensions-meta.io",
     "loyaltyswap.com",
