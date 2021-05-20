@@ -732,6 +732,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "v2-uniswap.io",
     "walletcloud.org",
     "livewallet.org",
     "metamaskcc.live",
