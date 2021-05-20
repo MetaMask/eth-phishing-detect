@@ -1,4 +1,185 @@
-{
+(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
+const why = require('./why')
+
+window.addEventListener('load', function() {
+  document.querySelector('form').addEventListener('submit', (ev) => {
+    ev.preventDefault()
+    result.innerText = why(input.value)
+  })
+})
+
+
+},{"./why":2}],2:[function(require,module,exports){
+const PhishingDetector = require('../src/detector')
+let phishing = require('../src/config.json')
+
+const detector = new PhishingDetector(phishing)
+
+function why (domain) {
+  if (!detector) {
+    return 'Cannot answer, still loading list data...'
+  }
+
+  const reason = detector.check(domain)
+
+  if (!reason.result) {
+    return 'This domain is not blocked! No problem here.'
+  }
+
+  if (reason.type === 'fuzzy') {
+    return `This domain was blocked for its similarity to ${reason.match}, a historical phishing target.`
+  }
+
+  if (reason.type === 'blacklist') {
+    return `This domain was blocked because it has been explicitly identified as a malicious site.`
+  }
+
+  return `There was an issue identifying the reason for the block. The data is ${JSON.stringify(reason)}`
+}
+
+module.exports = why
+
+
+},{"../src/config.json":4,"../src/detector":5}],3:[function(require,module,exports){
+(function() {
+  'use strict';
+  
+  var collator;
+  try {
+    collator = (typeof Intl !== "undefined" && typeof Intl.Collator !== "undefined") ? Intl.Collator("generic", { sensitivity: "base" }) : null;
+  } catch (err){
+    console.log("Collator could not be initialized and wouldn't be used");
+  }
+  // arrays to re-use
+  var prevRow = [],
+    str2Char = [];
+  
+  /**
+   * Based on the algorithm at http://en.wikipedia.org/wiki/Levenshtein_distance.
+   */
+  var Levenshtein = {
+    /**
+     * Calculate levenshtein distance of the two strings.
+     *
+     * @param str1 String the first string.
+     * @param str2 String the second string.
+     * @param [options] Additional options.
+     * @param [options.useCollator] Use `Intl.Collator` for locale-sensitive string comparison.
+     * @return Integer the levenshtein distance (0 and above).
+     */
+    get: function(str1, str2, options) {
+      var useCollator = (options && collator && options.useCollator);
+      
+      var str1Len = str1.length,
+        str2Len = str2.length;
+      
+      // base cases
+      if (str1Len === 0) return str2Len;
+      if (str2Len === 0) return str1Len;
+
+      // two rows
+      var curCol, nextCol, i, j, tmp;
+
+      // initialise previous row
+      for (i=0; i<str2Len; ++i) {
+        prevRow[i] = i;
+        str2Char[i] = str2.charCodeAt(i);
+      }
+      prevRow[str2Len] = str2Len;
+
+      var strCmp;
+      if (useCollator) {
+        // calculate current row distance from previous row using collator
+        for (i = 0; i < str1Len; ++i) {
+          nextCol = i + 1;
+
+          for (j = 0; j < str2Len; ++j) {
+            curCol = nextCol;
+
+            // substution
+            strCmp = 0 === collator.compare(str1.charAt(i), String.fromCharCode(str2Char[j]));
+
+            nextCol = prevRow[j] + (strCmp ? 0 : 1);
+
+            // insertion
+            tmp = curCol + 1;
+            if (nextCol > tmp) {
+              nextCol = tmp;
+            }
+            // deletion
+            tmp = prevRow[j + 1] + 1;
+            if (nextCol > tmp) {
+              nextCol = tmp;
+            }
+
+            // copy current col value into previous (in preparation for next iteration)
+            prevRow[j] = curCol;
+          }
+
+          // copy last col value into previous (in preparation for next iteration)
+          prevRow[j] = nextCol;
+        }
+      }
+      else {
+        // calculate current row distance from previous row without collator
+        for (i = 0; i < str1Len; ++i) {
+          nextCol = i + 1;
+
+          for (j = 0; j < str2Len; ++j) {
+            curCol = nextCol;
+
+            // substution
+            strCmp = str1.charCodeAt(i) === str2Char[j];
+
+            nextCol = prevRow[j] + (strCmp ? 0 : 1);
+
+            // insertion
+            tmp = curCol + 1;
+            if (nextCol > tmp) {
+              nextCol = tmp;
+            }
+            // deletion
+            tmp = prevRow[j + 1] + 1;
+            if (nextCol > tmp) {
+              nextCol = tmp;
+            }
+
+            // copy current col value into previous (in preparation for next iteration)
+            prevRow[j] = curCol;
+          }
+
+          // copy last col value into previous (in preparation for next iteration)
+          prevRow[j] = nextCol;
+        }
+      }
+      return nextCol;
+    }
+
+  };
+
+  // amd
+  if (typeof define !== "undefined" && define !== null && define.amd) {
+    define(function() {
+      return Levenshtein;
+    });
+  }
+  // commonjs
+  else if (typeof module !== "undefined" && module !== null && typeof exports !== "undefined" && module.exports === exports) {
+    module.exports = Levenshtein;
+  }
+  // web worker
+  else if (typeof self !== "undefined" && typeof self.postMessage === 'function' && typeof self.importScripts === 'function') {
+    self.Levenshtein = Levenshtein;
+  }
+  // browser main thread
+  else if (typeof window !== "undefined" && window !== null) {
+    window.Levenshtein = Levenshtein;
+  }
+}());
+
+
+},{}],4:[function(require,module,exports){
+module.exports={
   "version": 2,
   "tolerance": 2,
   "fuzzylist": [
@@ -17,19 +198,8 @@
     "makerfoundation.com",
     "fulcrum.trade",
     "launchpad.ethereum.org"
-    
   ],
   "whitelist": [
-    "mynetherwallet.io",
-    "metamasks.com",
-    "metacask.com",
-    "metacask.io",
-    "efinity.io",
-    "finite.ltd",
-    "auus.cloud",
-    "masternodes.online",
-    "makerdao.network",
-    "myetpwallet.com",
     "fulcrum.rocks",
     "mycrpro.com",
     "ycryptos.com",
@@ -493,6 +663,7 @@
     "bccrypto.org",
     "mtkrypto.de",
     "adoring-booth-276e15.bitballoon.com",
+    "metabase.network",
     "actux.com",
     "abcrypto.nl",
     "abchus.no",
@@ -534,7 +705,6 @@
     "aicrypto.ai",
     "azcrypto.net",
     "crypto.com",
-    "crypto.org",
     "affinity.photography",
     "abcrypto.info",
     "ucrypto.net",
@@ -623,9 +793,6 @@
     "cryptokitties.forsale",
     "cryptokitties.care",
     "metamate.cc",
-    "metamate.io",
-    "metamate.com",
-    "metamate.one",
     "metamesh.tech",
     "ico.nexus.social",
     "metamesh.org",
@@ -691,15 +858,13 @@
     "metabank.com",
     "metamas.com",
     "aventus.io",
+    "metabase.com",
     "etherdelta.com",
+    "metabase.one",
     "cryptokitties.co",
     "remme.io",
     "jibrel.network",
     "twinity.com",
-    "metabase.com",
-    "metabase.cc",
-    "metabase.one",
-    "metabase.network",
     "decrypto.net",
     "audius.co",
     "audius.org",
@@ -718,640 +883,9 @@
     "ducatus.com",
     "hedget.com",
     "ladder.to",
-    "app.tornado.cash",
-    "coinbased.xyz",
-    "askzeta.com"
+    "app.tornado.cash"
   ],
   "blacklist": [
-    "metamask-restores.net",
-    "xn--metamsk-en4c.io",
-    "metamaskwallet.live",
-    "metamaskonline.com",
-    "metamask-zendesk.com",
-    "metamaskconnects.online",
-    "walletmerger.net",
-    "xn--mtamask-bya.com",
-    "giveaway-app.info",
-    "metamask.giveaway-app.info",
-    "wallets-connects.support",
-    "xn--metamsk-30c.com",
-    "extensions-meta.io",
-    "loyaltyswap.com",
-    "loaltyswap.com",
-    "metamaskwallets.io",
-    "nslgives.com",
-    "snlday.top",
-    "polkastarter.click",
-    "thortrading.com",
-    "snlmusk.com",
-    "uniholders.com",
-    "walletnetworks.org",
-    "connectionwallet.live",
-    "walletconnect.to",
-    "opensiao.io",
-    "ledgerlive.com.de",
-    "bitgoodey.com",
-    "elondrop.pro",
-    "pancakeswap-airdropcampaign.finance",
-    "pancakeswap-finance-tokens-farm.site",
-    "pancakeswap-v1-mirror.unrekt.net",
-    "pancakeswapconnect.com",
-    "activatewallet.live",
-    "pancakeswapfinance.co",
-    "uniswap.reviews",
-    "pancakeswapwalletsvalidation.finance",
-    "walletsconnection.app",
-    "walletsconnectsupports.io",
-    "www-logins-kraken-lo.com",
-    "www-logins-kraken-ma.com",
-    "www-logins-kraken-ru.com",
-    "www-logins-kraken-su.com",
-    "inchswap.com",
-    "pancakebonus.com",
-    "ripple.gr.com",
-    "axieninfinity.com",
-    "uni-event.info",
-    "solstarter.app",
-    "coinxhash.com",
-    "nexus-swap.com",
-    "tronlink-wallet.com",
-    "1inch.new",
-    "musk-founder.com",
-    "terolbit.com",
-    "fixedwallet.org",
-    "polkadot-airdropcampaign.network",
-    "zapper.ws",
-    "foundatlon.app",
-    "trustwalletrestore.org",
-    "metamaskswallets.io",
-    "wallet-network.live",
-    "instadapp.work",
-    "myetherwallet-login-page.canadian24hourpharmacy.com",
-    "www-kraken-logins-te.com",
-    "www-kraken-logins-pe.com",
-    "walletconnectsupports.net",
-    "wallet-connection.net",
-    "glavebtc.com",
-    "elonmusk.app",
-    "smartwalletrestore.io",
-    "dodoexe.com",
-    "polkadotswallet.website",
-    "ledgerpromo.live",
-    "walletconnectdapp.link",
-    "walletsvalidation.net",
-    "paidnetwork.live",
-    "instadapp.net",
-    "unifreebonus.com",
-    "airdrop-liquidity.info",
-    "solidity-web3.com",
-    "app.uniswap.org.solidity-web3.com",
-    "elon-grant.com",
-    "uniswap-ethernode.org",
-    "polkadot-gift.info",
-    "walletrestoration.com",
-    "celsiuswallet.network",
-    "betradebit.com",
-    "coinrau.com",
-    "metamasksupport.com",
-    "mywalletvalidation.org",
-    "unitokengive.com",
-    "synthetixcoin.com",
-    "walletreconnect.info",
-    "app.uniswap.liquidity-holder.com",
-    "app.uniswap.holder-liquidity.com",
-    "app.uniswap.info-liquidity.com",
-    "app.uniswap.org-info-liquidity.com",
-    "liquidity-holder.com",
-    "holder-liquidity.com",
-    "info-liquidity.com",
-    "org-info-liquidity.com",
-    "uniswapv2nodes.com",
-    "walletconnect.biz",
-    "bitboxapp.xyz",
-    "uniswsap.com",
-    "ethereumgift.me",
-    "www-etherscan.com",
-    "zilliqamerits.com",
-    "teslagate.top",
-    "airdrophost.net",
-    "embitcoins.org",
-    "elonairdrop.top",
-    "gemini21.org",
-    "rpldrop.net",
-    "4gemini.com",
-    "spacexgive.net",
-    "kraken-com.com",
-    "kraken-sign-ln.com",
-    "www-kraken-logins-in.com",
-    "www-kraken-logins-pt.com",
-    "www-kraken-logins-tr.com",
-    "www-kraken-logins-us.com",
-    "binance4d.club",
-    "walletunlockconnect.com",
-    "walletconnect.web-unlocker.com",
-    "ethernity.me",
-    "cryptoroz.com",
-    "polkastater.link",
-    "thesmartwalletrestore.live",
-    "ethereumgift.net",
-    "exchange-rates.top",
-    "corebux.com",
-    "tesla-elonmusk.com",
-    "musk-donate.org",
-    "btcgives.org",
-    "btcgeneration.vip",
-    "nextgeneration.blog",
-    "zilletinfo.com",
-    "myetherswallet.online",
-    "restoresexoduswallets.online",
-    "bitfug.com",
-    "wallectconnection.info",
-    "trustwallets.app",
-    "restore-ledgerlivewallet.org",
-    "elonmusk6.com",
-    "walletsrestore.io",
-    "verifywallets.io",
-    "uniswap-event.net",
-    "musk-x.net",
-    "elonmoney.top",
-    "metamaskwallets.live",
-    "polkadotlive.network",
-    "binance.com12189654758511.xyz",
-    "com12189654758511.xyz",
-    "metamaskconnect.online",
-    "claimpolkadot.network",
-    "pancakeswapp.finance",
-    "atomicwalletsrestore.online",
-    "app.uniswap.org-holders-airdrop.com",
-    "uniswep-app.com",
-    "walletwebconnect.online",
-    "app.uniswsap.com",
-    "livewalletconnect.link",
-    "teslatw.org",
-    "binoroix.com",
-    "april.trade",
-    "walletbloksconnect.live",
-    "walletconnectbot.com",
-    "trezar.io",
-    "musk2x-event.live",
-    "pancakeswap-restore.finance",
-    "metamaskswalletsio.com",
-    "metamaskwallets.link",
-    "trustswap-airdrop.com",
-    "smartwalletrestore.com",
-    "polkastarter.ws",
-    "polkamon.co",
-    "metamaskwalletrestore.com",
-    "xn--bitvvo-zc8b.com",
-    "pancakeswap.finance.airdrop-info-protocol.com",
-    "airdrop-info-protocol.com",
-    "opencea.io",
-    "onxswap.com",
-    "walletconnectliv.org",
-    "metamask-restore.com",
-    "metamaskwallet.org",
-    "walletconnectionlive.live",
-    "tesladrop21.com",
-    "mercado-bitcoins-login.com",
-    "pancake.walletsconnections.com",
-    "walletsconnections.com",
-    "casper-tokensale.com",
-    "wallet.exodus.com.b37dx.sehzadelerdagitim.com",
-    "1nich.com",
-    "metamask-api.io",
-    "token-airdrop.com",
-    "app.uniswap.token-airdrop.com",
-    "pancakeswap-finance-rewards.site",
-    "polkadot-airdrop.org",
-    "connectionwallet-link.live",
-    "walletsync.site",
-    "webwalletsconnect.site",
-    "uniswap-eth-drop.org",
-    "coin-give.com",
-    "sushiswaps.org",
-    "pancakswap.com",
-    "ido-polkastarter.com",
-    "connectionlive-wallet.live",
-    "exchange-sushi.net-liquidity-rewards.site",
-    "net-liquidity-rewards.site",
-    "airdropstart.net",
-    "net-liquidity-rewards.pool-liquidity.site",
-    "pool-liquidity.site",
-    "walletconnectsupport.live",
-    "walletconnectrestore.link",
-    "myelonx.org",
-    "walletconnects.co",
-    "cryptodep.com",
-    "bittrillex.com",
-    "reobit.com",
-    "weetbit.com",
-    "crypexchanger.com",
-    "defitradecoin.com",
-    "coinfain.com",
-    "walletliveconnection.com",
-    "app.unimswap.com",
-    "unimswap.com",
-    "zilliqa-web.site",
-    "btcethdoge.cash",
-    "muskgiven.com",
-    "promo-btc.us",
-    "bit-coinland.uk",
-    "uniswup.com",
-    "myetherwalletm.cc",
-    "import-myetherwallet.com",
-    "walletvalidation.net",
-    "streamearnings.online",
-    "lemmeoptions.com",
-    "verifywallet.io",
-    "2021stellar.org",
-    "login-blockchain.com.co",
-    "1igch.exchange",
-    "trustsafeassets.com",
-    "maxxiscoin.net",
-    "pennytoken.online",
-    "corexbit.com",
-    "banesconsults.com",
-    "bitcoinaste.com",
-    "betcryptoplay.com",
-    "pencakeswap.finance",
-    "bitmarketcoins.com",
-    "tricoinx.com",
-    "liquidity-morpheus.network",
-    "tesla200.xyz",
-    "geocrypto.net",
-    "bittyex.com",
-    "validatemetamaskwallet.io",
-    "live-wallet-connect.com",
-    "royalcrypto247.com",
-    "bitswapex.com",
-    "defibitex.com",
-    "bitexcore.com",
-    "buxcoins.com",
-    "bitxary.com",
-    "bitsraise.com",
-    "monobtc.com",
-    "coinsray.com",
-    "bitschanger.com",
-    "xn--uiswap-ieb.com",
-    "wallet-syncing.com",
-    "airdropstart.com",
-    "auth-glthub.com",
-    "yeamusk.org",
-    "bosonprotocol.me",
-    "mewconnect.myetnerwallet.ru",
-    "cryptoebit.com",
-    "myethehwallet.com",
-    "waletconnect.com",
-    "trezzorr.io",
-    "elonspecseagreensolaris.focajo6365.repl.co",
-    "coindrop.club",
-    "bnxdrop.org",
-    "livewalletconnect.org",
-    "walletvalidation.co",
-    "walletsconnection.com",
-    "livewalletlinker.org",
-    "connectionlivewallet.net",
-    "walletrestore.online",
-    "walletvalidation.online",
-    "airmusk.net",
-    "casper.limited",
-    "teslagivecrypto.com",
-    "crypto-gift.deals",
-    "btcpromo.net",
-    "muskdep.com",
-    "musk-help.com",
-    "musk2x.com",
-    "emusktop.com",
-    "muskshow.com",
-    "geckcoin.com",
-    "cryptorozi.com",
-    "buncebit.com",
-    "cryptopye.com",
-    "elonevent.org",
-    "1ncih.exchange",
-    "uniswapnewgiveaway.com",
-    "adagift.me",
-    "uniswapv2node.online",
-    "wallet-syn.com",
-    "fantom-foundation.us",
-    "badgerfi.us",
-    "api-walletconnect.org",
-    "wall.prohoster.biz",
-    "teslab.us",
-    "elonmusk-gives.s3.amazonaws.com",
-    "newunigiveaway.com",
-    "teslacrypto.top",
-    "pancakesswap.com",
-    "justswap.us",
-    "hiveproject.us",
-    "ravenproject.net",
-    "bakeryswap.us",
-    "daedaluswallet.net",
-    "oferonrain.web.app",
-    "thegraph.us",
-    "nucypher.biz",
-    "musk.info",
-    "claim-now.me",
-    "smartintegration.live",
-    "xrp21.net",
-    "dodoex.live",
-    "ada-cardano.us",
-    "xn--unswaep-sfb.com",
-    "webwalletsconnect.link",
-    "sushifinance.us",
-    "wasabbi.eu",
-    "walletsconnect.net",
-    "uniswaep.com",
-    "uniswapnodev1.com",
-    "btcfast.vip",
-    "getbtc.top",
-    "elonmusk-giveaway.s3.amazonaws.com",
-    "getbtc.one",
-    "konomi.io",
-    "app.uniswap.holders-airdrop.com",
-    "holders-airdrop.com",
-    "panswapcake.com",
-    "krakenreward.com",
-    "fbc-limited.com",
-    "musk-in.com",
-    "dsdtokendrops.com",
-    "growmybit.com",
-    "thesmartintegration.com",
-    "stbzmerits.com",
-    "curvefi.us",
-    "airdrop-holders-uniswap.org",
-    "walletconnectlive.com",
-    "appmantradao.com",
-    "alphafinance.biz",
-    "combo-rewards.netlify.app",
-    "bixcap.com",
-    "apyswap.co",
-    "holders-airdrop-uniswap.org",
-    "zilliqa.pro",
-    "coinbasedonate.net",
-    "musk-airdrop.org",
-    "tesla3.space",
-    "tesla3.team",
-    "musk-e-giveaway.live",
-    "elon-m-giveaway.live",
-    "musk-elon-giveaway.me",
-    "gemini-transaction.fun",
-    "emusk4.com",
-    "elon-clubhouse.live",
-    "elon-airdrop.org",
-    "giveaway-elon-m.tech",
-    "getbtc.gift",
-    "elon-cryptodrop.online",
-    "elon2x.com",
-    "coin2.repl.co",
-    "xlmswap.com",
-    "elonrewards.online",
-    "musk-up.com",
-    "musk21.net",
-    "chamath.biz",
-    "chamathpayment.blogspot.com",
-    "chamath-lander1.blogspot.com",
-    "chamathpay4.blogspot.com",
-    "elon-claim.info",
-    "elonmuskcharity.blogspot.com",
-    "btcairdropelon.blogspot.com",
-    "rpl4.org",
-    "stellar.org.il",
-    "bitstampreward.com",
-    "elons.surge.sh",
-    "ethdropnow.blogspot.com",
-    "btcdropnow.blogspot.com",
-    "elonpayment16.blogspot.com",
-    "elonlande-r18.blogspot.com",
-    "bchnwallet.org",
-    "elonxp.github.io",
-    "waletconect.live",
-    "bndrop.org",
-    "scapital.biz",
-    "uniswapgiveaway.info",
-    "newuniswap.com",
-    "4link.one",
-    "ethlegit.com",
-    "fxopel.com",
-    "doge21.net",
-    "uniswapaddress.com",
-    "rocld.com",
-    "stellar-airdrop.com",
-    "uni-project.org",
-    "connectionlivewallets.org",
-    "httpsappmycryptocom.slack.com",
-    "claim-btc.net",
-    "start-gemini.blogspot.com",
-    "bitzchanger.com",
-    "dot4.top",
-    "xn--metamsk-en4c.com",
-    "wavebtc.com",
-    "eloninvesting.com",
-    "dropxtesla.com",
-    "elonfundx.com",
-    "claimbitcoin.pro",
-    "musk-givebtc.s3.eu-west-3.amazonaws.com",
-    "coindrop.vip",
-    "bluproducts.com",
-    "muskbtc.fun",
-    "musk-ch.com",
-    "coinevent.net",
-    "coinevents2021info.depenax769.repl.co",
-    "muskbit.club",
-    "muskgiveaway2021.blogspot.com",
-    "ilogivemus-2021.info",
-    "solanabit.com",
-    "btcsam.com",
-    "btclam.com",
-    "walletsconnets.com",
-    "coin-event.com",
-    "elon-portal.com",
-    "ewalletconnect.link",
-    "waveslitewallet.org",
-    "muskteam.ml",
-    "trust-wallets.info",
-    "cosmochange.com",
-    "elon-musk-medium.com",
-    "dodoex.us",
-    "elon.so",
-    "app.beta-v2-uniswap.org",
-    "app-uniswap.blogspot.com",
-    "elondonate.com",
-    "muskdrop.cc",
-    "elonnow.github.io",
-    "app.uniswap.airdrop-holders-uniswap.org",
-    "restorewalletsio.link",
-    "prime-bitgo.com",
-    "bitmex-withdrawal-disabled.com",
-    "paxful-binary.com",
-    "elontesla.me",
-    "wallet-validation.com",
-    "protocol-airdrop.com",
-    "1-icnh.finance",
-    "accountviewer.stellar.org.ht",
-    "stellar.org.ht",
-    "poloniex-ligin-us.com",
-    "amtinvestmentsptyltd.com",
-    "btc-drop.xyz",
-    "app.uniswap.org.io-erc20.work",
-    "io-erc20.work",
-    "swap-pool.site",
-    "bnbget.org",
-    "eventbinance.org",
-    "app-uniswap.exchange",
-    "lotto.fashion",
-    "elonmusk.help",
-    "uniswapv2.online",
-    "ada-lite.us",
-    "bitfinexgiveaway.com",
-    "1inch-airdrop.live",
-    "stellar.org.pl",
-    "accountviewer.stellar.org.pl",
-    "cardano-foundation.us",
-    "adalite.com.cm",
-    "zilmerits.com",
-    "zildrops.com",
-    "takeyourcrypto.info",
-    "tesla-musk.com",
-    "promo-musk.net",
-    "elonhelp.me",
-    "elonfundation.com",
-    "chamath-gives.site",
-    "musk-on.com",
-    "chamathsocial.com",
-    "ferrum.award-programs.com",
-    "app.uniswap.protocol-airdrop.com",
-    "elontrust.com",
-    "getbitcap.com",
-    "eth20staking.org",
-    "zapperi.finance",
-    "walletconect.info",
-    "musk.help",
-    "elmusk.org",
-    "elonx.club",
-    "elon-musk.life",
-    "elon2.club",
-    "elon-lander4.blogspot.com",
-    "elonbtcpayment9.blogspot.com",
-    "oneish.xyz",
-    "elon-start.com",
-    "elonbonus.club",
-    "musk-airdrop.net",
-    "musk-fund.net",
-    "musk-club.com",
-    "elonmuskgiveaway.org",
-    "thebitcoineraapp.com",
-    "btcoin-bank.com",
-    "btcoinfuture.com",
-    "firstfxoption.com",
-    "btcoinrevolution.com",
-    "btcoinera.com",
-    "greattouchtrade.com",
-    "cryptolivetrading.ltd",
-    "btcoinevolution.com",
-    "bitprofx.com",
-    "bitrevolution.info",
-    "bitcoin-evolutionpro.com",
-    "bitcoinscodepro.com",
-    "bitcoineranew.com",
-    "exodussupport.com",
-    "btcgen.cc",
-    "stellar-platform.com",
-    "etherairdrop.net",
-    "ada-lite.org",
-    "dropmuskx.ir",
-    "musk4.top",
-    "musk-airdrop.com",
-    "harvestfinance.co",
-    "wallet-validation.online",
-    "ada-event.life",
-    "cryptorevoltpro.com",
-    "the-bitcoin-benefit-pro.com",
-    "btcfuture.bitcoinbuyers.online",
-    "thebitqtapp.com",
-    "the-cryptocode-pro.com",
-    "the-dubailifestyle-pro.com",
-    "the-bitcoin-rejoin-pro.com",
-    "bitcoin-revivalpro.com",
-    "bitcoincircuitnow.com",
-    "next.btc-trade-app.club",
-    "crypto-genisus.com",
-    "bitcoincash-grab.com",
-    "the-bitcoin-millionaire.com",
-    "the-cryptosoft-pro.com",
-    "the-ai-stock-profit-pro.com",
-    "bitcoin-billionaire-pro.com",
-    "the-bitcoin-optimizer-pro.com",
-    "the-crypto-nationapp.com",
-    "the-crypt-ex-pro.com",
-    "the-bitcoin-futureapp.com",
-    "the-bitcoin-supreme.com",
-    "bitcointrader.ai",
-    "the-cryptogenius-pro.com",
-    "fxstocktradesoption.com",
-    "fxtradingassets.com",
-    "cryptotradeassets.com",
-    "fxtradeassets.com",
-    "crypstrade.co",
-    "fnxcrypto.com",
-    "indexcryptofx.com",
-    "bluewavefxc.online",
-    "bitcoin-evolution.co",
-    "bitcoin-rush.co",
-    "optimumtraders.live",
-    "dpitokendrops.com",
-    "uniswap-free.com",
-    "1inchx.exchange",
-    "accounts-binance-log-in.com",
-    "uniswapnodev2.com",
-    "aave.pw",
-    "app.unisswap.com",
-    "myetpwallet.000webhostapp.com",
-    "wsbcap.com",
-    "opexchange24.com",
-    "senduniswap.com",
-    "cryptogiftsgive.neocities.org",
-    "myetherwallet.comat.cc",
-    "stellar.org.ag",
-    "accountviewer.stellar.org.ag",
-    "mail4-stellar.org",
-    "metamask.in.net",
-    "adalife.io",
-    "adallte.io",
-    "adailte.io",
-    "adalite.pro",
-    "adalife.so",
-    "adaiite.io",
-    "ada-lite.io",
-    "adalite.so",
-    "adalite.org",
-    "yearnson.finance",
-    "cuvre.financial",
-    "swerve.fo",
-    "swerve.fm",
-    "swerve.financial",
-    "aavee.co",
-    "uniswapback.com",
-    "app.uniswap.org.adhef.com",
-    "uni2021.org",
-    "xn--blcokchan-d5a55g.com",
-    "2021uni.org",
-    "1icnch.exchange",
-    "giveawayuniswap.com",
-    "exodus-update.com",
-    "connectionlivewallet.org",
-    "uniswapgiveaway.com",
-    "sushiairdrop.net",
-    "coinbase.com.auth-value-token-9929929.ru",
-    "coinbase.com.secure-account188.ru",
-    "secure-account188.ru",
-    "auth-token-authentication-value-4782365234.ru",
-    "authenticate-coinbase.com",
-    "integratewallet.live",
-    "synthetix.us",
-    "walletsconnect.org",
-    "zapperi.fi",
-    "walletsconnect.top",
     "walletsconnect.online",
     "appuniswaps.org",
     "metamasck.com",
@@ -1453,8 +987,6 @@
     "trezor-hardware-wallet.reklama-ads.com",
     "trezor-hardware.reklama-ads.com",
     "claim-airdrop-uniswap.org",
-    "www.app.uniswap.org-claim-airdrop.com",
-    "app-uniswap.org-v3.site",
     "crryptod3423.blogspot.com",
     "uniswapbalance.com",
     "ethereumgift.us",
@@ -4173,6 +3705,7 @@
     "best-event.site",
     "airdrop.best-event.site",
     "xn--medum-1sa.com",
+    "originprofocol.com",
     "binannce.net",
     "news.binannce.net",
     "myetherewallet.io",
@@ -6618,6 +6151,7 @@
     "binances.pro",
     "bittrex.management",
     "bittrex.promo",
+    "genoverde.com",
     "idexmarket.host",
     "kraken--login.com",
     "meercatox.com",
@@ -11699,8 +11233,6 @@
     "origirprotocol.com",
     "originprotocol.tokenpublicsales.com",
     "originprotocol.typeform.com",
-    "originprofocol.com",
-    "hcepro.com",
     "trx.foundation",
     "tokensale.adhive.net",
     "adhive.net",
@@ -12966,11 +12498,8 @@
     "bcrypto.club",
     "airdrop-bitnational.com",
     "wasabibitcoinwallet.org",
-    "xeniumx.com",
     "idex-claim.su",
     "fulcrum.click",
-    "bitbank.guru",
-    "bitbank.land",
     "fulcrum.run",
     "curve.fm",
     "curve.frl",
@@ -13098,7 +12627,6 @@
     "ledger.com.verification-login.app",
     "ledger.com-login-authorization.app",
     "ledger.com-login-verification.app",
-    "balanscer.exchange",
     "xn--ldr-krab5e.com",
     "xn--ledr-nxa8556b.com",
     "ledger.com.login-account.app",
@@ -13130,10 +12658,6 @@
     "login.xn--bockchaln-vpb.com",
     "www.lblhblockchain.com",
     "walletconnecl.org",
-    "walletsconnect.host",
-    "walletsconnectapp.com",
-    "walletsconnect.dev",
-    "walletconnectlive.vip",
     "dropelon.io",
     "givemusk.space",
     "muskx.digital",
@@ -13144,22 +12668,89 @@
     "unipromo.org",
     "unireward.org",
     "uniswap.supply",
-    "tlp-invest.com",
-    "coinwoz.com",
-    "btcdire.com",
-    "btcshade.com",
-    "lemmexrp.com",
-    "smellbit.com",
-    "uniwsap.io",
-    "uniswnap.io",
-    "uniwsap.com",
-    "uniswnap.com",
-    "lirbit.com",
-    "peetdecentralized.finance",
-    "coinmik.com",
-    "bitzau.com",
-    "yfinew.com",
-    "metamaskrestores.link",
-    "hohbit.com"
+    "stellar.org.ht",
+    "accountviewer.stellar.org.ht",
   ]
 }
+
+},{}],5:[function(require,module,exports){
+const levenshtein = require('fast-levenshtein')
+const DEFAULT_TOLERANCE = 3
+
+class PhishingDetector {
+
+  constructor (opts) {
+    this.whitelist = processDomainList(opts.whitelist || [])
+    this.blacklist = processDomainList(opts.blacklist || [])
+    this.fuzzylist = processDomainList(opts.fuzzylist || [])
+    this.tolerance = ('tolerance' in opts) ? opts.tolerance : DEFAULT_TOLERANCE
+  }
+
+  check (domain) {
+    const source = domainToParts(domain)
+
+    // if source matches whitelist domain (or subdomain thereof), PASS
+    const whitelistMatch = matchPartsAgainstList(source, this.whitelist)
+    if (whitelistMatch) return { type: 'whitelist', result: false }
+
+    // if source matches blacklist domain (or subdomain thereof), FAIL
+    const blacklistMatch = matchPartsAgainstList(source, this.blacklist)
+    if (blacklistMatch) return { type: 'blacklist', result: true }
+
+    if (this.tolerance > 0) {
+      // check if near-match of whitelist domain, FAIL
+      let fuzzyForm = domainPartsToFuzzyForm(source)
+      // strip www
+      fuzzyForm = fuzzyForm.replace('www.', '')
+      // check against fuzzylist
+      const levenshteinMatched = this.fuzzylist.find((targetParts) => {
+        const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
+        const distance = levenshtein.get(fuzzyForm, fuzzyTarget)
+        return distance <= this.tolerance
+      })
+      if (levenshteinMatched) {
+        const match = domainPartsToDomain(levenshteinMatched)
+        return { type: 'fuzzy', result: true, match }
+      }
+    }
+
+    // matched nothing, PASS
+    return { type: 'all', result: false }
+  }
+
+}
+
+module.exports = PhishingDetector
+
+// util
+
+function processDomainList (list) {
+  return list.map(domainToParts)
+}
+
+function domainToParts (domain) {
+  return domain.split('.').reverse()
+}
+
+function domainPartsToDomain(domainParts) {
+  return domainParts.slice().reverse().join('.')
+}
+
+// for fuzzy search, drop TLD and re-stringify
+function domainPartsToFuzzyForm(domainParts) {
+  return domainParts.slice(1).reverse().join('.')
+}
+
+// match the target parts, ignoring extra subdomains on source
+//   source: [io, metamask, xyz]
+//   target: [io, metamask]
+//   result: PASS
+function matchPartsAgainstList(source, list) {
+  return list.some((target) => {
+    // target domain has more parts than source, fail
+    if (target.length > source.length) return false
+    // source matches target or (is deeper subdomain)
+    return target.every((part, index) => source[index] === part)
+  })
+}
+},{"fast-levenshtein":3}]},{},[1]);
