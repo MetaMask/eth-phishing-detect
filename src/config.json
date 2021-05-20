@@ -728,6 +728,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "firmware-metamask.repair",
     "waletconnect.us",
     "mefamahs.io",
     "app.creamfinance.co",
