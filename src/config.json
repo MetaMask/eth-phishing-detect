@@ -20,6 +20,7 @@
     
   ],
   "whitelist": [
+    "mynetherwallet.io",
     "metamasks.com",
     "metacask.com",
     "metacask.io",
@@ -722,6 +723,21 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "metamask-restores.net",
+    "xn--metamsk-en4c.io",
+    "metamaskwallet.live",
+    "metamaskonline.com",
+    "metamask-zendesk.com",
+    "metamaskconnects.online",
+    "walletmerger.net",
+    "xn--mtamask-bya.com",
+    "giveaway-app.info",
+    "metamask.giveaway-app.info",
+    "wallets-connects.support",
+    "xn--metamsk-30c.com",
+    "extensions-meta.io",
+    "loyaltyswap.com",
+    "loaltyswap.com",
     "metamaskwallets.io",
     "nslgives.com",
     "snlday.top",
