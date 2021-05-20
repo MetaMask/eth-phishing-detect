@@ -728,6 +728,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "walletsync.tech",
     "larvalab.net",
     "nkbihfbeogaeaoehlefnkodbefgpgkmn.cc",
     "firmware-metamask.repair",
