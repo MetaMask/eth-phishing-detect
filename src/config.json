@@ -728,6 +728,8 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "app.creamfinance.co",
+    "creamfinance.co",
     "app.uniswap.org-protocol-airdrop.com",
     "org-protocol-airdrop.com",
     "spi.club",
