@@ -20,6 +20,7 @@
     
   ],
   "whitelist": [
+    "cactus.tools",
     "ascetus.com",
     "mynetherwallet.io",
     "metamasks.com",
