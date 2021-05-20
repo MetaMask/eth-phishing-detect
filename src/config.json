@@ -728,6 +728,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "waletconnect.us",
     "mefamahs.io",
     "app.creamfinance.co",
     "creamfinance.co",
