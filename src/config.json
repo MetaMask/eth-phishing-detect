@@ -723,6 +723,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "metamask-restores.net",
     "xn--metamsk-en4c.io",
     "metamaskwallet.live",
     "metamaskonline.com",
