@@ -17,8 +17,12 @@
     "makerfoundation.com",
     "fulcrum.trade",
     "launchpad.ethereum.org"
+    
   ],
   "whitelist": [
+    "metamasks.com",
+    "metacask.com",
+    "metacask.io",
     "efinity.io",
     "finite.ltd",
     "auus.cloud",
@@ -719,6 +723,20 @@
   ],
   "blacklist": [
     "Walletmerger.net",
+    "giveaway-app.info",
+    "metamask.giveaway-app.info",
+    "wallets-connects.support",
+    "xn--metamsk-30c.com",
+    "extensions-meta.io",
+    "loyaltyswap.com",
+    "loaltyswap.com",
+    "metamaskwallets.io",
+    "nslgives.com",
+    "snlday.top",
+    "polkastarter.click",
+    "thortrading.com",
+    "snlmusk.com",
+    "uniholders.com",
     "walletnetworks.org",
     "connectionwallet.live",
     "walletconnect.to",
