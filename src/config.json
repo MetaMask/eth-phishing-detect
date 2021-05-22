@@ -734,6 +734,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "xn--mtamsk-a.com",
     "v2-uniswap.io",
     "walletcloud.org",
     "livewallet.org",
