@@ -736,6 +736,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "trezor.io-checkrestore.com",
     "xn--mtamsk-sta4d.com",
     "v2-uniswap.io",
     "walletcloud.org",
