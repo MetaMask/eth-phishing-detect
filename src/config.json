@@ -736,6 +736,8 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "extension.thebalichili.com",
+    "thebalichili.com",
     "xn--mtamsk-sta4d.com",
     "v2-uniswap.io",
     "walletcloud.org",
