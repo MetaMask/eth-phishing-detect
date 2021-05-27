@@ -736,6 +736,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "trezor.io-checkrestore.com",
     "nft-opensea.com",
     "connects-wallet.live",
     "xn--mtamsk-sta4d.com",
