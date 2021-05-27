@@ -739,6 +739,11 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "extension.thebalichili.com",
+    "thebalichili.com",
+    "trezor.io-checkrestore.com",
+    "nft-opensea.com",
+    "connects-wallet.live",
     "xn--mtamsk-sta4d.com",
     "v2-uniswap.io",
     "walletcloud.org",
