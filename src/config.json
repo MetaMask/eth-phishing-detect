@@ -736,6 +736,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "nft-opensea.com",
     "connects-wallet.live",
     "xn--mtamsk-sta4d.com",
     "v2-uniswap.io",
