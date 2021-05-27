@@ -1,0 +1,30 @@
+name: Build and Test
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+
+jobs:
+  build-test:
+    name: Build and Test
+    runs-on: ubuntu-20.04
+    strategy:
+      matrix:
+        node-version: [10.x, 12.x, 14.x, 16.x]
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: yarn --frozen-lockfile
+    - run: yarn buildSample
+    - run: yarn ci
+  all-jobs-pass:
+    name: All jobs pass
+    runs-on: ubuntu-20.04
+    needs:
+      - build-test
+    steps:
+    - run: echo "Great success!"
