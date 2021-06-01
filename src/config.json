@@ -739,6 +739,8 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "polkastarter-sale.com",
+    "dappwalletconnects.com",
     "extension.thebalichili.com",
     "thebalichili.com",
     "trezor.io-checkrestore.com",
