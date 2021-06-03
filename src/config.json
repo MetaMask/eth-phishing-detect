@@ -739,6 +739,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "validate.multicoin-wallet.org",
     "polkastarter-sale.com",
     "dappwalletconnects.com",
     "extension.thebalichili.com",
