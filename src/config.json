@@ -739,6 +739,8 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "metamask-io.online",
+    "multicoin-wallet.org",
     "validate.multicoin-wallet.org",
     "polkastarter-sale.com",
     "dappwalletconnects.com",
