@@ -740,6 +740,7 @@
   ],
   "blacklist": [
     "maticwallets.net",
+    "larvalab.io",
     "metamask-io.online",
     "multicoin-wallet.org",
     "validate.multicoin-wallet.org",
