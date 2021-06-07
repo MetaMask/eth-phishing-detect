@@ -739,6 +739,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "maticwallets.net",
     "larvalab.io",
     "metamask-io.online",
     "multicoin-wallet.org",
