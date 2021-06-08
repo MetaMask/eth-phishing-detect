@@ -742,6 +742,8 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "io-restore.net",
+    "metamask.io-restore.net",
     "maticwallets.net",
     "larvalab.io",
     "metamask-io.online",
