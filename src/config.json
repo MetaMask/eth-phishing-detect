@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "walletconnectsupports.com",
     "io-restore.net",
     "metamask.io-restore.net",
     "maticwallets.net",
