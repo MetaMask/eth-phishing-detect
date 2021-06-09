@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "buyspx.com",
     "officialspx.com",
     "walletconnectsupports.com",
     "io-restore.net",
