@@ -743,6 +743,7 @@
   ],
   "blacklist": [
     "buyspx.com",
+    "officialspx.com",
     "walletconnectsupports.com",
     "io-restore.net",
     "metamask.io-restore.net",
