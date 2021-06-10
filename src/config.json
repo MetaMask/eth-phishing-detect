@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "metamask-connection.io",
     "buyspx.com",
     "officialspx.com",
     "walletconnectsupports.com",
