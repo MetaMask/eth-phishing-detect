@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "metamasksite.live",
     "metamask-connection.io",
     "buyspx.com",
     "officialspx.com",
