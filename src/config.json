@@ -742,6 +742,8 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "metachmonk.com",
+    "1inchet.com",
     "online-metamask.com",
     "reconnectwallet.io",
     "pancakeswap.cheap",
