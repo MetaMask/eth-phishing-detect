@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "pancakeswap.cheap",
     "polkastarter.eu",
     "metamask-connection.io",
     "buyspx.com",
