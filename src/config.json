@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "polkastarter.eu",
     "metamask-connection.io",
     "buyspx.com",
     "officialspx.com",
