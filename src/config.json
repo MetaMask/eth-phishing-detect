@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "reconnectwallet.io",
     "pancakeswap.cheap",
     "polkastarter.eu",
     "metamask-connection.io",
