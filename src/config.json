@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "walletliveauthorization.com",
     "metachmonk.com",
     "1inchet.com",
     "online-metamask.com",
