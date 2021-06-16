@@ -17,7 +17,7 @@
     "makerfoundation.com",
     "fulcrum.trade",
     "launchpad.ethereum.org"
-    
+
   ],
   "whitelist": [
     "vcinity.io",
@@ -739,7 +739,8 @@
     "askzeta.com",
     "fulcra.design",
     "axle.design",
-    "cactus.chat"
+    "cactus.chat",
+    "token.im"
   ],
   "blacklist": [
     "2pancakeswap.com",
@@ -13279,6 +13280,33 @@
     "metamaskrestores.link",
     "hohbit.com",
     "metamasksite.live",
-    "metamaskwallet.help"
+    "metamaskwallet.help",
+    "https://imtokenpay.xyz/",
+    "https://imtoken.tours/",
+    "https://imtoken-1.com/",
+    "https://imtokenusa.top/",
+    "http://intoken.top/",
+    "https://apks.live/download-app-imtoken-10---your-trusted-ethereum%EF%BC%86erc20-wallet-for-pc-windows-and-mac/org.consenlabs.token.html",
+    "https://imtokenswallet.com/Public/login",
+    "https://imtokensdt.xyz/",
+    "http://imtokeng.com/",
+    "https://imtoken-ic.com/",
+    "http://imtoken-login.com/",
+    "https://imtoken.show/",
+    "http://imtokeng.xyz/",
+    "https://imtoken.express/",
+    "https://imtoken.gold/",
+    "https://imtokenh.net/",
+    "https://imtoken.zone/#/",
+    "http://imtokens.net/",
+    "http://imtoken.la/",
+    "http://imtoken.com.cn/",
+    "https://www.im-token.cc/",
+    "http://imtoken.cn/",
+    "https://www.im-token.me/",
+    "http://tokenim.com.cn/",
+    "https://wallet3.imtokens.live/",
+    "https://www1.cimbclicksmi.cc/login/",
+    "http://m.tokeni.cn/"
   ]
 }
