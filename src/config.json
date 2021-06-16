@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "metamask-online.org",
     "download-metamask.com",
     "metemask-node.com",
     "2pancakeswap.com",
