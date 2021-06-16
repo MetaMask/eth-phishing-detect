@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "metamask-online.org",
     "securewalletlink.org",
     "metamask-online.org",
     "download-metamask.com",
