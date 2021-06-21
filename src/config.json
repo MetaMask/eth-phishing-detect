@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "wallet-sync.io",
     "metamask-sync.com",
     "metamaskv2.io",
     "securewalletlink.org",
