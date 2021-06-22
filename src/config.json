@@ -742,6 +742,8 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "liquidifty.bscpad.com.de",
+    "bscpad.com.de",
     "keep-network.com",
     "wallet-sync.io",
     "metamask-sync.com",
