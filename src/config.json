@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "trustwallets.me",
     "liquidifty.bscpad.com.de",
     "bscpad.com.de",
     "keep-network.com",
