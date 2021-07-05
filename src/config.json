@@ -742,6 +742,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "freematic.gifts",
     "myewerthevakleth.com",
     "ewalletsupport.com",
     "curve.wtf",
