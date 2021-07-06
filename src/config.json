@@ -13,14 +13,12 @@
     "hederahashgraph.com",
     "etherscan.io",
     "originprotocol.com",
-    "makerdao.com",
     "makerfoundation.com",
     "fulcrum.trade",
     "launchpad.ethereum.org"
     
   ],
   "whitelist": [
-    "makerdao.world",
     "vcinity.io",
     "vcinity.org",
     "vcinity.com",
@@ -44,7 +42,6 @@
     "finite.ltd",
     "auus.cloud",
     "masternodes.online",
-    "makerdao.network",
     "myetpwallet.com",
     "fulcrum.rocks",
     "mycrpro.com",
@@ -222,7 +219,6 @@
     "groasis.investments",
     "msn.com",
     "ok.ru",
-    "makerdao.com",
     "makerfoundation.com",
     "oasis.app",
     "mkr.tools",
