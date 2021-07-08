@@ -13,7 +13,6 @@
     "hederahashgraph.com",
     "etherscan.io",
     "originprotocol.com",
-    "makerdao.com",
     "makerfoundation.com",
     "fulcrum.trade",
     "launchpad.ethereum.org"
@@ -43,7 +42,6 @@
     "finite.ltd",
     "auus.cloud",
     "masternodes.online",
-    "makerdao.network",
     "myetpwallet.com",
     "fulcrum.rocks",
     "mycrpro.com",
@@ -221,7 +219,6 @@
     "groasis.investments",
     "msn.com",
     "ok.ru",
-    "makerdao.com",
     "makerfoundation.com",
     "oasis.app",
     "mkr.tools",
@@ -742,6 +739,12 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "meta-mask.co",
+    "freematic.gifts",
+    "myewerthevakleth.com",
+    "ewalletsupport.com",
+    "curve.wtf",
+    "trustwallets.me",
     "liquidifty.bscpad.com.de",
     "bscpad.com.de",
     "keep-network.com",
