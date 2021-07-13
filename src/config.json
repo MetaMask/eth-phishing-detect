@@ -739,6 +739,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "metamaskswap.io",
     "meta-token.site",
     "metamaskdrop.club",
     "mantemask.com",
