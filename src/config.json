@@ -739,6 +739,7 @@
     "cactus.chat"
   ],
   "blacklist": [
+    "www-opeansea.io",
     "metamaskswap.io",
     "meta-token.site",
     "metamaskdrop.club",
