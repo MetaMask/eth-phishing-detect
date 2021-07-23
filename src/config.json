@@ -739,6 +739,7 @@
     "nfinity.space"
   ],
   "blacklist": [
+    "walletvalidation.info",
     "multiapp-connect.org",
     "multiconcept.net",
     "pancakeswop.finance",
