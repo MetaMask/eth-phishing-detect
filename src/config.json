@@ -739,6 +739,7 @@
     "nfinity.space"
   ],
   "blacklist": [
+    "contactmetamask.com",
     "walletvalidation.info",
     "multiapp-connect.org",
     "multiconcept.net",
