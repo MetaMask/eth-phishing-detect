@@ -739,6 +739,7 @@
     "nfinity.space"
   ],
   "blacklist": [
+    "poncakeswap.center",
     "contactmetamask.com",
     "walletvalidation.info",
     "multiapp-connect.org",
