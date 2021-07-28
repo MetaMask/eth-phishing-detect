@@ -739,6 +739,8 @@
     "nfinity.space"
   ],
   "blacklist": [
+    "pancakeswap.betav2.com",
+    "betav2.com",
     "poncakeswap.center",
     "contactmetamask.com",
     "walletvalidation.info",
