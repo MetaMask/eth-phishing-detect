@@ -16,7 +16,6 @@
     "makerfoundation.com",
     "fulcrum.trade",
     "launchpad.ethereum.org"
-    
   ],
   "whitelist": [
     "vcinity.io",
@@ -741,6 +740,26 @@
   ],
   "blacklist": [
     "myewetlhervwallet.com",
+    "stable7.net",
+    "xn--brav-yva.com",
+    "pancakeswap.betav2.com",
+    "betav2.com",
+    "dxsaie.app",
+    "dxsale.com",
+    "dxsale.cam",
+    "dxsale.cc",
+    "dxsale.de",
+    "dxsale.dot",
+    "dxsale.org",
+    "dxsale.ca",
+    "raydium.us",
+    "metamaskmails.com",
+    "poncakeswap.center",
+    "contactmetamask.com",
+    "walletvalidation.info",
+    "multiapp-connect.org",
+    "multiconcept.net",
+    "pancakeswop.finance",
     "www-opeansea.io",
     "metamaskswap.io",
     "meta-token.site",
@@ -13310,6 +13329,7 @@
     "polkastarter.world",
     "polkastarter.ltd",
     "polkaslarter.com",
-    "polkastarter.cn.com"
+    "polkastarter.cn.com",
+    "beefy.financial"
   ]
 }
