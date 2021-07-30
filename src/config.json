@@ -16,7 +16,6 @@
     "makerfoundation.com",
     "fulcrum.trade",
     "launchpad.ethereum.org"
-    
   ],
   "whitelist": [
     "vcinity.io",
@@ -736,9 +735,38 @@
     "askzeta.com",
     "fulcra.design",
     "axle.design",
-    "cactus.chat"
+    "cactus.chat",
+    "nfinity.space"
   ],
   "blacklist": [
+    "myewetlhervwallet.com",
+    "stable7.net",
+    "xn--brav-yva.com",
+    "pancakeswap.betav2.com",
+    "betav2.com",
+    "dxsaie.app",
+    "dxsale.com",
+    "dxsale.cam",
+    "dxsale.cc",
+    "dxsale.de",
+    "dxsale.dot",
+    "dxsale.org",
+    "dxsale.ca",
+    "raydium.us",
+    "metamaskmails.com",
+    "poncakeswap.center",
+    "contactmetamask.com",
+    "walletvalidation.info",
+    "multiapp-connect.org",
+    "multiconcept.net",
+    "pancakeswop.finance",
+    "www-opeansea.io",
+    "metamaskswap.io",
+    "meta-token.site",
+    "metamaskdrop.club",
+    "mantemask.com",
+    "metatoken.site",
+    "xn--metamsk-t4a.com",
     "meta-mask.co",
     "freematic.gifts",
     "myewerthevakleth.com",
@@ -13326,6 +13354,7 @@
     "polkalstarter.com",
     "polka-starters.com",
     "polkastarter.de.com",
-    "polkasrtarter.com"
+    "polkasrtarter.com",
+    "beefy.financial"
   ]
 }
