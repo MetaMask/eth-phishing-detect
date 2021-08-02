@@ -18,6 +18,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "atus.ch",
     "vcinity.io",
     "vcinity.org",
     "vcinity.com",
@@ -740,6 +741,8 @@
     "caucus.so"
   ],
   "blacklist": [
+    "sushicom.site",
+    "app.sushicom.site",
     "myewetlhervwallet.com",
     "stable7.net",
     "xn--brav-yva.com",
@@ -805,6 +808,7 @@
     "maticwallets.net",
     "larvalab.io",
     "larvalabs.to",
+    "larvalabs.me",
     "metamask-io.online",
     "multicoin-wallet.org",
     "validate.multicoin-wallet.org",
