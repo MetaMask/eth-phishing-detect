@@ -742,6 +742,7 @@
     "caucus.so"
   ],
   "blacklist": [
+    "metamask.io-updated.app",
     "badgerdao.io",
     "badgerdao.app",
     "veranet.info",
