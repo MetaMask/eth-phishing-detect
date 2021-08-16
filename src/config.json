@@ -742,6 +742,7 @@
     "caucus.so"
   ],
   "blacklist": [
+    "walletether.net",
     "badgerdao.io",
     "badgerdao.app",
     "veranet.info",
