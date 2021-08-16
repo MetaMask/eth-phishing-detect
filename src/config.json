@@ -742,6 +742,8 @@
     "caucus.so"
   ],
   "blacklist": [
+    "badgerdao.io",
+    "badgerdao.app",
     "veranet.info",
     "thevera.io",
     "vera.io",
