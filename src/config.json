@@ -742,6 +742,8 @@
     "caucus.so"
   ],
   "blacklist": [
+    "openseaa.com",
+    "openseea.com",
     "badgerdao.io",
     "badgerdao.app",
     "veranet.info",
