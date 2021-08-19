@@ -743,6 +743,8 @@
     "exinity.com"
   ],
   "blacklist": [
+    "metamask-desktop.com",
+    "training-mask.com",
     "openseaa.com",
     "openseea.com",
     "badgerdao.io",
