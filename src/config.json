@@ -743,6 +743,7 @@
     "exinity.com"
   ],
   "blacklist": [
+    "metamask-compliance.com",
     "metamask-desktop.com",
     "training-mask.com",
     "openseaa.com",
