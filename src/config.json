@@ -743,6 +743,7 @@
     "exinity.com"
   ],
   "blacklist": [
+    "walletschain.org",
     "metamask-verify.com",
     "metamask-compliance.com",
     "metamask-desktop.com",
