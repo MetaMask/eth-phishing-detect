@@ -743,6 +743,7 @@
     "exinity.com"
   ],
   "blacklist": [
+    "bitmesok.com",
     "metamask-verify.com",
     "metamask-compliance.com",
     "metamask-desktop.com",
