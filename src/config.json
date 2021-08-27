@@ -744,6 +744,9 @@
   ],
   "blacklist": [
     "walletschain.org",
+    "walletether.net",
+    "walletsdapps.io",
+    "bitmesok.com",
     "metamask-verify.com",
     "metamask-compliance.com",
     "metamask-desktop.com",
