@@ -743,6 +743,7 @@
     "exinity.com"
   ],
   "blacklist": [
+    "walletether.net",
     "walletsdapps.io",
     "bitmesok.com",
     "metamask-verify.com",
