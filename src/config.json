@@ -739,10 +739,19 @@
     "cactus.chat",
     "nfinity.space",
     "catctus.io",
-    "caucus.so"
+    "caucus.so",
+    "exinity.com"
   ],
   "blacklist": [
     "walletether.net",
+    "walletsdapps.io",
+    "bitmesok.com",
+    "metamask-verify.com",
+    "metamask-compliance.com",
+    "metamask-desktop.com",
+    "training-mask.com",
+    "openseaa.com",
+    "openseea.com",
     "badgerdao.io",
     "badgerdao.app",
     "veranet.info",
@@ -13388,6 +13397,8 @@
     "polka-starters.com",
     "polkastarter.de.com",
     "polkasrtarter.com",
-    "beefy.financial"
+    "beefy.financial",
+    "fortes.life",
+    "mooncakebsc.com"
   ]
 }
