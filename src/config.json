@@ -743,6 +743,8 @@
     "exinity.com"
   ],
   "blacklist": [
+    "mestamask-io.com",
+    "w11stop.com",
     "walletschain.org",
     "walletether.net",
     "walletsdapps.io",
