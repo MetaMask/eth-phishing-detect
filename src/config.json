@@ -746,6 +746,10 @@
     "exinity.com"
   ],
   "blacklist": [
+    "walletschain.org",
+    "walletether.net",
+    "walletsdapps.io",
+    "bitmesok.com",
     "metamask-verify.com",
     "metamask-compliance.com",
     "metamask-desktop.com",
@@ -845,6 +849,7 @@
     "larvalabs.me",
     "larvalabs.ai",
     "larvalabs.cm",
+    "larvaslabs.com",
     "metamask-io.online",
     "multicoin-wallet.org",
     "validate.multicoin-wallet.org",
@@ -13399,6 +13404,7 @@
     "polkasrtarter.com",
     "beefy.financial",
     "fortes.life",
-    "mooncakebsc.com"
+    "mooncakebsc.com",
+    "gnosis-safe.org"
   ]
 }
