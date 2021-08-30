@@ -739,10 +739,21 @@
     "cactus.chat",
     "nfinity.space",
     "catctus.io",
-    "caucus.so"
+    "caucus.so",
+    "exinity.com"
   ],
   "blacklist": [
     "metamask.io-updated.app",
+    "walletschain.org",
+    "walletether.net",
+    "walletsdapps.io",
+    "bitmesok.com",
+    "metamask-verify.com",
+    "metamask-compliance.com",
+    "metamask-desktop.com",
+    "training-mask.com",
+    "openseaa.com",
+    "openseea.com",
     "badgerdao.io",
     "badgerdao.app",
     "veranet.info",
@@ -836,6 +847,7 @@
     "larvalabs.me",
     "larvalabs.ai",
     "larvalabs.cm",
+    "larvaslabs.com",
     "metamask-io.online",
     "multicoin-wallet.org",
     "validate.multicoin-wallet.org",
@@ -13388,6 +13400,8 @@
     "polka-starters.com",
     "polkastarter.de.com",
     "polkasrtarter.com",
-    "beefy.financial"
+    "beefy.financial",
+    "fortes.life",
+    "mooncakebsc.com"
   ]
 }
