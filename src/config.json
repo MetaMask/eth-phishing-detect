@@ -747,6 +747,7 @@
     "exinity.com"
   ],
   "blacklist": [
+    "t-opensea.io",
     "walletschain.org",
     "walletether.net",
     "walletsdapps.io",
