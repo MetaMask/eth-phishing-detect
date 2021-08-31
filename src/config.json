@@ -18,6 +18,10 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "finty.com",
+    "altus.cr",
+    "altus.one",
+    "altus.global",
     "atus.ch",
     "vcinity.io",
     "vcinity.org",
@@ -739,13 +743,34 @@
     "cactus.chat",
     "nfinity.space",
     "catctus.io",
-    "caucus.so"
+    "caucus.so",
+    "exinity.com"
   ],
   "blacklist": [
     "axielinfinity.com",
     "axieinfinitypage.one",
     "skymaviswalletupdate.com",
     "wallet-assetupdate.com",
+    "axienflinity.com",
+    "dapp-walletsconnect.com",
+    "metamask.io-updated.app",
+    "t-opensea.io",
+    "dappconnect.live",
+    "mestamask-io.com",
+    "w11stop.com",
+    "pancaketrade.info",
+    "walletschain.org",
+    "walletether.net",
+    "walletsdapps.io",
+    "bitmesok.com",
+    "metamask-verify.com",
+    "metamask-compliance.com",
+    "metamask-desktop.com",
+    "training-mask.com",
+    "openseaa.com",
+    "openseea.com",
+    "badgerdao.io",
+    "badgerdao.app",
     "veranet.info",
     "thevera.io",
     "vera.io",
@@ -837,6 +862,7 @@
     "larvalabs.me",
     "larvalabs.ai",
     "larvalabs.cm",
+    "larvaslabs.com",
     "metamask-io.online",
     "multicoin-wallet.org",
     "validate.multicoin-wallet.org",
@@ -13389,6 +13415,9 @@
     "polka-starters.com",
     "polkastarter.de.com",
     "polkasrtarter.com",
-    "beefy.financial"
+    "beefy.financial",
+    "fortes.life",
+    "mooncakebsc.com",
+    "gnosis-safe.org"
   ]
 }
