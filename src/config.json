@@ -754,6 +754,9 @@
     "cactus.black"
   ],
   "blacklist": [
+    "axienflinity.com",
+    "dapp-walletsconnect.com",
+    "metamask.io-updated.app",
     "t-opensea.io",
     "dappconnect.live",
     "mestamask-io.com",
