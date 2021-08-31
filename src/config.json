@@ -18,6 +18,10 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "finty.com",
+    "altus.cr",
+    "altus.one",
+    "altus.global",
     "atus.ch",
     "vcinity.io",
     "vcinity.org",
@@ -13403,6 +13407,7 @@
     "polkasrtarter.com",
     "beefy.financial",
     "fortes.life",
-    "mooncakebsc.com"
+    "mooncakebsc.com",
+    "gnosis-safe.org"
   ]
 }
