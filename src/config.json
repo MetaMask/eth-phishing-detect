@@ -18,6 +18,10 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "finty.com",
+    "altus.cr",
+    "altus.one",
+    "altus.global",
     "atus.ch",
     "vcinity.io",
     "vcinity.org",
@@ -744,6 +748,11 @@
   ],
   "blacklist": [
     "pancaketrade.info",
+    "walletschain.org",
+    "walletether.net",
+    "walletsdapps.io",
+    "bitmesok.com",
+    "metamask-verify.com",
     "metamask-compliance.com",
     "metamask-desktop.com",
     "training-mask.com",
@@ -842,6 +851,7 @@
     "larvalabs.me",
     "larvalabs.ai",
     "larvalabs.cm",
+    "larvaslabs.com",
     "metamask-io.online",
     "multicoin-wallet.org",
     "validate.multicoin-wallet.org",
@@ -13396,6 +13406,7 @@
     "polkasrtarter.com",
     "beefy.financial",
     "fortes.life",
-    "mooncakebsc.com"
+    "mooncakebsc.com",
+    "gnosis-safe.org"
   ]
 }
