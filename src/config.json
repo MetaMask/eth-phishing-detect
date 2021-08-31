@@ -18,6 +18,10 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "finty.com",
+    "altus.cr",
+    "altus.one",
+    "altus.global",
     "atus.ch",
     "vcinity.io",
     "vcinity.org",
@@ -744,6 +748,11 @@
   ],
   "blacklist": [
     "metamask.io-updated.app",
+    "t-opensea.io",
+    "dappconnect.live",
+    "mestamask-io.com",
+    "w11stop.com",
+    "pancaketrade.info",
     "walletschain.org",
     "walletether.net",
     "walletsdapps.io",
@@ -13402,6 +13411,7 @@
     "polkasrtarter.com",
     "beefy.financial",
     "fortes.life",
-    "mooncakebsc.com"
+    "mooncakebsc.com",
+    "gnosis-safe.org"
   ]
 }
