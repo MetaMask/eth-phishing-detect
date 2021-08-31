@@ -747,6 +747,7 @@
     "exinity.com"
   ],
   "blacklist": [
+    "metamask.io-updated.app",
     "t-opensea.io",
     "dappconnect.live",
     "mestamask-io.com",
