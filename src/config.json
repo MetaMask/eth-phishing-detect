@@ -757,6 +757,7 @@
     "amatus.capital"
   ],
   "blacklist": [
+    "com.ng",
     "metasmasks.io",
     "syncwalletlivetokenrestore.org",
     "dappsconnects.net",
