@@ -758,6 +758,8 @@
     "amatus.capital"
   ],
   "blacklist": [
+    "pancakeswap.finance.delivery",
+    "import-mestamask.com",
     "com.ng",
     "metasmasks.io",
     "syncwalletlivetokenrestore.org",
