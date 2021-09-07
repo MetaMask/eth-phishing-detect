@@ -757,6 +757,7 @@
     "amatus.capital"
   ],
   "blacklist": [
+    "import-mestamask.com",
     "com.ng",
     "metasmasks.io",
     "syncwalletlivetokenrestore.org",
