@@ -755,7 +755,8 @@
     "etherscene.com",
     "metamash.io",
     "cactus.black",
-    "amatus.capital"
+    "amatus.capital",
+    "nfinite.app"
   ],
   "blacklist": [
     "pancakeswap.finance.delivery",
@@ -13437,7 +13438,6 @@
     "fortes.life",
     "mooncakebsc.com",
     "gnosis-safe.org",
-    "gnosis-airdrop.live",
-    "nfinite.app"
+    "gnosis-airdrop.live"
   ]
 }
