@@ -13412,6 +13412,8 @@
     "polkastarter.domains",
     "polkastarter.stream",
     "polkastarter.events",
-    "polkastarter.watch"
+    "polkastarter.watch",
+    "polkastarter.bar",
+    "polkastarter.media"
   ]
 }
