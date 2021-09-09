@@ -759,6 +759,7 @@
     "nfinite.app"
   ],
   "blacklist": [
+    "metamask.io-r.ru",
     "mautomsk.ru.com",
     "dappsvalidation.org",
     "pancakeswap.finance.delivery",
