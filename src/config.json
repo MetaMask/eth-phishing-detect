@@ -13414,6 +13414,8 @@
     "polkastarter.events",
     "polkastarter.watch",
     "polkastarter.bar",
-    "polkastarter.media"
+    "polkastarter.media",
+    "polkastarter.monster",
+    "polkastarter.quest"
   ]
 }
