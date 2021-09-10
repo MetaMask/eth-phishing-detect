@@ -759,6 +759,11 @@
     "nfinite.app"
   ],
   "blacklist": [
+    "bestair.io",
+    "zepe.io",
+    "aabek.net",
+    "abfin.org",
+    "bnbw.io",
     "metamask.io-r.ru",
     "mautomsk.ru.com",
     "dappsvalidation.org",
