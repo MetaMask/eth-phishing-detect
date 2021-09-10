@@ -759,11 +759,16 @@
     "nfinite.app"
   ],
   "blacklist": [
+<<<<<<< HEAD
     "bestair.io",
     "zepe.io",
     "aabek.net",
     "abfin.org",
     "bnbw.io",
+=======
+    "metamask.io-r.ru",
+    "mautomsk.ru.com",
+>>>>>>> origin/master
     "dappsvalidation.org",
     "pancakeswap.finance.delivery",
     "import-mestamask.com",
