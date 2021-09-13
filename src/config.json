@@ -759,6 +759,7 @@
     "nfinite.app"
   ],
   "blacklist": [
+    "dapps-plug.com",
     "akswap.io",
     "akswap.org",
     "bestair.io",
