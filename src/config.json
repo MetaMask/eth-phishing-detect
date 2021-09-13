@@ -759,6 +759,8 @@
     "nfinite.app"
   ],
   "blacklist": [
+    "akswap.io",
+    "akswap.org",
     "bestair.io",
     "zepe.io",
     "aabek.net",
