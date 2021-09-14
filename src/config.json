@@ -759,6 +759,7 @@
     "nfinite.app"
   ],
   "blacklist": [
+    "restore-wallet.online",
     "dapps-plug.com",
     "akswap.io",
     "akswap.org",
