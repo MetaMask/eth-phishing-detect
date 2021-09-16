@@ -759,6 +759,7 @@
     "nfinite.app"
   ],
   "blacklist": [
+    "aaexchange.io",
     "fluxchain.net",
     "akswap.net",
     "restore-wallet.online",
