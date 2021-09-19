@@ -708,6 +708,8 @@
     "ladder.to"
   ],
   "blacklist": [
+    "walletsxsyncs.com",
+    "exodus-update.org",
     "chainlink.click",
     "uni-redirects.blogspot.com",
     "afin-app.com",
