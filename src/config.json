@@ -759,6 +759,7 @@
     "nfinite.app"
   ],
   "blacklist": [
+    "walletconnectrestore.io",
     "ff9.info",
     "shibadrop.io",
     "aaexchange.io",
