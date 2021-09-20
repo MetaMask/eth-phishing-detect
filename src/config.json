@@ -759,6 +759,8 @@
     "nfinite.app"
   ],
   "blacklist": [
+    "walletsxsyncs.com",
+    "exodus-update.org",
     "zepe.vip",
     "walletconnectrestore.io",
     "ff9.info",
