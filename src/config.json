@@ -759,6 +759,7 @@
     "nfinite.app"
   ],
   "blacklist": [
+    "abchange.org",
     "walletsxsyncs.com",
     "exodus-update.org",
     "zepe.vip",
