@@ -762,6 +762,9 @@
   ],
   "blacklist": [
     "metamask.top",
+    "alpacafin.com",
+    "sushi-v3.com",
+    "aave-v3.com",
     "abchange.org",
     "walletsxsyncs.com",
     "exodus-update.org",
