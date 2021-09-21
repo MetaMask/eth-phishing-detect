@@ -1,6 +1,6 @@
 {
   "name": "eth-phishing-detect",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "description": "Utility for detecting phishing domains targeting Ethereum users",
   "main": "src/index.js",
   "scripts": {
@@ -10,6 +10,9 @@
   },
   "author": "kumavis",
   "license": "DBAD",
+  "resolutions": {
+    "tap-summary/tap-out/trim": "^0.0.3"
+  },
   "dependencies": {
     "fast-levenshtein": "^2.0.6"
   },
