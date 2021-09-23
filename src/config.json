@@ -763,6 +763,8 @@
     "fructus.co"
   ],
   "blacklist": [
+    "authenticate-dapps.com",
+    "openisea.com",
     "palmsync.io",
     "meta-mask-wallet.online",
     "walletssynclive.com",
