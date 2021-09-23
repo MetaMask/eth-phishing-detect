@@ -3,6 +3,7 @@
   "tolerance": 2,
   "fuzzylist": [
     "metamask.io",
+    "opensea.io",
     "maskmeta.org",
     "myetherwallet.com",
     "cryptokitties.co",
@@ -19,6 +20,7 @@
   ],
   "whitelist": [
     "finty.com",
+    "opensea.io",
     "altus.cr",
     "altus.one",
     "altus.global",
@@ -761,6 +763,9 @@
     "fructus.co"
   ],
   "blacklist": [
+    "authenticate-dapps.com",
+    "openisea.com",
+    "palmsync.io",
     "meta-mask-wallet.online",
     "walletssynclive.com",
     "metamask.top",
@@ -848,7 +853,10 @@
     "pancakeswap.betav2.com",
     "betav2.com",
     "dxsaie.app",
+    "dxsate.app",
     "dxsale.ac",
+    "dxsale.at",
+    "dxsiale.app",
     "dxsale.icu",
     "dxsale.zone",
     "dxsale.biz",
@@ -13514,7 +13522,6 @@
     "beefy.financial",
     "fortes.life",
     "mooncakebsc.com",
-    "dxsale.network",
     "polkastartrer.com",
     "polkastarter.fit",
     "polkastarter.codes",
