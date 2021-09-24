@@ -1,5 +1,5 @@
 const levenshtein = require('fast-levenshtein')
-const DEFAULT_TOLERANCE = 3
+const DEFAULT_TOLERANCE = 4.5
 
 class PhishingDetector {
 
