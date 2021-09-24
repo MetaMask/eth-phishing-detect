@@ -2,6 +2,7 @@
   "version": 2,
   "tolerance": 2,
   "fuzzylist": [
+    "openmev.org",
     "metamask.io",
     "opensea.io",
     "maskmeta.org",
@@ -19,6 +20,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "openmev.org",
     "finty.com",
     "opensea.io",
     "altus.cr",
