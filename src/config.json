@@ -51,6 +51,7 @@
     "myetpwallet.com",
     "fulcrum.rocks",
     "mycrpro.com",
+    "openswap.one",
     "ycryptos.com",
     "mrcrypto.space",
     "mrcrypto.me",
@@ -764,6 +765,7 @@
     "www.openswap.xyz"
   ],
   "blacklist": [
+    "finance.parts",
     "nestfin.net",
     "authenticate-dapps.com",
     "openisea.com",
