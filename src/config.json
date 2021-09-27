@@ -764,6 +764,7 @@
     "fructus.co"
   ],
   "blacklist": [
+    "finance.parts",
     "nestfin.net",
     "authenticate-dapps.com",
     "openisea.com",
