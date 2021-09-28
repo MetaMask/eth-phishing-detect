@@ -772,6 +772,7 @@
     "www.openswap.xyz"
   ],
   "blacklist": [
+    "metamaskrecover.com",
     "xch5.net",
     "xch5.org",
     "finance.parts",
