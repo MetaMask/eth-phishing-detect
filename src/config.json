@@ -2,7 +2,6 @@
   "version": 2,
   "tolerance": 2,
   "fuzzylist": [
-    "openmev.org",
     "metamask.io",
     "opensea.io",
     "maskmeta.org",
@@ -21,6 +20,7 @@
   ],
   "whitelist": [
     "openmev.org",
+    "openweb.com",
     "finty.com",
     "opensea.io",
     "altus.cr",
@@ -53,6 +53,7 @@
     "myetpwallet.com",
     "fulcrum.rocks",
     "mycrpro.com",
+    "openswap.one",
     "ycryptos.com",
     "mrcrypto.space",
     "mrcrypto.me",
@@ -762,9 +763,15 @@
     "amatus.capital",
     "nfinite.app",
     "fructus.xyz",
-    "fructus.co"
+    "fructus.co",
+    "lifinity.io",
+    "metadash.app",
+    "www.openswap.xyz"
   ],
   "blacklist": [
+    "xch5.net",
+    "xch5.org",
+    "finance.parts",
     "nestfin.net",
     "authenticate-dapps.com",
     "openisea.com",
@@ -857,7 +864,11 @@
     "betav2.com",
     "dxsaie.app",
     "dxsate.app",
+    "dxxsate.app",
+    "dxxsale.app",
     "dxsale.ac",
+    "dxsale.fund",
+    "dxsale.ltd",
     "dxsale.at",
     "dxsiale.app",
     "dxsale.icu",
@@ -13557,6 +13568,7 @@
     "polkastarter.rehab",
     "gnosis-safe.org",
     "gnosis-airdrop.live",
-    "abchange.io"
+    "abchange.io",
+    "synapseprotocolmigration.com"
   ]
 }
