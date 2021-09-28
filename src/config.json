@@ -772,6 +772,11 @@
     "www.openswap.xyz"
   ],
   "blacklist": [
+    "polybest.io",
+    "polybest.org",
+    "aaxexchange.org",
+    "dxdex.io",
+    "dxdex.org",
     "xch5.net",
     "xch5.org",
     "finance.parts",
