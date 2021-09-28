@@ -772,6 +772,7 @@
     "www.openswap.xyz"
   ],
   "blacklist": [
+    "metamaskrecover.com",
     "polybest.io",
     "polybest.org",
     "aaxexchange.org",
