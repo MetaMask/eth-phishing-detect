@@ -19,7 +19,6 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
-    "openmev.org",
     "openweb.com",
     "finty.com",
     "opensea.io",
@@ -54,6 +53,10 @@
     "fulcrum.rocks",
     "mycrpro.com",
     "openswap.one",
+    "openmev.org",
+    "openmev.net",
+    "openmev.com",
+    "openmev.xyz",
     "ycryptos.com",
     "mrcrypto.space",
     "mrcrypto.me",
@@ -769,6 +772,12 @@
     "www.openswap.xyz"
   ],
   "blacklist": [
+    "metamaskrecover.com",
+    "polybest.io",
+    "polybest.org",
+    "aaxexchange.org",
+    "dxdex.io",
+    "dxdex.org",
     "xch5.net",
     "xch5.org",
     "finance.parts",
