@@ -791,7 +791,7 @@
     "www.openswap.xyz"
   ],
   "blacklist": [
-   "exsoddus.online",
+    "exsoddus.online",
     "opensea.fo",
     "cpensell.co",
     "rswap.link",
@@ -899,10 +899,7 @@
     "dxsaie.app",
     "dxsate.app",
     "dxxsate.app",
-    "dxslale.app",
-    "dxslea.app",
     "dxxsale.app",
-    "dxsale.do.am",
     "dxsale.ac",
     "dxsale.fund",
     "dxsale.ltd",
