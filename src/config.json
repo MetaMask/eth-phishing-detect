@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "infinity.xyz",
     "www.openrec.tv",
     "opensky.finance",
     "opensbr.org",
@@ -792,6 +793,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "boredapeyachtclub.app",
     "akswap.info",
     "exsoddus.online",
     "opensea.fo",
@@ -904,6 +906,9 @@
     "dxxsale.app",
     "dxslale.app",
     "dxslea.app",
+    "dxsale.bid",
+    "dxsall.app",
+    "dxsalel.app",
     "dxsale.do.am",
     "dxsale.ac",
     "dxsale.fund",
