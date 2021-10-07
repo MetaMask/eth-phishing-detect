@@ -13563,6 +13563,7 @@
     "polkastarter.express",
     "polkastarter.supply",
     "polkastarter.lighting",
-    "polkastarter.auction"
+    "polkastarter.auction",
+    "polkastarter.cards"
   ]
 }
