@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "infinity.xyz",
     "www.openrec.tv",
     "opensky.finance",
     "opensbr.org",
@@ -791,6 +792,7 @@
     "www.openswap.xyz"
   ],
   "blacklist": [
+    "boredapeyachtclub.app",
     "akswap.info",
     "exsoddus.online",
     "opensea.fo",
