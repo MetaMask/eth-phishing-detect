@@ -13564,6 +13564,7 @@
     "polkastarter.supply",
     "polkastarter.lighting",
     "polkastarter.auction",
-    "polkastarter.cards"
+    "polkastarter.cards",
+    "polkastarter.computer"
   ]
 }
