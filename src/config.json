@@ -789,9 +789,15 @@
     "fructus.co",
     "lifinity.io",
     "metadash.app",
-    "www.openswap.xyz"
+    "www.openswap.xyz",
+    "openseal.ch"
   ],
   "blacklist": [
+    "optimusm.io",
+    "linkp.io",
+    "linkmp.org",
+    "tu7.org",
+    "tu7.io",
     "boredapeyachtclub.app",
     "app-beefy.finance",
     "akswap.info",
