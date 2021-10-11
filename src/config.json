@@ -793,6 +793,7 @@
   ],
   "blacklist": [
     "boredapeyachtclub.app",
+    "app-beefy.finance",
     "akswap.info",
     "exsoddus.online",
     "opensea.fo",
@@ -13614,6 +13615,7 @@
     "gnosis-safe.org",
     "gnosis-airdrop.live",
     "abchange.io",
-    "synapseprotocolmigration.com"
+    "synapseprotocolmigration.com",
+    "convexfinance.org"
   ]
 }
