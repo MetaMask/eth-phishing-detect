@@ -793,7 +793,13 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "optimusm.io",
+    "linkp.io",
+    "linkmp.org",
+    "tu7.org",
+    "tu7.io",
     "boredapeyachtclub.app",
+    "app-beefy.finance",
     "akswap.info",
     "exsoddus.online",
     "opensea.fo",
@@ -906,6 +912,8 @@
     "dxxsale.app",
     "dxslale.app",
     "dxslea.app",
+    "dxsale.co.in",
+    "dxsale.run",
     "dxsale.bid",
     "dxsall.app",
     "dxsalel.app",
@@ -13613,6 +13621,7 @@
     "gnosis-safe.org",
     "gnosis-airdrop.live",
     "abchange.io",
-    "synapseprotocolmigration.com"
+    "synapseprotocolmigration.com",
+    "convexfinance.org"
   ]
 }
