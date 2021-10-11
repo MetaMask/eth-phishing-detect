@@ -793,6 +793,8 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "rswap.net",
+    "rswap.club",
     "optimusm.io",
     "linkp.io",
     "linkmp.org",
