@@ -792,6 +792,10 @@
     "www.openswap.xyz"
   ],
   "blacklist": [
+    "linkp.io",
+    "linkmp.org",
+    "tu7.org",
+    "tu7.io",
     "boredapeyachtclub.app",
     "app-beefy.finance",
     "akswap.info",
