@@ -793,6 +793,8 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "ethereum-announce.net",
+    "univswap.org",
     "rswap.club",
     "optimusm.io",
     "linkp.io",
