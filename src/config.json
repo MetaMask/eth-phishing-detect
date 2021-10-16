@@ -819,6 +819,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "8vww-metamas.top",
     "ethereum-announce.net",
     "univswap.org",
     "rswap.club",
@@ -13664,6 +13665,7 @@
     "abchange.io",
     "synapseprotocolmigration.com",
     "convexfinance.org",
-    "walletaccesspass.online"
+    "walletaccesspass.online",
+    "dydxexchange.net"
   ]
 }
