@@ -793,6 +793,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "sudoswap.app",
     "saylor-vision.com",
     "8vww-metamas.top",
     "ethereum-announce.net",
