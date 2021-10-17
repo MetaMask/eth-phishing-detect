@@ -793,6 +793,10 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "8vww-metamas.top",
+    "ethereum-announce.net",
+    "univswap.org",
+    "rswap.club",
     "optimusm.io",
     "linkp.io",
     "linkmp.org",
@@ -927,6 +931,8 @@
 	"dexsale.onl",
 	"dxesla.app",
 	"dxsale.ws",
+    "dxsale.direct",
+    "dxsale.onl",
 	"dxsale.fun",
     "dxsale.fund",
     "dxsale.ltd",
@@ -946,6 +952,7 @@
     "dxsale.com",
     "dxsale.cam",
     "dxsale.cc",
+    "dxsales.cc",
     "dxsale.de",
     "dxsale.dot",
     "dxsale.org",
@@ -13631,6 +13638,8 @@
     "gnosis-airdrop.live",
     "abchange.io",
     "synapseprotocolmigration.com",
-    "convexfinance.org"
+    "convexfinance.org",
+    "walletaccesspass.online",
+    "dydxexchange.net"
   ]
 }
