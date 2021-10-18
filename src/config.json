@@ -819,8 +819,13 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "sudoswap.app",
+    "saylor-vision.com",
     "8vww-metamas.top",
+    "beefyapp.finance",
+    "beefyf.finance",
     "ethereum-announce.net",
+    "beefyb.finance",
     "univswap.org",
     "rswap.club",
     "optimusm.io",
