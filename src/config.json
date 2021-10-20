@@ -820,6 +820,7 @@
   ],
   "blacklist": [
     "daysushiswap.com",
+    "metamask-wallets-restore.netlify.app",
     "dxdex.co",
     "sync-connwallet.co",
     "anyswap.io",
