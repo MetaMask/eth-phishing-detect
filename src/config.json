@@ -793,6 +793,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "anyswap.io",
     "fixmywallets.com",
     "wwwapps-metam.top",
     "sudoswap.app",
