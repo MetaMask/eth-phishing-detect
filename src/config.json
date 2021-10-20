@@ -819,6 +819,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "sync-connwallet.co",
     "anyswap.io",
     "fixmywallets.com",
     "wwwapps-metam.top",
