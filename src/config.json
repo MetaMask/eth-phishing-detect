@@ -819,6 +819,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "dxdex.co",
     "sync-connwallet.co",
     "anyswap.io",
     "fixmywallets.com",
