@@ -819,6 +819,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "metsamask-home.com",
     "daysushiswap.com",
     "metamask-wallets-restore.netlify.app",
     "dxdex.co",
