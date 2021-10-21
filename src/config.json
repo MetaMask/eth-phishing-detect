@@ -821,6 +821,9 @@
   "blacklist": [
     "metsamask-home.com",
     "daysushiswap.com",
+    "beefyh.finance",
+    "xn--befy-lpa.finance",
+    "beefyr.finance",
     "metamask-wallets-restore.netlify.app",
     "dxdex.co",
     "sync-connwallet.co",
