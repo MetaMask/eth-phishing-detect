@@ -101,11 +101,13 @@
     "myetpwallet.com",
     "fulcrum.rocks",
     "mycrpro.com",
-    "openswap.one",
     "openmev.org",
     "openmev.net",
     "openmev.com",
     "openmev.xyz",
+    "openswap.io",
+    "openswap.one",
+    "openswap.xyz",
     "ycryptos.com",
     "mrcrypto.space",
     "mrcrypto.me",
@@ -818,7 +820,6 @@
     "fructus.co",
     "lifinity.io",
     "metadash.app",
-    "www.openswap.xyz",
     "openseal.ch"
   ],
   "blacklist": [
