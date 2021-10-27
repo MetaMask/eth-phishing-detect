@@ -822,6 +822,8 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "key7.net",
+    "key7.org",
     "metsamask-home.com",
     "wwwmetmaskverification.me",
     "beefyd.finance",
