@@ -822,6 +822,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "xn--metmask-sn4c.com",
     "metsamask-home.com",
     "wwwmetmaskverification.me",
     "beefyd.finance",
