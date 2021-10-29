@@ -822,6 +822,8 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "pancakeswap-dapps.com",
+    "collab.land.io-invest.org",
     "metsamask-home.com",
     "wwwmetmaskverification.me",
     "beefyd.finance",
