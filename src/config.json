@@ -822,6 +822,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "sync-wallets.org",
     "swap7.org",
     "live-drop.net",
     "swap7.io",
