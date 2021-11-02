@@ -822,6 +822,8 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "live-drop.net",
+    "swap7.io",
     "dappsbrowser.online",
     "pancakeswap-dapps.com",
     "collab.land.io-invest.org",
