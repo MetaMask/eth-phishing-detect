@@ -822,6 +822,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "blockchain-nodes.net",
     "live-drop.net",
     "swap7.io",
     "dappsbrowser.online",
