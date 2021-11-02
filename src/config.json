@@ -822,6 +822,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "dappsbrowser.online",
     "pancakeswap-dapps.com",
     "collab.land.io-invest.org",
     "app-beefy.com",
