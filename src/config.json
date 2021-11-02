@@ -822,6 +822,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "h3x.exchange",
     "swap7.org",
     "live-drop.net",
     "swap7.io",
