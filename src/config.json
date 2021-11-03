@@ -823,8 +823,14 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "swap7.org",
+    "live-drop.net",
+    "swap7.io",
+    "dappsbrowser.online",
     "pancakeswap-dapps.com",
     "collab.land.io-invest.org",
+    "app-beefy.com",
+    "beefyj.finance",
     "wallstreetbulls.to",
     "divineanarchy.ink",
     "app-beefyr.finance",
