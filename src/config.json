@@ -838,6 +838,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "h3x.exchange",
     "ensdomains.app",
     "sync-wallets.org",
     "kllmadao.finance",
