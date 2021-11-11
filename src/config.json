@@ -22,6 +22,7 @@
     "aubtu.biz",
     "aulus.org",
     "cactus.cards",
+    "openscad.info"
     "noctus.cc",
     "quatus.de",
     "fvlcrum.com",
@@ -838,12 +839,17 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "mint-hapebeast.cc",
+    "h3x.exchange",
     "ensdomains.app",
     "sync-wallets.org",
     "kllmadao.finance",
     "blockchain-nodes.net",
     "swap7.org",
     "live-drop.net",
+    "beefy-finance.org",
+    "benefy.finance",
+    "alchemix.ai",
     "swap7.io",
     "dappsbrowser.online",
     "pancakeswap-dapps.com",
