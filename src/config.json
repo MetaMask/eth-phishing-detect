@@ -838,6 +838,9 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "appwalletsync.net",
+    "trust-helpwallet.live",
+    "collaboratiion.com",
     "mint-hapebeast.cc",
     "h3x.exchange",
     "ensdomains.app",
