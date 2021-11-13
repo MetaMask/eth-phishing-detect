@@ -841,8 +841,15 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "flowdao.io",
+    "flowdao.pro",
+    "appwalletsync.net",
+    "trust-helpwallet.live",
+    "collaboratiion.com",
     "mint-hapebeast.cc",
     "h3x.exchange",
+    "alhemix.com",
+    "spookysvvap.finance",
     "ensdomains.app",
     "sync-wallets.org",
     "kllmadao.finance",
