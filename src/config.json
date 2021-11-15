@@ -845,6 +845,8 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "idapps-tokens.com",
+    "crypto.e-access.host",
     "flowdao.io",
     "flowdao.pro",
     "appwalletsync.net",
