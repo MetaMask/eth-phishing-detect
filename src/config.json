@@ -857,6 +857,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "dappsauthsmartconnect.com",
     "roll.collab.vote",
     "collab.vote",
     "collaboratiion.net",
