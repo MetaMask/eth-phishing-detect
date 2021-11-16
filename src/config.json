@@ -851,6 +851,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "uniswop-uni.com",
     "validate-collab.land",
     "roll.collab.vote",
     "collab.vote",
