@@ -851,6 +851,8 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "ff18.io",
+    "ff18.info",
     "roll.collab.vote",
     "collab.vote",
     "collaboratiion.net",
