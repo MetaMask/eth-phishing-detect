@@ -851,6 +851,9 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "roll.collab.vote",
+    "collab.vote",
+    "collaboratiion.net",
     "flowdao.io",
     "flowdao.pro",
     "appwalletsync.net",
