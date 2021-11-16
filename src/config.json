@@ -857,6 +857,8 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "idapps-tokens.com",
+    "crypto.e-access.host",
     "mainnet-validator.org",
     "uniswop-uni.com",
     "validate-collab.land",
