@@ -851,6 +851,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "mainnet-validator.org",
     "roll.collab.vote",
     "collab.vote",
     "collaboratiion.net",
