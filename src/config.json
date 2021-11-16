@@ -857,6 +857,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "alpacafninance.com",
     "idapps-tokens.com",
     "crypto.e-access.host",
     "mainnet-validator.org",
