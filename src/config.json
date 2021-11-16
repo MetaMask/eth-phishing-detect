@@ -857,6 +857,7 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "mainnet-validator.org",
     "uniswop-uni.com",
     "validate-collab.land",
     "dappsauthsmartconnect.com",
