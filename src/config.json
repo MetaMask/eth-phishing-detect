@@ -858,9 +858,16 @@
     "metadash.app",
     "openkey.dev",
     "openseal.ch",
-    "metadusk.io"
+    "metadusk.io",
+    "metamarc.io"
   ],
   "blacklist": [
+    "unlockinglocation.buzz",
+    "wallettconnect.co",
+    "io-ledge.com",
+    "amazon.tokenpre.sale",
+    "tokenpre.sale",
+    "the-guardian.news",
     "alpacafninance.com",
     "idapps-tokens.com",
     "crypto.e-access.host",
@@ -13817,6 +13824,7 @@
     "bioswap.finance",
     "ff9.io",
     "safemoon-dividend.com",
-    "sfar.io"
+    "sfar.io",
+    "optimism.trade"
   ]
 }
