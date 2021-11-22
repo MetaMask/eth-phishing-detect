@@ -860,6 +860,11 @@
     "openseal.ch"
   ],
   "blacklist": [
+    "unlockinglocation.buzz",
+    "wallettconnect.co",
+    "amazon.tokenpre.sale",
+    "tokenpre.sale",
+    "the-guardian.news",
     "alpacafninance.com",
     "idapps-tokens.com",
     "crypto.e-access.host",
