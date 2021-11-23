@@ -861,6 +861,9 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "xn--mtamask-d8a.com",
+    "app.nbatokensale.com",
+    "metamask-verification.in",
     "unlockinglocation.buzz",
     "wallettconnect.co",
     "io-ledge.com",
