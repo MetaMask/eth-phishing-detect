@@ -884,6 +884,7 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "meta-giveway.io",
     "ff18.io",
     "ff18.info",
     "hopprotocol.sale",
