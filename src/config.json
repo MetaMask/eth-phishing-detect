@@ -861,6 +861,9 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "xn--mtamask-d8a.com",
+    "app.nbatokensale.com",
+    "metamask-verification.in",
     "yeswap.info",
     "unlockinglocation.buzz",
     "wallettconnect.co",
