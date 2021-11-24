@@ -884,6 +884,7 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "fixwallettoken.com",
     "ff18.io",
     "ff18.info",
     "hopprotocol.sale",
