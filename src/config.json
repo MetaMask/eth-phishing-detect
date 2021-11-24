@@ -878,6 +878,8 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "ff18.io",
+    "ff18.info",
     "hopprotocol.sale",
     "xn--blchhci-ewa9o55a.com",
     "im-tokens.store",
