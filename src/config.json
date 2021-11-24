@@ -867,6 +867,8 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "im-tokens.store",
+    "mmap.matemasks.download",
     "xn--blchchin-lgin-udb90aja.com",
     "bigdata-startingon.com",
     "hailianparts.cn",
