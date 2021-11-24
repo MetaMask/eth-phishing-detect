@@ -878,6 +878,7 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "hopprotocol.sale",
     "xn--blchhci-ewa9o55a.com",
     "im-tokens.store",
     "mmap.matemasks.download",
