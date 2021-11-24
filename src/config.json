@@ -867,6 +867,9 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "xn--blchchin-lgin-udb90aja.com",
+    "bigdata-startingon.com",
+    "hailianparts.cn",
     "xn--mtamask-d8a.com",
     "app.nbatokensale.com",
     "metamask-verification.in",
@@ -13835,8 +13838,7 @@
     "safemoon-dividend.com",
     "sfar.io",
     "optimism.trade",
-    "cowswap.sale"
-    "metamask-wallet-security.web.app",
-    "optimism.trade"
+    "cowswap.sale",
+    "metamask-wallet-security.web.app"
   ]
 }
