@@ -867,6 +867,10 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "xn--mtamask-d8a.com",
+    "app.nbatokensale.com",
+    "metamask-verification.in",
+    "yeswap.info",
     "unlockinglocation.buzz",
     "wallettconnect.co",
     "io-ledge.com",
@@ -13830,6 +13834,7 @@
     "ff9.io",
     "safemoon-dividend.com",
     "sfar.io",
+    "metamask-wallet-security.web.app",
     "optimism.trade"
   ]
 }
