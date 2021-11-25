@@ -885,6 +885,8 @@
   ],
   "blacklist": [
     "fixwallettoken.com",
+    "meta-giveway.io",
+    "walletapisync.com",
     "ff18.io",
     "ff18.info",
     "hopprotocol.sale",
