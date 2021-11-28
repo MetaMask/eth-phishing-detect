@@ -884,6 +884,9 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "pancake-crypto.icu",
+    "zksync.sale",
+    "walletapisync.com",
     "fixwallettoken.com",
     "meta-giveway.io",
     "walletapisync.com",
