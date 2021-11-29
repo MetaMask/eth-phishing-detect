@@ -894,6 +894,7 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "fixwallettoken.com",
     "meta-giveway.io",
     "walletapisync.com",
     "ff18.io",
