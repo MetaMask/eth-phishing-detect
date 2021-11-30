@@ -884,6 +884,8 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "free-eth.org",
+    "ethspecial21.com",
     "fixwallettoken.com",
     "meta-giveway.io",
     "walletapisync.com",
