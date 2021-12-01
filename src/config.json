@@ -894,6 +894,9 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "defiprotocol-online.digital",
+    "meta-servers-online.com",
+    "livefixrestore.com",
     "pancake-crypto.icu",
     "zksync.sale",
     "free-eth.org",
