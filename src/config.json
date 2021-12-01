@@ -894,6 +894,8 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "pancake-crypto.icu",
+    "zksync.sale",
     "free-eth.org",
     "ethspecial21.com",
     "fixwallettoken.com",
