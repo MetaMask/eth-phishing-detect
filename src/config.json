@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "sanctus.audio",
     "affinity.solutions",
     "actis.no",
     "nfinit.com",
@@ -897,6 +898,13 @@
     "defiprotocol-online.digital",
     "meta-servers-online.com",
     "livefixrestore.com",
+    "sandboxegams.com",
+    "satoshiquest.in",
+    "richbullsclubs.com",
+    "biswap-excang.com",
+    "onlinemetatokens.com",
+    "pownft.net",
+    "pownft.info",
     "pancake-crypto.icu",
     "zksync.sale",
     "free-eth.org",
@@ -13885,6 +13893,7 @@
     "sfar.io",
     "optimism.trade",
     "cowswap.sale",
-    "metamask-wallet-security.web.app"
+    "metamask-wallet-security.web.app",
+    "lyra.sale"
   ]
 }
