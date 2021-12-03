@@ -895,6 +895,13 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "sandboxegams.com",
+    "satoshiquest.in",
+    "richbullsclubs.com",
+    "biswap-excang.com",
+    "onlinemetatokens.com",
+    "pownft.net",
+    "pownft.info",
     "pancake-crypto.icu",
     "zksync.sale",
     "free-eth.org",
