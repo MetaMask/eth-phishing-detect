@@ -905,6 +905,9 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "defiprotocol-online.digital",
+    "meta-servers-online.com",
+    "livefixrestore.com",
     "sandboxegams.com",
     "satoshiquest.in",
     "richbullsclubs.com",
