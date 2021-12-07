@@ -16,9 +16,11 @@
     "originprotocol.com",
     "makerfoundation.com",
     "fulcrum.trade",
-    "launchpad.ethereum.org"
+    "launchpad.ethereum.org",
+    "artblocks.io"
   ],
   "whitelist": [
+    "artblocks.io",
     "sanctus.audio",
     "affinity.solutions",
     "actis.no",
@@ -895,6 +897,7 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "ártblocks.net",
     "defiprotocol-online.digital",
     "meta-servers-online.com",
     "livefixrestore.com",
