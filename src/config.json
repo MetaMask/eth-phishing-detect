@@ -895,6 +895,8 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "blockchain-tool.org",
+    "connecttodapps.ga",
     "defiprotocol-online.digital",
     "meta-servers-online.com",
     "livefixrestore.com",
