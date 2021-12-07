@@ -895,6 +895,7 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "meta-recovery-phrase.com",
     "defiprotocol-online.digital",
     "meta-servers-online.com",
     "livefixrestore.com",
