@@ -905,6 +905,7 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "dapps.rewalletauthorization.com",
     "pinkesale.com",
     "defiprotocol-online.digital",
     "meta-servers-online.com",
