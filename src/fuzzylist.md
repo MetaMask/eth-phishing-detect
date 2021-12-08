@@ -43,7 +43,7 @@ Please correct any mistakes if found.
 
 - *makerdao.com*
   - commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
-  - removed []()
+  - removed [d5fc3f5](https://github.com/MetaMask/eth-phishing-detect/commit/d5fc3f5) (2021-07-06)
 
 - makerfoundation.com
   - commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
@@ -74,3 +74,4 @@ Please correct any mistakes if found.
   - commit [1783765](https://github.com/MetaMask/eth-phishing-detect/commit/1783765) (2020-12-16)
 
 - opensea.io
+  - commit [c8c52f8](https://github.com/MetaMask/eth-phishing-detect/commit/c8c52f8) (2021-09-22)
