@@ -1,5 +1,16 @@
 # config.json: fuzzylist
 
+The `fuzzylist` object defined in src/config.json is a list of URLs of whose users are frequently targeted in phishing attacks.
+Accessed sites are checked against the fuzzylist; they're stripped of `/^www\./` and their approximate top-level domain
+(anything after the last full stop; [`.com` is stripped correctly but `.co.uk` will turn into `.co`](https://github.com/MetaMask/eth-phishing-detect/issues/5409))
+and then are checked for their [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) from each fuzzylist entry.
+If their Levenshtein distance from a fuzzylist entry is [less than or equal to](https://github.com/MetaMask/eth-phishing-detect/blob/master/src/detector.js#L33)
+the tolerance (which [defaults to `3`](https://github.com/MetaMask/eth-phishing-detect/blob/master/src/detector.js#L2)
+but is [configured to be `2` in src/config.json](https://github.com/MetaMask/eth-phishing-detect/blob/master/src/config.json#L3))
+the site is flagged as a potential phishing site.
+
+## commit history
+
 This list may not be complete.
 Please correct any mistakes if found.
 
