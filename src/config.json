@@ -906,6 +906,7 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "meta-recovery-phrase.com",
     "blockchain-tool.org",
     "connecttodapps.ga",
     "support-metamask.netlify.app",
