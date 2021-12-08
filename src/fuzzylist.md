@@ -1,5 +1,8 @@
 # config.json: fuzzylist
 
+This list may not be complete.
+Please correct any mistakes if found.
+
 - *ethereum.org*
   - commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
   - removed [1f89580](https://github.com/MetaMask/eth-phishing-detect/commit/1f89580) (2017-08-06)
@@ -15,7 +18,7 @@
 
 - *mycrypto.com*
   - commit [7c7fbaa51](https://github.com/MetaMask/eth-phishing-detect/commit/7c7fbaa51) (2018-02-09)
-  - removed []()
+  - removed [97d6514](https://github.com/MetaMask/eth-phishing-detect/commit/97d6514) (2021-01-29)
 
 - localethereum.com
   - commit [8931f9b](https://github.com/MetaMask/eth-phishing-detect/commit/8931f9b) (2018-02-24)
@@ -36,8 +39,38 @@
   - commit [07350b8](https://github.com/MetaMask/eth-phishing-detect/commit/07350b8) (2018-04-21)
 
 - localcryptos.com
-- fulcrum.trade
-- launchpad.ethereum.org
+  - commit [c50c8be](https://github.com/MetaMask/eth-phishing-detect/commit/c50c8be) (2019-12-20)
+
+- *makerdao.com*
+  - commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
+  - removed []()
+
 - makerfoundation.com
+  - commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
+
+- *mkr.tools*
+  - commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
+  - removed [5c03787](https://github.com/MetaMask/eth-phishing-detect/commit/5c03787) (2021-01-21)
+
+- *oasis.app*
+  - commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
+  - removed [8176449](https://github.com/MetaMask/eth-phishing-detect/commit/8176449) (2020-03-02)
+
+- fulcrum.trade
+  - commit [e066f83](https://github.com/MetaMask/eth-phishing-detect/commit/e066f83) (2020-07-19)
+
+- *uniswap.org*
+  - commit [63e146a](https://github.com/MetaMask/eth-phishing-detect/commit/63e146a) (2020-08-04)
+  - removed [24c3d67](https://github.com/MetaMask/eth-phishing-detect/commit/24c3d67) (2020-11-10)
+
+- *ledger.com*
+  - commit [ea60277](https://github.com/MetaMask/eth-phishing-detect/commit/ea60277) (2020-10-31)
+  - removed [e90c5de](https://github.com/MetaMask/eth-phishing-detect/commit/e90c5de) (2020-11-06)
+
+- launchpad.ethereum.org
+  - commit [ae7b882](https://github.com/MetaMask/eth-phishing-detect/commit/ae7b882) (2020-11-04)
+
 - maskmeta.org
+  - commit [1783765](https://github.com/MetaMask/eth-phishing-detect/commit/1783765) (2020-12-16)
+
 - opensea.io
