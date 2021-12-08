@@ -906,6 +906,8 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "blockchain-tool.org",
+    "connecttodapps.ga",
     "support-metamask.netlify.app",
     "beta-altchains.org",
     "dapps.rewalletauthorization.com",
