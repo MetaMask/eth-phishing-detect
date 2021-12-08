@@ -908,6 +908,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "api-collabs.land",
     "solice.live",
     "meta-recovery-phrase.com",
     "blockchain-tool.org",
