@@ -906,7 +906,6 @@
     "metamarc.io"
   ],
   "blacklist": [
-    "metamask-wallet-security.web.app",
     "support-metamask.netlify.app",
     "beta-altchains.org",
     "dapps.rewalletauthorization.com",
