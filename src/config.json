@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "artblocks.io",
     "sanctus.audio",
     "affinity.solutions",
     "actis.no",
@@ -908,6 +909,9 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "ártblocks.net",
+    "ártblocks.io",
+    "ártblocks.com",
     "apesinspace.app",
     "pownft.pro",
     "solice.live",
