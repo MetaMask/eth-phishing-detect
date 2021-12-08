@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "pinksale.finance",
     "sanctus.audio",
     "affinity.solutions",
     "actis.no",
@@ -13921,6 +13922,5 @@
     "cowswap.sale",
     "metamask-wallet-security.web.app",
     "lyra.sale",
-    "pinksale.finance"
   ]
 }
