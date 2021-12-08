@@ -907,6 +907,9 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "meta-recovery-phrase.com",
+    "blockchain-tool.org",
+    "connecttodapps.ga",
     "support-metamask.netlify.app",
     "beta-altchains.org",
     "dapps.rewalletauthorization.com",
