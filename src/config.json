@@ -906,6 +906,8 @@
     "metamarc.io"
   ],
   "blacklist": [
+    "support-metamask.netlify.app",
+    "beta-altchains.org",
     "dapps.rewalletauthorization.com",
     "pinkesale.com",
     "defiprotocol-online.digital",
