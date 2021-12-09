@@ -908,6 +908,8 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "meta.maskweb.app",
+    "correctionsebsite.com",
     "apesinspace.app",
     "pownft.pro",
     "solice.live",
