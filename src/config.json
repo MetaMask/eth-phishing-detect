@@ -908,6 +908,8 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "meta.maskweb.app",
+    "correctionsebsite.com",
     "olympusdao.io",
     "tridentmarket.io",
     "apesinspace.app",
