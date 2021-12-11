@@ -906,7 +906,8 @@
     "metadusk.io",
     "metabase.finance",
     "metamarc.io",
-    "metapass.fyi"
+    "metapass.fyi",
+    "pinksale.finance"
   ],
   "blacklist": [
     "meta.maskweb.app",
@@ -13925,6 +13926,14 @@
     "optimism.trade",
     "cowswap.sale",
     "metamask-wallet-security.web.app",
-    "lyra.sale"
+    "lyra.sale",
+    "plnksales.finance",
+    "pinksalee.finance",
+    "pinksale.fi",
+    "pinksalie.finance",
+    "pinksalse.finance",
+    "pinksale.site",
+    "pihksale.financial",
+    "pinksalse.finance"
   ]
 }
