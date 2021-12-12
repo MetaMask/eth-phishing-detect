@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "metamars.org",
     "sanctus.audio",
     "affinity.solutions",
     "actis.no",
@@ -908,6 +909,10 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "meta.maskweb.app",
+    "correctionsebsite.com",
+    "olympusdao.io",
+    "tridentmarket.io",
     "apesinspace.app",
     "blocknux.com",
     "pownft.pro",
