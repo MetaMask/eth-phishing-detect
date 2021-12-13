@@ -909,6 +909,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "metamask-wallets-protection.web.app",
     "mydappswalletconnect.com",
     "meta.maskweb.app",
     "correctionsebsite.com",
