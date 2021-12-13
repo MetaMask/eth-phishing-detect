@@ -20,6 +20,7 @@
   ],
   "whitelist": [
     "artblocks.io",
+    "metamars.org",
     "sanctus.audio",
     "affinity.solutions",
     "actis.no",
@@ -912,6 +913,12 @@
     "ártblocks.net",
     "ártblocks.io",
     "ártblocks.com",
+    "metamask-wallets-protection.web.app",
+    "mydappswalletconnect.com",
+    "meta.maskweb.app",
+    "correctionsebsite.com",
+    "olympusdao.io",
+    "tridentmarket.io",
     "apesinspace.app",
     "pownft.pro",
     "solice.live",
@@ -13924,7 +13931,6 @@
     "optimism.trade",
     "cowswap.sale",
     "metamask-wallet-security.web.app",
-    "lyra.sale",
-    "pinksale.finance"
+    "lyra.sale"
   ]
 }
