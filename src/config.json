@@ -917,6 +917,12 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "plgpunk.com",
+    "lelx.io",
+    "lelx.org",
+    "kk8.io",
+    "kk8.info",
+    "metamask.metomasks.cyou",
     "validatewalletdapp.com",
     "metavpadsales.online",
     "api-collabs.land",
