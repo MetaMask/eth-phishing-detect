@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "metamars.org",
     "sanctus.audio",
     "affinity.solutions",
     "actis.no",
@@ -909,6 +910,14 @@
   ],
   "blacklist": [
     "radioracaa.com",
+    "metamask-wallets-protection.web.app",
+    "mydappswalletconnect.com",
+    "meta.maskweb.app",
+    "correctionsebsite.com",
+    "olympusdao.io",
+    "tridentmarket.io",
+    "apesinspace.app",
+    "pownft.pro",
     "solice.live",
     "meta-recovery-phrase.com",
     "blockchain-tool.org",
@@ -13919,7 +13928,6 @@
     "optimism.trade",
     "cowswap.sale",
     "metamask-wallet-security.web.app",
-    "lyra.sale",
-    "pinksale.finance"
+    "lyra.sale"
   ]
 }
