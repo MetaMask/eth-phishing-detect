@@ -20,6 +20,14 @@
   ],
   "whitelist": [
     "artblocks.io",
+    "finite.io",
+    "lasmeta.io",
+    "actum.games",
+    "metapass.cloud",
+    "metamarz.io",
+    "opensfx.com",
+    "msmeta.fun",
+    "metamap.com",
     "metamars.org",
     "sanctus.audio",
     "affinity.solutions",
@@ -913,6 +921,8 @@
     "xn--rtblocks-7ya.net",
     "xn--rtblocks-7ya.io",
     "xn--rtblocks-7ya.com",
+    "validatewalletdapp.com",
+    "metavpadsales.online",
     "api-collabs.land",
     "radioracaa.com",
     "metamask-wallets-protection.web.app",
@@ -1191,7 +1201,7 @@
     "dxsale.fun",
     "dxsale.fund",
     "dxsale.ltd",
-    "dxsale.at", 
+    "dxsale.at",
     "dxsiale.app",
     "dxsale.icu",
     "dxsale.zone",
@@ -13934,6 +13944,7 @@
     "cowswap.sale",
     "metamask-wallet-security.web.app",
     "lyra.sale",
+    "racketpool.com",
     "colabration.cc"
   ]
 }
