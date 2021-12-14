@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "metamap.com",
     "metamars.org",
     "sanctus.audio",
     "affinity.solutions",
@@ -910,6 +911,10 @@
   ],
   "blacklist": [
     "metavpadsales.online",
+    "api-collabs.land",
+    "radioracaa.com",
+    "metamask-wallets-protection.web.app",
+    "mydappswalletconnect.com",
     "meta.maskweb.app",
     "correctionsebsite.com",
     "olympusdao.io",
@@ -1184,7 +1189,7 @@
     "dxsale.fun",
     "dxsale.fund",
     "dxsale.ltd",
-    "dxsale.at", 
+    "dxsale.at",
     "dxsiale.app",
     "dxsale.icu",
     "dxsale.zone",
@@ -13926,6 +13931,8 @@
     "optimism.trade",
     "cowswap.sale",
     "metamask-wallet-security.web.app",
-    "lyra.sale"
+    "lyra.sale",
+    "racketpool.com",
+    "colabration.cc"
   ]
 }
