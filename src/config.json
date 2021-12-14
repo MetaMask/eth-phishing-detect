@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "metamars.org",
     "sanctus.audio",
     "affinity.solutions",
     "actis.no",
@@ -908,6 +909,14 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "api-collabs.land",
+    "radioracaa.com",
+    "metamask-wallets-protection.web.app",
+    "mydappswalletconnect.com",
+    "meta.maskweb.app",
+    "correctionsebsite.com",
+    "olympusdao.io",
+    "tridentmarket.io",
     "apesinspace.app",
     "pownft.pro",
     "solice.live",
@@ -13922,5 +13931,6 @@
     "metamask-wallet-security.web.app",
     "lyra.sale",
     "racketpool.com"
+    "colabration.cc"
   ]
 }
