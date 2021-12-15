@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "artblocks.io",
     "finite.io",
     "lasmeta.io",
     "actum.games",
@@ -917,6 +918,9 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "xn--rtblocks-7ya.net",
+    "xn--rtblocks-7ya.io",
+    "xn--rtblocks-7ya.com",
     "validatewalletdapp.com",
     "metavpadsales.online",
     "api-collabs.land",
