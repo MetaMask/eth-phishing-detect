@@ -1,21 +1,25 @@
 {
   "name": "eth-phishing-detect",
-  "version": "1.1.13",
+  "version": "1.1.15",
   "description": "Utility for detecting phishing domains targeting Ethereum users",
   "main": "src/index.js",
   "scripts": {
     "test": "node test | tap-summary",
+    "buildSample": "browserify example/index.js -o example/bundle.js",
     "ci": "node test | tap-summary --no-progress"
   },
   "author": "kumavis",
   "license": "DBAD",
+  "resolutions": {
+    "tap-summary/tap-out/trim": "^0.0.3"
+  },
   "dependencies": {
     "fast-levenshtein": "^2.0.6"
   },
   "devDependencies": {
     "async": "^2.5.0",
+    "browserify": "^17.0.0",
     "csv-parse": "^4.4.6",
-    "isomorphic-fetch": "^2.2.1",
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
     "tap-summary": "^4.0.0",
