@@ -1071,3 +1071,4 @@
 0.0.0.0 curwe.fi
 0.0.0.0 boredapeyachtclub.app
 0.0.0.0 convexfinance.org
+0.0.0.0 across.cc
