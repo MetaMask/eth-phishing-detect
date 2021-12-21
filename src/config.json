@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "bifinity.com",
     "artblocks.io",
     "finite.io",
     "lasmeta.io",
@@ -68,6 +69,7 @@
     "openseas.gr",
     "maddmeta.com",
     "metamart.space",
+    "metamess.io",
     "metamilk.xyz",
     "metamusk.eu",
     "meta-musk.com",
@@ -918,6 +920,17 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "axie-box.one",
+    "crazybabiesnft.com",
+    "apeskidsclubs.com",
+    "chumbivallley.com",
+    "connectallwallet.net",
+    "walletauthenticity.org",
+    "hapebeastgang.net",
+    "boredbigfoots.co",
+    "daomaker.com.mx",
+    "superlativesapes.com",
+    "galyverses.com",
     "xn--rtblocks-7ya.net",
     "xn--rtblocks-7ya.io",
     "xn--rtblocks-7ya.com",
