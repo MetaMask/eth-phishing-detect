@@ -19,6 +19,7 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "across.to",
     "bifinity.com",
     "artblocks.io",
     "finite.io",
@@ -13959,6 +13960,7 @@
     "metamask-wallet-security.web.app",
     "lyra.sale",
     "racketpool.com",
-    "colabration.cc"
+    "colabration.cc",
+    "across.cc"
   ]
 }
