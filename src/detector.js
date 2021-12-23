@@ -28,7 +28,7 @@ class PhishingDetector {
       // strip www
       fuzzyForm = fuzzyForm.replace('www.', '')
       // check against clearlist
-      if (clearlist.includes(fuzzyForm)) return { type: 'clearlist', result: false }
+      if (this.clearlist.includes(fuzzyForm)) return { type: 'clearlist', result: false }
       // check against fuzzylist
       const levenshteinMatched = this.fuzzylist.find((targetParts) => {
         const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
