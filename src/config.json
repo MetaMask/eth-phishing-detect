@@ -920,6 +920,8 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "multibridge.tools",
+    "walletsrestore.store",
     "ogn-airdrops.com",
     "axie-box.one",
     "crazybabiesnft.com",
