@@ -920,6 +920,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "opensae-collection.cc",
     "ogn-airdrops.com",
     "axie-box.one",
     "crazybabiesnft.com",
