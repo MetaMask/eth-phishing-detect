@@ -937,6 +937,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "project-bscpad.com",
     "foxmask.net",
     "walletissuesfixall.org",
     "multibridge.tools",
