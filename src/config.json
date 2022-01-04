@@ -937,6 +937,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "foxmask.net",
     "walletissuesfixall.org",
     "multibridge.tools",
     "walletsrestore.store",
