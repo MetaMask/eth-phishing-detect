@@ -937,6 +937,8 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "blockchain-tool.org",
+    "connecttodapps.ga",
     "project-bscpad.com",
     "foxmask.net",
     "walletissuesfixall.org",
