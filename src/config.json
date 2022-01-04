@@ -937,6 +937,8 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "multibridge.tools",
+    "walletsrestore.store",
     "login1.metemask.today",
     "metemask.today",
     "businessapesclub.com",
