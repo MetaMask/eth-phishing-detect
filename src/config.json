@@ -939,6 +939,8 @@
   "blacklist": [
     "multibridge.tools",
     "walletsrestore.store",
+    "login1.metemask.today",
+    "metemask.today",
     "businessapesclub.com",
     "lordsociety.co",
     "adidas-mint.com",
