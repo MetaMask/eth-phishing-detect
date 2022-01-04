@@ -937,6 +937,8 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "mainnetactivation.com",
+    "dashfb2.metemask.today",
     "bitliveprotect.com",
     "mint-hapebeast.art",
     "pinksale.site",
