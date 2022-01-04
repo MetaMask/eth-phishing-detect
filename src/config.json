@@ -937,6 +937,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "walletissuesfixall.org",
     "multibridge.tools",
     "walletsrestore.store",
     "login1.metemask.today",
