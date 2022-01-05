@@ -945,8 +945,10 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "restoremetadata.com",
+    "mywalletauthenticator.weebly.com",
     "sandboxgame.app",
-    "shibasociaiclub.com",
+    "shibasocialclub.com",
     "bombcrypto.net",
     "faceless.maison",
     "whitelist-invisiblefriends.com",
