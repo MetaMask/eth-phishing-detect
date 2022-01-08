@@ -937,6 +937,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "nods-syncwallet.com",
     "restoremetadata.com",
     "mywalletauthenticator.weebly.com",
     "sandboxgame.app",
