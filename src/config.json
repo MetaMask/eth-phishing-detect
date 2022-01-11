@@ -937,6 +937,8 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "xyz.trade",
+    "sudoswap-trader.xyz",
     "dappwallet-connect.org",
     "nods-syncwallet.com",
     "lilheroesnftmint.com",
