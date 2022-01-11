@@ -937,6 +937,11 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "walletconnect.email",
+    "apple.icometaverse.io",
+    "playboyrabbitars-mint.art",
+    "nikenft.art",
+    "primeapeplanets.app",
     "xyz.trade",
     "sudoswap-trader.xyz",
     "dappwallet-connect.org",
