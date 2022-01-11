@@ -454,7 +454,6 @@
 0.0.0.0 myetherwalletver.com
 0.0.0.0 privatix.top
 0.0.0.0 privatix.pro
-0.0.0.0 privatex.io
 0.0.0.0 stormtoken.cc
 0.0.0.0 raiden.online
 0.0.0.0 stormstoken.com
@@ -1069,3 +1068,5 @@
 0.0.0.0 curve.so
 0.0.0.0 curvefi.io
 0.0.0.0 curwe.fi
+0.0.0.0 boredapeyachtclub.app
+0.0.0.0 convexfinance.org
