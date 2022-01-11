@@ -937,6 +937,8 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "walletconnect.email",
+    "apple.icometaverse.io",
     "restoremetadata.com",
     "mywalletauthenticator.weebly.com",
     "sandboxgame.app",
