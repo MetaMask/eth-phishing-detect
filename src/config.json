@@ -937,6 +937,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "metamask-verify.org",
     "uniswap.financial",
     "xyz.trade",
     "sudoswap-trader.xyz",
