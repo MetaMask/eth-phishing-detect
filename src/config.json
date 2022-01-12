@@ -937,6 +937,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "pancakeswapes.company",
     "uniswap.financial",
     "xyz.trade",
     "sudoswap-trader.xyz",
