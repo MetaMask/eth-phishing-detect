@@ -49,6 +49,7 @@
     "aurous.cl",
     "au.tts.ru",
     "avinity.com",
+    "aurous.finance",
     "befinity.media",
     "beta.ask.rip",
     "dinify.io",
@@ -87,6 +88,7 @@
     "cactus.sh",
     "flarum.it",
     "infinity.co",
+    "infinity.fish",
     "infinity.health",
     "infinity.irish",
     "ipensa.com",
@@ -100,6 +102,8 @@
     "openseas.gr",
     "lautus.net",
     "masknet.net",
+    "lucrum.pro",
+    "lucrus.io",
     "metaease.io",
     "metahack.games",
     "maddmeta.com",
@@ -975,6 +979,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "uniswap.financial",
     "xyz.trade",
     "sudoswap-trader.xyz",
     "dappwallet-connect.org",
