@@ -996,6 +996,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "metamask-verify.org",
     "metamask.etamask.top",
     "metamask.security-information.cc",
     "undeadpastelclub.org",
