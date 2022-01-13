@@ -941,6 +941,7 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "uniswap.financial",
     "xyz.trade",
     "sudoswap-trader.xyz",
     "dappwallet-connect.org",
