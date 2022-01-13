@@ -996,6 +996,11 @@
     "metapass.fyi"
   ],
   "blacklist": [
+    "walletconnect.email",
+    "apple.icometaverse.io",
+    "playboyrabbitars-mint.art",
+    "nikenft.art",
+    "primeapeplanets.app",
     "pancakeswapes.company",
     "1gas.pro",
     "metamask-verify.org",
