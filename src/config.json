@@ -993,9 +993,11 @@
     "metadusk.io",
     "metabase.finance",
     "metamarc.io",
-    "metapass.fyi"
+    "metapass.fyi",
+    "roco.finance",
   ],
   "blacklist": [
+    "rocofinance.com"
     "walletconnect.email",
     "apple.icometaverse.io",
     "playboyrabbitars-mint.art",
