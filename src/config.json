@@ -993,9 +993,11 @@
     "metadusk.io",
     "metabase.finance",
     "metamarc.io",
-    "metapass.fyi"
+    "metapass.fyi",
+    "roco.finance"
   ],
   "blacklist": [
+    "rocofinance.com",
     "defimoney.info",
     "metamasknft.email",
     "walletconnect.email",
