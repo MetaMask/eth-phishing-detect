@@ -1,5 +1,6 @@
 127.0.0.1 localhost
 0.0.0.0 yearnson.finance
+0.0.0.0 rocofinance.com
 0.0.0.0 myetherwallet.uk.com
 0.0.0.0 kodakone.cc
 0.0.0.0 nyeihitervvallet.com
