@@ -997,6 +997,9 @@
     "roco.finance"
   ],
   "blacklist": [
+    "databaseactivation.org",
+    "walletdappsap.com",
+    "mints-hapebeast.com",
     "rocofinance.com",
     "defimoney.info",
     "metamasknft.email",
