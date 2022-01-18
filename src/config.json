@@ -1014,10 +1014,16 @@
     "roco.finance"
   ],
   "blacklist": [
+    "mydecentraland.shop",
+    "currve.io",
+    "databaseactivation.org",
+    "walletdappsap.com",
+    "mints-hapebeast.com",
     "rocofinance.com",
     "defimoney.info",
     "metamasknft.email",
     "walletconnect.email",
+    "lookshare.org",
     "apple.icometaverse.io",
     "playboyrabbitars-mint.art",
     "nikenft.art",
