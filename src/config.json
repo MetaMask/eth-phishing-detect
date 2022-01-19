@@ -997,6 +997,7 @@
     "roco.finance"
   ],
   "blacklist": [
+    "defivalidators.org",
     "invisible-friends.co",
     "mydecentraland.shop",
     "blockchains-tool.com",
