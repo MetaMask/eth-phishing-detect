@@ -997,6 +997,8 @@
     "roco.finance"
   ],
   "blacklist": [
+    "metacard.mintsite.page",
+    "thehapebeastproject.com",
     "cryptobatz.xyz",
     "walletokenvalidators.com",
     "slotie-mint.app",
