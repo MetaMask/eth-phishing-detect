@@ -997,6 +997,7 @@
     "roco.finance"
   ],
   "blacklist": [
+    "token-restore.io",
     "defivalidators.org",
     "robotshelp.org",
     "dappsmetadata.com",
