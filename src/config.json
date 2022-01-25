@@ -997,6 +997,11 @@
     "roco.finance"
   ],
   "blacklist": [
+    "fixedvalidateswalleterrors.org/",
+    "syncwalletcloud.org",
+    "smartdappwalletsconnect.com/",
+    "dappmobilesync.co",
+    "importvalidator.com/",
     "maskbillionairenft.mintplatform.design",
     "mintplatform.design",
     "starlinktoken-presale.com",
