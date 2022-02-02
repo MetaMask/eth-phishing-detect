@@ -12670,6 +12670,7 @@ module.exports={
     "uniswap.supply",
     "stellar.org.ht",
     "accountviewer.stellar.org.ht",
+    "dogaml.net"
   ]
 }
 
