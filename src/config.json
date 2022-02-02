@@ -1032,6 +1032,7 @@
     "roco.finance"
   ],
   "blacklist": [
+    "officialmm.com",
     "metamask-xpubs.web.app",
     "mint-monsterapeclub.art",
     "verifymeta.net",
