@@ -984,6 +984,7 @@
     "decrypto.net",
     "audius.co",
     "audius.org",
+    "audius.app",
     "verasity.io",
     "orionprotocol.io",
     "etherspin.co",
@@ -1031,6 +1032,7 @@
     "roco.finance"
   ],
   "blacklist": [
+    "metamask-xpubs.web.app",
     "mint-monsterapeclub.art",
     "verifymeta.net",
     "metasercon.com",
