@@ -1032,6 +1032,7 @@
     "roco.finance"
   ],
   "blacklist": [
+    "dappsynsconnect.org",
     "killergf.mintin.org",
     "officialmm.com",
     "metamask-xpubs.web.app",
