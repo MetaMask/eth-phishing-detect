@@ -1032,6 +1032,7 @@
     "roco.finance"
   ],
   "blacklist": [
+    "access-poocoinn.com",
     "killergf.mintin.org",
     "officialmm.com",
     "metamask-xpubs.web.app",
