@@ -16,6 +16,7 @@
     "metamask.io",
     "myetherwallet.com",
     "opensea.io",
+    "looksrare.org",
     "originprotocol.com"
   ],
   "whitelist": [
@@ -88,6 +89,7 @@
     "opensit.net",
     "openseas.com",
     "opensees.pro",
+    "looksrare.org",
     "openmha.org",
     "openres.io",
     "openresa.com",
@@ -1032,6 +1034,9 @@
     "roco.finance"
   ],
   "blacklist": [
+    "looksraresupport.org",
+    "looik-rares.org",
+    "looksralre.org",
     "killergf.mintin.org",
     "officialmm.com",
     "metamask-xpubs.web.app",
