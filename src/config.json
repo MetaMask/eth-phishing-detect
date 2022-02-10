@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "olympusdao.finance",
     "bifinity.com",
     "artblocks.io",
     "finite.io",
@@ -1037,6 +1038,10 @@
     "thebigcats.art",
     "realapesclub.co",
     "collab-land.cx",
+    "bayc-nft.com",
+    "thetronwars.art",
+    "access-poocoinn.com",
+    "metadata.io.tambooks.vn",
     "killergf.mintin.org",
     "officialmm.com",
     "metamask-xpubs.web.app",
@@ -14240,6 +14245,7 @@
     "metamask-wallet-security.web.app",
     "lyra.sale",
     "racketpool.com",
-    "colabration.cc"
+    "colabration.cc",
+    "thor.fund"
   ]
 }
