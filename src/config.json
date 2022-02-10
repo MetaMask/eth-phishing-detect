@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "olympusdao.finance",
     "bifinity.com",
     "artblocks.io",
     "finite.io",
@@ -538,6 +539,7 @@
     "metamesh.com",
     "cactus.app",
     "lucius.fr",
+    "lucius.nl",
     "crypto.casa",
     "socrypto.app",
     "gocrypto.com",
@@ -1029,7 +1031,8 @@
     "metabase.finance",
     "metamarc.io",
     "metapass.fyi",
-    "roco.finance"
+    "roco.finance",
+    "arceus.gg"
   ],
   "blacklist": [
     "c-01nftmint.com",
@@ -1057,6 +1060,10 @@
     "qrcunigen.com",
     "ethu2e.com",
     "theinvisiblefriends.io",
+    "rowdysociety.art",
+    "luckylionclub.art",
+    "decnetarland.org",
+    "decnteraland.org",
     "bayc-nft.com",
     "thetronwars.art",
     "access-poocoinn.com",
@@ -14264,6 +14271,7 @@
     "metamask-wallet-security.web.app",
     "lyra.sale",
     "racketpool.com",
-    "colabration.cc"
+    "colabration.cc",
+    "thor.fund"
   ]
 }
