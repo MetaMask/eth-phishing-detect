@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "olympusdao.finance",
     "bifinity.com",
     "artblocks.io",
     "finite.io",
@@ -1033,6 +1034,9 @@
     "arceus.gg"
   ],
   "blacklist": [
+    "luckylionclub.art",
+    "decnetarland.org",
+    "decnteraland.org",
     "bayc-nft.com",
     "thetronwars.art",
     "access-poocoinn.com",
