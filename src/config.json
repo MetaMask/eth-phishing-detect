@@ -1033,6 +1033,12 @@
     "roco.finance"
   ],
   "blacklist": [
+    "bayc-nft.com",
+    "thetronwars.art",
+    "access-poocoinn.com",
+    "metadata.io.tambooks.vn",
+    "killergf.mintin.org",
+    "officialmm.com",
     "metamask-xpubs.web.app",
     "mint-monsterapeclub.art",
     "verifymeta.net",
@@ -14234,6 +14240,7 @@
     "metamask-wallet-security.web.app",
     "lyra.sale",
     "racketpool.com",
-    "colabration.cc"
+    "colabration.cc",
+    "thor.fund"
   ]
 }
