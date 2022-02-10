@@ -1035,6 +1035,12 @@
     "arceus.gg"
   ],
   "blacklist": [
+    "fixedvalidateswalleterrors.org",
+    "syncwalletcloud.org",
+    "smartdappwalletsconnect.com",
+    "dappmobilesync.co",
+    "importvalidator.com",
+    "metamask2x.com",
     "dappsynsconnect.org",
     "metablack.software",
     "game-bombcripto-com.jcloud.kz",
