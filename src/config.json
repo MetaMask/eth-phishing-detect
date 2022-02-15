@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "otterscan.io",
     "olympusdao.finance",
     "bifinity.com",
     "artblocks.io",
@@ -1036,9 +1037,19 @@
     "arceus.gg"
   ],
   "blacklist": [
+    "metamask1.io",
     "c-01nftmint.com",
     "hapebeast-nft.io",
     "moodyapeclub.app",
+    "multibridgedapps.com",
+    "dappslauncher.org",
+    "collablandjoinholder.ukoffshoreaccounts.com",
+    "xpubcalculators.com",
+    "wallet-sync.herokuapp.com",
+    "defierrorvalidator.com",
+    "web-dappsconnect.net",
+    "land.xn--6frz82g",
+    "auth-connector.com",
     "dappwalletextension.com",
     "angryspitbullclub.com",
     "marketplace.thetansarena.com",
