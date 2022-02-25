@@ -1047,7 +1047,8 @@
     "metamarc.io",
     "metapass.fyi",
     "roco.finance",
-    "arceus.gg"
+    "arceus.gg",
+    "openrep.foundation"
   ],
   "blacklist": [
     "metamaskwebwallet.io",
@@ -14462,7 +14463,6 @@
     "colabration.cc",
     "revokecash.com",
     "thor.fund",
-    "dogaml.net",
-    "openrep.foundation"
+    "dogaml.net"
   ]
 }
