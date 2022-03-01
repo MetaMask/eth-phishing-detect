@@ -1052,6 +1052,7 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "mysecure-dnsserver.com",
     "2ombs.finance",
     "metamaskwebwallet.io",
     "metamask-mobile.io",
