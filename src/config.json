@@ -1047,9 +1047,12 @@
     "metamarc.io",
     "metapass.fyi",
     "roco.finance",
-    "arceus.gg"
+    "arceus.gg",
+    "esa.int",
+    "open.esa.int"
   ],
   "blacklist": [
+    "2ombs.finance",
     "metamaskwebwallet.io",
     "metamask-mobile.io",
     "cyclicswitch.online",
