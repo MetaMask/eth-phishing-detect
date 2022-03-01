@@ -1052,6 +1052,9 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "wallet-connect-meta.com",
+    "wallet-meta-connec.com",
+    "validationopensea.com",
     "mysecure-dnsserver.com",
     "2ombs.finance",
     "metamaskwebwallet.io",
