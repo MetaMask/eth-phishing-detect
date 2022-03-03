@@ -1077,6 +1077,7 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "company-atomic.com",
     "daomaker.com.ms",
     "wallet-connect-meta.com",
     "wallet-meta-connec.com",
