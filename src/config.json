@@ -25,6 +25,7 @@
     "otterscan.io",
     "olympusdao.finance",
     "bifinity.com",
+    "opensend.com",
     "artblocks.io",
     "finite.io",
     "lasmeta.io",
@@ -1071,10 +1072,15 @@
     "metapass.fyi",
     "roco.finance",
     "arceus.gg",
+    "openrep.foundation",
     "esa.int",
     "open.esa.int"
   ],
   "blacklist": [
+    "wallet-connect-meta.com",
+    "wallet-meta-connec.com",
+    "validationopensea.com",
+    "mysecure-dnsserver.com",
     "2ombs.finance",
     "metamaskwebwallet.io",
     "metamask-mobile.io",
