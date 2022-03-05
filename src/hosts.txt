@@ -610,13 +610,11 @@
 0.0.0.0 kyberr.network
 0.0.0.0 kybernetwork.io
 0.0.0.0 myetherwalletconfirm.com
-0.0.0.0 kvnuke.github.io
 0.0.0.0 kin.kikpro.co
 0.0.0.0 myethereumwallet.co.uk
 0.0.0.0 tokensale-kyber.network
 0.0.0.0 kyber-network.co
 0.0.0.0 tokensale.kyber-network.co
-0.0.0.0 pyro0.github.io
 0.0.0.0 tokensale.kyber.digital
 0.0.0.0 kyber.digital
 0.0.0.0 omise-go.me
@@ -626,7 +624,6 @@
 0.0.0.0 enigma-tokens.co
 0.0.0.0 coinbase.com.eslogin.co
 0.0.0.0 xn--bittrx-mva.com
-0.0.0.0 ethrdelta.github.io
 0.0.0.0 etherdellta.com
 0.0.0.0 ico-nexus.social
 0.0.0.0 red-pulse.tech
