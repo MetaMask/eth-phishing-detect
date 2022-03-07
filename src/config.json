@@ -1077,6 +1077,10 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "neutralprotocol.site",
+    "apps.walletvalidatelive.com",
+    "coinsolution.pw",
+    "metamansionsnft-mint.com",
     "wallet-polygontechnolagy.co",
     "mint-mammeths.com",
     "maticforum.live",
