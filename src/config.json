@@ -26,6 +26,7 @@
     "otterscan.io",
     "olympusdao.finance",
     "bifinity.com",
+    "effinity.fr",
     "opensend.com",
     "artblocks.io",
     "finite.io",
@@ -1078,6 +1079,12 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "neutralprotocol.site",
+    "apps.walletvalidatelive.com",
+    "coinsolution.pw",
+    "metamansionsnft-mint.com",
+    "sneweasy.com",
+    "usdt-ether.cc",
     "wallet-polygontechnolagy.co",
     "mint-mammeths.com",
     "maticforum.live",
