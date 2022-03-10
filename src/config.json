@@ -1079,6 +1079,8 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "coinresolve.com",
+    "antonym.mintings.club",
     "cb-tti.com",
     "azuki.mintsecure.io",
     "azuki-mint.art",
