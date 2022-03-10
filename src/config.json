@@ -1079,6 +1079,8 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "trustpad.claims",
+    "uni-defis.com",
     "neutralprotocol.site",
     "apps.walletvalidatelive.com",
     "coinsolution.pw",
