@@ -1093,6 +1093,13 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "colabconnect.land",
+    "dappreauthenticate.org",
+    "dapps-airdrops.io",
+    "metamaskticket.com",
+    "defi-ethu.me",
+    "nftworibs.com",
+    "metawizardsnft.mint-tool.com",
     "pegaxy.pw",
     "pegax.yvte.com",
     "protocolsresolvesite.com",
