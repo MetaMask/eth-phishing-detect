@@ -1093,6 +1093,10 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "apppolygon.net",
+    "eth-coin.club",
+    "connectswallets.webflow.io",
+    "decentralizednonce.org",
     "live-nft-mint.com",
     "ape-coin.net",
     "pegaxy.pw",
