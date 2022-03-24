@@ -1094,6 +1094,8 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "smartpairing.net",
+    "mint.alphadogs.run",
     "apescoin.online",
     "defi-aavev3.link",
     "eth-aave.org",
@@ -1115,6 +1117,7 @@
     "defi-ethu.me",
     "nftworibs.com",
     "metawizardsnft.mint-tool.com",
+    "decetnral.guru",
     "maindappsconnect.org",
     "blokpadlaunch.com",
     "liquddriver.finance",
