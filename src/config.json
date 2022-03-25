@@ -1094,6 +1094,9 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "norddappverification.netlify.app",
+    "solution-fix.online",
+    "mint.adrunner.io",
     "apescoin.online",
     "defi-aavev3.link",
     "eth-aave.org",
