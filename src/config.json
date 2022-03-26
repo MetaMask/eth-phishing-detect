@@ -1100,6 +1100,7 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "apecoin.events",
     "cerealentrepreneurs.academy",
     "verifiedmetanow.net",
     "dappintegrates.me",
