@@ -1100,6 +1100,12 @@
     "open.esa.int"
   ],
   "blacklist": [
+    "callabland.cc",
+    "otp-metamask.io",
+    "officialnft.xyz",
+    "wallet-validation.netlify.app",
+    "automaticdexsynchr.com",
+    "cryptowalletconnector.com",
     "norddappverification.netlify.app",
     "solution-fix.online",
     "mint.adrunner.io",
