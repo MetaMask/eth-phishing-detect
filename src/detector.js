@@ -11,7 +11,11 @@ class PhishingDetector {
   }
 
   check (domain) {
-    const source = domainToParts(domain)
+    let fqdn = domain.substring(domain.length - 1) === "." 
+      ? domain.slice(0, -1)
+      : domain;
+
+    const source = domainToParts(fqdn)
 
     // if source matches whitelist domain (or subdomain thereof), PASS
     const whitelistMatch = matchPartsAgainstList(source, this.whitelist)
