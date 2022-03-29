@@ -1105,6 +1105,8 @@
     "everscan.io"
   ],
   "blacklist": [
+    "ape-coin.claims",
+    "dappsdefichain.com",
     "dapp-collab.land",
     "defi.internationaltrc.com",
     "dpethmin.com",
