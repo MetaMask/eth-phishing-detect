@@ -1106,6 +1106,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "cross-chainbot.org",
     "pegasxy.net",
     "tronixdapp.com",
     "ygalaxy168.com",
