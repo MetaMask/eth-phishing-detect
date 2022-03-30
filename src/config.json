@@ -1106,6 +1106,8 @@
     "everscan.io"
   ],
   "blacklist": [
+    "ape-coin.claims",
+    "dappsdefichain.com",
     "defi-aavev3.arab",
     "defi-aavev3.buzz",
     "defi-aavev3.info",
