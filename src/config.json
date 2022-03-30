@@ -1106,6 +1106,13 @@
     "everscan.io"
   ],
   "blacklist": [
+    "defi-aavev3.arab",
+    "defi-aavev3.buzz",
+    "defi-aavev3.info",
+    "defi-aavev3.life",
+    "defi-aavev3.live",
+    "willsmithinu.io",
+    "akkswap.io",
     "cross-chainbot.org",
     "pegasxy.net",
     "tronixdapp.com",
