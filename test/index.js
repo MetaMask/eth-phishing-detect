@@ -51,6 +51,7 @@ function startTests () {
       "metamask.com",
       "wallet-ethereum.net",
       "etherclassicwallet.com",
+      "wallet-ethereum.net." //Test for absolute fully-qualified domain name
     ])
 
     // whitelist
