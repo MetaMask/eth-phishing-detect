@@ -1110,6 +1110,10 @@
     "everscan.io"
   ],
   "blacklist": [
+    "synchronization-collab.land",
+    "coindapps.webflow.io",
+    "kycs-for-metalocation.live",
+    "mint-mutantshib.club",
     "boredapeproject.com",
     "ammmine.cc",
     "ape-coin.claims",
