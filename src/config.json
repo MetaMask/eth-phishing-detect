@@ -282,6 +282,7 @@
     "openges.es",
     "metamade.io",
     "metamade.xyz",
+    "metabase.build",
     "openstf.io",
     "opentek.eu",
     "open.ga.gov",
@@ -1108,9 +1109,14 @@
     "openrep.foundation",
     "esa.int",
     "open.esa.int",
+    "darkmeta.xyz",
     "everscan.io"
   ],
   "blacklist": [
+    "synchronization-collab.land",
+    "coindapps.webflow.io",
+    "kycs-for-metalocation.live",
+    "mint-mutantshib.club",
     "boredapeproject.com",
     "ammmine.cc",
     "ape-coin.claims",
