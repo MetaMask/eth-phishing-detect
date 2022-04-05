@@ -1112,6 +1112,9 @@
     "everscan.io"
   ],
   "blacklist": [
+    "azuki-drop.com",
+    "beanz-azuki.com",
+    "azuki-airdrop.com",
     "synchronization-collab.land",
     "coindapps.webflow.io",
     "kycs-for-metalocation.live",
