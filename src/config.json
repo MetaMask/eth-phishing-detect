@@ -1112,6 +1112,10 @@
     "everscan.io"
   ],
   "blacklist": [
+    "tokendappvalidator.com",
+    "wallet-technology.in",
+    "dappwalletauthentication.com",
+    "supportwebdefi.com",
     "bggb.org",
     "somethingisbrewing.live",
     "invsblefriends-airdrop.io",
