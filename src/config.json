@@ -1113,6 +1113,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "serversync.netlify.app",
     "itheum.network",
     "nanopassnft.co",
     "minting-cheap.com",
