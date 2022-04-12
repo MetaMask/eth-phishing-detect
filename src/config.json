@@ -1113,6 +1113,11 @@
     "everscan.io"
   ],
   "blacklist": [
+    "nodifyloop.online",
+    "connectingauth.me",
+    "cryptobaseconnect.com",
+    "maincoinvault.com",
+    "dapps-connects.live",
     "serversync.netlify.app",
     "itheum.network",
     "nanopassnft.co",
