@@ -7,6 +7,7 @@ class PhishingDetector {
     this.whitelist = processDomainList(opts.whitelist || [])
     this.blacklist = processDomainList(opts.blacklist || [])
     this.fuzzylist = processDomainList(opts.fuzzylist || [])
+    this.clearlist = processDomainList(opts.clearlist || [])
     this.tolerance = ('tolerance' in opts) ? opts.tolerance : DEFAULT_TOLERANCE
   }
 
@@ -30,6 +31,8 @@ class PhishingDetector {
       let fuzzyForm = domainPartsToFuzzyForm(source)
       // strip www
       fuzzyForm = fuzzyForm.replace('www.', '')
+      // check against clearlist
+      if (this.clearlist.includes(fuzzyForm)) return { type: 'clearlist', result: false }
       // check against fuzzylist
       const levenshteinMatched = this.fuzzylist.find((targetParts) => {
         const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
