@@ -1152,6 +1152,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "nft-moonbirds.net",
     "cryptolaunchs.webflow.io",
     "bscbnb.vip",
     "dappsnftconnect.netlify.app",
