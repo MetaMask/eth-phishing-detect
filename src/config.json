@@ -1152,6 +1152,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "optimism.team",
     "nft-moonbirds.net",
     "cryptolaunchs.webflow.io",
     "bscbnb.vip",
