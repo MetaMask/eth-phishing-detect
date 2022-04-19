@@ -1159,6 +1159,18 @@
     "everscan.io"
   ],
   "blacklist": [
+    "alldappsconnection.com",
+    "drop-azuki.app",
+    "compute-cloud.me",
+    "cryptosblades.com",
+    "defi-usdtdns.com",
+    "srtongblock.shop",
+    "srtongblock.space",
+    "defi-usdteth.vip",
+    "collablandl.cc",
+    "metamask-platform.netlify.app",
+    "ethminerdoteu.com",
+    "m.metamaskio.live",
     "optimism.team",
     "eth-mask.com",
     "coinbase-def.com",
