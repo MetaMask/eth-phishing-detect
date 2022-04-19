@@ -1159,6 +1159,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "optimism.team",
     "eth-mask.com",
     "coinbase-def.com",
     "coinbasedefi.top",
