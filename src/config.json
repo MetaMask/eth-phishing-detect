@@ -1159,6 +1159,8 @@
     "everscan.io"
   ],
   "blacklist": [
+    "moonbird.claims",
+    "waliet-polgyon.network",
     "dapp.smartokenapps.com",
     "joancornella-fwenclub.com",
     "metamasksslog.azurewebsites.net",
