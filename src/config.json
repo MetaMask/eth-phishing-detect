@@ -1159,6 +1159,9 @@
     "everscan.io"
   ],
   "blacklist": [
+    "cryptoblades.club",
+    "crptoblades.com",
+    "app.crptoblades.com",
     "opentoken.sale",
     "xn--opnsa-5rac.io",
     "defi-launchpad.com",
