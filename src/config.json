@@ -1159,6 +1159,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "opentoken.sale",
     "dapp.smartokenapps.com",
     "joancornella-fwenclub.com",
     "metamasksslog.azurewebsites.net",
