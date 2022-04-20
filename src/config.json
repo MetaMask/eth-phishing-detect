@@ -1159,6 +1159,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "opentoken.sale",
     "xn--opnsa-5rac.io",
     "defi-launchpad.com",
     "securevalidate.site",
