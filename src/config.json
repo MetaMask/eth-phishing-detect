@@ -1159,6 +1159,10 @@
     "everscan.io"
   ],
   "blacklist": [
+    "dapp.smartokenapps.com",
+    "joancornella-fwenclub.com",
+    "metamasksslog.azurewebsites.net",
+    "coindaap.com"
     "dapp-fix.net",
     "solve.resolveupdatewalletsolution.com",
     "mainnet-connect.space",
