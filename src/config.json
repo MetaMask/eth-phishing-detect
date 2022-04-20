@@ -1159,6 +1159,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "xn--opnsa-5rac.io",
     "dapp-fix.net",
     "solve.resolveupdatewalletsolution.com",
     "mainnet-connect.space",
