@@ -1159,6 +1159,9 @@
     "everscan.io"
   ],
   "blacklist": [
+    "dapp-fix.net",
+    "solve.resolveupdatewalletsolution.com",
+    "mainnet-connect.space",
     "makerometa.net",
     "veefriendz.com",
     "trastpad-eth.com",
@@ -14993,7 +14996,6 @@
     "satoshilabs.co",
     "trezornews.io",
     "suite.trezor.run",
-    "trezorwallet.org",
-    "dapp-fix.net"
+    "trezorwallet.org"
   ]
 }
