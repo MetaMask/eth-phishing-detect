@@ -1159,6 +1159,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "supports-opensea.com",
     "optimism-sale.com",
     "opentoken.sale",
     "xn--opnsa-5rac.io",
