@@ -1160,6 +1160,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "optimism-token.io",
     "supports-opensea.com",
     "optimism-sale.com",
     "opentoken.sale",
