@@ -1161,6 +1161,9 @@
     "everscan.io"
   ],
   "blacklist": [
+    "ethswap.site",
+    "othersidemeta.gifts",
+    "bayclands.io",
     "leverj-defi.com",
     "beameth.com",
     "usdt-coinbase.xyz",
