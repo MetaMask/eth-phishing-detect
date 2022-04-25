@@ -1161,10 +1161,8 @@
     "everscan.io"
   ],
   "blacklist": [
-    "mcdex-defi.com",
     "leverj-defi.com",
     "beameth.com",
-    "viabtc-svip.com",
     "usdt-coinbase.xyz",
     "ethsany.cc",
     "dydx-amg.com",
@@ -1179,7 +1177,6 @@
     "dydx-vvip.com",
     "dydxvip.io",
     "argent-defi.com",
-    "etoro.zone",
     "uniswap-defi-vip.com",
     "eth-banko.co",
     "leverjsvip.com",
