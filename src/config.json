@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "euler.finance",
     "roobet.com",
     "auctic.net",
     "metavas.com",
@@ -1177,6 +1178,8 @@
     "native-metamask-io-2.ga",
     "proof-moonbirds.com",
     "safety-metamask.io",
+    "appeuler.finance",
+    "euler.claims",
     "event-ether22.com",
     "moonbirds.ml",
     "moonbirds.sale",
