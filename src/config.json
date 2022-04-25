@@ -1160,6 +1160,12 @@
     "everscan.io"
   ],
   "blacklist": [
+    "event-ether22.com",
+    "moonbirds.ml",
+    "moonbirds.sale",
+    "claim-moonbirds.net",
+    "moonbirds.limited-minting.com",
+    "limited-minting.com",
     "moonbirds.mints.sbs",
     "metamaskauthorization.in",
     "2022coinbase.net",
