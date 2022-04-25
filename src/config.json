@@ -1160,6 +1160,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "opensea-appeal.com",
     "cryptoblades.club",
     "crptoblades.com",
     "app.crptoblades.com",
