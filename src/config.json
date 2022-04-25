@@ -1160,6 +1160,9 @@
     "everscan.io"
   ],
   "blacklist": [
+    "cryptoblades.club",
+    "crptoblades.com",
+    "app.crptoblades.com",
     "btcdouble.net",
     "doubleyourbitcoins.biz",
     "disablesignin.com",
