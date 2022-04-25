@@ -1160,6 +1160,9 @@
     "everscan.io"
   ],
   "blacklist": [
+    "moonbirds.id",
+    "metamask.io-asked-questions.org",
+    "opensealive.help",
     "yugalabs.land",
     "connect.dappswebonnect.com",
     "mcdex-defi.com",
