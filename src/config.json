@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "euler.finance",
     "roobet.com",
     "auctic.net",
     "metavas.com",
@@ -1160,6 +1161,8 @@
     "everscan.io"
   ],
   "blacklist": [
+    "appeuler.finance",
+    "euler.claims",
     "event-ether22.com",
     "moonbirds.ml",
     "moonbirds.sale",
