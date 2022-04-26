@@ -1161,6 +1161,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "staking-ethereum.org",
     "cryptonex.site",
     "dotxmex.com",
     "othersidexbayc.xyz",
