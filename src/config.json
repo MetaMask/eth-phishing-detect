@@ -1161,6 +1161,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "cryptonex.site",
     "moonbirds-airdrop.com",
     "walletconnect.updatepage.cc",
     "tesla-bitcoin.net",
