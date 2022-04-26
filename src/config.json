@@ -1162,6 +1162,9 @@
   ],
   "blacklist": [
     "cryptonex.site",
+    "dotxmex.com",
+    "othersidexbayc.xyz",
+    "geniexyz.claims",
     "moonbirds-airdrop.com",
     "walletconnect.updatepage.cc",
     "tesla-bitcoin.net",
@@ -15263,6 +15266,8 @@
     "satoshilabs.co",
     "trezornews.io",
     "suite.trezor.run",
-    "trezorwallet.org"
+    "trezorwallet.org",
+    "polkastarter.live",
+    "po1kastarter.com"
   ]
 }
