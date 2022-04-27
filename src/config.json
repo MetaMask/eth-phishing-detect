@@ -1161,6 +1161,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "staking-ethereum.org",
     "boredapesyachtsclub.com",
     "verification-reset-password-coinbase.com",
     "moonbirds.farm",
