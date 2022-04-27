@@ -1161,6 +1161,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "optimismapp.io",
     "staking-ethereum.org",
     "boredapesyachtsclub.com",
     "verification-reset-password-coinbase.com",
