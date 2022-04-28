@@ -1161,6 +1161,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "mint-optimism.top",
     "mint-memeland.art",
     "apegifter.apeboardmint.com",
     "bowdao.net",
