@@ -1161,6 +1161,13 @@
     "everscan.io"
   ],
   "blacklist": [
+    "dydx-s.com",
+    "bancor-token.com",
+    "bancor-eth.com",
+    "eth-mineral.me",
+    "beameth.com",
+    "eth-main.com",
+    "ethtrust.biz",
     "wwwmetamask.walletverification.in",
     "metamask-logi.com",
     "moonbirds.win",
