@@ -16,7 +16,9 @@
     "metamask.io",
     "myetherwallet.com",
     "opensea.io",
-    "originprotocol.com"
+    "originprotocol.com",
+    "bridge.xdaichain.com",
+    "omni.gnosischain.com"
   ],
   "whitelist": [
     "euler.finance",
@@ -1158,7 +1160,9 @@
     "esa.int",
     "open.esa.int",
     "darkmeta.xyz",
-    "everscan.io"
+    "everscan.io",
+    "bridge.xdaichain.com",
+    "omni.gnosischain.com"
   ],
   "blacklist": [
     "mint-memeland.art",
@@ -15340,6 +15344,7 @@
     "trezorwallet.org",
     "polkastarter.live",
     "starknet-sale.co",
-    "po1kastarter.com"
+    "po1kastarter.com",
+    "omnibridge.exchange"
   ]
 }
