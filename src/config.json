@@ -1161,6 +1161,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "polygcn.technology",
     "optimismapp.io",
     "mint-optimism.top",
     "uniswapded.tech",
