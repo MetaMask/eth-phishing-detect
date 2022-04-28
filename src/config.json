@@ -1161,6 +1161,10 @@
     "everscan.io"
   ],
   "blacklist": [
+    "polkastrater.info",
+    "polkastarter.info",
+    "polkastarter.digital",
+    "poikastarter.digital",
     "mint-memeland.art",
     "apegifter.apeboardmint.com",
     "bowdao.net",
