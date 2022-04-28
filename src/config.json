@@ -1161,6 +1161,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "mint-optimism.top",
     "uniswapded.tech",
     "uniswap-exchenge.com",
     "supportcoinbase-verify.com",
