@@ -1161,6 +1161,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "optimism-official.sale",
     "oddstronauts.co",
     "airdropthor.financial",
     "polygonstechnollogi-wallet.com",
