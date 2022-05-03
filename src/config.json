@@ -1162,6 +1162,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "optimism-official.sale",
     "optimism-token.sale",
     "omni.xdaichain.app",
     "oddstronauts.co",
