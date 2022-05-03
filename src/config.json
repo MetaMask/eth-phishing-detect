@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "metavas.io",
     "euler.finance",
     "roobet.com",
     "auctic.net",
@@ -1162,6 +1163,7 @@
   ],
   "blacklist": [
     "optimism-official.sale",
+    "omni.xdaichain.app",
     "oddstronauts.co",
     "airdropthor.financial",
     "polygonstechnollogi-wallet.com",
@@ -1269,7 +1271,6 @@
     "esystemdapps.com",
     "uniswap-pos.top",
     "affix-tokenwallet.online",
-    "murakamiflowers.kaikaikiki.com",
     "ammeth.pw",
     "airdr-scn.web.app",
     "moonbirds.io",
