@@ -1162,6 +1162,12 @@
     "everscan.io"
   ],
   "blacklist": [
+    "chainlisting.org",
+    "oraclechain-bridge.net",
+    "primeapenftproject.com",
+    "help-center.sandprotect.info",
+    "uinswapexchange.com",
+    "crypto-pad.io",
     "boggecl.finance",
     "nftmemeland.com",
     "optimism-official.sale",
