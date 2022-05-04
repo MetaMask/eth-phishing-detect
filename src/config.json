@@ -1162,6 +1162,12 @@
     "everscan.io"
   ],
   "blacklist": [
+    "walletconnectmeta.mein-vigor.de",
+    "uniswapdefi-svip.com",
+    "verify-recoveryphrase.com",
+    "metamask-customer.com",
+    "metamask-wallet-security.com",
+    "coinbase-usd.org",
     "restoremetamask.io",
     "pooltogether.top",
     "metamaskauthkyco.ns01.us",
