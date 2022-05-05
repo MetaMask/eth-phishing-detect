@@ -1162,6 +1162,10 @@
     "everscan.io"
   ],
   "blacklist": [
+    "defi-gem.com",
+    "swifttrade.io",
+    "nftmoonman.com",
+    "claimrrkst.com",
     "auth.confirmationscoinbase.com-maildirectlogin.com",
     "coinbase-verseotp.hopto.org",
     "azukibeanz-mint.live",
