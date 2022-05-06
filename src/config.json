@@ -1162,6 +1162,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "bazaarcryptoblade.space",
     "auth.confirmationscoinbase.com-maildirectlogin.com",
     "coinbase-verseotp.hopto.org",
     "azukibeanz-mint.live",
