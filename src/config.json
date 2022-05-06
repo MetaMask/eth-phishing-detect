@@ -1162,6 +1162,8 @@
     "everscan.io"
   ],
   "blacklist": [
+    "otherside-nft.claims",
+    "wallet.appimport.org",
     "auth.confirmationscoinbase.com-maildirectlogin.com",
     "coinbase-verseotp.hopto.org",
     "azukibeanz-mint.live",
