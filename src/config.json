@@ -1166,6 +1166,8 @@
     "everscan.io"
   ],
   "blacklist": [
+    "otherside-nft.claims",
+    "wallet.appimport.org",
     "hoptoken.sale",
     "app.hops.exchange",
     "arbitrum-token.io",
