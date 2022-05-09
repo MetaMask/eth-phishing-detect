@@ -19,6 +19,10 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "aucties.com",
+    "metatank.app",
+    "finite.photos",
+    "adfinity.pro",
     "metavas.io",
     "euler.finance",
     "roobet.com",
@@ -1194,6 +1198,7 @@
     "coinbaseotpverrify.dns05.com",
     "dappwalletconnect.us",
     "opensea-token.com",
+    "bazaarcryptoblade.space",
     "celestia-presale.org",
     "phantomnetwork.xyz",
     "louisvuittonbayc.xyz",
