@@ -1166,6 +1166,12 @@
     "everscan.io"
   ],
   "blacklist": [
+    "hoptoken.sale",
+    "app.hops.exchange",
+    "arbitrum-token.io",
+    "hop-token.sale",
+    "sale-optimism.com",
+    "optimism-sale.top",
     "bazaarcryptoblade.space",
     "celestia-presale.org",
     "phantomnetwork.xyz",
