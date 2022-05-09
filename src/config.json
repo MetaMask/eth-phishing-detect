@@ -1166,6 +1166,10 @@
     "everscan.io"
   ],
   "blacklist": [
+    "defi-gem.com",
+    "swifttrade.io",
+    "nftmoonman.com",
+    "claimrrkst.com",
     "otherside-nft.claims",
     "wallet.appimport.org",
     "hoptoken.sale",
