@@ -73,8 +73,8 @@ window.detector_available = function(){
 
 window.onload = function(){
 	/* If there's a query (the part after the question mark in the URL */
-	if((query = location.href.substring(location.href.indexOf('?') + 1)) == location.href
-			|| query.length > 0){
+	if((query = location.href.substring(location.href.indexOf('?') + 1)) != location.href
+			&& query.length > 0){
 		document.getElementById("url").value = query;
 		window.check_and_update(query);
 	}
