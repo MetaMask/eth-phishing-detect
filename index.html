@@ -1,16 +1,91 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>Why Blocked?</title>
-    <script src="./example/bundle.js"></script>
-  </head>
-  <body>
-    <h1>Why Was This Site Blocked?</h1>
-    <form>
-      <input id="input"></input>
-      <button class="why" type="submit">Check</button>
-    </form>
-    <br>
-    <p id="result"></p>
-  </body>
+<head>
+	<title>Why Blocked?</title>
+	<script>
+/* Hack: This isn't NodeJS, pretend it is. */
+window.require = function(s){
+	console.debug("Required " + s);
+	if(s === "fastest-levenshtein")
+		return window.module.exports;
+	else if(s === "fast-levenshtein")
+		return window.Levenshtein;
+};
+window.module = {};
+	</script>
+	<!-- Many thanks to the folks at unpkg.com for this wonderful tool. -->
+	<script src="https://unpkg.com/fastest-levenshtein/index.js"></script>
+	<script src="https://unpkg.com/fast-levenshtein@3.0.0/levenshtein.js"></script>
+	<script src="https://unpkg.com/eth-phishing-detect/src/detector.js"></script>
+	<script>
+window.config = 0;
+window.detector = 0;
+
+/* Populate lists. */
+fetch("https://unpkg.com/eth-phishing-detect/src/config.json")
+	.then(response => {
+		console.debug(response);
+		return response.json();
+	}).then(data => {
+		window.config = data;
+		document.getElementById("button").value = "Check";
+	}).catch(console.error);
+
+
+window.check = function(url){
+	if(window.detector_available())
+		return detector.check(url);
+	else
+		return -1;
+}
+
+/* void, affects document.getElementById("result").textContent */
+window.check_and_update = function(url){
+	reason = check(url);
+	result = document.getElementById("result");
+
+	if(reason == -1)
+		result.innerHTML = "Config not yet loaded. Try again.";
+
+	else if(reason.result == false)
+    		result.innerHTML = "This domain is not blocked! No problem here.";
+
+	else if(reason.type === 'fuzzy')
+		result.innerHTML = `This domain was blocked for its similarity to ${reason.match}, a historical phishing target.`;
+
+	else if(reason.type === 'blacklist')
+		result.innerHTML = "This domain was blocked because it has been explicitly identified as a malicious site.";
+
+	else
+		result.innerHTML = `There was an issue identifying the reason for the block. The data is ${JSON.stringify(reason)}`;
+
+	return;
+};
+
+window.detector_available = function(){
+	if(window.config == 0){
+		console.error("Config not loaded.");
+		return 0;
+	}else if(window.detector == 0)
+		window.detector = new PhishingDetector(window.config);
+	return 1;
+}
+
+window.onload = function(){
+	/* If there's a query (the part after the question mark in the URL */
+	if((query = location.href.substring(location.href.indexOf('?') + 1)) == location.href
+			|| query.length > 0){
+		document.getElementById("url").value = query;
+		window.check_and_update(query);
+	}
+	return;
+}
+	</script>
+</head>
+<body>
+	<h1>Why Was This Site Blocked?</h1>
+	<input id="url" type="text" />
+	<input id="button" onclick="window.check_and_update(document.getElementById('url').value);" type="button" value="Config not yet loaded!" />
+	<p id="result"></p>
+</body>
 </html>
