@@ -1175,6 +1175,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "xn--trezr-j9a.io",
     "secure.busd.farm",
     "busd.farm",
     "claim-bayc.xyz",
