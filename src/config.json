@@ -1176,6 +1176,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "coinbasedapp.net",
     "uniswap-fill.top",
     "coinbase-verify-password-global.oxygeneapp.com",
     "coinbase-update-password.information.oxygeneapp.com",
