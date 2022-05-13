@@ -1179,6 +1179,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "coinbasedapp.net",
     "solwatchesnft.info",
     "miannetconnect.com",
     "transyncappscloud.org",
