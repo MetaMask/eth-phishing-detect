@@ -1179,6 +1179,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "kwenta.sale",
     "metamask-instant-active-support.nelify.online",
     "dapps-connect.net",
     "nftapes.win",
