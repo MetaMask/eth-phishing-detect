@@ -1179,6 +1179,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "app-chainlist.org",
     "polkastarter.website",
     "polkastarterweb.org",
     "metamask-active-instant-suppor.nelify.online",
