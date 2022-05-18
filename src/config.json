@@ -1179,6 +1179,8 @@
     "everscan.io"
   ],
   "blacklist": [
+    "eth-layer2.net",
+    "nftfashion.cc",
     "polkastarter.website",
     "polkastarterweb.org",
     "metamask-active-instant-suppor.nelify.online",
