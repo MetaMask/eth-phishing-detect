@@ -1179,6 +1179,8 @@
     "everscan.io"
   ],
   "blacklist": [
+    "polkastarter.website",
+    "polkastarterweb.org",
     "metamask-active-instant-suppor.nelify.online",
     "secure-coinbase.dsad32342543234.com",
     "coinbase.oemdealers.com",
