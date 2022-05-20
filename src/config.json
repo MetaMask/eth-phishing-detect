@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "walletconnect.com",
     "ensea.fr",
     "openvia.io",
     "metayasi.io",
