@@ -1179,6 +1179,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "rhinocrypt.com",
     "eth-layer2.net",
     "nftfashion.cc",
     "ethminer.eu.com",
