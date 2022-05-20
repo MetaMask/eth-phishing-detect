@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "walletconnect.com",
     "ensea.fr",
     "openvia.io",
     "metayasi.io",
@@ -1191,7 +1192,6 @@
     "invest.impossible.finance",
     "wcsyncronizationpad.com",
     "metasynchprotocols.com",
-    "cloud.walletconnect.com",
     "websynsi.web.app",
     "mainwebprotocol.com",
     "karma-cats.com",
