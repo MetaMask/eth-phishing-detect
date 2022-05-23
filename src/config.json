@@ -1180,6 +1180,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "only-fix.com",
     "eth-layer2.net",
     "nftfashion.cc",
     "ethminer.eu.com",
