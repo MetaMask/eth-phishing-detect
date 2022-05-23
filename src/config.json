@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "walletconnect.com",
     "ensea.fr",
     "openvia.io",
     "metayasi.io",
@@ -1190,6 +1191,7 @@
     "aswangtribe-official.xyz",
     "pokemonnft-official.xyz",
     "boredapesolanaclub.xyz",
+    "optimism-whitelist.sale",
     "eth-layer2.net",
     "nftfashion.cc",
     "ethminer.eu.com",
@@ -1202,7 +1204,6 @@
     "invest.impossible.finance",
     "wcsyncronizationpad.com",
     "metasynchprotocols.com",
-    "cloud.walletconnect.com",
     "websynsi.web.app",
     "mainwebprotocol.com",
     "karma-cats.com",
