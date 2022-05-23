@@ -1180,6 +1180,9 @@
     "everscan.io"
   ],
   "blacklist": [
+    "only-fix.com",
+    "xn--trezr-j9a.org",
+    "xn--trzor-jza.net",
     "beeple-mint.com",
     "beeple-vuitton.com",
     "0vvvvuniswap.top",
