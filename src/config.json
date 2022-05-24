@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "idexcorp.com",
     "walletconnect.com",
     "ensea.fr",
     "openvia.io",
@@ -7497,7 +7498,6 @@
     "blcokchain.lloqin.com",
     "lloqin.com",
     "ldax.market",
-    "idexcorp.com",
     "idexcorp.comgg.gg",
     "investment2x.online",
     "electrumsecuredownload.com",
