@@ -1181,6 +1181,16 @@
     "everscan.io"
   ],
   "blacklist": [
+    "mainnets-live.com",
+    "bsc-airdrop.io",
+    "gangsterallstart-mins.live",
+    "multi-launch.com",
+    "synlaunchpad.io",
+    "claim.rocket-pool.app",
+    "nasa-nft.co",
+    "impostors.gg",
+    "staking.oxyaorigin.com",
+    "s.metascape-graph.live",
     "trezor-community.com",
     "busdminer.tech",
     "blockworksnft.com",
