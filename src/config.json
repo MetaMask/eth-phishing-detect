@@ -1180,6 +1180,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "trezor-community.com",
     "only-fix.com",
     "xn--trezr-j9a.org",
     "xn--trzor-jza.net",
