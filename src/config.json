@@ -1180,6 +1180,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "trezor-community.com",
     "busdminer.tech",
     "blockworksnft.com",
     "syncmainaffixs.com",
