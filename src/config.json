@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "impostors.gg",
     "idexcorp.com",
     "walletconnect.com",
     "ensea.fr",
@@ -1214,7 +1215,6 @@
     "synlaunchpad.io",
     "claim.rocket-pool.app",
     "nasa-nft.co",
-    "impostors.gg",
     "staking.oxyaorigin.com",
     "s.metascape-graph.live",
     "trezor-community.com",
