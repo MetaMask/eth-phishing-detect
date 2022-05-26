@@ -1182,6 +1182,7 @@
     "everscan.io"
   ],
   "blacklist": [
+    "ethereumdefi.net",
     "resolve.defisyncapp.com",
     "cryptobubbles.com",
     "otherside.live-minting.com",
