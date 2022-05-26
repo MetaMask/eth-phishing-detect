@@ -1182,6 +1182,12 @@
     "everscan.io"
   ],
   "blacklist": [
+    "boki.wl-mint.live",
+    "imcoinbaserb.com",
+    "securecryptoconnect.com",
+    "authorizechain.info",
+    "uthorizedappservers.org",
+    "amazy.pw",
     "ethereumdefi.net",
     "defi.etcdefi81.xyz",
     "resolve.defisyncapp.com",
