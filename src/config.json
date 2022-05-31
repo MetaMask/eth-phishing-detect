@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "moneyzg.academy",
     "impostors.gg",
     "idexcorp.com",
     "walletconnect.com",
@@ -119,6 +120,7 @@
     "aureus.money",
     "aurous.cl",
     "au.tts.ru",
+    "avatus.dev",
     "avatus.com",
     "avinity.com",
     "aurous.finance",
@@ -1181,7 +1183,8 @@
     "esa.int",
     "open.esa.int",
     "darkmeta.xyz",
-    "everscan.io"
+    "everscan.io",
+    "nftinit.com"
   ],
   "blacklist": [
     "xn--trezo-9bb.com",
@@ -1206,6 +1209,7 @@
     "metamaskxxxupdatexxmaskx.draydns.de",
     "xxupgrademetamaskxxxxx.dray-dns.de",
     "metamask.io-downloadproductwallettoken.blominingn.ru",
+    "gmoneyclaim.netlify.app",
     "verification-metamask.xyz",
     "metamask.oxog.net",
     "xxhuntmetamaskxxxx.draydns.de",
@@ -1278,7 +1282,6 @@
     "xn--trezo-xbb.net",
     "metamask-support-forumherokuapp.com",
     "datachainnode.org",
-    "moneyzg.academy",
     "eth-bit.net",
     "ceoluna.net",
     "adidas-nft.claims",
