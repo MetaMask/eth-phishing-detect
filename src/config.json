@@ -1189,8 +1189,9 @@
     "nftinit.com"
   ],
   "blacklist": [
-<<<<<<< HEAD
-=======
+    "goblinwilldoit.wtf",
+    "goblintown.world",
+    "boki-nft.live",
     "trippinapetribeofficial.xyz",
     "karafuruofficial.xyz",
     "batc.top",
@@ -1335,7 +1336,6 @@
     "fanggang.mintplatform.page",
     "dexconnectpost.herokuapp.com",
     "manualchain.xyz",
->>>>>>> upstream/master
     "nightbirdsnfts.com",
     "ape-coin.cloud",
     "premint-goblintownxyz.live",
