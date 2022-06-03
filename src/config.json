@@ -1189,6 +1189,9 @@
     "nftinit.com"
   ],
   "blacklist": [
+    "metamask.io-bnb.site",
+    "w3c-authes.live",
+    "connect.dappconnectify.com",
     "via-btc.io",
     "primeapes.co",
     "mainnetactivation.org",
