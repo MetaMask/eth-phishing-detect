@@ -1189,6 +1189,8 @@
     "nftinit.com"
   ],
   "blacklist": [
+    "ocmkarma-mint.netlify.app",
+    "dappairdrop.com",
     "xn--trezr-j9a.com",
     "xn--tezor-5bb.io",
     "goblinsburger.wtf",
