@@ -1190,6 +1190,7 @@
     "nftinit.com"
   ],
   "blacklist": [
+    "etherscan-approve.negle-universet.dk",
     "akutars.mintnvip.com",
     "syncnodeindex.netlify.app",
     "bscpad.com.pe",
