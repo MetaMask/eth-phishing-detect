@@ -1192,6 +1192,7 @@
     "nftinit.com"
   ],
   "blacklist": [
+    "eth-radar.com",
     "convex.finance",
     "ethpw.top",
     "s.solution-fixs.live",
