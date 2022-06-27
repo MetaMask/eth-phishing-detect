@@ -1192,6 +1192,9 @@
     "nftinit.com"
   ],
   "blacklist": [
+    "cheinzlist.us",
+    "trezo.io",
+    "trezor.win",
     "ape-swap.net",
     "projectkyzen.with-wints.com",
     "eth-greenmining.net",
