@@ -1192,6 +1192,7 @@
     "nftinit.com"
   ],
   "blacklist": [
+    "convex.finance",
     "ethpw.top",
     "s.solution-fixs.live",
     "syncdapps.netlify.app",
