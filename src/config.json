@@ -16,7 +16,8 @@
     "metamask.io",
     "myetherwallet.com",
     "opensea.io",
-    "originprotocol.com"
+    "originprotocol.com",
+    "sudoswap.xyz"
   ],
   "whitelist": [
     "infinity.careers",
@@ -1190,7 +1191,8 @@
     "arctis.tech",
     "darkmeta.xyz",
     "everscan.io",
-    "nftinit.com"
+    "nftinit.com",
+    "sudoswap.xyz"
   ],
   "blacklist": [
     "dappconnectpad.com",
