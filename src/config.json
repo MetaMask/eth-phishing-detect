@@ -1196,6 +1196,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "metamaskbridge.org",
     "multi-launchpad.org",
     "pokemoney.info",
     "revival-terra.money",
