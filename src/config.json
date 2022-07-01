@@ -1198,6 +1198,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "fantomapp.net",
     "polygonapp.net",
     "metamaskbridge.org",
     "multi-launchpad.org",
