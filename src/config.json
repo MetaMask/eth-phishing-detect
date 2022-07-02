@@ -1198,6 +1198,10 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "onchainmonkey.vip-drop.live",
+    "onchainmonkey.mint-link.cc",
+    "vip-drop.live",
+    "mint-link.cc",
     "fantomapp.net",
     "polygonapp.net",
     "metamaskbridge.org",
