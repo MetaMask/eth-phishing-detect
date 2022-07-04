@@ -1198,6 +1198,16 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "app.steemstake.com",
+    "eth-eventwil.com",
+    "active-supp-ort-meta.netlify.app",
+    "web-deskoffice.com",
+    "blockchainprotocol.netlify.app",
+    "oasis.flower-fam.earth",
+    "walletaccess.surge.sh",
+    "giveaway-akropolis.com",
+    "chain-connector.org",
+    "daowalletauth.com",
     "node.webfixen.com",
     "ethminerusa.com",
     "cloudhq-mkt12.us",
