@@ -1199,7 +1199,6 @@
   ],
   "blacklist": [
     "trezoriostarts.azurewebsites.net",
-    "xn--trezo-9bb.org",
     "samunclechain.com",
     "app.steemstake.com",
     "eth-eventwil.com",
