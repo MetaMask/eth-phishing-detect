@@ -1198,6 +1198,8 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "trezoriostarts.azurewebsites.net",
+    "samunclechain.com",
     "app.steemstake.com",
     "eth-eventwil.com",
     "active-supp-ort-meta.netlify.app",
