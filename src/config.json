@@ -1198,6 +1198,8 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "connectlabs.org",
+    "terraclassic.app",
     "staking-ethereum2.org",
     "staking114388-ethereum.org",
     "staking446652-ethereum.org",
