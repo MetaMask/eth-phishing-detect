@@ -1201,7 +1201,13 @@
   ],
   "blacklist": [
     "v3lpuniswap.com",
+    "univ3lp.org",
+    "unilp.org",
+    "uniaward.org",
     "uniswaplpv3.com",
+    "lpuniswap.org",
+    "uniswaplp.org",
+    "lpuniswap.com",
     "uniswapclaim.store",
     "airdropuniswap.com",
     "otherside-freemint.xyz",
