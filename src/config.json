@@ -1200,6 +1200,10 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "websolution.pages.dev",
+    "airdrop3x.com",
+    "trezor.net",
+    "lidolp.com",
     "v3lpuniswap.com",
     "univ3lp.org",
     "unilp.org",
