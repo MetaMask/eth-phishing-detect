@@ -1201,6 +1201,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "hopapp.exchange",
     "kacofinance.net",
     "ethpools.me",
     "crazycryptocats.netlify.app",
