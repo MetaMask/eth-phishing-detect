@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "metamask-institutional.io",
     "pastelindustries.usermd.net",
     "polygon.technology",
     "ufoswap.fi",
@@ -1231,6 +1232,8 @@
     "psssd.vip",
     "websolution.pages.dev",
     "airdrop3x.com",
+    "lpbalancer.com",
+    "uniclaimv2.com",
     "aavereward.com",
     "dappsprotocol.netlify.app",
     "dappwalletvault.com",
