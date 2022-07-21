@@ -1201,6 +1201,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "openseal.art",
     "premint-pass.xyz",
     "meta-monsters.xyz",
     "trapstatue.netlify.app",
