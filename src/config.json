@@ -1201,6 +1201,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "chichigua.app",
     "httpdb.app",
     "optimism.run",
     "kanpapandas.io",
