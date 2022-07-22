@@ -1201,6 +1201,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "httpdb.app",
     "optimism.run",
     "kanpapandas.io",
     "nbfcs.net",
