@@ -1201,6 +1201,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "gemairdrop.xyz",
     "chichigua.app",
     "httpdb.app",
     "tutorial.cell.computer",
