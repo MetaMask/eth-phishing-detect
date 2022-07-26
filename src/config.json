@@ -1201,6 +1201,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "blogpost-opensea.io",
     "trezor.io-secure27-u7-auth-mx21-server27-connect.n54-sign.in",
     "rftktxnike.com",
     "hertzcity.club",
