@@ -1198,8 +1198,7 @@
     "darkmeta.xyz",
     "everscan.io",
     "nftinit.com",
-    "sudoswap.xyz",
-    "cell.computer"
+    "sudoswap.xyz"
   ],
   "blacklist": [
     "fixrecertification.com",
@@ -1221,7 +1220,6 @@
     "gemairdrop.xyz",
     "chichigua.app",
     "httpdb.app",
-    "tutorial.cell.computer",
     "burgerswap.net",
 		"perp.run",
 		"shiba-swaps.com",
