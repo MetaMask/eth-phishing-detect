@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "divity.app",
     "metamask-institutional.io",
     "pastelindustries.usermd.net",
     "polygon.technology",
