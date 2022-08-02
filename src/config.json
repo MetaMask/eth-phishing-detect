@@ -1202,6 +1202,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "incidents-opensea.com",
     "revoke.rip",
     "opensea-token.live",
     "mettamaskzendesk.com",
