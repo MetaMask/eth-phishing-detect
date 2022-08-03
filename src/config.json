@@ -1202,6 +1202,10 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "metamaskwebsites.wixsite.com",
+    "trust-pads.biz",
+    "xn--opnsea-qva.app",
+    "dustbreakers.com",
     "ammearn.fun",
     "mtaupdate.com",
     "rectifynode.site",
