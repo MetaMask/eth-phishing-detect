@@ -1204,6 +1204,11 @@
   ],
   "blacklist": [
     "ethereum-118.com",
+    "polygonwallets.wordpress.com",
+    "openseal.im",
+    "ethdt.org",
+    "evmoss.website",
+    "evmose.com",
     "usdcnotice.com",
     "phantom-notice.app",
     "extenonboarding.xyz",
