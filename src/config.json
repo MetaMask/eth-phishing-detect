@@ -1203,6 +1203,8 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "porlygon.com",
+    "polxygon.com",
     "polygonpool.com",
     "polygonwallets.wordpress.com",
     "openseal.im",
