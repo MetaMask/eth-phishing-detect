@@ -1203,6 +1203,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "openseal.im",
     "ethdt.org",
     "evmoss.website",
     "evmose.com",
