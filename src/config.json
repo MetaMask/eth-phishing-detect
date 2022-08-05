@@ -1203,6 +1203,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "hopbridged.exchange",
     "polygonpool.com",
     "polygonwallets.wordpress.com",
     "openseal.im",
