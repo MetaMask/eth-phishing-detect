@@ -1203,6 +1203,8 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "app.evmosswap.com",
+    "evmos-staking.com",
     "ethereum-118.com",
     "polygyontechology.com",
     "hopbridged.exchange",
