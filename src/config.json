@@ -1205,6 +1205,8 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "authorize-web",
+    "metamask.authorize-web",
     "woliot-pejygem.com",
     "polybgon.com",
     "project.premint.center",
