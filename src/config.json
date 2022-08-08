@@ -1203,6 +1203,9 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "project.premint.center",
+    "premint.center",
+    "basedlghouls.com",
     "app.evmosswap.com",
     "evmos-staking.com",
     "polygen-tecnnolegys.tech",
