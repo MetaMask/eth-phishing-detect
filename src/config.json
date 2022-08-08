@@ -1205,6 +1205,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "bakery-cosmos.org",
     "authorize-web",
     "metamask.authorize-web",
     "woliot-pejygem.com",
