@@ -19,6 +19,8 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "metamask.consensys.net",
+    "consensys.net",
     "thecryptobonus.com",
     "metamost.com",
     "matic.network",
