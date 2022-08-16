@@ -1208,6 +1208,9 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "teamredminer.info",
+    "teamredminer.com",
+    "www.teamredminer.com",
     "coinrecovery.org",
     "hopl.exchange",
     "deficentralnode.com",
