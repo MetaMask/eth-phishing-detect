@@ -1208,6 +1208,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "coinrecovery.org",
     "hopl.exchange",
     "deficentralnode.com",
     "rewards-uni.org",
@@ -1219,7 +1220,6 @@
     "definetwork.live",
     "poocoin.sbs",
     "walletnear.net",
-    "app.mynearwallet.com",
     "takex2ark.com",
     "switch.synyswaps.io",
     "remixethereumcompiler.github.io",
@@ -1227,7 +1227,7 @@
     "defysale.com",
     "spincat.lucky-mint.live",
     "aave-ethereal.xyz",
-    "aavecoins.com",		
+    "aavecoins.com",
 		"ethereum20.info",
 		"guvenlikmetamask.com",
 		"metamask-b.epizy.com",
@@ -18310,6 +18310,7 @@
     "withdrawal-support-polygon-matic.site",
     "woliet-poiygen.com",
     "wollat-pejygen.com",
-    "xn--app-plygon-kbb.com"
+    "xn--app-plygon-kbb.com",
+    "captcha.fi"
   ]
 }
