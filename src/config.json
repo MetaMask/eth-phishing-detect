@@ -1209,6 +1209,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "seaclaim.io",
     "openports.io",
     "hopbridger.exchange",
     "polygonto.site",
