@@ -160,6 +160,7 @@
     "fulcrum.org",
     "fulcrum7.com",
     "fulcrumtx.com",
+    "fulcrum.group",
     "fulpruf.com",
     "hugtus.com",
     "fvlcrvm.com",
@@ -1208,6 +1209,14 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "opensea.profilesetting.in",
+    "uls.ink",
+    "ivi.beauty",
+    "polygon-technollogy.live",
+    "polygon-chain.appwebsite.ink",
+    "polygonmining.com",
+    "polygonnodemining.com",
+    "uil.lol",
     "seaclaim.io",
     "openports.io",
     "hopbridger.exchange",
