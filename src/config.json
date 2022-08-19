@@ -20,6 +20,7 @@
   ],
   "whitelist": [
     "rometerminal.io",
+    "openspp.org",
     "metamask.consensys.net",
     "consensys.net",
     "thecryptobonus.com",
@@ -1210,6 +1211,8 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "polygonto.tech",
+    "secure.transaction.openseal",
     "chainlyist.pw",
     "polyigonwl.space",
     "ledger-warllets.pw",
