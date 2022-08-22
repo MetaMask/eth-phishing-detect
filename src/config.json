@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "dultus.de",
     "rometerminal.io",
     "openspp.org",
     "metamask.consensys.net",
@@ -1211,6 +1212,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "polygonearn.com",
     "sea-gives.art",
     "1inch.io.swap.and.win.usdt.limited.offer.taqaeg.com",
 		"1inch.uk",
@@ -1550,7 +1552,6 @@
     "mingset.com",
     "ethereum-v2s.com",
     "metamaskairdrop.wixsite.com",
-    "coinmarketbag.com",
     "a23.ethwb.com",
     "waliet.neaar.co",
     "alps.foundation",
