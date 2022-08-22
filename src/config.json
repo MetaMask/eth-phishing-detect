@@ -1214,6 +1214,7 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "hopn.exchange",
     "ethminer-ltc.com",
     "eth-cmp.com",
     "decentrawine.beforehand-mints.com",
