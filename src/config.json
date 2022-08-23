@@ -21,6 +21,8 @@
   "whitelist": [
     "cryptocities.blog",
     "metalabs.consensys.net",
+    "metamonk.xyz",
+    "metamonk.wtf",
     "dultus.de",
     "rometerminal.io",
     "openspp.org",
@@ -1214,6 +1216,8 @@
     "sudoswap.xyz"
   ],
   "blacklist": [
+    "polygonskating.com",
+    "hopn.exchange",
     "ethminer-ltc.com",
     "eth-cmp.com",
     "decentrawine.beforehand-mints.com",
