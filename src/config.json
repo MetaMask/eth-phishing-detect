@@ -19,6 +19,8 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "cryptocities.blog",
+    "metalabs.consensys.net",
     "easymeta.app",
     "metamonk.xyz",
     "metamonk.wtf",
@@ -1216,6 +1218,7 @@
   ],
   "blacklist": [
     "opensea.io.grupoamcdigital.com.br",
+    "copymint-blog.com",
     "polygonskating.com",
     "hopn.exchange",
     "ethminer-ltc.com",
