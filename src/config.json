@@ -1219,6 +1219,16 @@
     "bancor.network"
   ],
   "blacklist": [
+    "polygon-webwallet.netlify.app",
+    "wallet-polygon-technology.netlify.app",
+    "polygon-wallet.netlify.app",
+    "wallet-polygon.login-en.com",
+    "baochuanco.com",
+    "polsyrgon.pw",
+    "polygonwallettechnology.com",
+    "vvallet-palyogn.technology",
+    "polygon.apptokens.top",
+    "maticpolygon.online",
     "womenapeyachtclub-mint.netlify.app",
     "eth6888.com",
     "syndpps.web.app",
