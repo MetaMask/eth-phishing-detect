@@ -1219,6 +1219,8 @@
     "bancor.network"
   ],
   "blacklist": [
+    "walletexpolygon.com",
+    "colabsync-network.com",
     "moonbirds-game.xyz",
     "pulse-swap.com",
     "pudgypenguins.pro",
