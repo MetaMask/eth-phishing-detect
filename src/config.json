@@ -1220,6 +1220,12 @@
     "bancor.network"
   ],
   "blacklist": [
+    "sushifrens-allowlist.com",
+    "walletexpolygon.com",
+    "colabsync-network.com",
+    "moonbirds-game.xyz",
+    "pulse-swap.com",
+    "pudgypenguins.pro",
     "openseainvestmentportal.com",
     "1inch.exchange.balochrentacar.com",
 		"1inch.io-swap.promotion.cidatur.com.br",
