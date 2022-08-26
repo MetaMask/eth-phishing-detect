@@ -1220,6 +1220,8 @@
     "bancor.network"
   ],
   "blacklist": [
+    "matictoken.site",
+    "wallet.pollgon.click",
     "sushifrens-allowlist.com",
     "walletexpolygon.com",
     "colabsync-network.com",
