@@ -1220,6 +1220,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "maticnodemining.com",
     "sushifrens-allowlist.com",
     "walletexpolygon.com",
     "colabsync-network.com",
