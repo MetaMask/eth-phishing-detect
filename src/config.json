@@ -1220,6 +1220,8 @@
     "bancor.network"
   ],
   "blacklist": [
+    "polygoncity.space",
+    "polygoncity.tech",
     "sushifrens-allowlist.com",
     "walletexpolygon.com",
     "colabsync-network.com",
