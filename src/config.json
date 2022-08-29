@@ -1220,6 +1220,8 @@
     "bancor.network"
   ],
   "blacklist": [
+    "polygon-technologys.net",
+    "polygon.tokenaward.site",
     "sushifrens-allowlist.com",
     "walletexpolygon.com",
     "colabsync-network.com",
