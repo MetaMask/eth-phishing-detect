@@ -1220,6 +1220,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "polygontk.technology",
     "sushifrens-allowlist.com",
     "walletexpolygon.com",
     "colabsync-network.com",
