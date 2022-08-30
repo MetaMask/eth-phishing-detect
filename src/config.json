@@ -1220,6 +1220,9 @@
     "bancor.network"
   ],
   "blacklist": [
+    "trxpools.club",
+    "moonbirdsai.xyz",
+    "memelandpotatoz.org",
     "laluxe.se",
     "sushifrens-allowlist.com",
     "walletexpolygon.com",
