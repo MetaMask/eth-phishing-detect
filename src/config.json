@@ -1220,6 +1220,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "maticnodemining.com",
     "matictoken.site",
     "wallet.pollgon.click",
     "trxpools.club",
