@@ -1220,6 +1220,11 @@
     "bancor.network"
   ],
   "blacklist": [
+    "wallet.poligon.click",
+    "wallet.poligon.live",
+    "polygon-awrd.appbrowser.ink",
+    "pollygon-web.net",
+    "wallet.polygans-technology.com",
     "polygoncity.space",
     "polygoncity.tech",
     "defi.compound.city",
