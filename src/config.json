@@ -1220,6 +1220,8 @@
     "bancor.network"
   ],
   "blacklist": [
+    "matictoken.site",
+    "wallet.pollgon.click",
     "trxpools.club",
     "moonbirdsai.xyz",
     "memelandpotatoz.org",
