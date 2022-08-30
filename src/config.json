@@ -1220,6 +1220,8 @@
     "bancor.network"
   ],
   "blacklist": [
+    "polygoncity.space",
+    "polygoncity.tech",
     "defi.compound.city",
     "pancakeswapmeta.pro",
     "bakery-bitgert.org",
