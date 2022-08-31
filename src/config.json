@@ -1220,6 +1220,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "openseal.xyz",
     "polygontk.technology",
     "polygon-technologys.net",
     "polygon.tokenaward.site",
