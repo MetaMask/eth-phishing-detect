@@ -1220,6 +1220,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "pudgypenguins.gift",
     "polygontk.technology",
     "1inch.capital",
 		"1inch.io.swap.promotion.1inch.sale",
