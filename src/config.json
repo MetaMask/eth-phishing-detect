@@ -1220,6 +1220,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "pudgypenguins.gift",
     "polygontk.technology",
     "polygon-technologys.net",
     "polygon.tokenaward.site",
