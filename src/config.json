@@ -1220,6 +1220,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "ticket-opensea.com",
     "openseal.xyz",
     "polygondao.org",
     "pudgypenguins.gift",
