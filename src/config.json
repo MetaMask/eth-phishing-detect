@@ -1220,6 +1220,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "openseal.xyz",
     "polygondao.org",
     "pudgypenguins.gift",
     "polygontk.technology",
