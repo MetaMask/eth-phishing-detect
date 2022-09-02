@@ -1220,6 +1220,8 @@
     "bancor.network"
   ],
   "blacklist": [
+    "wailet-polyogn.technology",
+    "wallet-polyogn.technology",
     "wallet.polyqonlechnology.xyz",
     "ticket-opensea.com",
     "openseal.xyz",
