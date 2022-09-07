@@ -1220,6 +1220,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "ethereumupdates.org",
     "xn--trezr-3ta.com",
     "193.3.19.52",
     "xn--trzor-5ra.net",
