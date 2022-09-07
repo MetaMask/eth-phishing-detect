@@ -1220,6 +1220,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "polygonsg.com",
     "stakingfarm.org",
     "polygon-matic.in",
     "ethereumupdates.org",
@@ -1228,7 +1229,7 @@
     "xn--trzor-5ra.net",
     "trezzooglogl.azurewebsites.net",
     "polygon-airdrop.technology",
-    		"1vvuniswap.top",
+    "1vvuniswap.top",
 		"1vvvvuniswap.top",
 		"access-polygon.cloud",
 		"access-polygon.icu",
