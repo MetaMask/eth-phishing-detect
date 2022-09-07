@@ -1220,6 +1220,8 @@
     "bancor.network"
   ],
   "blacklist": [
+    "stakingfarm.org",
+    "polygon-matic.in",
     "ethereumupdates.org",
     "xn--trezr-3ta.com",
     "193.3.19.52",
