@@ -1222,6 +1222,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "ens-names.domains",
     "ethereumupgrade.org",
     "polygonsg.com",
     "1inch-vv.com",
