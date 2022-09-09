@@ -1222,6 +1222,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "truspad-bondly.com",
     "ens-names.domains",
     "ethereumupgrade.org",
     "polygonsg.com",
