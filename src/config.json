@@ -1222,6 +1222,7 @@
     "bancor.network"
   ],
   "blacklist": [
+    "ethereumupgrade.org",
     "polygonsg.com",
     "1coinmarketcap.site",
     "1inch.exchange.analiticaregional.com",
