@@ -1222,6 +1222,8 @@
     "bancor.network"
   ],
   "blacklist": [
+    "polygonmatic.io",
+    "polygonprotocolvalidations.com",
     "2020usdt.com",
     "ammearn.net",
     "arenamon.info",
