@@ -1223,6 +1223,7 @@
     "pactus.org"
   ],
   "blacklist": [
+    "hopnetworks.exchange",
     "ascendex-defi.com",
     "camineri.com",
     "chainsyncfix.surge.sh",
