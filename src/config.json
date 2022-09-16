@@ -1239,6 +1239,7 @@
     "pactus.org"
   ],
   "blacklist": [
+    "hopsprotocols.exchange",
     "makermining.com",
     "token-max.org",
     "metamasksupport-connect.netlify.app",
