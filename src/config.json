@@ -1228,6 +1228,12 @@
   ],
   "blacklist": [
     "hopsprotocols.exchange",
+    "https://docs.google.com/forms/d/e/1FAIpQLSfWcSqiPHXb_CD35F4-EG1nSEJeeZKUCK7fhNGnU9b2A1fgug/viewform",
+		"https://docs.google.com/forms/d/e/1FAIpQLSe7fzjbLlqATVQxAw17BqYQKj0atxd_kX1LCpNBvUDK12DIYA/viewform",
+		"https://docs.google.com/forms/d/e/1FAIpQLScGpLkzi8wKlJjv5v3PhInf_rEhResfPtV07Y1zMjOTTJ68VA/viewform",
+		"https://docs.google.com/forms/d/e/1FAIpQLSd8uOw0729n9uK5cG1qfdfYzbs80qj-jqnW2btTkzM7TRHzXQ/viewform",
+		"https://docs.google.com/forms/d/e/1FAIpQLSdlueDmksi1D05xtKsVPZZg6oT8YoXW0HXW90GYmrLOiWHImQ/viewform",
+		"https://docs.google.com/forms/d/e/1FAIpQLSfY9Ma3YVJE0jjvMEhJSR4hiGERGV7iyC6rL6FHBlfJrEnmMw/viewform",
 		"1inch-bake.org",
 		"1inch.exchange.assetsmantra.com",
 		"1inch.exchenge.app",
