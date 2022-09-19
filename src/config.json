@@ -1227,6 +1227,7 @@
     "pactus.org"
   ],
   "blacklist": [
+    "wallet.polygon-technolog.info",
     "hopsprotocols.exchange",
     "login-spooky.com.mx",
 		"spooky-swap.info",
