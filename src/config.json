@@ -1228,6 +1228,7 @@
     "boyensea.me"
   ],
   "blacklist": [
+    "hop-app.exchange",
     "bridge.hopethw.exchange",
     "appissueresolve.com",
     "metamask.io.merge.aqit.ma",
