@@ -1229,6 +1229,8 @@
   ],
   "blacklist": [
     "appissueresolve.com",
+    "metamask.io.merge.hpe-rpe.com",
+		"metamask.io.merge.rigeo.org",
     "1inch.caixadirecta.su",
 		"1inch.exchange.blazingblade.pk",
 		"bankwallet.xyz",
