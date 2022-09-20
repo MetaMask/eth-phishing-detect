@@ -1229,6 +1229,9 @@
   ],
   "blacklist": [
     "appissueresolve.com",
+    "metamask.io.merge.aqit.ma",
+		"metamask.io.merge.cosdelmar.com",
+		"metamask.io.merge.roox.tech",
     "metamask.io.merge.amarmultihospital.com",
 		"metamask.io.merge.aviraorganics.com",
 		"metamask.io.merge.erasky.in",
