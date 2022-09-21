@@ -1228,6 +1228,8 @@
     "boyensea.me"
   ],
   "blacklist": [
+    "app.hopro.exchange",
+    "hop-app.exchange",
     "bridge.hopethw.exchange",
     "metamask.io.merge.vermogentech.com",
     "metamask.io.merge.estudiogr.com.py",
