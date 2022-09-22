@@ -1225,10 +1225,12 @@
     "sudoswap.xyz",
     "bancor.network",
     "pactus.org",
-    "boyensea.me"
+    "boyensea.me",
+    "drivity.org"
   ],
   "blacklist": [
     "meta-worldp2e.com",
+    "crystalplay.io",
     "eurdefi.com",
     "cryptojoin.pro",
     "dapp-solution.firebaseapp.com",
@@ -20896,6 +20898,7 @@
     "dogaml.net",
     "acroos.to",
     "acros.to",
+    "across.run",
     "acrosstoken.com",
     "across-token.sale",
     "trezor.run",
