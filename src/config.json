@@ -1229,6 +1229,8 @@
   ],
   "blacklist": [
     "eurdefi.com",
+    "dapp-solution.firebaseapp.com",
+		"dapp-solution.web.app",
     "liveconnect.plugh.tech",
 		"merge-meta.com",
     "balancer-fi.org",
