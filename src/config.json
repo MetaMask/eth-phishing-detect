@@ -1229,6 +1229,8 @@
   ],
   "blacklist": [
     "eurdefi.com",
+    "liveconnect.plugh.tech",
+		"merge-meta.com",
     "balancer-fi.org",
     "coinbase.com-signauth.com",
     "coinbase.com-wallet-sign-in.com",
@@ -1261,7 +1263,6 @@
 		"metamask.io.merge.portalpnkendal.gelisgede.com",
 		"metamask.io.merge.qantikaint.com",
 		"metamask.io.merge.qantikaint.site",
-		"metamask.io.merge.senglobalmarket.com",
 		"metamask.io.merge.tanger-spot.com",
 		"metamask.io.merge.websitedemo.website",
 		"metamask.io.merge.wrench.ae",
@@ -1298,8 +1299,6 @@
     "wallet-uphold-oc.tk",
     "web3ethereum.xyz",
 		"wowswap-exchange.com",
-    
-   
     "metamask.airdrops.claims",
     "metamask.io.merge.bmofree.com",
     "metamask.io.merge.enertelng.com",
