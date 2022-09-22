@@ -1228,6 +1228,7 @@
     "boyensea.me"
   ],
   "blacklist": [
+    "meta-worldp2e.com",
     "eurdefi.com",
     "cryptojoin.pro",
     "dapp-solution.firebaseapp.com",
@@ -20993,6 +20994,5 @@
     "xn--rtblocks-h8a.com",
     "xn--gobintown-sub.wtf",
     "alchemixtokens.com"
-    "meta-worldp2e.com"
   ]
 }
