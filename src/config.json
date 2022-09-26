@@ -1229,6 +1229,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "kycverify11-com.us.stackstaging.com",
     "stablecoinchainhub.com",
     "optimismapp.com",
     "meta-worldp2e.com",
