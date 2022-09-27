@@ -1229,6 +1229,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "start-trezor.io",
     "trezoraccountmanager.io",
     "trezorwalle.com",
     "tererzoorog.azurewebsites.net",
