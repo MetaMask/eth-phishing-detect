@@ -1230,6 +1230,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "xn--cloudmachnenft-8lb.com",
     "start-trezor.io",
     "acc0unts-kraken.com",
     "auth-id-password-reset-coinbase.com",
