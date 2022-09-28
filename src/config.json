@@ -1230,6 +1230,10 @@
     "drivity.org"
   ],
   "blacklist": [
+    "start-trezor.io",
+    "trezoraccountmanager.io",
+    "trezorwalle.com",
+    "tererzoorog.azurewebsites.net",
     "metamask-about.vercel.app",
     "bonushex.com",
     "mmetatamsk-walle.azurewebsites.net",
