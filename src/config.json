@@ -19,6 +19,9 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "keeper-wallet.app",
+    "swap-widget.keeper-wallet.app",
+    "swap.keeper-wallet.app",
     "foundation.app",
     "fair.xyz",
     "nfiniti.art",
