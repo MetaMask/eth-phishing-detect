@@ -38,3 +38,11 @@ console.log(value)
 }
 */
 ```
+
+## Contributions
+
+To keep a tidy file, use the following CLI to add new phishing domains:
+
+```
+yarn add:blacklist crypto-phishing-site.tld
+```
