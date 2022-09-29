@@ -6,7 +6,8 @@
   "scripts": {
     "test": "node test | tap-summary",
     "buildSample": "browserify example/index.js -o example/bundle.js",
-    "ci": "node test | tap-summary --no-progress"
+    "ci": "node test | tap-summary --no-progress",
+    "add:blacklist": "node src/blacklist.js"
   },
   "author": "kumavis",
   "license": "DBAD",
