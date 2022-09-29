@@ -19,6 +19,8 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "foundation.app",
+    "fair.xyz",
     "nfiniti.art",
     "n-finity.solutions",
 		"balancer.fyi",
@@ -1230,6 +1232,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "xn--cloudmachnenft-8lb.com",
     "start-trezor.io",
     "acc0unts-kraken.com",
     "auth-id-password-reset-coinbase.com",
