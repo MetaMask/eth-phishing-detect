@@ -19,6 +19,9 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "keeper-wallet.app",
+    "swap-widget.keeper-wallet.app",
+    "swap.keeper-wallet.app",
     "foundation.app",
     "fair.xyz",
     "nfiniti.art",
@@ -1936,7 +1939,6 @@
 		"horizen.plus",
 		"housebank.online",
 		"images.login.coinbase.com.signin.sreman.site",
-		"keeper-wallet.app",
 		"kyc-metamask-consensys.c1911585.ferozo.com",
 		"login.coinbase.com.signin.sreman.site",
 		"lotteryapi.uniswap.team",
