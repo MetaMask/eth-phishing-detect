@@ -1231,6 +1231,7 @@
   ],
   "blacklist": [
     "start-trezor.io",
+    "xn--meamask-orb.com",
     "1inch-account.com",
     "1inch.exchange.silenzze.com",
     "2fa-metamask.io",
