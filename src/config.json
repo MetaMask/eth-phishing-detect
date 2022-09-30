@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "polkagate.xyz",
     "keeper-wallet.app",
     "swap-widget.keeper-wallet.app",
     "swap.keeper-wallet.app",
