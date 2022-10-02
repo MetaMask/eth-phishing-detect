@@ -1236,6 +1236,12 @@
     "drivity.org"
   ],
   "blacklist": [
+    "ercswap.xyz",
+    "rectificationnord.wescomfederal.com",
+    "wap.frubitvip.com",
+    "thehaasbrothers.xyz",
+    "intellsyncedapps.online",
+    "rectifybridge.netlify.app",
     "accesrewards.web.app",
     "xn--blog-meamask-jpc.com",
     "5vvv-roninwallet.top",
@@ -1747,7 +1753,6 @@
     "woliat-poiygom.com",
     "blockhasha.com",
     "coinresolution.click",
-    "dapp.tenup.io",
     "dappswallets.schlimited.com",
     "dappsynch.xyz",
     "dashnity.com",
