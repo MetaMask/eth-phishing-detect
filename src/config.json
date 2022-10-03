@@ -1236,6 +1236,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "claim-freemint.com",
     "ercswap.xyz",
     "1inch.space",
     "ads-unisvap.org",
