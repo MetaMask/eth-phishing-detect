@@ -1236,6 +1236,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "polygonportal.com",
     "app.hopcoin.exchange",
     "claim-freemint.com",
     "ercswap.xyz",
