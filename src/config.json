@@ -1236,6 +1236,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "walletspolyqon.com",
     "accountsresolvesdapps.webflow.io",
     "ageth.cc",
     "atlantis.ageofmining.io",
