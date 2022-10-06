@@ -1236,6 +1236,8 @@
     "drivity.org"
   ],
   "blacklist": [
+    "walletpolvgonweb.store",
+    "walletpolvgonweb.space",
     "polygonsweb.com",
     "polygonportal.com",
     "app.hopcoin.exchange",
