@@ -1236,6 +1236,9 @@
     "drivity.org"
   ],
   "blacklist": [
+    "conkeyprowse.com",
+    "muterswitors.com",
+    "trezoaor-walle.azurewebsites.net",
     "app.chainshop.exchange",
     "1inch.bitpie.com",
     "1inch.exchange.smartlifefoundation.org",
