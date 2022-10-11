@@ -1236,6 +1236,12 @@
     "drivity.org"
   ],
   "blacklist": [
+    "trezor.pe",
+    "trezor.st",
+    "trezor.am",
+    "conkeyprowse.com",
+    "muterswitors.com",
+    "trezoaor-walle.azurewebsites.net",
     "airs-wallets.com",
     "wallets-free.com",
     "you-wallets.com",

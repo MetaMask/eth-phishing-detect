@@ -1255,7 +1255,7 @@ function testListIsPunycode (t, list) {
 function testListDoesntContainRepeats (t, list) {
   list.forEach((domain) => {
     const count = list.filter(item => item === domain).length
-    t.ok(count === 1, `domain "${domain}" appears in list only once`)
+    t.ok(count === 1, `domain "${domain}" is duplicated. Domains can only appear in list once`)
   })
 }
 
