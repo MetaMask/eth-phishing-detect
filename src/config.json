@@ -1236,6 +1236,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "mainnetvalidator.pages.dev",
     "xn--othersde-z2a.xyz",
     "bswap-finance.web.app",
     "coinbasedefi.work",
