@@ -1236,6 +1236,9 @@
     "drivity.org"
   ],
   "blacklist": [
+    "airs-wallets.com",
+    "wallets-free.com",
+    "you-wallets.com",
     "synthetix-miners.com",
     "app.chainshop.exchange",
     "1inch.bitpie.com",
