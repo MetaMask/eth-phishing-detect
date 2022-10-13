@@ -1237,6 +1237,8 @@
     "drivity.org"
   ],
   "blacklist": [
+    "securedwalletsprotocols.online",
+    "maticio.network",
     "validatorsync.io",
     "apord.site",
     "trezor.re",
