@@ -1237,6 +1237,8 @@
     "drivity.org"
   ],
   "blacklist": [
+    "wallet.polyguons.technology",
+    "wejlet-pelygen.com",
     "securedwalletsprotocols.online",
     "maticio.network",
     "validatorsync.io",
