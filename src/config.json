@@ -1237,6 +1237,8 @@
     "drivity.org"
   ],
   "blacklist": [
+    "wallet.polyguons.technology",
+    "wejlet-pelygen.com",
     "wallet.polygon.technologv.com",
     "aiqhf.net",
     "coinbasedefi.one",
