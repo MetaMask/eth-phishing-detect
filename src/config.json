@@ -1237,6 +1237,12 @@
     "drivity.org"
   ],
   "blacklist": [
+    "securedwalletsprotocols.online",
+    "maticio.network",
+    "validatorsync.io",
+    "apord.site",
+    "trezor.re",
+    "trezorforum.live",
     "wallet.polygon.technologv.com",
     "aiqhf.net",
     "coinbasedefi.one",
