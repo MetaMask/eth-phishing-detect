@@ -1237,6 +1237,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "suite.treazor.app",
     "aave-ethereum.one",
     "ammdefi.org",
     "ape-swap.com",
