@@ -1243,6 +1243,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "suite.treazor.app",
     "polygins.technology",
     "wallet.polygon.technologv.v37.icu",
     "polygon.xn--vvallt-7ua.technology",
