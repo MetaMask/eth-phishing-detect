@@ -1245,6 +1245,8 @@
     "drivity.org"
   ],
   "blacklist": [
+    "teg.support",
+    "thegraph.teg.support",
     "wojjat-paiygan.com",
     "woljat-pejygen.com",
     "wojiot-paiygem.com",
