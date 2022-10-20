@@ -20,6 +20,7 @@
   ],
   "whitelist": [
     "uniswapfoundation.org",
+    "infinity.ai",
     "register.sandbox.game",
     "metablaze.xyz",
     "elrond.com",
@@ -1245,6 +1246,10 @@
     "drivity.org"
   ],
   "blacklist": [
+    "wojjat-paiygan.com",
+    "woljat-pejygen.com",
+    "wojiot-paiygem.com",
+    "wojiot-pajygan.com",
     "suite.treazor.app",
     "polygins.technology",
     "wallet.polygon.technologv.v37.icu",
