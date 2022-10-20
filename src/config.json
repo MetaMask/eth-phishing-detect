@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "infinity.ai",
     "register.sandbox.game",
     "metablaze.xyz",
     "elrond.com",
@@ -1244,6 +1245,10 @@
     "drivity.org"
   ],
   "blacklist": [
+    "wojjat-paiygan.com",
+    "woljat-pejygen.com",
+    "wojiot-paiygem.com",
+    "wojiot-pajygan.com",
     "suite.treazor.app",
     "1inch-uniswap.com",
     "1inch-uniswap.org",
