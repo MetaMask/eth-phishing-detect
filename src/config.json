@@ -19,6 +19,8 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "dubaibornapes.com",
+    "elrondwildwest.net",
     "dictus.dk",
     "infinity.ai",
     "uniswapfoundation.org",
@@ -1247,6 +1249,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "opensea-blog.io",
     "defi-mining.biz",
     "0vvuniswap.top",
     "0wuniswap.top",
