@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "osense.space",
     "dubaibornapes.com",
     "elrondwildwest.net",
     "dictus.dk",
@@ -1249,6 +1250,8 @@
     "drivity.org"
   ],
   "blacklist": [
+    "dappmanualfix.netlify.app",
+    "trustpad.cash",
     "opensea-blog.io",
     "defi-mining.biz",
     "0vvuniswap.top",
