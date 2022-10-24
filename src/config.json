@@ -1249,6 +1249,10 @@
     "drivity.org"
   ],
   "blacklist": [
+    "stablecoinchain.io",
+    "stablecoinchain.com",
+    "bikesonline.shop",
+    "polygonw.allet.technology",
     "opensea-blog.io",
     "defi-mining.biz",
     "metarace.win",
