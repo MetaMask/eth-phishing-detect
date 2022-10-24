@@ -1249,6 +1249,8 @@
     "drivity.org"
   ],
   "blacklist": [
+    "dappmanualfix.netlify.app",
+    "trustpad.cash",
     "opensea-blog.io",
     "defi-mining.biz",
     "metarace.win",
