@@ -1250,6 +1250,8 @@
     "drivity.org"
   ],
   "blacklist": [
+    "teg.support",
+    "thegraph.teg.support",
     "dappmanualfix.netlify.app",
     "trustpad.cash",
     "opensea-blog.io",
