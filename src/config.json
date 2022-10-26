@@ -1250,6 +1250,10 @@
     "drivity.org"
   ],
   "blacklist": [
+    "polygonw.allet.technology",
+    "wallet-polygon.godaddysites.com",
+    "polgyonwallets.godaddysites.com",
+    "polygon.godaddysites.com",
     "teg.support",
     "thegraph.teg.support",
     "dappmanualfix.netlify.app",
