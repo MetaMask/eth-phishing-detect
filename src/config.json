@@ -1250,6 +1250,8 @@
     "drivity.org"
   ],
   "blacklist": [
+    "thehopprotocol.com",
+    "starthopprotocol.com",
     "polygonw.allet.technology",
     "wallet-polygon.godaddysites.com",
     "polgyonwallets.godaddysites.com",
