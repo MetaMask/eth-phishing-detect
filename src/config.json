@@ -1250,7 +1250,7 @@
     "drivity.org"
   ],
   "blacklist": [
-    "gem-freemint.com,
+    "gem-freemint.com",
     "dappmanualfix.netlify.app",
     "trustpad.cash",
     "opensea-blog.io",
