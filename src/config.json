@@ -1251,6 +1251,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "gem-freemint.com",
     "thehopprotocol.com",
     "starthopprotocol.com",
     "polygonw.allet.technology",
