@@ -1250,6 +1250,7 @@
     "drivity.org"
   ],
   "blacklist": [
+    "polygonclassics.com",
     "dappmanualfix.netlify.app",
     "trustpad.cash",
     "opensea-blog.io",
