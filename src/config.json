@@ -1252,6 +1252,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "opensea-security.io",
+    "opensea-biog.io",
     "freeappdeployer.art",
     "stablecoinchain.io",
     "stablecoinchain.com",
