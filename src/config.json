@@ -1252,6 +1252,7 @@
     "acus.dev"
   ],
   "blacklist": [
+    "zk-reward.com",
     "openseabiog.io",
     "opensea-security.io",
     "opensea-biog.io",
