@@ -1252,7 +1252,7 @@
     "acus.dev"
   ],
   "blacklist": [
-    "openseabiog.io"
+    "openseabiog.io",
     "opensea-security.io",
     "opensea-biog.io",
     "freeappdeployer.art",
