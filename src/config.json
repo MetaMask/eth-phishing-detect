@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "metamaskgrants.org",
     "osense.space",
     "dubaibornapes.com",
     "elrondwildwest.net",
@@ -1453,7 +1454,6 @@
     "metamask.iomoz-extension.gorsesmk.com",
     "metamask.iomoz-extension.mack-io.com",
     "metamask.wallet.klaytntoken.com",
-    "metamaskgrants.org",
     "minexcoin.app",
     "multchainvalidator.com",
     "multichain-rectify.com",
