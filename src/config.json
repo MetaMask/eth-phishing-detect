@@ -1256,6 +1256,7 @@
     "acus.dev"
   ],
   "blacklist": [
+    "bridgehopprotocol.com",
     "pol.ygon.technology",
     "polygon-techhollogy.com",
     "rewardsys.site",
