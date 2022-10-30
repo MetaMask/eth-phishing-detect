@@ -1254,6 +1254,7 @@
     "acus.dev"
   ],
   "blacklist": [
+    "crypto-phishing-site.tld",
     "rewardsys.site",
     "xn--trezo-9bb.net",
     "polygonclassics.com",
