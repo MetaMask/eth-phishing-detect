@@ -24,6 +24,7 @@
     "elrondwildwest.net",
     "dictus.dk",
     "infinity.ai",
+    "infinity.swiss",
     "uniswapfoundation.org",
     "register.sandbox.game",
     "metablaze.xyz",
@@ -1254,6 +1255,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "pol.ygon.technology",
+    "polygon-techhollogy.com",
     "rewardsys.site",
     "xn--opensa-token-ivb.com",
     "1inch-app.com",
@@ -1452,6 +1455,9 @@
     "xn--sush-3pa.com",
     "xn--ushi-k5a.com",
     "xn--zuki-zna.com",
+    "metamaskupdate1.com",
+    "trump-twitter.com",
+    "musk-twitter.org",
     "xn--trezo-9bb.net",
     "polygonclassics.com",
     "zk-reward.com",
