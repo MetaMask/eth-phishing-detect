@@ -1257,6 +1257,7 @@
     "acus.dev"
   ],
   "blacklist": [
+    "trezoriowallett.com",
     "app-trezor.io",
     "nft.opensel.su",
     "opensel.su",
