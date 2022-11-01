@@ -1257,6 +1257,7 @@
     "acus.dev"
   ],
   "blacklist": [
+    "app-trezor.io",
     "nft.opensel.su",
     "opensel.su",
     "xn--opensablog-vmb.com",
