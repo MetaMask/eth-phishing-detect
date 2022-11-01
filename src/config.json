@@ -1257,6 +1257,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "mattok.live",
+    "staking-polygon.technology",
     "xn--opensablog-vmb.com",
     "seaclaim.xyz",
     "doc-polygonnetwork.org",
