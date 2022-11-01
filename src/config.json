@@ -1257,6 +1257,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "https://layer-zero.network",
+    "http://airdrop.layerzeronetwork.net",
     "nft.opensel.su",
     "opensel.su",
     "xn--opensablog-vmb.com",
