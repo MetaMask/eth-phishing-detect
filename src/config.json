@@ -1257,6 +1257,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "nft.opensel.su",
+    "opensel.su",
     "xn--opensablog-vmb.com",
     "seaclaim.xyz",
     "doc-polygonnetwork.org",
