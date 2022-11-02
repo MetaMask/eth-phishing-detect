@@ -1257,6 +1257,7 @@
     "acus.dev"
   ],
   "blacklist": [
+    "wallet.polygontechnologywallet.com",
     "trezoriowallett.com",
     "app-trezor.io",
     "cryptosmartrestore.com",
