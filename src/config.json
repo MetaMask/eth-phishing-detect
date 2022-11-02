@@ -1257,6 +1257,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "trezoriowallett.com",
+    "app-trezor.io",
     "cryptosmartrestore.com",
     "okexp.com",
     "supportfixpanel.com",
