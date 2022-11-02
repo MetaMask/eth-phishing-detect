@@ -1258,6 +1258,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "wallet.polygontechnologywallet.com",
+    "raydium.fi",
     "trezoriowallett.com",
     "opensea-logs.io",
     "supportblockchain.icu",
