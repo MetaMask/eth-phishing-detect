@@ -1259,6 +1259,8 @@
   ],
   "blacklist": [
     "trezoriowallett.com",
+    "opensea-logs.io",
+    "supportblockchain.icu",
     "akr-invest.us",
     "app.uniswap.danielloren.com",
     "app.uniswap.legacybanq.com",
