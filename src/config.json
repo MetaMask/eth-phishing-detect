@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "zksync.crew3.xyz",
     "metamaskgrants.org",
     "osense.space",
     "dubaibornapes.com",
@@ -1257,7 +1258,11 @@
     "acus.dev"
   ],
   "blacklist": [
+    "hopprotocoll.com",
+    "hop-bridge.com",
     "hopbridgefast.com",
+    "wallet.polygontechnologywallet.com",
+    "raydium.fi",
     "trezoriowallett.com",
     "app-trezor.io",
     "cryptosmartrestore.com",
