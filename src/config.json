@@ -1259,6 +1259,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "mattok.live",
+    "staking-polygon.technology",
     "polygon.technology-web3.com",
     "layer-zero.network",
     "layerzeronetwork.net",
