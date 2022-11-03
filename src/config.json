@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "artgobblers.com",
     "zksync.crew3.xyz",
     "metamaskgrants.org",
     "osense.space",
@@ -1258,6 +1259,9 @@
     "acus.dev"
   ],
   "blacklist": [
+    "villians-digidaigaku.com",
+    "wallet.polygontechnologywallet.com",
+    "raydium.fi",
     "trezoriowallett.com",
     "app-trezor.io",
     "cryptosmartrestore.com",
@@ -2296,7 +2300,6 @@
     "ape-swap.com",
     "bakedbeans.io",
     "bevee-club.mint-site.live",
-    "bnbminer.finance",
     "cryptobots-gamme.xyz",
     "dbp.coinsbase8.com",
     "dcex-exchange.com",
