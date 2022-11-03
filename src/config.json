@@ -1259,6 +1259,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "layer-zero.network",
+    "layerzeronetwork.net",
     "hopprotocoll.com",
     "hop-bridge.com",
     "hopbridgefast.com",
