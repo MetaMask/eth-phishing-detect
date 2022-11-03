@@ -1259,6 +1259,9 @@
     "acus.dev"
   ],
   "blacklist": [
+    "hopprotocoll.com",
+    "hop-bridge.com",
+    "hopbridgefast.com",
     "villians-digidaigaku.com",
     "wallet.polygontechnologywallet.com",
     "raydium.fi",
