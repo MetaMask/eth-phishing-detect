@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "betterscan.io",
     "artgobblers.com",
     "zksync.crew3.xyz",
     "metamaskgrants.org",
@@ -24628,7 +24629,6 @@
     "mixer-bitcoin.org",
     "bitmix.online",
     "mixer-btc.com",
-    "chipmixer.xyz",
-    "betterscan.io"
+    "chipmixer.xyz"
   ]
 }
