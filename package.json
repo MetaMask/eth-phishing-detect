@@ -7,7 +7,9 @@
     "test": "node test | tap-summary",
     "buildSample": "browserify example/index.js -o example/bundle.js",
     "ci": "node test | tap-summary --no-progress",
-    "add:blacklist": "node src/blacklist.js"
+    "add:blacklist": "node src/blacklist.js",
+    "add:blocklist": "node src/add-hosts.js blocklist",
+    "add:allowlist": "node src/add-hosts.js allowlist"
   },
   "author": "kumavis",
   "license": "DBAD",
