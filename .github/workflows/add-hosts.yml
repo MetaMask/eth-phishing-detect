@@ -24,6 +24,7 @@ jobs:
       with:
         # push-to-fork: legobeat/eth-phishing-detect
         branch-suffix: short-commit-hash
+        base: develop
         add-paths: |
           src/config.json
           ADD_HOSTS_HERE/allowlist/*
