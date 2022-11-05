@@ -1260,6 +1260,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "officialhopprotocol.com",
+    "hopprotocolgo.com",
     "app.hopnetworker.exchange",
     "ptok.live",
     "xn--apts-n3a.com",
