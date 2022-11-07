@@ -1260,6 +1260,9 @@
     "acus.dev"
   ],
   "blacklist": [
+    "officialhopprotocol.com",
+    "hopprotocolgo.com",
+    "app.hopnetworker.exchange",
     "binancestation.com",
     "polygonvalidator.net",
     "ptok.live",
