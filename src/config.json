@@ -1260,6 +1260,7 @@
     "acus.dev"
   ],
   "blacklist": [
+    "airdrops-opensea.io",
     "officialhopprotocol.com",
     "hopprotocolgo.com",
     "app.hopnetworker.exchange",
