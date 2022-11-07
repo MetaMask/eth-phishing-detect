@@ -1260,6 +1260,7 @@
     "acus.dev"
   ],
   "blacklist": [
+    "polygon.insure",
     "rethalize.com",
     "ethereum-start.com",
     "stablereauthenticate.live",
