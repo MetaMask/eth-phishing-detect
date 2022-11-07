@@ -1260,6 +1260,8 @@
     "acus.dev"
   ],
   "blacklist": [
+    "binancestation.com",
+    "polygonvalidator.net",
     "ptok.live",
     "1vvv-pancakeswap.top",
     "a159metamask.com",
