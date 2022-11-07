@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "bitly.ws",
     "forestry.io",
     "forms.app",
     "beacons.ai",
