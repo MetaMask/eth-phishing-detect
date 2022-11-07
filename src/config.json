@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "forms.app",
     "beacons.ai",
     "metamax.work",
     "kishuverse.kishu.com",
