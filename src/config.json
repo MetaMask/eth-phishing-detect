@@ -19,6 +19,10 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "bitly.ws",
+    "forestry.io",
+    "forms.app",
+    "beacons.ai",
     "metamax.work",
     "kishuverse.kishu.com",
     "ahotus.com",
