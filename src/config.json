@@ -1274,6 +1274,7 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "xeonus.app",
     "premint-drop.xyz",
     "aidrop.me",
     "blur.aidrop.me",
