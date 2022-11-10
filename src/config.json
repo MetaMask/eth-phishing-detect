@@ -1274,6 +1274,12 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "premint-drop.xyz",
+    "aidrop.me",
+    "blur.aidrop.me",
+    "raffle-blur.io",
+    "apecoinxblur.io",
+    "claimblur.io",
     "mworld.games",
     "items.bid",
     "x2y2.io.items.bid",
