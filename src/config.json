@@ -1274,6 +1274,9 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "mworld.games",
+    "items.bid",
+    "x2y2.io.items.bid",
     "penguinsmint.com",
     "chaosonwheels.io",
     "tomoshiko.io",
