@@ -1275,6 +1275,7 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "poly.qon.technology",
     "premint-drop.xyz",
     "aidrop.me",
     "blur.aidrop.me",
