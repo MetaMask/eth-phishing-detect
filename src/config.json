@@ -1275,6 +1275,8 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "wallet-dev-polygon.technology",
+    "polygon-wallet-competition.reward22.tech",
     "premint-drop.xyz",
     "aidrop.me",
     "blur.aidrop.me",
