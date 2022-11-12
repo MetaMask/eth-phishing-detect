@@ -1275,6 +1275,7 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "raffle-apecoin.com",
     "meta1935.io",
     "crystalplay-p2e.com",
     "xeonus.app",
