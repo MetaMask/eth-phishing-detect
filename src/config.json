@@ -1275,6 +1275,7 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "hopprotocol.web3-mint.com",
     "hop-bridge.xyz",
     "hop-exchange.cn.com",
     "meta1935.io",
