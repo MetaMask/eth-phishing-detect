@@ -1275,6 +1275,9 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "etherswaps.xyz",
+    "xn--revok-r51b.cash",
+    "sqrlsflowgenesis.com",
     "poly.qon.technology",
     "wallet-dev-polygon.technology",
     "polygon-wallet-competition.reward22.tech",
@@ -1342,7 +1345,7 @@
     "safemoonv3.com",
     "xeonusdao.com",
     "1inchnetworkswaps.com",
-    "1inchprotocolhome.com",    
+    "1inchprotocolhome.com",
     "99walletcrypto.kred",
     "aave-pool.com",
     "airdropmetamask.com",
