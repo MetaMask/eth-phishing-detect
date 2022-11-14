@@ -1278,6 +1278,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "ethereum-mixer-anonymous.com",
     "worldsuperseed.com",
     "1935world.net",
     "xn--fx-s0s.com",
