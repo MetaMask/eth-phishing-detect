@@ -1275,6 +1275,9 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "hopprotocol.web3-mint.com",
+    "hop-bridge.xyz",
+    "hop-exchange.cn.com",
     "etherswaps.xyz",
     "xn--revok-r51b.cash",
     "sqrlsflowgenesis.com",
