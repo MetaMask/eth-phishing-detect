@@ -1275,6 +1275,7 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "ethereum-mixer-anonymous.com",
     "itpml-by.tech",
     "usdter.pro",
     "merge-upgrade.com",
