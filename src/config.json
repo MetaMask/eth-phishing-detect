@@ -1275,6 +1275,7 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "poly.qon.technology",
     "wallet-dev-polygon.technology",
     "polygon-wallet-competition.reward22.tech",
     "meta1935.io",
