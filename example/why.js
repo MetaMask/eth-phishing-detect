@@ -21,7 +21,9 @@ function why (domain) {
   if (reason.type === 'blacklist') {
     return `This domain was blocked because it has been explicitly identified as a malicious site.`
   }
-
+  if(reason.type === "confusable-allowlist"){
+    return `This domain was blocked because it a confusable domain masquerading as a legitimate allowlisted domain.`
+  }
   return `There was an issue identifying the reason for the block. The data is ${JSON.stringify(reason)}`
 }
 
