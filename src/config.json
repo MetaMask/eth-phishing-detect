@@ -1275,6 +1275,8 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "polygonvaults.com",
+    "polygonscacn.us",
     "hopprotocol.web3-mint.com",
     "hop-bridge.xyz",
     "hop-exchange.cn.com",
