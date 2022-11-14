@@ -1275,6 +1275,8 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "wallet-dev-polygon.technology",
+    "polygon-wallet-competition.reward22.tech",
     "meta1935.io",
     "crystalplay-p2e.com",
     "xeonus.app",
