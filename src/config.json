@@ -1275,6 +1275,7 @@
     "finiti.rs"
   ],
   "blacklist": [
+    "wallet.trezorvalidator.com",
     "xn--tezor-5bb.net",
     "itpml-by.tech",
     "usdter.pro",
