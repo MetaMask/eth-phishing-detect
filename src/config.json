@@ -1278,6 +1278,11 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "worldsuperseed.com",
+    "1935world.net",
+    "xn--fx-s0s.com",
+    "xn--fx-rta.com",
+    "xn--ft-q3s.com",
     "wallet.trezorvalidator.com",
     "xn--tezor-5bb.net",
     "itpml-by.tech",
