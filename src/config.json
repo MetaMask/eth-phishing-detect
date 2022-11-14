@@ -19,6 +19,8 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "openwa.dev",
+    "netmask.nl",
     "dainty.store",
     "affinity.supply",
     "balancer-d6h.pages.dev",
@@ -1460,7 +1462,6 @@
     "crystal-p2e.com",
     "crystal-game.io",
     "mworldp2e.io",
-    "bullvertigo.com",
     "walletcompetition.me",
     "polygontechvault.com",
     "polygonweb3.net",
