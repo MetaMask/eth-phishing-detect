@@ -19,6 +19,8 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "openwa.dev",
+    "netmask.nl",
     "dainty.store",
     "affinity.supply",
     "balancer-d6h.pages.dev",
@@ -1272,10 +1274,19 @@
     "victus.sport",
     "victus.team",
     "acus.dev",
-    "finiti.rs"
+    "finiti.rs",
+    "metamask-flask.zendesk.com"
   ],
   "blacklist": [
     "polygon-bonus.com",
+    "ethereum-mixer-anonymous.com",
+    "worldsuperseed.com",
+    "1935world.net",
+    "xn--fx-s0s.com",
+    "xn--fx-rta.com",
+    "xn--ft-q3s.com",
+    "wallet.trezorvalidator.com",
+    "xn--tezor-5bb.net",
     "itpml-by.tech",
     "usdter.pro",
     "merge-upgrade.com",
@@ -1460,7 +1471,6 @@
     "crystal-p2e.com",
     "crystal-game.io",
     "mworldp2e.io",
-    "bullvertigo.com",
     "walletcompetition.me",
     "polygontechvault.com",
     "polygonweb3.net",
@@ -5146,7 +5156,6 @@
     "lotteryapi.uniswap.team",
     "mergemetamask.com",
     "metamask-extension.com.yayasantqh.com",
-    "metamask-flask.zendesk.com",
     "metamask.jajawprinters.com",
     "metamask3.repl.co",
     "metamaskio.repl.co",
