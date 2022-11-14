@@ -16,8 +16,7 @@
   },
   "dependencies": {
     "confusables": "^1.1.1",
-    "fast-levenshtein": "^2.0.6",
-    "unhomoglyph": "^1.0.6"
+    "fast-levenshtein": "^2.0.6"
   },
   "devDependencies": {
     "async": "^2.5.0",
