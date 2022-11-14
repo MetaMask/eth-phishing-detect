@@ -1278,6 +1278,8 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "officialhopbridge.xyz",
+    "hopprotocolbridge.com",
     "polygon-bonus.com",
     "ethereum-mixer-anonymous.com",
     "worldsuperseed.com",
