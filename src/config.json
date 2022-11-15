@@ -1278,6 +1278,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "seairdrop.com",
     "officialhopbridge.xyz",
     "hopprotocolbridge.com",
     "polygon-bonus.com",
