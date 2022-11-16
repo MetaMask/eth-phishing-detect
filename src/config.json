@@ -1278,6 +1278,9 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "cowswaphome.com",
+    "cowswapfi.com",
+    "swap.cowo.fi",
     "access-ethereum.com",
     "airdrop-iotex.io",
     "app.ethastake.com",
