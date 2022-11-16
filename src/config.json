@@ -1280,6 +1280,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "v1.app.bounce.finance/sealed-bid/368",
     "3commas-platform.art",
     "3commas-platform.shop",
     "3commas-platform.lol",
