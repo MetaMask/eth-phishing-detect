@@ -1278,6 +1278,8 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "vip-polygon.com",
+    "polygon-tecnholoqy.com",
     "multichainrectify.com",
     "officialhopbridge.xyz",
     "hopprotocolbridge.com",
