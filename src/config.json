@@ -1280,6 +1280,8 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "kufrex.com",
+    "coinwan.io",
     "3commas-platform.art",
     "3commas-platform.shop",
     "3commas-platform.lol",
