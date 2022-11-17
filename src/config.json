@@ -1280,6 +1280,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "opensea-claim.com",
     "sqrls-flow.com",
     "allwalletsvalidators.com",
     "app-unisswap.com",
