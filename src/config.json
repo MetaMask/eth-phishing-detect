@@ -1280,6 +1280,8 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "kufrex.com",
+    "coinwan.io",
     "opensea-claim.com",
     "sqrls-flow.com",
     "allwalletsvalidators.com",
