@@ -18,7 +18,7 @@
     "opensea.io",
     "originprotocol.com"
   ],
-  "whitelist": [
+  "allowlist": [
     "3c.wiki",
     "3commas.io",
     "openwa.dev",
@@ -1279,7 +1279,7 @@
     "finiti.rs",
     "metamask-flask.zendesk.com"
   ],
-  "blacklist": [
+  "blocklist": [
     "sqrls-flow.com",
     "3commas-platform.art",
     "3commas-platform.shop",
