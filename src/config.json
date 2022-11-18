@@ -1281,6 +1281,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "app.hop-exchange.online",
     "kufrex.com",
     "coinwan.io",
     "airdrop-crypto.app",
