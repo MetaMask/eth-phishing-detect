@@ -1281,6 +1281,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "hopprotocols.web3-mint.com",
     "hopprotocolstart.com",
     "kufrex.com",
     "coinwan.io",
