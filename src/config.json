@@ -1282,6 +1282,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "polygonteechnology.info",
     "app.hop-exchange.online",
     "kufrex.com",
     "coinwan.io",
