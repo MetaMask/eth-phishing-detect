@@ -1282,6 +1282,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "trezor.ac",
     "ihs-systems.com",
     "metamask-chain.com",
     "cowswaphome.com",
