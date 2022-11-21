@@ -1282,6 +1282,9 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "cowswaphome.com",
+    "cowswapfi.com",
+    "swap.cowo.fi",
     "xn--tezor-tbb.net",
     "polygonteechnology.info",
     "bnb-mixer.top",
