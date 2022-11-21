@@ -1282,6 +1282,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "polygonteechnology.info",
     "bnb-mixer.top",
     "metapad-prom.com",
     "officialbnb.org",
