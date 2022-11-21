@@ -1282,6 +1282,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "xn--tezor-tbb.net",
     "polygonteechnology.info",
     "bnb-mixer.top",
     "metapad-prom.com",
