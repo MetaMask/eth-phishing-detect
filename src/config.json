@@ -1282,6 +1282,12 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "metapad-prom.com",
+    "officialbnb.org",
+    "gmbillionaire.com",
+    "app.darpcoiapps.com",
+    "maker-v2.com",
+    "live-support.netlify.app",
     "hopexchange-auth.link",
     "hop-exchange.online",
     "hopprotocols.web3-mint.com",
