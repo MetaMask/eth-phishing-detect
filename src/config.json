@@ -16,7 +16,10 @@
     "metamask.io",
     "myetherwallet.com",
     "opensea.io",
-    "originprotocol.com"
+    "originprotocol.com",
+    "satoshilabs.com",
+    "trezor.io",
+    "invity.io"
   ],
   "whitelist": [
     "deefinity.com",
@@ -1278,6 +1281,9 @@
     "victus.team",
     "acus.dev",
     "finiti.rs",
+    "satoshilabs.com",
+    "trezor.io",
+    "invity.io",
     "dasmeta.com",
     "metamask-flask.zendesk.com"
   ],
