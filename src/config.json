@@ -1282,6 +1282,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "metamask-chain.com",
     "cowswaphome.com",
     "cowswapfi.com",
     "swap.cowo.fi",
