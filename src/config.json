@@ -1282,6 +1282,10 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "hopexchange-auth.link",
+    "hop-exchange.online",
+    "hopprotocols.web3-mint.com",
+    "hopprotocolstart.com",
     "app.hop-exchange.online",
     "10xprotrade.com",
     "xn--mtamask-rya.com",
