@@ -1288,6 +1288,8 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "trezor.ac",
+    "ihs-systems.com",
     "captcha.cloud",
     "metamask-chain.com",
     "cowswaphome.com",
