@@ -1290,6 +1290,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "claim-sea.com",
     "trezor.ac",
     "ihs-systems.com",
     "captcha.cloud",
