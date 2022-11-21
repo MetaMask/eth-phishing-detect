@@ -1288,6 +1288,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "captcha.cloud",
     "metamask-chain.com",
     "cowswaphome.com",
     "cowswapfi.com",
