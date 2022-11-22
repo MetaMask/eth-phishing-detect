@@ -1289,7 +1289,8 @@
     "dasmeta.com",
     "metamask-flask.zendesk.com",
     "tezos.com",
-    "tezos.foundation"
+    "tezos.foundation",
+    "tezos.domains"
   ],
   "blacklist": [
     "claim-sea.com",
