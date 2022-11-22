@@ -1292,6 +1292,7 @@
     "tezos.foundation"
   ],
   "blacklist": [
+    "claim-sea.com",
     "torusauth.com",
     "defieth-usdt.info",
     "global-nft.net",
