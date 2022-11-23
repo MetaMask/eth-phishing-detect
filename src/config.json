@@ -18,12 +18,10 @@
     "opensea.io",
     "originprotocol.com",
     "satoshilabs.com",
-    "trezor.io",
-    "invity.io"
+    "trezor.io"
   ],
   "whitelist": [
     "tezos.domains",
-    "unity.com",
     "tenor.com",
     "tenzor.capital",
     "deefinity.com",
@@ -1291,7 +1289,10 @@
     "dasmeta.com",
     "metamask-flask.zendesk.com",
     "tezos.com",
-    "tezos.foundation"
+    "tezos.foundation",
+    "trever.io",
+    "razor.network",
+    "razorscan.io"
   ],
   "blacklist": [
     "airdrop-opensea.com",
