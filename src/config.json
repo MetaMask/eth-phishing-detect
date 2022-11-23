@@ -1291,7 +1291,8 @@
     "dasmeta.com",
     "metamask-flask.zendesk.com",
     "tezos.com",
-    "tezos.foundation"
+    "tezos.foundation",
+    "trever.io"
   ],
   "blacklist": [
     "claim-sea.com",
