@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const config = require('./config.json');
+const PhishingDetector = require('./detector')
 
 const LIST_KEYS = {
   blocklist: 'blacklist',
@@ -38,6 +39,45 @@ const hosts = process.argv.slice(3);
 
 if (!Object.keys(LIST_KEYS).includes(list) || hosts.length < 1) {
   exitWithUsage(1);
+}
+
+const detector = new PhishingDetector(config);
+
+let allNew = true;
+switch (list) {
+  case 'blocklist':
+    for (let i=0; i<hosts.length; i++) {
+      const h = hosts[i];
+      const r = detector.check(h);
+      if (r.result) {
+        console.error(`'${h}' already covered by '${r.match}' in '${r.type}'.`);
+        allNew = false;
+      }
+    }
+    break;
+  case 'allowlist':
+    for (let i=0; i<hosts.length; i++) {
+      const h = hosts[i];
+      const r = detector.check(h);
+      if (!r.result) {
+        console.error(`'${h}' does not require allowlisting`);
+        allNew = false;
+      }
+    }
+    break;
+  case 'fuzzylist':
+    const alreadyIncluded = hosts.filter(h => config.fuzzylist.includes(h));
+    if (alreadyIncluded.length) {
+      console.error(`'${alreadyIncluded.join(',')}' are already in fuzzylist`);
+      allNew = false;
+    }
+  default:
+    exitWithUsage(1);
+}
+// todo:  check if  no internal duplicates (generate new config>remove entry>check)
+
+if (!allNew) {
+  process.exit(1);
 }
 
 addHosts(LIST_KEYS[list], hosts, './src/config.json');
