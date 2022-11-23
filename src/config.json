@@ -1295,6 +1295,8 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "airdrop-opensea.com",
+    "openseaciaim.com",
     "claim-sea.com",
     "torusauth.com",
     "defieth-usdt.info",
