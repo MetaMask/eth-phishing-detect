@@ -18,12 +18,10 @@
     "opensea.io",
     "originprotocol.com",
     "satoshilabs.com",
-    "trezor.io",
-    "invity.io"
+    "trezor.io"
   ],
   "whitelist": [
     "tezos.domains",
-    "unity.com",
     "tenor.com",
     "tenzor.capital",
     "deefinity.com",
