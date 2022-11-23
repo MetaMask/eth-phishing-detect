@@ -24,15 +24,6 @@ const addHosts = (section, domains, dest) => {
   });
 }
 
-const exitWithUsage = (exitCode) => {
-  console.error(`Usage: ${
-    process.argv.slice(0,2).join(' ')
-  } src/config.json ${
-    Object.keys(SECTION_KEYS).join('|')
-  } hostname...`);
-  process.exit(exitCode);
-};
-
 const validateHostRedundancy = (detector, section, h) => {
   switch (section) {
     case 'blocklist': {
@@ -62,29 +53,43 @@ const validateHostRedundancy = (detector, section, h) => {
   }
 }
 
+module.exports = {
+  addHosts,
+  validateHostRedundancy,
+};
+
 /////////////////////
 //////// MAIN ///////
 /////////////////////
 
-if (process.argv.length < 4) {
-  exitWithUsage(1);
+const exitWithUsage = (exitCode) => {
+  console.error(`Usage: ${
+    process.argv.slice(0,2).join(' ')
+  } src/config.json ${
+    Object.keys(SECTION_KEYS).join('|')
+  } hostname...`);
+  process.exit(exitCode);
+};
+
+if (require.main === module) {
+  if (process.argv.length < 4) {
+    exitWithUsage(1);
+  }
+
+  const [destFile, section, ...hosts] = process.argv.slice(2);
+
+  if (!Object.keys(SECTION_KEYS).includes(section) || hosts.length < 1) {
+    exitWithUsage(1);
+  }
+
+  const detector = new PhishingDetector(config);
+
+  try {
+    hosts.filter(h => validateHostRedundancy(detector, section, h));
+  } catch (err) {
+    console.error(err);
+    process.exit(1);
+  }
+
+  addHosts(SECTION_KEYS[section], hosts, destFile);
 }
-
-const destFile = process.argv[2];
-const section = process.argv[3];
-const hosts = process.argv.slice(4);
-
-if (!Object.keys(SECTION_KEYS).includes(section) || hosts.length < 1) {
-  exitWithUsage(1);
-}
-
-const detector = new PhishingDetector(config);
-
-try {
-  hosts.filter(h => validateHostRedundancy(detector, section, h));
-} catch (err) {
-  console.error(err);
-  process.exit(1);
-}
-
-addHosts(SECTION_KEYS[section], hosts, destFile);
