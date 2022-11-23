@@ -151,6 +151,29 @@ function validateConfig(config) {
   ) {
     throw new Error("Invalid config parameter: 'version'")
   }
+  // internal redundancy check for allowlist/blocklist
+  try {
+    const removeHostFromConfig = (section, host) =>  ({
+      ...config,
+      [section]: config.section.filter(h => h !== host),
+    });
+    for (const h of config.blacklist) {
+      this.config = removeHostFromConfig('blacklist', h);
+      const r = detector.check(h);
+      if (r.result) {
+        throw new Error(`'${h}' already covered by '${r.match}' in '${r.type}'`);
+      }
+    }
+    for (const h of config.whitelist) {
+      this.config = removeHostFromConfig('whitelist', h);
+      const r = detector.check(h);
+      if (r.result) {
+        throw new Error(`'${h}' does not require allowlisting`);
+      }
+    }
+  } finally {
+    this.config = config;
+  }
 }
 
 function processDomainList (list) {
