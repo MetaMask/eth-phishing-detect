@@ -1280,6 +1280,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "hopexchange-profiles.link",
     "metaworld1935.com",
     "etherswaps.io",
     "sqrls-flow.com",
