@@ -1295,6 +1295,7 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "hopexchange-profiles.link",
     "coinsolutions.web.app",
     "cancel17189414-kucoin-com.web.app",
     "coinsolutions.firebaseapp.com",
