@@ -1295,6 +1295,8 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "sea-claim.com",
+    "openseaofficial.com",
     "360global-miners.com",
     "accessglobex.com",
     "nab-investment.com",
