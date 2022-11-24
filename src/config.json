@@ -1295,6 +1295,9 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "coinsolutions.web.app",
+    "cancel17189414-kucoin-com.web.app",
+    "coinsolutions.firebaseapp.com",
     "360global-miners.com",
     "accessglobex.com",
     "nab-investment.com",
