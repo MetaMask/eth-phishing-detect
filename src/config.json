@@ -1296,6 +1296,8 @@
   ],
   "blacklist": [
     "360global-miners.com",
+    "balancerfi.org",
+    "app-uniswap.site",
     "accessglobex.com",
     "nab-investment.com",
     "adapps.lol",
