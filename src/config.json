@@ -1295,7 +1295,7 @@
     "razorscan.io"
   ],
   "blacklist": [
-    "https://seatoken.net/",
+    "seatoken.net",
     "sea-claim.com",
     "openseaofficial.com",
     "aater.site",
