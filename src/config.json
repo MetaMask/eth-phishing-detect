@@ -1295,6 +1295,8 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "porschenft.net",
+    "adidasnft.org",
     "xenrewards.org",
     "pumc.xyz",
     "aapum.xyz",
