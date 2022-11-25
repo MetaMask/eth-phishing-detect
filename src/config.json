@@ -1295,6 +1295,7 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "docs-polygonnetwork.org",
     "xenrewards.org",
     "pumc.xyz",
     "aapum.xyz",
