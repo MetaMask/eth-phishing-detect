@@ -1295,6 +1295,10 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "xenrewards.org",
+    "pumc.xyz",
+    "aapum.xyz",
+    "searchdapps.xyz",
     "seatoken.net",
     "sea-claim.com",
     "openseaofficial.com",
