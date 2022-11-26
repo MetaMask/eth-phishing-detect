@@ -21,6 +21,7 @@
     "trezor.io"
   ],
   "whitelist": [
+    "tremor.so",
     "tezos.domains",
     "tenor.com",
     "tenzor.capital",
