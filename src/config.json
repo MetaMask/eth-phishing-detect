@@ -1280,6 +1280,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "hopbridgemirror.com",
     "hopexchange-profiles.link",
     "sqrls-flow.com",
     "3commas-platform.art",
