@@ -1297,6 +1297,8 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "sync-cointracker.com",
+    "auth0-cointracker.com",
     "layer-zero.io",
     "airdrop-uniswap.net",
     "app-balancer-fi.com",
