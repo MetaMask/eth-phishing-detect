@@ -1297,6 +1297,7 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "docs-polygonnetwork.org",
     "porschenft.net",
     "adidasnft.org",
     "xenrewards.org",
