@@ -1297,6 +1297,9 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "btc-polygon.com",
+    "go2polygon.com",
+    "polygon-scan.link,
     "layer-zero.io",
     "airdrop-uniswap.net",
     "app-balancer-fi.com",
