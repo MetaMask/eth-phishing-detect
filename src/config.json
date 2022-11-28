@@ -1297,6 +1297,7 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "hopbridgemirror.com",
     "docs-polygonnetwork.org",
     "porschenft.net",
     "adidasnft.org",
