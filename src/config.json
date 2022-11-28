@@ -1297,6 +1297,7 @@
     "razorscan.io"
   ],
   "blacklist": [
+    "layer-zero.io",
     "hopbridgemirror.com",
     "docs-polygonnetwork.org",
     "porschenft.net",
