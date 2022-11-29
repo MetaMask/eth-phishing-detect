@@ -799,6 +799,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "sync-cointracker.com",
+    "auth0-cointracker.com",
     "btc-polygon.com",
     "go2polygon.com",
     "polygon-scan.link",
