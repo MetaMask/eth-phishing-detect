@@ -799,6 +799,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "porschenft.live",
     "sync-cointracker.com",
     "auth0-cointracker.com",
     "btc-polygon.com",
