@@ -795,7 +795,8 @@
     "tezos.com",
     "tezos.foundation",
     "trever.io",
-    "razor.network"
+    "razor.network",
+    "satoshilabs.design"
   ],
   "blacklist": [
     "hashflow.cn.com",
