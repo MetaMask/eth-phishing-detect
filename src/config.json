@@ -799,6 +799,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "btc-polygon.com",
+    "go2polygon.com",
+    "polygon-scan.link",
     "hashflow.cn.com",
     "layer-zero.io",
     "airdrop-uniswap.net",
