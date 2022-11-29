@@ -799,6 +799,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "startcowswap.com",
+    "cowswapmirror.com",
+    "cowswaper.com",
+    "officialcowswapfi.com",
     "porschenft.live",
     "sync-cointracker.com",
     "auth0-cointracker.com",
