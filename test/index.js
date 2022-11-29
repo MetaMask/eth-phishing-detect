@@ -56,7 +56,6 @@ function startTests () {
     // whitelist
 
     testWhitelist(t, [
-      "ledgerwallet.com",
       "metamask.io",
       "etherscan.io",
       "ethereum.org",
@@ -408,7 +407,6 @@ function startTests () {
     // whitelist
 
     testWhitelist(t, [
-      "ledgerwallet.com",
       "metamask.io",
       "etherscan.io",
       "ethereum.org",
