@@ -1280,6 +1280,10 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "startcowswap.com",
+    "cowswapmirror.com",
+    "cowswaper.com",
+    "officialcowswapfi.com",
     "robinswap.in",
     "swapxy.xyz",
     "metaworld1935.com",
