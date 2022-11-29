@@ -798,6 +798,7 @@
     "razor.network"
   ],
   "blacklist": [
+    "hashflow.cn.com",
     "layer-zero.io",
     "airdrop-uniswap.net",
     "app-balancer-fi.com",
