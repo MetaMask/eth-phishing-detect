@@ -799,6 +799,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "startcowswap.com",
+    "cowswapmirror.com",
+    "cowswaper.com",
+    "officialcowswapfi.com",
     "sync-cointracker.com",
     "auth0-cointracker.com",
     "btc-polygon.com",
