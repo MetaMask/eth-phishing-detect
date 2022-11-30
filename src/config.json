@@ -799,6 +799,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "porschenft.github.io",
+    "happrotocol.net",
+    "hapbrldge.net",
+    "hopbrldge.org",
+    "hopbridgemirror.com",
     "xn--lyerzero-0za.network",
     "xn--layerzer-cgd.network",
     "metamask.io.merge.bizzcarts.com",
@@ -1037,7 +1042,6 @@
     "xn--rolbit-rq7b.com",
     "ygt-coach.com",
     "rewards-yearn.finance",
-    "hopbridgemirror.com",
     "docs-polygonnetwork.org",
     "porschenft.net",
     "adidasnft.org",
