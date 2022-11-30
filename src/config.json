@@ -799,6 +799,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "xn--lyerzero-0za.network",
+    "xn--layerzer-cgd.network",
     "metamask.io.merge.bizzcarts.com",
     "adidasnfts.net",
     "direct.traderjjoe.xyz",
