@@ -2,6 +2,7 @@
   "version": 2,
   "tolerance": 2,
   "fuzzylist": [
+    "aestus.live",
     "auctus.org",
     "cryptokitties.co",
     "dfinity.org",
