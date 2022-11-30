@@ -799,6 +799,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "happrotocol.net",
+    "hapbrldge.net",
+    "hopbrldge.org",
     "hopbridgemirror.com",
     "direct.traderjjoe.xyz",
     "sstqkeqamble.com",
