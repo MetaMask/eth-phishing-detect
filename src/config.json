@@ -799,6 +799,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ens.codes",
     "startcowswap.com",
     "cowswapmirror.com",
     "cowswaper.com",
