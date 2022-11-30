@@ -799,6 +799,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "porschenft.github.io",
     "happrotocol.net",
     "hapbrldge.net",
     "hopbrldge.org",
