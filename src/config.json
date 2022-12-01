@@ -1280,6 +1280,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "opensea-failed-transaction.vercel.app",
     "doodlesofficial.online",
     "doodlees.net",
     "thenftlink.org",
