@@ -1280,6 +1280,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "opensea-failed-transaction.vercel.app",
     "xeonusdex.com",
     "robinswap.in",
     "swapxy.xyz",
