@@ -21,6 +21,7 @@
     "trezor.io"
   ],
   "whitelist": [
+    "claimether.com",
     "tremor.so",
     "tezos.domains",
     "tenor.com",
@@ -23570,7 +23571,6 @@
     "shapishift.io",
     "ripiocerdit.network",
     "rnyetherwa11et.com",
-    "claimether.com",
     "enigmatokensale.com",
     "ethereum-org.com",
     "mvetnerwallet.com",
