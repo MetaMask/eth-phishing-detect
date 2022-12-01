@@ -800,6 +800,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hopxchange.net",
     "hopprotocol.topsmint.com",
     "starthopbridge.com",
     "public.traderjjoe.xyz",
