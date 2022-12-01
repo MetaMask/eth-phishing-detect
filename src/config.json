@@ -800,6 +800,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starthopbridge.com",
     "public.traderjjoe.xyz",
     "public.ttraderjoe.xyz",
     "giveaway-nfts.xyz",
