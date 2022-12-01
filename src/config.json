@@ -1280,6 +1280,9 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "usdtreward.com",
+    "ustbonus.com",
+    "usdtgift.com",
     "1935-world.net",
     "xeonusdex.com",
     "robinswap.in",
