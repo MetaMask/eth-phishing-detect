@@ -21,6 +21,7 @@
     "trezor.io"
   ],
   "whitelist": [
+    "aestus.live",
     "tezos.finance",
     "tremor.so",
     "tezos.domains",
@@ -2221,7 +2222,6 @@
     "pooncoinswgap.us",
     "pooncoinswpap.us",
     "refundftx.com",
-    "suniswap.online",
     "supportcoinbasepro.info",
     "sushlswap.com",
     "theirs-verse.com",
