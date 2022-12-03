@@ -802,6 +802,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "porschenft.vercel.app",
     "hopechange.cn.com",
     "connection-ryzenplays.pro",
     "fidenzaproject.com",
