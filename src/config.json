@@ -21,6 +21,7 @@
     "trezor.io"
   ],
   "whitelist": [
+    "opensci.net",
     "aestus.live",
     "tezos.finance",
     "tremor.so",
@@ -802,6 +803,7 @@
   ],
   "blacklist": [
     "connection-ryzenplays.pro",
+    "fidenzaproject.com",
     "1984redux.net",
     "ammearn.me",
     "apecoinminer.com",
