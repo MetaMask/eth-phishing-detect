@@ -802,6 +802,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fidenzaproject.com",
     "1984redux.net",
     "ammearn.me",
     "apecoinminer.com",
