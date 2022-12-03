@@ -21,6 +21,7 @@
     "trezor.io"
   ],
   "whitelist": [
+    "opensci.net",
     "aestus.live",
     "tezos.finance",
     "tremor.so",
