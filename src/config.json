@@ -1280,6 +1280,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "claim-memeland.org",
     "rtfkteggdrop.io",
     "rarix.io",
     "doodles.is",
