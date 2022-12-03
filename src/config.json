@@ -802,6 +802,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hop-excharge.net",
     "hap-bridge.org",
     "porschenft.vercel.app",
     "hopechange.cn.com",
