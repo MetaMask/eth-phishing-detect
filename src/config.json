@@ -802,6 +802,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ticket-seaport.io",
     "cowswapfi.net",
     "officialcowswap.org",
     "hopbridger.com",
