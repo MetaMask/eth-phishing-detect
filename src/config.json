@@ -802,6 +802,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cowswapfi.net",
+    "officialcowswap.org",
     "hopechange.cn.com",
     "connection-ryzenplays.pro",
     "fidenzaproject.com",
