@@ -1280,6 +1280,8 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "doodles-nft.app",
+    "matrixswap.app",
     "claim-memeland.org",
     "rtfkteggdrop.io",
     "rarix.io",
