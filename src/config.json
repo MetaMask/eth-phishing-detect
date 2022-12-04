@@ -802,6 +802,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "poliygonscan.com",
+    "polygonwallet.org.nz",
+    "polysgonscan.link",
+    "polygon.onl",
     "ticket-seaport.io",
     "cowswapfi.net",
     "officialcowswap.org",
