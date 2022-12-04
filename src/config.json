@@ -802,6 +802,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cowswapfi.net",
+    "officialcowswap.org",
     "hopbridger.com",
     "hop-excharge.net",
     "hap-bridge.org",
