@@ -802,6 +802,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "poliygonscan.com",
+    "polygonwallet.org.nz",
+    "polysgonscan.link",
+    "polygon.onl",
     "cryptocity.fun",
     "geishateahouse.io",
     "primalfrens.club",
