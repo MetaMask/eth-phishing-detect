@@ -802,6 +802,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cow-swap.online",
+    "cow-swap.store",
+    "ficowswap.click",
     "adidasnfts.org",
     "poliygonscan.com",
     "polygonwallet.org.nz",
