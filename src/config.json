@@ -802,6 +802,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hopprotocolapp.com",
+    "hopprotocolfast.com",
     "op-claim.xyz",
     "optimism-v2.xyz",
     "cow-swap.online",
