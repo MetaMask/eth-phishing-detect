@@ -802,6 +802,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mmskairdrop.com",
     "hopprotocolapp.com",
     "hopprotocolfast.com",
     "op-claim.xyz",
