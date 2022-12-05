@@ -802,6 +802,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "op-claim.xyz",
+    "optimism-v2.xyz",
     "cow-swap.online",
     "cow-swap.store",
     "ficowswap.click",
