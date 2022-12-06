@@ -1280,6 +1280,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "robinswap.co",
     "blurappeals.io",
     "etherswaps.online",
     "mnlth2.com",
