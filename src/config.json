@@ -802,6 +802,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "v1.mathsynchronizer.live",
+    "vanusprotocol.xyz",
     "mmskairdrop.site",
     "mmskairdrop.com",
     "hopprotocolapp.com",
