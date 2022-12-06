@@ -1280,6 +1280,10 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "connectwallet.link",
+    "robinswap.co",
+    "blurappeals.io",
+    "etherswaps.online",
     "mnlth2.com",
     "interloadingapps.xyz",
     "auth.interloadingapps.xyz",
