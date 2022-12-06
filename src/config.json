@@ -1280,6 +1280,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "etherswaps.online",
     "mnlth2.com",
     "interloadingapps.xyz",
     "auth.interloadingapps.xyz",
