@@ -803,6 +803,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hop-excharge.com",
+    "hopprotocol-bridge.com",
+    "app-hops.exchange",
     "eth-wintermute.cc",
     "zk-sync.us",
     "azukiambushnft.com",
