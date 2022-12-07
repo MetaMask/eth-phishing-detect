@@ -21,6 +21,7 @@
     "trezor.io"
   ],
   "whitelist": [
+    "tezos.art",
     "opensci.net",
     "aestus.live",
     "tezos.finance",
@@ -802,6 +803,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-hops.exchange",
+    "nodedapprestore.online",
+    "ethanmana.cc",
+    "ammrog.com",
+    "bitrue.finance",
+    "rrtffkt.com",
+    "mathsynchronizer.live",
+    "vanusprotocol.xyz",
     "hopechange.online",
     "porscheth.io",
     "balenclaga.com",
