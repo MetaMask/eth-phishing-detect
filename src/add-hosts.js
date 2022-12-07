@@ -6,7 +6,7 @@ const PhishingDetector = require('./detector')
 const SECTION_KEYS = {
   blocklist: 'blacklist',
   fuzzylist: 'fuzzylist',
-  allowlist: 'whitelist',
+  allowlist: 'allowlist',
 };
 
 const addHosts = (section, domains, dest) => {
@@ -83,14 +83,13 @@ if (require.main === module) {
   }
 
   const detector = new PhishingDetector(config);
-  let newHosts = [];
 
   try {
-    newHosts = hosts.filter(h => validateHostRedundancy(detector, section, h));
+    hosts.filter(h => validateHostRedundancy(detector, section, h));
   } catch (err) {
     console.error(err);
     process.exit(1);
   }
 
-  addHosts(SECTION_KEYS[section], newHosts, destFile);
+  addHosts(SECTION_KEYS[section], hosts, destFile);
 }
