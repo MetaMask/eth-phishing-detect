@@ -803,6 +803,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eth-wintermute.cc",
     "zk-sync.us",
     "azukiambushnft.com",
     "rolls-roycenft.com",
