@@ -804,6 +804,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hopprotocolexchange.com",
     "pending-exchange.com",
     "hop-excharge.com",
     "hopprotocol-bridge.com",
