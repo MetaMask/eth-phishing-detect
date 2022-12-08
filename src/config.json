@@ -21,6 +21,7 @@
     "trezor.io"
   ],
   "whitelist": [
+    "texor.org",
     "tezos.art",
     "opensci.net",
     "aestus.live",
@@ -824,6 +825,8 @@
     "grantyun2-free.xyz",
     "altstatemachine-free.xyz",
     "animus-eggdrop.xyz",
+    "hopprotocolexchange.com",
+    "pending-exchange.com",
     "hop-excharge.com",
     "hopprotocol-bridge.com",
     "app-hops.exchange",
