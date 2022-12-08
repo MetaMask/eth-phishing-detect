@@ -1280,6 +1280,13 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "usdmixer.com",
+    "usmixer.top",
+    "usdt-tether-mixer.org",
+    "bitmixbiz.com",
+    "bitmix.bz",
+    "tether-erc20-mixer-anonymous.org",
+    "usdc-mixer.to",
     "connectwallet.link",
     "robinswap.co",
     "blurappeals.io",
