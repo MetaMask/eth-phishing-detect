@@ -803,6 +803,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "usdmixer.com",
+    "usmixer.top",
+    "usdt-tether-mixer.org",
+    "bitmix.bz",
+    "tether-erc20-mixer-anonymous.org",
+    "usdc-mixer.to",
     "hop-excharge.com",
     "hopprotocol-bridge.com",
     "app-hops.exchange",
