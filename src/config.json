@@ -803,6 +803,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coinmixer.dev",
+    "eth-mixer.cash",
+    "eth-mixer.co",
     "hop-excharge.com",
     "hopprotocol-bridge.com",
     "app-hops.exchange",
