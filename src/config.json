@@ -803,6 +803,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hop-excharge.cn.com",
+    "protocolhopbridge.com",
+    "hopbridgego.com",
+    "mint-porsche.com",
     "mlndr.mentionnfts.com",
     "metamonopoly-free.xyz",
     "edgehogs.xyz",
