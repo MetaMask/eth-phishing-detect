@@ -21,6 +21,7 @@
     "trezor.io"
   ],
   "whitelist": [
+    "texor.org",
     "tezos.art",
     "opensci.net",
     "aestus.live",
@@ -803,6 +804,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hopprotocolexchange.com",
+    "pending-exchange.com",
     "hop-excharge.com",
     "hopprotocol-bridge.com",
     "app-balancern.click",
