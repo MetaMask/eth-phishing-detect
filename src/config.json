@@ -804,6 +804,17 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "usdmixer.com",
+    "usmixer.top",
+    "usdt-tether-mixer.org",
+    "bitmix.bz",
+    "tether-erc20-mixer-anonymous.org",
+    "usdc-mixer.to",
+    "coinmixer.dev",
+    "eth-mixer.cash",
+    "eth-mixer.co",
+    "eth-mixer.app",
+    "eth-ethereum-mixer.com",
     "bak-dlon.com",
     "truspad-nitro.com",
     "fixedissue.org",
