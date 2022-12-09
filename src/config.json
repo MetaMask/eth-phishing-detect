@@ -803,6 +803,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "robinswap.co",
     "hop-excharge.cn.com",
     "protocolhopbridge.com",
     "hopbridgego.com",
