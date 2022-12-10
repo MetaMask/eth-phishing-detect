@@ -804,6 +804,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "best-ethereum-mixer.net",
     "garbagefriends.lol",
     "tether.coins-gift.com",
     "apocalypsemv.vercel.app",
