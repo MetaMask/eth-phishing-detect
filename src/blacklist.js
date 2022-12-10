@@ -1,17 +1,9 @@
-const fs = require("fs");
-const config = require("./config");
+#!/usr/bin/env node
+const { spawnSync } = require('child_process');
 
-const domains = process.argv.slice(2);
-domains.forEach(domain => {
-  config.blacklist.unshift(domain);
-});
+console.warn(`*WARNING* blacklist.js/add:blacklist are deprecated and will be removed in a future version.
+Use add-hosts.js/add:blocklist instead`);
 
-// Nicely pad the file
-let output = JSON.stringify(config, null, 2);
-output += "\n";
-
-fs.writeFile("./src/config.json", output, (err) => {
-  if (err) {
-    return console.log(err);
-  }
-});
+const r = spawnSync('./src/add-hosts.js', ['./src/config.json', 'blocklist', ...process.argv.slice(2)]);
+process.stderr.write(r.stderr.toString('utf-8'));
+process.stdout.write(r.stdout.toString('utf-8'));
