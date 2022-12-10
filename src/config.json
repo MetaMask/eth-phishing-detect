@@ -804,6 +804,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "wash-coin.com",
+    "smartmixers.io",
+    "smartmixer.pro",
+    "smatmixer.io",
+    "smartmixer.net",
     "matrixswap.app",
     "etherswaps.online",
     "hop-excharge.cn.com",
