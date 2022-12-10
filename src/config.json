@@ -804,6 +804,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "matrixswap.app",
+    "etherswaps.online",
     "hop-excharge.cn.com",
     "protocolhopbridge.com",
     "hopbridgego.com",
