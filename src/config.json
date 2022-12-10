@@ -20,6 +20,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "claimether.com",
     "texor.org",
     "tezos.art",
     "opensci.net",
@@ -804,6 +805,13 @@
   ],
   "blacklist": [
     "robinswap.co",
+    "wash-coin.com",
+    "smartmixers.io",
+    "smartmixer.pro",
+    "smatmixer.io",
+    "smartmixer.net",
+    "matrixswap.app",
+    "etherswaps.online",
     "hop-excharge.cn.com",
     "protocolhopbridge.com",
     "hopbridgego.com",
@@ -24756,7 +24764,6 @@
     "shapishift.io",
     "ripiocerdit.network",
     "rnyetherwa11et.com",
-    "claimether.com",
     "enigmatokensale.com",
     "ethereum-org.com",
     "mvetnerwallet.com",
