@@ -804,6 +804,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hop-excharge.xyz",
     "garbagefriends.lol",
     "tether.coins-gift.com",
     "apocalypsemv.vercel.app",
