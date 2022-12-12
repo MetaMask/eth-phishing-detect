@@ -817,6 +817,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "polygonscancom.org",
+    "polygon.optechdemo2.com",
+    "polygon.technology-appconnect.com",
     "connectwallet.link",
     "blurappeals.io",
     "mnlth2.com",
