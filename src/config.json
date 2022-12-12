@@ -817,6 +817,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hop-fi.com",
     "polygonscancom.org",
     "polygon.optechdemo2.com",
     "polygon.technology-appconnect.com",
