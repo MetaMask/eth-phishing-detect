@@ -804,6 +804,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "polygonscancom.org",
+    "polygon.optechdemo2.com",
+    "polygon.technology-appconnect.com",
     "genesis-coin.com",
     "venusio.net",
     "arttokyoglobal.art",
