@@ -817,6 +817,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "best-ethereum-mixer.net",
     "genesis-coin.com",
     "venusio.net",
     "arttokyoglobal.art",
