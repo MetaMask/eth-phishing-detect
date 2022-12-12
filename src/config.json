@@ -804,6 +804,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hopbridgeio.com",
+    "hopchains.com",
+    "hopmirror.com",
     "hop-excharge.xyz",
     "garbagefriends.lol",
     "tether.coins-gift.com",
