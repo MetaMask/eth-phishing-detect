@@ -817,6 +817,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "polygoncsan.org",
+    "poly.qon-technology.cam",
+    "maticdashboard.com",
     "hop-fi.com",
     "polygonscancom.org",
     "polygon.optechdemo2.com",
