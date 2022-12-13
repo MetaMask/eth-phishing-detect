@@ -817,6 +817,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chrome-extension-nkbihfbeogaeaoehlefnkodbefgpgknn.apestake.fun",
+    "apestake.fun"
     "komodoswap.io",
     "seaswaps.io",
     "polygonscancom.org",
