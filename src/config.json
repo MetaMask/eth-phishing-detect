@@ -817,6 +817,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "go-hop.net",
+    "hopexchangemirror.net",
+    "app-hop.net",
     "policy.xn--mtamsk-z0a0n.com",
     "akamanft.xyz",
     "br0adslde.xyz",
