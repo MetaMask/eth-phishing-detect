@@ -19,6 +19,7 @@
     "originprotocol.com"
   ],
   "whitelist": [
+    "nfinity.io",
     "3c.wiki",
     "3commas.io",
     "openwa.dev",
@@ -1280,6 +1281,8 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "metamask-toolset.onrender.com",
+    "bscscan99.com",
     "connectwallet.link",
     "robinswap.co",
     "blurappeals.io",
