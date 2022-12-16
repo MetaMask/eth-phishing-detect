@@ -818,6 +818,26 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ethdaw.xyz",
+    "stakebak-cronos.com",
+    "instd.app",
+    "cosmos.farm",
+    "defi.eth-usdt-wallet.com",
+    "bak-ape.com",
+    "defi-city.info",
+    "stakeperp.net",
+    "mainneetnetwork.netlify.app",
+    "synapsprotocolxyz.com",
+    "tron-de-minting.com",
+    "ilmptokesen.shop",
+    "daslh2trade.com",
+    "multichains.pages.dev",
+    "logylon.com",
+    "orbitbridgecrosschain.com",
+    "coinmining.life",
+    "robinswap.xyz",
+    "ape.boredapeyachtclub.host",
+    "boredapeyachtclub.host",
     "balenciaganfts.org",
     "aave-app.org",
     "accmrkt.ru",
@@ -26854,6 +26874,10 @@
     "blurs.io",
     "pudgypenguinsdrop.xyz",
     "protocolcowswap.com",
-    "fi-cow.com"
+    "fi-cow.com",
+    "pudgypenguins.web.app",
+    "pudgypenguindrops.xyz",
+    "zk-sync.me",
+    "xn--treor-kib.com"
   ]
 }
