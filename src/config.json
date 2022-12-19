@@ -20,6 +20,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "nfinity.io",
     "cactus.school",
     "cactus.ws",
     "cactus.io",
@@ -818,6 +819,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-toolset.onrender.com",
+    "bscscan99.com",
     "crystalworldp2e.com",
     "neotokyo.me",
     "swapsaver.io",
