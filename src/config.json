@@ -818,6 +818,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "blah",
     "veefriends-official.xyz",
     "mints-magiceden.live",
     "magiceden-metaturtle.com",
