@@ -818,6 +818,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "synapsebridgefi.com",
+    "realsynapsebridge.com",
+    "synapsebridgedocs.com",
+    "synapsebridgeai.com",
     "veefriends-official.xyz",
     "mints-magiceden.live",
     "magiceden-metaturtle.com",
