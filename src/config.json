@@ -819,6 +819,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "naerax.com",
     "ethminer-eur.com",
     "levenetwork.com",
     "mint-socialbees.io",
