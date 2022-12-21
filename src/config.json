@@ -819,6 +819,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "referral-2uz32.codes",
+    "coinbase.com.referral-2uz32.codes",
     "solvingart.com",
     "tiffany.solvingart.com",
     "komodoswap.xyz",
