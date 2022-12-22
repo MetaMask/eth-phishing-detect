@@ -819,6 +819,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mixing-cash.com",
     "naerax.com",
     "ethminer-eur.com",
     "levenetwork.com",
