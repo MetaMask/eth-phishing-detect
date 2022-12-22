@@ -820,6 +820,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mixing-cash.com",
     "babyelonnft.io",
     "crypto-launchpad.org",
     "truspad-swash.com",
