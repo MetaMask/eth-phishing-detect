@@ -820,6 +820,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "erctrader.io",
+    "blurswap.org",
+    "valhalladrop.com",
     "mixing-cash.com",
     "babyelonnft.io",
     "crypto-launchpad.org",
