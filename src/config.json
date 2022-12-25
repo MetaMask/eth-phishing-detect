@@ -820,6 +820,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mixero.io",
+    "blend.cash",
+    "mixing.cash",
     "mixing-cash.com",
     "babyelonnft.io",
     "crypto-launchpad.org",
