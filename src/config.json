@@ -820,6 +820,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "retrodrop.xyz",
+    "opensea.io.retrodrop.xyz",
+    "snowsgiving.app",
+    "themakimono.xyz",
     "valhalla-drop.com",
     "netflix.armoryz.com",
     "armoryz.com",
