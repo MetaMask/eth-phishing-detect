@@ -821,6 +821,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "swapxis.io",
     "retrodrop.xyz",
     "opensea.io.retrodrop.xyz",
     "snowsgiving.app",
