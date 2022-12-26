@@ -821,6 +821,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim.cx",
     "upcomingnft.net",
     "claim.sh",
     "nfa.quest",
