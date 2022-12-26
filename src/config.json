@@ -821,6 +821,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim.sh",
     "nfa.quest",
     "mint.nfa.quest",
     "swapxis.io",
