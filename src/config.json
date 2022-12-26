@@ -821,6 +821,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "nfa.quest",
+    "mint.nfa.quest",
     "swapxis.io",
     "retrodrop.xyz",
     "opensea.io.retrodrop.xyz",
