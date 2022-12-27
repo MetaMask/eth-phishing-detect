@@ -821,6 +821,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mixero.io",
+    "blend.cash",
+    "mixing.cash",
     "polygonbridger.com",
     "polygonbridges.com",
     "bridge-polygon.com",
