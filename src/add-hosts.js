@@ -6,7 +6,7 @@ const PhishingDetector = require('./detector')
 const SECTION_KEYS = {
   blocklist: 'blacklist',
   fuzzylist: 'fuzzylist',
-  allowlist: 'allowlist',
+  allowlist: 'whitelist',
 };
 
 const addHosts = (section, domains, dest) => {
