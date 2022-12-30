@@ -821,6 +821,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "floatswap.com",
+    "accwallet.com",
     "mixero.io",
     "blend.cash",
     "mixing.cash",
