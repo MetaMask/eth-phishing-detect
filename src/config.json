@@ -821,6 +821,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "preminted.xyz",
+    "plutoverify.netlify.app",
+    "deviators.xyz",
     "nfa.mintyoursnfts.art",
     "mintyoursnfts.art",
     "nfaspecial.xyz",
