@@ -820,6 +820,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "floatswap.com",
+    "accwallet.com",
     "edeniannft.net",
     "captainz.rewardlive.xyz",
     "cristianocollection.com",
