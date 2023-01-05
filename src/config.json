@@ -820,6 +820,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "autodappsolution.web.app",
+    "metacoin.hk",
     "finance-apeboard.com",
     "usdcircle.com",
     "truspad-sns.com",
