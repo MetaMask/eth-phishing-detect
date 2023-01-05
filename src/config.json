@@ -822,6 +822,7 @@
   "blacklist": [
     "autodappsolution.web.app",
     "metacoin.hk",
+    "finance-apeboard.com",
     "usdcircle.com",
     "truspad-sns.com",
     "truspad-render.com",
@@ -28456,9 +28457,12 @@
     "animalconcert.net",
     "pudgypenguinsmass.xyz",
     "daomaker.art",
+    "aquachain.org",
     "daomaker.zone",
     "mint-pudgypenguins.com",
     "zenacademynft.xyz",
-    "coolcatsnft.io"
+    "coolcatsnft.io",
+    "cozypenguins.me",
+    "arbitrum.su"
   ]
 }
