@@ -820,6 +820,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "finance-apeboard.com",
     "usdcircle.com",
     "truspad-sns.com",
     "truspad-render.com",
