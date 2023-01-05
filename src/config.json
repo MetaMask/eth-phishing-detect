@@ -817,7 +817,9 @@
     "tezos.foundation",
     "trever.io",
     "razor.network",
-    "satoshilabs.design"
+    "satoshilabs.design",
+    "goerli.net",
+    "ethberlin.org"
   ],
   "blacklist": [
     "autodappsolution.web.app",
@@ -19400,7 +19402,6 @@
     "gwayaugust.blogspot.com",
     "litecoingiveaway.info",
     "bfttrex.com",
-    "ethberlin.org",
     "coinbasegive.com",
     "muskelon.ga",
     "rippleairdrop.club",
@@ -28471,6 +28472,7 @@
     "pudgypenguinss.web3prmint.com",
     "pudgypenguins.prize.gift",
     "trezorsuites.com",
+    "ethgoer.li",
     "pudgeypenguins.com",
     "pudgy-penguins.app",
     "claim.li",
