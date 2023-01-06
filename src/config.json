@@ -822,6 +822,8 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "whitelist-doodles.com",
+    "jpegz.io",
     "binance-metamask.com",
     "lightswap.art",
     "komodoswap.in",
