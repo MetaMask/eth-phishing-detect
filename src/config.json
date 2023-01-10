@@ -19,6 +19,8 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "3c.wiki",
+    "3commas.io",
     "opensaas.io",
     "opensaas.au",
     "taskmetas.com",
@@ -825,6 +827,7 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "etherc.net",
     "chimpersnft.org",
     "x2y2.io.users.trade",
     "nfarcade1-free.xyz",
@@ -3172,6 +3175,7 @@
     "doodlesofficial.online",
     "doodlees.net",
     "thenftlink.org",
+    "usdtreward.com",
     "ustbonus.com",
     "1935-world.net",
     "xeonusdex.com",
