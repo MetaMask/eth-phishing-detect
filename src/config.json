@@ -828,6 +828,9 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "x2y2.io-0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d.xyz",
+    "io-0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d.xyz",
+    "cowtownmint.com",
     "poly.qon-technology.site",
     "matic-bridge.net",
     "app-maticbridge.net",
