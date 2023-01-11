@@ -156,6 +156,7 @@
     "ajatus.in",
     "aptus.ai",
     "nfinit.com",
+    "arcus.co",
     "arcus.no",
     "arcteus.in",
     "fincity.com",
@@ -827,6 +828,9 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "poly.qon-technology.site",
+    "matic-bridge.net",
+    "app-maticbridge.net",
     "chimpersnft.cool",
     "1inch-connect.online",
     "1inch.company",
@@ -28900,6 +28904,7 @@
     "doublecrypto-invest.pro",
     "littlepudgys.com",
     "pudgypenguin.world",
-    "pudgyverse.tech"
+    "pudgyverse.tech",
+    "lil-pudgys.com"
   ]
 }
