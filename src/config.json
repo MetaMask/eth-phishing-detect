@@ -828,6 +828,9 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "poly.qon-technology.site",
+    "matic-bridge.net",
+    "app-maticbridge.net",
     "chimpersnft.cool",
     "highstreet.gallery",
     "chimpernft.com",
