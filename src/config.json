@@ -828,6 +828,9 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "bridger-synapseprotocol.com",
+    "synapseprotocolcross.com",
+    "bridgersynapseprotocol.com",
     "io-opensea.net", 
     "opensea1-free.xyz", 
     "opensea-menu.com", 
