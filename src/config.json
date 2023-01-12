@@ -828,7 +828,11 @@
     "ethberlin.org"
   ],
   "blacklist": [
-    "deviatorsnft.xyz",
+    "deviatorsnft.xyz",    
+    "en-opensesa.com",
+    "stake-rocketpoolnet.com",
+    "swap-curve.com",
+    "swap-curvefinance.com",
     "en-metam.com",
     "en-polkastarter.com",
     "explore-opensese.com",
