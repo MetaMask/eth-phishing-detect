@@ -828,6 +828,7 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "mainnetchainlist.onrender.com",
     "nftcoolcats.io",
     "aztecnetwork.web3prmint.com",
     "zkmoney.pro",
