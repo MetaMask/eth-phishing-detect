@@ -1281,6 +1281,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "polkastartercom.com",
     "chimpersnft.org",
     "metamask-toolset.onrender.com",
     "bscscan99.com",
