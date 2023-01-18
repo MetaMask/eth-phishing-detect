@@ -828,6 +828,8 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "hopprotocol.web3-emint.com",
+    "official-porsche.com",
     "worldsbeyond.fun",
     "thedeviators.xyz",
     "ether-project.com",
