@@ -828,6 +828,12 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "morphoprotocol.net",
+    "mainnetchainlist.onrender.com",
+    "nftcoolcats.io",
+    "aztecnetwork.web3prmint.com",
+    "zkmoney.pro",
+    "zkmoney.cloud",
     "hopprotocol.web3-emint.com",
     "official-porsche.com",
     "worldsbeyond.fun",
