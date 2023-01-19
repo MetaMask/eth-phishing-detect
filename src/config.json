@@ -828,6 +828,7 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "hop-exchange.net",
     "wl-doodles.com",
     "airdrop.aptos-iabs.com",
     "aptos-iabs.com",
@@ -29465,6 +29466,7 @@
     "mdmvn.xyz",
     "mmvmd.io",
     "pudgypenguens.com",
-    "multiwallet-connects.com"
-  ]
+    "multiwallet-connects.com",
+    "pudgypinguins.com",
+    "pudgypenguins-nft.com"
 }
