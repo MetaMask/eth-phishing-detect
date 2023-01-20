@@ -1,4 +1,5 @@
 const levenshtein = require('fast-levenshtein')
+const confusables = require('confusables')
 const DEFAULT_TOLERANCE = 3
 
 class PhishingDetector {
@@ -53,7 +54,9 @@ class PhishingDetector {
   }
 
   check(domain) {
+    
     const result = this._check(domain)
+    
 
     if (this.legacyConfig) {
       let legacyType = result.type;
@@ -77,6 +80,24 @@ class PhishingDetector {
       : domain;
 
     const source = domainToParts(fqdn)
+
+    // Lets make sure this isnt a "confusable" trying to trick us
+    // TL;DR -- convert homoglphys to their english characters
+    // TODO: This is very anglo-centric, it would be nice to support this in multiple languages
+    
+    //Remove confusing characters and lowercase domain
+    const confusableDomain = confusables.remove(domain).toLowerCase()
+  
+    if (confusableDomain != domain) {
+      // This domain doesnt match the confusable domain, ie υɴіѕѡар.org != uniswap.org
+      const confusableDomainParts = domainToParts(confusableDomain)
+      
+      // Lets try and find this domain in the allowlist, and if we do we can validate this as a confusable attack
+      for (const { allowlist, name, version } of this.configs) {
+        const allowlistMatch = matchPartsAgainstList(confusableDomainParts, allowlist)
+        if (allowlistMatch) return { name, result: true, type: 'confusable-allowlist', version }
+      }
+    }
 
     for (const { allowlist, name, version } of this.configs) {
       // if source matches allowlist hostname (or subdomain thereof), PASS
