@@ -828,6 +828,7 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "hopprotocoll.web3-zmint.com",
     "us-porsche.com",
     "gnosis-airdrop.xyz",
     "optimismfnd.net",
