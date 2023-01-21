@@ -828,6 +828,7 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "web3-zmint.com",
     "polygom-bridge.com",
     "wojiat-polygon.com",
     "truspad-hiens4.com",
