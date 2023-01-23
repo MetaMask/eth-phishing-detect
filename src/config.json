@@ -867,6 +867,7 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "az-mettmask.com",
     "polygom-bridge.com",
     "wojiat-polygon.com",
     "oinbase.com",
