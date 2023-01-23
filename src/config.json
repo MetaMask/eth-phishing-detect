@@ -867,6 +867,11 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "dashboard-zksync-com.xyz",
+    "app-zksync-com.xyz",
+    "hopprotocoll.web3-zmint.com",
+    "gnosis-airdrop.xyz",
+    "optimismfnd.net",
     "polygom-bridge.com",
     "wojiat-polygon.com",
     "oinbase.com",
