@@ -1281,6 +1281,8 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "alchemix-airdrop.xyz",
+    "staking-alchemix.com",
     "polkastartercom.com",
     "chimpersnft.org",
     "metamask-toolset.onrender.com",
