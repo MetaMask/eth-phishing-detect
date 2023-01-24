@@ -867,6 +867,7 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "web3-zmint.com",
     "fronks.stakooor.app",
     "fronksmint.com",
     "fronk.xyz",
