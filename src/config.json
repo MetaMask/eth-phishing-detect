@@ -873,6 +873,7 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "aptnetwork.org",
     "sweepswap.io",
     "fixswap.io",
     "mint-doodles.app",
