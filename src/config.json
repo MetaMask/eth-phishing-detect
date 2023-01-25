@@ -2,20 +2,13 @@
   "version": 2,
   "tolerance": 2,
   "fuzzylist": [
-    "auctus.org",
     "cryptokitties.co",
     "launchpad.ethereum.org",
     "etherscan.io",
-    "fulcrum.trade",
-    "hederahashgraph.com",
-    "localcryptos.com",
-    "localethereum.com",
     "makerfoundation.com",
-    "maskmeta.org",
     "metamask.io",
     "myetherwallet.com",
     "opensea.io",
-    "originprotocol.com",
     "satoshilabs.com"
   ],
   "whitelist": [
