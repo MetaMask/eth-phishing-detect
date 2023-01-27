@@ -901,6 +901,8 @@
     "ethberlin.org"
   ],
   "blacklist": [
+    "chirulabs.net",
+    "azuki.ws",
     "whitelisted-doodles.com",
     "genesis-doodles.app",
     "aptosnames.io",
