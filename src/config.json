@@ -898,7 +898,8 @@
     "razor.network",
     "satoshilabs.design",
     "goerli.net",
-    "ethberlin.org"
+    "ethberlin.org",
+    "ipfs.io"
   ],
   "blacklist": [
     "revoken.cash",
