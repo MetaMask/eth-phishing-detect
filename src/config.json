@@ -902,6 +902,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "swaplink.io",
+    "tokenswaps.io",
     "phantomswap.io",
     "revoken.cash",
     "world-hilumia.com",
