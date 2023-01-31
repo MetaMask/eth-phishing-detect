@@ -902,6 +902,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "amodeosmint.com",
     "dashboard.groveswaps.xyz",
     "cryptofrogfrens.xyz",
     "boneshibaswap-app.com",
