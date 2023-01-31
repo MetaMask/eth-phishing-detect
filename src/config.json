@@ -902,6 +902,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "revolecash.com",
     "swaplink.io",
     "tokenswaps.io",
     "phantomswap.io",
@@ -1647,7 +1648,6 @@
     "sougen.online",
     "keungz.tech",
     "lidos-fi.website",
-    "acumen.network",
     "keungz-pass.com",
     "officialtrumpnfts.com",
     "kadamian.xyz",
