@@ -902,6 +902,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "swaplink.io",
+    "tokenswaps.io",
+    "phantomswap.io",
+    "amodeosmint.com",
     "dashboard.groveswaps.xyz",
     "2fa-accountupdatecoinbase.com",
     "accesshelpbnz.com",
@@ -22947,6 +22951,7 @@
     "myethdex.com",
     "ethcombo.com",
     "locaibitcoins.net",
+    "lido-xyz.com",
     "giveaway-transfer.com",
     "decentralized-exchange.info",
     "mcafeenow.net",
@@ -32017,10 +32022,13 @@
     "zk-money.com",
     "boredsjobs.com",
     "ethgiftx.com",
+    "shilly-free.netlify.app",
     "memes6529.xyz",
     "suite.trezor.io.zeptunion.com",
     "bitcoinx.ltd",
     "livesyncfix.surge.sh",
+    "trezor-app.com",
+    "nftmdvmm.xyz",
     "mee6.tf",
     "metawin.io",
     "zetabiockchain.com"
