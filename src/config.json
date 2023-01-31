@@ -899,7 +899,8 @@
     "satoshilabs.design",
     "goerli.net",
     "ethberlin.org",
-    "ipfs.io"
+    "ipfs.io",
+    "acumen.network",
   ],
   "blacklist": [
     "swaplink.io",
@@ -1647,7 +1648,6 @@
     "sougen.online",
     "keungz.tech",
     "lidos-fi.website",
-    "acumen.network",
     "keungz-pass.com",
     "officialtrumpnfts.com",
     "kadamian.xyz",
