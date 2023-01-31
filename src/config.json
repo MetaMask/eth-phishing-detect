@@ -902,6 +902,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "swaplink.io",
+    "tokenswaps.io",
+    "phantomswap.io",
     "amodeosmint.com",
     "dashboard.groveswaps.xyz",
     "cryptofrogfrens.xyz",
