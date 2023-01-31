@@ -902,6 +902,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "doodles-register.app",
     "whitelisted-doodles.com",
     "genesis-doodles.app",
     "aptosnames.io",
