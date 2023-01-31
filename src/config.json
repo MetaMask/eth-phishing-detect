@@ -902,6 +902,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "polygonstakings.in",
+    "polygon.stakeprotccol.com",
+    "polygon-block.org",
+    "polygonstlaking.com",
+    "polygon.netlify.app",
     "app.imc-quantitativefund.com",
     "app.coiappstech.live",
     "bitfixlive.xyz",
