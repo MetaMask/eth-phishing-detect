@@ -928,6 +928,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "atlendisprotocol.com",
+    "protocolatlendis.com",
+    "atlendisstaking.com",
+    "stakingatlendis.com",
     "app.imc-quantitativefund.com",
     "app.coiappstech.live",
     "bitfixlive.xyz",
