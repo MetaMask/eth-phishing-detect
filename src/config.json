@@ -928,6 +928,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "polygon-overview.org",
+    "polygon-staking.mobirisesite.com",
+    "official-palygonstaking.com",
+    "polygon-wallet.godaddysites.com",
     "fudaoverse.limitedmint.live",
     "flyfish-club.art",
     "fixedswap.pages.dev",
