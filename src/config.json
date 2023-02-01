@@ -902,6 +902,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "polygon-overview.org",
+    "polygon-staking.mobirisesite.com",
+    "polygon-overview.org",
+    "official-palygonstaking.com",
+    "polygon-wallet.godaddysites.com",
     "app.imc-quantitativefund.com",
     "app.coiappstech.live",
     "bitfixlive.xyz",
