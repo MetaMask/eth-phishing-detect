@@ -928,6 +928,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "polygonstakings.in",
+    "polygon.stakeprotccol.com",
+    "polygon-block.org",
+    "polygonstlaking.com",
+    "polygon.netlify.app",
     "atlendisprotocol.com",
     "protocolatlendis.com",
     "atlendisstaking.com",
