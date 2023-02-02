@@ -83,13 +83,14 @@ if (require.main === module) {
   }
 
   const detector = new PhishingDetector(config);
+  let newHosts = [];
 
   try {
-    hosts.filter(h => validateHostRedundancy(detector, section, h));
+    newHosts = hosts.filter(h => validateHostRedundancy(detector, section, h));
   } catch (err) {
     console.error(err);
     process.exit(1);
   }
 
-  addHosts(SECTION_KEYS[section], hosts, destFile);
+  addHosts(SECTION_KEYS[section], newHosts, destFile);
 }
