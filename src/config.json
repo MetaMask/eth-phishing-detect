@@ -928,6 +928,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "verifycollab.xyz",
     "polygon-overview.org",
     "polygon-staking.mobirisesite.com",
     "official-palygonstaking.com",
