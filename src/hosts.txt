@@ -1,5 +1,4 @@
 127.0.0.1 localhost
-0.0.0.0 yearnson.finance
 0.0.0.0 myetherwallet.uk.com
 0.0.0.0 kodakone.cc
 0.0.0.0 nyeihitervvallet.com
@@ -454,6 +453,7 @@
 0.0.0.0 myetherwalletver.com
 0.0.0.0 privatix.top
 0.0.0.0 privatix.pro
+0.0.0.0 privatex.io
 0.0.0.0 stormtoken.cc
 0.0.0.0 raiden.online
 0.0.0.0 stormstoken.com
@@ -1064,9 +1064,3 @@
 0.0.0.0 curve.si
 0.0.0.0 curves.fi
 0.0.0.0 curves.exchange
-0.0.0.0 cuvre.financial
-0.0.0.0 curve.so
-0.0.0.0 curvefi.io
-0.0.0.0 curwe.fi
-0.0.0.0 boredapeyachtclub.app
-0.0.0.0 convexfinance.org
