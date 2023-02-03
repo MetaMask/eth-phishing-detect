@@ -932,6 +932,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "zora.fun",
     "devdappsengine.pages.dev",
     "staking-ipor.com",
     "anyswap-start.org",
