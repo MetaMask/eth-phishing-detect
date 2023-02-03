@@ -932,6 +932,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "devdappsengine.pages.dev",
     "staking-ipor.com",
     "anyswap-start.org",
     "https-www-opensea.io",
