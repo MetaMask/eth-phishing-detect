@@ -932,6 +932,18 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "staking-ipor.com",
+    "anyswap-start.org",
+    "https-www-opensea.io",
+    "mpc-web.uecent.com",
+    "pollennft.art",
+    "portal-wormhole.com",
+    "portal-wormhole.org",
+    "unstablepbledomain.tech",
+    "usdxmas.com",
+    "collabsland-assetsverif.xyz",
+    "prj-tzumi.web3-drop.com",
+    "axelarbridgeprotocol.com",
     "livesofasuna.world",
     "liquiditypool-user.com",
     "liquiditypool-eth.com",
