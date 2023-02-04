@@ -932,6 +932,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "gemv2.xyz",
     "zora.fun",
     "devdappsengine.pages.dev",
     "staking-ipor.com",
