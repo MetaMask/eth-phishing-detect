@@ -951,6 +951,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "noox.fi",
     "digidaiigaku.com", 
     "apply-doodles.com", 
     "worldofwomen.quicklyminting.com", 
@@ -3980,9 +3981,7 @@
     "truspad-dgz.com",
     "truspad-bsw.com",
     "web3-zmint.com",
-    "fronks.stakooor.app",
     "fronksmint.com",
-    "fronk.xyz",
     "noryoz-gate.com",
     "minting-akidcalledbeast.com",
     "valhallajoin.com",
