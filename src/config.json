@@ -951,6 +951,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.wf",
+    "vulcan.fm",
     "update-opensea.io",
     "news-opensea.io",
     "ren-event.xyz",
