@@ -951,6 +951,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "update-opensea.io",
+    "news-opensea.io",
     "ren-event.xyz",
     "qtopiia.com",
     "patekrolex-nfts.com",
