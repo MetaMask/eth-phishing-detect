@@ -12,6 +12,8 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "metaman.fashion",
+    "metamag.space",
     "opennet.net",
     "jakekfoundation.com",
     "openxe.org",
@@ -951,6 +953,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "magicalworld.io",
+    "celadongame.com",
+    "moonwallet.io",
     "palygon-staklng.com",
     "polygonstaking-official.com",
     "polygonstaking-official.org",
