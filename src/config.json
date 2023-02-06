@@ -12,6 +12,8 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "metaman.fashion",
+    "metamag.space",
     "opennet.net",
     "jakekfoundation.com",
     "openxe.org",
@@ -951,6 +953,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "magicalworld.io",
+    "celadongame.com",
+    "moonwallet.io",
     "ren-event.xyz",
     "qtopiia.com",
     "patekrolex-nfts.com",
@@ -33448,7 +33453,6 @@
     "btc5335.com",
     "btc8228.com",
     "optimismfdn.com",
-    "resyncnode.surge.sh",
     "lidostake.app"
   ]
 }
