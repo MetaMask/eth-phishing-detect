@@ -951,6 +951,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.fm",
     "ren-event.xyz",
     "qtopiia.com",
     "patekrolex-nfts.com",
