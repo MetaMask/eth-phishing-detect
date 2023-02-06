@@ -951,6 +951,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "update-opensea.io",
+    "news-opensea.io",
     "ren-event.xyz",
     "qtopiia.com",
     "patekrolex-nfts.com",
@@ -1371,6 +1373,10 @@
     "noodiland.com",
     "nft-giveaway.art",
     "neptunesmutual.com",
+    "neptune-mutual.com",
+    "neptu.nemutual.com",
+    "neptunem.utual.com",
+    "neptun.emutual.com",
     "multiversealbums.com",
     "mooniswap-req.com",
     "superkawai.xyz",
@@ -9024,7 +9030,6 @@
     "uniswap.biz.pl",
     "uniswap.college",
     "uniswap.edu.pl",
-    "uniswap.guru",
     "uniswap.net.bz",
     "uniswap.org.vc",
     "uniswaplabs.finance",
@@ -33523,6 +33528,9 @@
     "btc5335.com",
     "btc8228.com",
     "optimismfdn.com",
+    "portfoliotracking-zapper.com",
+    "zapperfi.site",
+    "resyncnode.surge.sh",
     "lidostake.app"
   ]
 }
