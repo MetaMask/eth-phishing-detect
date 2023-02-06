@@ -951,6 +951,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "update-opensea.io",
+    "news-opensea.io",
     "digidaiigaku.com",
     "apply-doodles.com",
     "worldofwomen.quicklyminting.com",
