@@ -951,6 +951,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.wf",
     "vulcan.fm",
     "ren-event.xyz",
     "qtopiia.com",
