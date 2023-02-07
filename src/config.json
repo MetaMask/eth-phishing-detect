@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "xn--vucan-l7a.com",
     "batswap.io",
     "ethdeals.io",
     "luksoswap.io",
