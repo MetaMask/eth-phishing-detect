@@ -953,6 +953,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "777bestbitcoinmixer.com",
+    "balticasopot.pl",
+    "usdt-tether-mixer.org",
+    "bestmixer.pro",
     "batswap.io",
     "ethdeals.io",
     "luksoswap.io",
