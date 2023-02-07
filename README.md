@@ -38,3 +38,19 @@ console.log(value)
 }
 */
 ```
+
+## Contributions
+
+To keep a tidy file, use the following CLI to make changes to the list:
+
+### Adding hosts to blocklist
+
+```
+yarn add:blocklist crypto-phishing-site.tld
+```
+
+### Adding hosts to allowlist
+
+```
+yarn add:allowlist crypto-phishing-site.tld
+```
