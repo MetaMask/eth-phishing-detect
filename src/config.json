@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "highstreet.events",
     "quickprotocol.surge.sh",
     "coinusdt69.com",
     "makersplacepro.com",
