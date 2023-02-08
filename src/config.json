@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "etherc.net",
     "art-blocks.xyz",
     "artnblocks.io",
     "artblocks-claim.com",
