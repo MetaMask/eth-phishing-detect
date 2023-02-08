@@ -953,6 +953,12 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "art-blocks.xyz",
+    "artnblocks.io",
+    "artblocks-claim.com",
+    "pudgy-penguins.sgnal.xyz",
+    "enter-pudgypenguins.com",
+    "mintpudgypenguins.com",
     "xn--aptosabs-9nb.com",
     "doodiles.app",
     "claim-doodies.app",
