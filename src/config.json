@@ -953,6 +953,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bitmix.cc",
+    "coinpal.eu",
+    "bitcoinmixer.ru",
     "migrate-opensea.io",
     "highstreet.events",
     "vvchecks.org",
