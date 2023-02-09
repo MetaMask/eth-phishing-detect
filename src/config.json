@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.pm",
     "bitmixersonline.com",
     "balticasopot.pl",
     "bitmix.cc",
