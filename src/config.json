@@ -953,6 +953,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bitmixersonline.com",
+    "balticasopot.pl",
+    "bitmix.cc",
+    "coinpal.eu",
+    "bitcoinmixer.ru",
     "art-blocks.xyz",
     "artnblocks.io",
     "artblocks-claim.com",
