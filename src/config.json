@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.pm",
     "apecoin-info.com",
     "alchemixfiprotocol.com",
     "alchemist-official.xyz",
