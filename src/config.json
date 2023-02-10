@@ -954,6 +954,7 @@
   ],
   "blacklist": [
     "vulcan.pm",
+    "metamaverify.com",
     "aavetrack.com",
     "app-anywap.exchange",
     "app-convexfinance.com",
