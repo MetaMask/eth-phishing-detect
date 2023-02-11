@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.bz",
     "goblin-captcha.help",
     "vulcan.pm",
     "apecoin-info.com",
