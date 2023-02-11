@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "rftkt-nft.com",
     "vulcan.tf",
     "vulcan.bz",
     "goblin-captcha.help",
