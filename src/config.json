@@ -954,6 +954,8 @@
   ],
   "blacklist": [
     "vulcan.pm",
+    "balancer-app.finance",
+    "balancer-connect.fi",
     "apecoin-info.com",
     "alchemixfiprotocol.com",
     "alchemist-official.xyz",
