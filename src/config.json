@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.tf",
     "vulcan.bz",
     "goblin-captcha.help",
     "vulcan.pm",
