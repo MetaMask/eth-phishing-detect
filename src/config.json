@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "collabland.io",
     "rftkt-nft.com",
     "vulcan.tf",
     "vulcan.bz",
