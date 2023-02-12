@@ -954,6 +954,7 @@
   ],
   "blacklist": [
     "vulcan.pm",
+    "balancer-user.fi",
     "balancer-app.finance",
     "balancer-connect.fi",
     "apecoin-info.com",
