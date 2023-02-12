@@ -954,6 +954,8 @@
   ],
   "blacklist": [
     "vulcan.pm",
+    "metamaskw.cc",
+    "myetherwalleten.cc",
     "apecoin-info.com",
     "alchemixfiprotocol.com",
     "alchemist-official.xyz",
