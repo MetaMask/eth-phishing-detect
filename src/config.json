@@ -1281,6 +1281,7 @@
     "metamask-flask.zendesk.com"
   ],
   "blacklist": [
+    "vww-opensea.com",
     "pudgy-tanks.xyz",
     "revoken.cash",
     "polkastartercom.com",
