@@ -953,6 +953,25 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bscusdtp.com",
+    "btcboss.cc",
+    "claim-bigeyes.pages.dev",
+    "clonexpets.com",
+    "connect.nodeproto.com",
+    "cosmosdrop.events",
+    "dash2trade-airdrop.com",
+    "erc-coin.vip",
+    "etherc.vip",
+    "etheu.cc",
+    "ethwv.com",
+    "exoniks.org",
+    "hazba.com",
+    "invsiblefriends.org",
+    "metawallet-connect.vercel.app",
+    "online-supporthub.onrender.com",
+    "sea-opensea.com",
+    "seedifu.fund",
+    "www-vif.com",
     "vulcan.wtf",
     "cqnaecsf.clickfunnels.com",
     "1inch.media",
@@ -34619,6 +34638,7 @@
     "optimism.web3-pmint.com",
     "optimism.web3-prmint.com",
     "optimism.lidos.app",
-    "xn--optmsm-yvab.net"
+    "xn--optmsm-yvab.net",
+    "xn--optimsm-3ya.net"
   ]
 }
