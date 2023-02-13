@@ -953,6 +953,16 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "ethmaindefi.xyz",
+    "usdp.site",
+    "maintsdefi.com",
+    "protocol-pad.buzz",
+    "genesis-quantitativefun.com",
+    "spiritswap.tech",
+    "multi-trustpade.com",
+    "connect-restore.netlify.app",
+    "connectwallet.42web.io",
+    "hosting-smart.com",
     "vulcan.pm",
     "balancer-user.fi",
     "balancer-app.finance",
