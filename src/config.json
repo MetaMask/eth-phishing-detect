@@ -954,6 +954,9 @@
   ],
   "blacklist": [
     "vulcan.pm",
+    "balancer-user.fi",
+    "balancer-app.finance",
+    "balancer-connect.fi",
     "metamaskw.cc",
     "myetherwalleten.cc",
     "apecoin-info.com",
