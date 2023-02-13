@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.bz",
     "bscusdtp.com",
     "btcboss.cc",
     "claim-bigeyes.pages.dev",
