@@ -953,6 +953,12 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.tel",
+    "collabland.io",
+    "rftkt-nft.com",
+    "vulcan.tf",
+    "vulcan.bz",
+    "goblin-captcha.help",
     "ethmaindefi.xyz",
     "usdp.site",
     "maintsdefi.com",
