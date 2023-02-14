@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.gs",
     "trustpod.xyz",
     "swapcove.io",
     "zyberswap.net",
