@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "stargate-finance.website",
     "syn-dpps.web.app",
     "eth-kan.com",
     "geodoge.com",
