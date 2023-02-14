@@ -953,6 +953,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.herokuapp.com",
+    "packages-blur.io",
     "vulcanbot.net",
     "vulcan.rip",
     "vulcan.bio",
