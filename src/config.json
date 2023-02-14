@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "claim-blur.net",
     "www-vulcan.xyz",
     "package-blur.io",
     "vulcan.herokuapp.com",
