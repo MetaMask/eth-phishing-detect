@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan.bio",
     "care-blur.io",
     "blurgift.com",
     "blur-gifts.com",
