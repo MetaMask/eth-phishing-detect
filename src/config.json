@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "join-blur.io",
     "vww-opensea.com",
     "syn-dpps.web.app",
     "eth-kan.com",
