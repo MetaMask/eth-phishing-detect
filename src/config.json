@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "ethwv.com",
     "vww-opensea.com",
     "trustpod.xyz",
     "swapcove.io",
