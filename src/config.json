@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vww-opensea.com",
     "trustpod.xyz",
     "swapcove.io",
     "zyberswap.net",
