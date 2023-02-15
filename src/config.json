@@ -953,6 +953,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "cosmo-pads.web.app",
+    "metaflipmarket.com",
+    "liveverse.world",
+    "dappreader.static.app",
+    "magicalworld.cool",
     "connect-land.netlify.app",
     "vulcanverify.us",
     "vulcam.xyz",
@@ -1265,7 +1270,6 @@
     "vww-opensea.com",
     "syn-dpps.web.app",
     "eth-kan.com",
-    "geodoge.com",
     "bakery-woo.org",
     "digidaigdaku.com",
     "ethmz1.xyz",
