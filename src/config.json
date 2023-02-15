@@ -953,7 +953,6 @@
     "ipfs.io"
   ],
   "blacklist": [
-    "polygonstaking.xyz",
     "staking.polygonj.site",
     "polygonstaking.xyz",
     "staking-polygon.ink",
@@ -983,7 +982,6 @@
     "polygonwallet.eu.com",
     "woilot-pajygen.com",
     "walletpolygontechnology.com",
-    "polygon-bridges.com",
     "wallet.svwaq.com",
     "pollygonwallet.github.io",
     "polygon-bridges.com",
@@ -993,10 +991,8 @@
     "polygontechnologywallet.com",
     "wallet.polygins.technology",
     "wallet.wallet-polyugan.technology",
-    "wallet.wallet-polyugan.technology",
     "wallet-polyugan.technology",
     "mypolygonwallet.com",
-    "wallet.polygins.technology",
     "wallet.polyqonlechnoloqy.xyz",
     "maticpolygon.com",
     "wallet.palygonc.technology",
