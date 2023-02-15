@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "stargate-finance.website",
     "claim-blur.net",
     "www-vulcan.xyz",
     "package-blur.io",
