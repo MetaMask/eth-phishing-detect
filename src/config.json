@@ -953,6 +953,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "connect-land.netlify.app",
+    "vulcanverify.us",
+    "vulcam.xyz",
     "beanbagfriens.com",
     "azuki-room.xyz",
     "azuki-gardens.com",
