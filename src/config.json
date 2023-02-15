@@ -953,6 +953,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "sweepswap.xyz",
+    "sphynxswap.io",
+    "join-blur.io",
     "stargate-finance.website",
     "claim-blur.net",
     "www-vulcan.xyz",
