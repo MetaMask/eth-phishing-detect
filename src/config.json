@@ -953,6 +953,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "sweepswap.xyz",
+    "sphynxswap.io",
     "join-blur.io",
     "vww-opensea.com",
     "syn-dpps.web.app",
