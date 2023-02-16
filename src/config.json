@@ -953,6 +953,16 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "abenft.info",
+    "btcs.love",
+    "decentralnode.surge.sh",
+    "trustpad-e.com",
+    "synbridgewal.com",
+    "dapps-syncc.netlify.app",
+    "deadexuthenticatwallet.info",
+    "aipad.site",
+    "branchconnect.pages.dev",
+    "ethcloud.me",
     "cosmo-pads.web.app",
     "airdrop.optimism-foundation.co",
     "airdrop.optimism-labs.com",
