@@ -953,6 +953,17 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "antispam-bot.com",
+    "mee6.pm",
+    "xn--scord-m4a.com",
+    "d.xn--scord-m4a.com",
+    "xn--iscord-v2a.com",
+    "oauth2-discord.com",
+    "deno-guild.online",
+    "scord.gg",
+    "di.scord.gg",
+    "pandezlab.com",
+    "vulcanverify.eu",
     "cac.ubcusdt.com",
     "alfaformas.com",
     "openocean-dapp.org",
