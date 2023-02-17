@@ -953,6 +953,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "d.xn--scord-m4a.com",
+    "xn--iscord-v2a.com",
     "oauth2-discord.com",
     "deno-guild.online",
     "scord.gg",
