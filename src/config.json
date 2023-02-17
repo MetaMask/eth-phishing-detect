@@ -953,6 +953,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "deno-guild.online",
+    "scord.gg",
+    "di.scord.gg",
+    "pandezlab.com",
+    "vulcanverify.eu",
     "cac.ubcusdt.com",
     "alfaformas.com",
     "openocean-dapp.org",
