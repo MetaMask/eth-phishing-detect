@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan-bot.com",
     "247-dappfix.netlify.app",
     "aceing.me",
     "crypto-polis.com",
