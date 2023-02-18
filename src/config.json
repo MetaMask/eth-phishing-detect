@@ -953,6 +953,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "blur-airdrops.com",
+    "blur.wldrop.com",
+    "wldrop.com",
+    "vulcansauth.xyz",
+    "vulcan-bot.com",
     "sign.dapps-repository.com",
     "ordersatosi.com",
     "nftmetacard.co",
