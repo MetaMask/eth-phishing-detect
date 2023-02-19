@@ -953,6 +953,14 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "antispam-bot.com",
+    "mee6.it",
+    "blur-io.net",
+    "wave-blur.com",
+    "apply-blur.io",
+    "blur-io.web.app",
+    "register-opensea.io",
+    "arbitrum-one.net",
     "blur-airdrops.com",
     "blur.wldrop.com",
     "wldrop.com",
