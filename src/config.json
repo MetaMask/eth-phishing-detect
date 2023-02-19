@@ -953,6 +953,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "doodles.web3-sec.io",
+    "doodles-exclusive.com",
+    "pudgypenguins.limited-free.com",
+    "heymint.net",
     "nfarcade.gg",
     "veecon2023.com",
     "rocketpool.ws",
