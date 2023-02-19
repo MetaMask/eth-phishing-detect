@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "blur.events",
     "hoppotocol.pr-mint.com",
     "hoptech.site",
     "dendekaden-free.xyz",
