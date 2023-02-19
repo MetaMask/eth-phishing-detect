@@ -953,6 +953,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "mee6.it",
+    "blur-io.net",
+    "register-opensea.io",
     "blur-airdrops.com",
     "blur.wldrop.com",
     "wldrop.com",
