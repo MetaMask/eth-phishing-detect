@@ -953,6 +953,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "doodles.web3-sec.io",
+    "doodles-exclusive.com",
+    "enter-doodles.app",
+    "pudgypenguins.limited-free.com",
+    "heymint.net",
     "nfarcade.gg",
     "mee6.it",
     "blur-io.net",
