@@ -953,6 +953,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "hoppotocol.pr-mint.com",
+    "hoptech.site",
     "dendekaden-free.xyz",
     "dendekaden1-free.xyz",
     "pxquesst.xyz",
@@ -36111,6 +36113,10 @@
     "lido.investments",
     "iido.fi",
     "lido.tk",
-    "lido.site"
+    "lido.site",
+    "walletdappweb3-online.com",
+    "optismfounds.com",
+    "optimism.connect-web3.app",
+    "connect-web3.app"
   ]
 }
