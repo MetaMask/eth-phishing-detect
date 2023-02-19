@@ -953,6 +953,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "hoppotocol.pr-mint.com",
+    "hoptech.site",
     "dendekaden-free.xyz",
     "dendekaden1-free.xyz",
     "pxquesst.xyz",
