@@ -953,6 +953,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "nfarcade.vercel.app",
+    "assets-collab.vercel.app",
     "liquityprotocol.org",
     "etherdeals.xyz",
     "orionswap.io",
