@@ -953,6 +953,12 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "liquityprotocol.org",
+    "etherdeals.xyz",
+    "orionswap.io",
+    "anti-spambot.re",
+    "mee6.re",
+    "vulcanclient.xyz",
     "wick-bot.cam",
     "worldofwoman.io",
     "blurboredape.com",
