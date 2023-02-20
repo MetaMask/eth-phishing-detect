@@ -953,6 +953,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "nfarcade-pass.netlify.app",
+    "blur-io.in",
     "apply-nft.nyc",
     "nfarcade.vercel.app",
     "liquityprotocol.org",
