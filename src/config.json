@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "wick-bot.cam",
     "worldofwoman.io",
     "blurboredape.com",
     "xn--zk-syc-meb.com",
