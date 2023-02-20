@@ -953,6 +953,12 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "liquityprotocol.org",
+    "etherdeals.xyz",
+    "orionswap.io",
+    "anti-spambot.re",
+    "mee6.re",
+    "vulcanclient.xyz",
     "wick-bot.cam",
     "worldofwoman.io",
     "blurboredape.com",
@@ -36170,6 +36176,7 @@
     "optimism.connect-web3.app",
     "connect-web3.app",
     "blurdrop.art",
-    "xn--trzor-csa.net"
+    "xn--trzor-csa.net",
+    "go-ethdenver.com"
   ]
 }
