@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "apecoin.is",
     "sewer-pass.club",
     "register.mocaversenft.com",
     "nfarcade-pass.netlify.app",
