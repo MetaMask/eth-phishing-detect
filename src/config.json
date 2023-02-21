@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "apecoin.is",
     "sewer-pass.club",
     "register.mocaversenft.com",
     "nfarcade-pass.netlify.app",
@@ -36329,6 +36330,7 @@
     "blurdrop.art",
     "xn--trzor-csa.net",
     "go-ethdenver.com",
-    "taikoalpha.com"
+    "taikoalpha.com",
+    "xn--ptimism-00a.net"
   ]
 }
