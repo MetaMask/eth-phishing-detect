@@ -953,6 +953,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "land.town",
+    "collab.land.town",
     "apecoin.is",
     "sewer-pass.club",
     "register.mocaversenft.com",
