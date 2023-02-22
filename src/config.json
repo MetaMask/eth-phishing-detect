@@ -953,6 +953,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bakersyswap.com",
+    "blur.wldrop.site",
+    "wldrop.site",
+    "bridge.arbirum.com",
+    "arbirum.com",
     "land.town",
     "collab.land.town",
     "apecoin.is",
