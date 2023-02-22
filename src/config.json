@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "startgate.tech",
     "apecoin.is",
     "supranfts.com",
     "sewer-pass.club",
