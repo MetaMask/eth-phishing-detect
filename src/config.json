@@ -955,6 +955,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "porsche.wldrop.site",
     "r.evoke.cash",
     "evoke.cash",
     "apollox-dao.com",
@@ -1133,7 +1134,7 @@
     "walletcoinbaselogin.com",
     "xn--mtamask-98a.io",
     "rnetamask.com",
-    "mint-usdh.web.app",    
+    "mint-usdh.web.app",
     "apecoin.is",
     "supranfts.com",
     "sewer-pass.club",
