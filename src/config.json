@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "authvulcan.net",
     "pandezguard.com",
     "wickbots.com",
     "wickbotss.herokuapp.com",
