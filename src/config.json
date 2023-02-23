@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "antispambot.cc",
     "anti-spam-bot.org",
     "mee6.rs",
     "apecoin.is",
