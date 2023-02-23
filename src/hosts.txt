@@ -1070,3 +1070,6 @@
 0.0.0.0 curwe.fi
 0.0.0.0 boredapeyachtclub.app
 0.0.0.0 convexfinance.org
+0.0.0.0 app3-dapradar-com.xyz
+0.0.0.0 app-dapradar-com.xyz
+0.0.0.0 app2-dapradar-com.xyz
