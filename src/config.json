@@ -953,6 +953,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "apollox-dao.com",
+    "reutersjournals.com",
+    "somethingisbrewing.games",
     "authvulcan.net",
     "pandezguard.com",
     "wickbots.com",
