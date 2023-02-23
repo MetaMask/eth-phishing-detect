@@ -953,6 +953,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "pandezguard.com",
+    "wickbots.com",
+    "wickbotss.herokuapp.com",
     "bakersyswap.com",
     "blur.wldrop.site",
     "wldrop.site",
