@@ -955,6 +955,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "join-members.systems",
     "vwww-looksrare.com",
     "bllur.co",
     "blur-trade.com",
