@@ -955,6 +955,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "main.d22olywu54zmg5.amplifyapp.com",
     "porsche.wldrop.site",
     "r.evoke.cash",
     "evoke.cash",
