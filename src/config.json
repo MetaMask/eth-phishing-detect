@@ -955,6 +955,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "collabland.airdropreward.org",
+    "airdropreward.org",
+    "gardens-azuki.com",
+    "trade-blur.com",
     "collab.land.gmbh",
     "land.gmbh",
     "vulcan-xyz-verify-a98db973kwl8xp1lz94.netlify.app",
