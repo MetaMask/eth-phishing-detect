@@ -956,6 +956,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "synctoken.xyz",
+    "antispamguard.xyz",
     "beta-doodles.com",
     "captchaverification.live",
     "live-metemask.com",
