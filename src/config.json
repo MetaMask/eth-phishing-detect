@@ -955,6 +955,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "live-metemask.com",
     "aragon.cab",
     "1inch.web3-dexapp.online",
     "arb-drop.com",
