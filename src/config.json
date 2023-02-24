@@ -955,6 +955,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "synctoken.xyz",
     "antispamguard.xyz",
     "main.d22olywu54zmg5.amplifyapp.com",
     "join-members.systems",
