@@ -955,6 +955,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "startgate.tech",
     "porsche.wldrop.site",
     "r.evoke.cash",
     "evoke.cash",
