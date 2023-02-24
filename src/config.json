@@ -955,6 +955,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "collab.land.gmbh",
+    "land.gmbh",
+    "vulcan-xyz-verify-a98db973kwl8xp1lz94.netlify.app",
+    "vulcanauthy.com",
+    "www-wickbot.com",
     "porsche.wldrop.site",
     "r.evoke.cash",
     "evoke.cash",
