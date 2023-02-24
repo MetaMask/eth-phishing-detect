@@ -955,6 +955,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "beta-doodles.com",
     "captchaverification.live",
     "live-metemask.com",
     "1inch.web3-dexapp.online",
