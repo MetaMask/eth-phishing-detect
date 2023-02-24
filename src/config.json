@@ -955,6 +955,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "aragon.cab",
     "1inch.web3-dexapp.online",
     "arb-drop.com",
     "arbitrumbrldge.com",
