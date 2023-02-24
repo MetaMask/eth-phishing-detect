@@ -957,7 +957,6 @@
   "blacklist": [
     "captchaverification.live",
     "live-metemask.com",
-    "aragon.cab",
     "1inch.web3-dexapp.online",
     "arb-drop.com",
     "arbitrumbrldge.com",
@@ -995,10 +994,8 @@
     "support-metamask-connect.com",
     "trustpadairdrop.net",
     "defisyncprotocols.com",
-    "vulcan-xyz-verify-a98db973kwl8xp1lz94.netlify.app",
     "vulcanauth.eu",
     "vulcanauth.net",
-    "vulcanauthy.com",
     "vulcancaptcha.xyz",
     "vulcansauths.xyz",
     "vulcansbot.com",
