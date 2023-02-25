@@ -956,6 +956,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "mintforfree.github.io",
     "otcdeals.io",
     "luksoswaps.io",
     "toknsync.xyz",
