@@ -956,6 +956,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "mintforfree.github.io",
+    "otcdeals.io",
+    "luksoswaps.io",
+    "toknsync.xyz",
+    "vulcan-xyz-verify-a98db973kwl8xp1lz95.netlify.app",
     "accountsresolveapps.webflow.io",
     "airdrop-balancer.com",
     "balancerfi.co",
