@@ -956,6 +956,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captcha-system.com",
+    "vulcauth.xyz",
     "mintforfree.github.io",
     "otcdeals.io",
     "luksoswaps.io",
