@@ -956,6 +956,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "otcdeals.io",
+    "luksoswaps.io",
     "toknsync.xyz",
     "vulcan-xyz-verify-a98db973kwl8xp1lz95.netlify.app",
     "synctoken.xyz",
