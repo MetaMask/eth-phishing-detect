@@ -956,6 +956,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "toknsync.xyz",
+    "vulcan-xyz-verify-a98db973kwl8xp1lz95.netlify.app",
     "synctoken.xyz",
     "antispamguard.xyz",
     "beta-doodles.com",
