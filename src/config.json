@@ -956,6 +956,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "planetmojo.org",
     "dysnor.com",
     "land.sarl",
     "collab.land.sarl",
