@@ -956,6 +956,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "dysnor.com",
     "land.sarl",
     "collab.land.sarl",
     "captcha-system.com",
