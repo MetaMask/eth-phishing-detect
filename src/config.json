@@ -956,6 +956,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "keplr-wallet.at",
     "captcha-system.com",
     "vulcauth.xyz",
     "mintforfree.github.io",
