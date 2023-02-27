@@ -956,6 +956,15 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captcha.bot-join.info",
+    "bot-join.info",
+    "golden-key.xyz",
+    "antibotspam.com",
+    "mee6.fr",
+    "planetmojo.org",
+    "dysnor.com",
+    "land.sarl",
+    "collab.land.sarl",
     "lensiprotocol.com",
     "optimismfoundations.net",
     "osmokro.org",
