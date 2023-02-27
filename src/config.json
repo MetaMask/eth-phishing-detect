@@ -956,6 +956,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "keplr-wallet.at",
     "zigazag.xyz",
     "xrabbits.limited-drops.com",
     "xn--trasure-b9a.com",
