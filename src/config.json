@@ -956,6 +956,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "antibotspam.com",
+    "mee6.fr",
     "captcha.bot-join.info",
     "bot-join.info",
     "planetmojo.org",
