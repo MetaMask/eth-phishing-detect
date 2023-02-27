@@ -956,6 +956,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captcha.bot-join.info",
+    "bot-join.info",
     "planetmojo.org",
     "dysnor.com",
     "land.sarl",
