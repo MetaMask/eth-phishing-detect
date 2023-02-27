@@ -956,6 +956,13 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "lensiprotocol.com",
+    "optimismfoundations.net",
+    "osmokro.org",
+    "vulauth.xyz",
+    "vulcsauth.xyz",
+    "xn--cllab-281b.land",
+    "leadwallet.dinnotechworld.com", 
     "airdrop-bancor.com",
     "app-balancer.fo",
     "app-balancer.fr",
