@@ -956,6 +956,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captcha.bot-join.info",
+    "bot-join.info",
+    "golden-key.xyz",
     "antibotspam.com",
     "mee6.fr",
     "captcha.bot-join.info",
