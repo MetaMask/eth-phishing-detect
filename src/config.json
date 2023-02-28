@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bridge.arrbitrum.io",
     "hoppotocol.pr-mint.com",
     "hoptech.site",
     "dendekaden-free.xyz",
