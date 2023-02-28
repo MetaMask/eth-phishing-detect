@@ -958,6 +958,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "hottoken.top",
+    "cryptogpt.free-mint.me",
+    "bridgeaccess.site",
     "os-event.site",
     "blurtokens.io",
     "airdropsblur.com",
