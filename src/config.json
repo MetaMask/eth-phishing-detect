@@ -958,6 +958,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "opensea.io.offer.brainsonit.co.za",
     "airdrop-8pay.com",
     "airdrops-ethers.org",
     "authc-metamask-demo.pages.dev",
