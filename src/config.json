@@ -958,6 +958,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bridgeaccess.site",
     "os-event.site",
     "blurtokens.io",
     "airdropsblur.com",
