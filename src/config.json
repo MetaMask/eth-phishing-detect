@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bridge.arrbitrum.io",
     "hoppotocol.pr-mint.com",
     "hoptech.site",
     "dendekaden-free.xyz",
@@ -3130,8 +3131,6 @@
     "helpwithftx.com",
     "halfhiding.xyz",
     "ghostswaps.com",
-    "staging.ether-room.xyz",
-    "ether-room.xyz",
     "ethereum-busd.com",
     "earnspadairdrop.org",
     "doodles-mint.app",
