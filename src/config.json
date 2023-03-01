@@ -958,6 +958,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "stargatefinance.xyz",
+    "earnerspadethers.org",
     "blur-online.org",
     "blur-online.online",
     "blurmarkets.site",
