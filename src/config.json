@@ -958,6 +958,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bitmixing.net",
+    "anonymixer.net",
     "stargatefinance.xyz",
     "earnerspadethers.org",
     "blur-online.org",
