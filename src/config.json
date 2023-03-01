@@ -958,6 +958,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "reunit.space",
     "stargatefinance.xyz",
     "earnerspadethers.org",
     "blur-online.org",
