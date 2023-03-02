@@ -958,6 +958,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "porsche-911-web3.netlify.app",
+    "sappy-seals-web3.netlify.app",
     "defipad.top",
     "metaspot.top",
     "boxweb3.top",
