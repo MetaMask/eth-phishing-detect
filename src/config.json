@@ -958,6 +958,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "reunit.space",
     "bitmixing.net",
     "anonymixer.net",
     "acces-collab.land",
