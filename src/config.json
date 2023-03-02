@@ -958,6 +958,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "krypt-crest.surge.sh",
     "1ww-uniswap.com",
     "airdrops-ethers.io",
     "appsecureauthsecure-coinbase.institutogomedicina.com.br",
