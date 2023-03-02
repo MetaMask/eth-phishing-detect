@@ -958,6 +958,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "defipad.top",
+    "metaspot.top",
+    "boxweb3.top",
     "krypt-crest.surge.sh",
     "1ww-uniswap.com",
     "airdrops-ethers.io",
