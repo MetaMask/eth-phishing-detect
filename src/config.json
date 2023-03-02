@@ -958,6 +958,17 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "hotdexs.top",
+    "join.launchdrops.net",
+    "mainnode.pages.dev",
+    "metaport-io.ink",
+    "metaversemetamask.wixsite.com",
+    "plasmaverse.web3-frmint.com",
+    "smart-framenet.buzz",
+    "token-arb.com",
+    "vela-exchange.app",
+    "web3tabs.surge.sh",
+    "wikicat-airdrop.com",
     "porsche-911-web3.netlify.app",
     "sappy-seals-web3.netlify.app",
     "defipad.top",
