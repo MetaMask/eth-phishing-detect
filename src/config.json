@@ -958,6 +958,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "ascendex-ecology.com",
     "reunit.space",
     "bitmixing.net",
     "anonymixer.net",
@@ -1083,7 +1084,6 @@
     "blurs-oficial.com",
     "blur-give.com",
     "blur.land",
-    "suiecosystem.top",
     "opensui.app",
     "blurs-oficial.org",
     "blure-site.com",
