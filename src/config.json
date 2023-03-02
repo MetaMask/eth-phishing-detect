@@ -958,6 +958,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bitmixing.net",
+    "anonymixer.net",
     "acces-collab.land",
     "arrbitrum.com",
     "airdrop-appconnect.pages.dev",
