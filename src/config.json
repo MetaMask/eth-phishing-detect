@@ -958,6 +958,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "blackstation.mintyoursnfts.net",
+    "artbitrrum-bridge.dev",
     "porsche-911-web3.netlify.app",
     "sappy-seals-web3.netlify.app",
     "defipad.top",
