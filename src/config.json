@@ -958,6 +958,18 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "defendspam.cc",
+    "logvulcan.xyz",
+    "robospamguard.com",
+    "infiniteobjects.xyz",
+    "dysnor.com",
+    "captcha.bot-joins.info",
+    "bot-joins.info",
+    "seizon.website",
+    "antibotspam.re",
+    "mee6.sk",
+    "bot-mee6.cc",
+    "antispambot.app",
     "porsche-911-web3.netlify.app",
     "sappy-seals-web3.netlify.app",
     "defipad.top",
