@@ -958,6 +958,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "api-callob.land",
+    "api-connect-assets.netlify.app",
     "defendspam.cc",
     "logvulcan.xyz",
     "robospamguard.com",
