@@ -961,6 +961,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "api-callab.land",
+    "antibotspam.link",
+    "antispambot.in",
+    "coinbase.surf",
     "bot-vulcan.com",
     "api-callob.land",
     "api-connect-assets.netlify.app",
