@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "unicryptauth.com",
     "api-callab.land",
     "antibotspam.link",
     "antispambot.in",
