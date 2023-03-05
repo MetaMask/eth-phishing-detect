@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "nospambots.xyz",
     "dashboard-asset.netlify.app",
     "collab.land.gy",
     "land.gy",
