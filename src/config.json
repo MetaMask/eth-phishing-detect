@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "dashboard-asset.netlify.app",
     "collab.land.gy",
     "land.gy",
     "vulcan-xyz.netlify.app",
