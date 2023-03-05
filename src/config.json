@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "api4collab-land.com",
     "unicryptauth.com",
     "api-callab.land",
     "antibotspam.link",
