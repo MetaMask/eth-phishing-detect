@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan-xyz.netlify.app",
     "collab.land.wf",
     "land.wf",
     "remove-spam.net",
