@@ -961,6 +961,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "collab.land.gy",
+    "land.gy",
     "vulcan-xyz.netlify.app",
     "collab.land.wf",
     "land.wf",
