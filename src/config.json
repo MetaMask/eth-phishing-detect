@@ -961,6 +961,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "collab.land.wf",
+    "land.wf",
     "remove-spam.net",
     "mee6.la",
     "dynosverify.netlify.app",
