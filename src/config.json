@@ -961,6 +961,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "unstupobleddomains.click",
+    "gateway-portidl.ink",
     "aavepool.info",
     "adcoinbase.live",
     "accountsitabinaver.link",
