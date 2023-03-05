@@ -961,6 +961,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "remove-spam.net",
+    "mee6.la",
+    "dynosverify.netlify.app",
     "api4collab-land.com",
     "unicryptauth.com",
     "api-callab.land",
