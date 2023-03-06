@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "zksyncs.app",
     "unstupobleddomains.click",
     "gateway-portidl.ink",
     "aavepool.info",
