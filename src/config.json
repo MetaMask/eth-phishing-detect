@@ -961,6 +961,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "dynobot.cyclic.app",
+    "mee6verif.com",
+    "captcha-bot.guild-system.click",
+    "guild-system.click",
+    "api-verify-tokens.netlify.app",
     "zksyncs.app",
     "unstupobleddomains.click",
     "gateway-portidl.ink",
