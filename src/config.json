@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcan-verification.com",
     "collab-land.cc",
     "dynobot.cyclic.app",
     "mee6verif.com",
