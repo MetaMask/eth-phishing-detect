@@ -961,6 +961,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "balancer.web3claim.org",
+    "web3claim.org",
     "verify-io.web.app",
     "1inch.busd.farm",
     "1inch.li",
