@@ -961,6 +961,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "stopspambot.com",
+    "antispam.re",
+    "api3collab-land.com",
     "vulcan-verification.com",
     "collab-land.cc",
     "dynobot.cyclic.app",
