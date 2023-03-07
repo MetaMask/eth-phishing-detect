@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "verify-io.web.app",
     "1inch.busd.farm",
     "1inch.li",
     "2fa-coinbase.com",
