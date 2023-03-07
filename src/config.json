@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "collab-land.cc",
     "dynobot.cyclic.app",
     "mee6verif.com",
     "captcha-bot.guild-system.click",
