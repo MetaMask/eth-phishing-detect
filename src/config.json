@@ -961,6 +961,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "uniswapdataprice.com",
+    "xn--meamak-7ib4d.com",
+    "xn--mtamak-3ua83g.com",
+    "xn--pncakeswp-01ah.com",
     "chompersanctuary.com",
     "teslapresale.finance",
     "airdrop-1inch.com",
@@ -1006,7 +1010,7 @@
     "tokens-arbitrum.com",
     "trustwallet.com.secure.login.lansmanmedia.com",
     "uniswap.v2-protocol.org",
-    "uniswapv3lp.io,
+    "uniswapv3lp.io",
     "updates-metamask.co",
     "balancer.web3claim.org",
     "web3claim.org",
