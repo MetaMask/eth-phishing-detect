@@ -962,6 +962,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "xn--strgate-9va.com",
     "owls3d.com",
     "ada-defi.one",
     "synncc.netlify.app",
