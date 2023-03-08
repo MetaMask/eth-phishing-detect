@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "walletconnecty.netlify.app",
     "dappwalletnode.web.app",
     "uniswapdataprice.com",
     "xn--meamak-7ib4d.com",
