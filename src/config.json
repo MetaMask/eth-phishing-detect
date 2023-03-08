@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "teslapresale.finance",
     "airdrop-1inch.com",
     "airdrop.optimism-labs.org",
     "app.uniswapv3lp.org",
