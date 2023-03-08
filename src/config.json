@@ -961,6 +961,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "dappwalletnode.web.app",
     "uniswapdataprice.com",
     "xn--meamak-7ib4d.com",
     "xn--mtamak-3ua83g.com",
