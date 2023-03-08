@@ -961,6 +961,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "vulcanapp.netlify.app",
+    "blockspams.com",
+    "antibotspam.org",
+    "api2collab-land.com",
     "stopspambot.com",
     "antispam.re",
     "api3collab-land.com",
