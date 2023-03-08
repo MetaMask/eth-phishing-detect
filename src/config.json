@@ -962,6 +962,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "ethersupport.org",
     "walletconnecty.netlify.app",
     "dappwalletnode.web.app",
     "uniswapdataprice.com",
