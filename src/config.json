@@ -962,6 +962,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captcha-bot.guild-assist.click",
+    "guild-assist.click",
+    "stopspambots.app",
     "xn--strgate-9va.com",
     "owls3d.com",
     "ada-defi.one",
