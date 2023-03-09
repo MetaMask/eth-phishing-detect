@@ -962,6 +962,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "arbitum-lab.com",
     "1inch.art",
     "adidasnft.app",
     "aliaskusa.org",
