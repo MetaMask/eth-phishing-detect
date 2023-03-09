@@ -963,6 +963,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "api-collab.land",
+    "collab.land.gd",
+    "land.gd",
+    "api6collab-land.com",
+    "claims-digidaigaku.com",
     "api1collab-land.com",
     "captcha-bot.guild-assist.click",
     "guild-assist.click",
@@ -38849,6 +38854,19 @@
     "claim.optimism.is",
     "optimism.is",
     "igdo.cc",
-    "ref15-airdrop-alert.com"
+    "ref15-airdrop-alert.com",
+    "zetachainn.erc20-mint.com",
+    "erc20-mint.com",
+    "optimiism.web3mint.io",
+    "web3mint.io",
+    "optimism-airdrop.site",
+    "zetaevent.site",
+    "daomaker.gives",
+    "collabland.claimer-web3.com",
+    "claimer-web3.com",
+    "collob.land",
+    "lidov2.com",
+    "xn--ido-gwa.com",
+    "mkrearn.site"
   ]
 }
