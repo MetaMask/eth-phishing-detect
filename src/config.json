@@ -962,6 +962,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "api1collab-land.com",
     "captcha-bot.guild-assist.click",
     "guild-assist.click",
     "stopspambots.app",
