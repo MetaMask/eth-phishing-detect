@@ -962,6 +962,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "claims-digidaigaku.com",
     "api1collab-land.com",
     "captcha-bot.guild-assist.click",
     "guild-assist.click",
