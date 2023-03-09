@@ -962,6 +962,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "api-collab.land",
+    "collab.land.gd",
+    "land.gd",
+    "api6collab-land.com",
     "claims-digidaigaku.com",
     "api1collab-land.com",
     "captcha-bot.guild-assist.click",
