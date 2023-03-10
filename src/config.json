@@ -962,6 +962,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "connect-collab-land.org",
     "connect.xn--cllab-jua.land",
     "spamremoval.org",
     "mee6.st",
