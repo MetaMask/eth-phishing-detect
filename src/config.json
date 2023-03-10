@@ -962,6 +962,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "ethersupport.org",
+    "magicnft.win",
     "connect-collab-land.org",
     "connect.xn--cllab-jua.land",
     "spamremoval.org",
