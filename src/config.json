@@ -963,6 +963,13 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "removespam.re",
+    "clearspam.xyz",
+    "mee6.vc",
+    "api7collab-land.com",
+    "collab.land.sb",
+    "land.sb",
+    "x2y2.io.listing.bid",
     "airdrop.aptos-network.org",
     "airdrop.aptos-networks.org",
     "airdrop.zksync-labs.net",
