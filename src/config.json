@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "verifyassets-land.netlify.app",
     "removespam.re",
     "clearspam.xyz",
     "mee6.vc",
