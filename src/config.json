@@ -962,6 +962,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "guild-automation.click",
+    "discord.guild-assist.click",
+    "guild-assist.click",
     "api-collab.land",
     "collab.land.gd",
     "land.gd",
