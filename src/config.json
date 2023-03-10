@@ -962,6 +962,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "register-onchainmonkey.com",
     "api-collab.land",
     "collab.land.gd",
     "land.gd",
