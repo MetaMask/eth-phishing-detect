@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "claims-circle.com",
     "airdrop.aptos-network.org",
     "airdrop.aptos-networks.org",
     "airdrop.zksync-labs.net",
