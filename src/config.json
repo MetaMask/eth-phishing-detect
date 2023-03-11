@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "dynoverifications.netlify.app",
+    "captcha.guild-assistant.co.uk",
     "captcha-server.click",
     "guildassistant.re",
     "mee6.guild-assistant.co.uk",
