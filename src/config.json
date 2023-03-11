@@ -963,6 +963,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "circle-usdc.com",
+    "claim-defybirds.com",
+    "join-dimensionals.com",
+    "claims-circle.com",
     "airdrop.aptos-network.org",
     "airdrop.aptos-networks.org",
     "airdrop.zksync-labs.net",
