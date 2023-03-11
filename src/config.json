@@ -963,6 +963,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "circledex.fi",
+    "circlefinance.fi",
+    "sushiswap.space",
     "dynoverifications.netlify.app",
     "captcha.guild-assistant.co.uk",
     "captcha-server.click",
