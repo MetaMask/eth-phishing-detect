@@ -963,6 +963,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "guildassistant.re",
+    "mee6.guild-assistant.co.uk",
+    "guild-assistant.co.uk",
+    "grumbies.xyz",
     "verifyassets-land.netlify.app",
     "removespam.re",
     "clearspam.xyz",
