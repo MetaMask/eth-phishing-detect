@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captcha-server.click",
     "guildassistant.re",
     "mee6.guild-assistant.co.uk",
     "guild-assistant.co.uk",
