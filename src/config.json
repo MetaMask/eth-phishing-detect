@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "circleswap.fi",
+    "circleswap.finance",
     "circle-usdc.com",
     "claim-defybirds.com",
     "join-dimensionals.com",
