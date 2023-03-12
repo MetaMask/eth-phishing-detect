@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "biur.one",
     "accountopensea-io.duia.us",
     "airdropalert-dapp.com",
     "airdropalerts-dapp.com",
