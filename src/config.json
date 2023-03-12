@@ -963,6 +963,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "collab.land.frl",
+    "land.frl",
+    "token-verify.netlify.app",
+    "guildassistant.click",
+    "grumbies.live",
     "circle-claim.net",
     "circle-airdrop.org",
     "dynoverifications.netlify.app",
