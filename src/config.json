@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "circle-claim.net",
+    "circle-airdrop.org",
     "dynoverifications.netlify.app",
     "captcha.guild-assistant.co.uk",
     "captcha-server.click",
