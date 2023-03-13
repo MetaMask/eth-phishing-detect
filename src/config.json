@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "web3drop.net",
     "airdrop-circle.com",
     "circle.web3claimer.net",
     "circle.web3claim.network",
