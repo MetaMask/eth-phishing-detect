@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "dapp-resolver.netlify.app",
+    "liquistaking.netlify.app",
     "safedapp.web.app",
     "daomaker.win",
     "web3drop.net",
