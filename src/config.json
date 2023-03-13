@@ -970,6 +970,7 @@
     "zcm.deno.dev",
     "guildassist.re",
     "token-holdings.netlify.app",
+    "svb-usdc.net",
     "xrabbits.web3-premint.xyz",
     "wonderpals.web3-premint.xyz",
     "wickensnft-mint.pdma.live",
@@ -39345,6 +39346,8 @@
     "mkrearn.site",
     "optimsm-fd.com",
     "optiimiism.xyz",
-    "optimismclaims.xyz"
+    "optimismclaims.xyz",
+    "cow.web3claim.network",
+    "web3claim.network"
   ]
 }
