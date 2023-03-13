@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "porsche.whitelist-mint.com",
     "dapp-resolver.netlify.app",
     "liquistaking.netlify.app",
     "safedapp.web.app",
