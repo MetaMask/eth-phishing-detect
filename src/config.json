@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "svb-usdc.net",
     "xrabbits.web3-premint.xyz",
     "wonderpals.web3-premint.xyz",
     "wickensnft-mint.pdma.live",
