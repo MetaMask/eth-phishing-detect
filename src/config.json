@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "swapad.io",
     "porsche.whitelist-mint.com",
     "dapp-resolver.netlify.app",
     "liquistaking.netlify.app",
@@ -1661,7 +1662,7 @@
     "500dex.top",
     "otcprime.io",
     "joln-hilumia.com",
-    "jackbot.ctnft.net",
+
     "babysdoge.net",
     "lidos-v2.com",
     "xn--strgate-9va.com",
@@ -14104,7 +14105,6 @@
     "cryptchampionsnft.com",
     "primeapeplanet.in",
     "etherme.xyz",
-    "criptocounter.com",
     "lunqvv2.com",
     "goblimtovn.wtf",
     "moonstrikenft.newgems.xyz",
@@ -16778,7 +16778,6 @@
     "ensclaim.domains",
     "eth2xelon.com",
     "ethelon2x.com",
-    "ethereum-events.com",
     "ethereumarb-bot.biz",
     "ethereumarb-bot.cc",
     "ethereumarb-bot.co",
@@ -39297,8 +39296,6 @@
     "mememetaverse.xyz",
     "minerblox.link",
     "mint.based-af.shop",
-    "mint.lucii.io",
-    "mmint.io",
     "moonbirdmint.netlify.app",
     "msafe.iddo.icu",
     "nextawallet.net",
