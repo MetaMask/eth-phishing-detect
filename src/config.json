@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "safedapp.web.app",
     "daomaker.win",
     "web3drop.net",
     "airdrop-circle.com",
