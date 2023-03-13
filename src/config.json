@@ -963,6 +963,13 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "verifydyno.xyz",
+    "guild.security-assist.co.uk",
+    "security-assist.co.uk",
+    "guild-captcha.com",
+    "zcm.deno.dev",
+    "guildassist.re",
+    "token-holdings.netlify.app",
     "svb-usdc.net",
     "xrabbits.web3-premint.xyz",
     "wonderpals.web3-premint.xyz",
