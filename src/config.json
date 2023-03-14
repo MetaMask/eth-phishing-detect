@@ -963,6 +963,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "spamremoval.xyz",
+    "mee6.su",
+    "dynocaptcha-gg.netlify.app",
     "seelies.xyz",
     "security.captcha-bot.name",
     "captcha-bot.name",
