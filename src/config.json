@@ -963,6 +963,16 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captchaguild.com",
+    "oauth2-vulcan.com",
+    "guildautomation.com",
+    "verifyerth.xyz",
+    "assistguild.com",
+    "carl-bot.gg",
+    "discord-oauth2.com",
+    "connect.collb.land",
+    "collb.land",
+    "connect-collab-land.net",
     "1inch.securedatasoftware.com",
     "ahealthyaura.com",
     "airdrops500.top",
