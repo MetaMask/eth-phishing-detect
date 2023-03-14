@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "x2y2.io.activity.bid",
+    "activity.bid",
     "spamremoval.xyz",
     "mee6.su",
     "dynocaptcha-gg.netlify.app",
