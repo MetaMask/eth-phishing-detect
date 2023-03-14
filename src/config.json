@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "eulerrefunds.com",
     "swapad.io",
     "porsche.whitelist-mint.com",
     "dapp-resolver.netlify.app",
