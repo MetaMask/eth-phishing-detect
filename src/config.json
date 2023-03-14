@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "lidoairdrop.org",
     "captchaguild.com",
     "oauth2-vulcan.com",
     "guildautomation.com",
