@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "lidoairdrop.org",
     "captchaguild.com",
     "oauth2-vulcan.com",
     "guildautomation.com",
@@ -13136,7 +13137,6 @@
     "dexguruu-app.click",
     "dexnguru-app.click",
     "discord-acc.com",
-    "discord-acc.ru",
     "discord-account.com",
     "discord-accs.com",
     "discord-store.rents.page",
