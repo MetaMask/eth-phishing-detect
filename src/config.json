@@ -963,6 +963,15 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "guildautomation.com",
+    "verifyerth.xyz",
+    "assistguild.com",
+    "guild-captcha.com",
+    "carl-bot.gg",
+    "discord-oauth2.com",
+    "connect.collb.land",
+    "collb.land",
+    "connect-collab-land.net",
     "eulerrefunds.com",
     "swapad.io",
     "porsche.whitelist-mint.com",
