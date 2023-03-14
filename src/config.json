@@ -963,6 +963,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "seelies.xyz",
+    "security.captcha-bot.name",
+    "captcha-bot.name",
+    "spamremoval.click",
+    "collab-land-verify.net",
     "captchaguild.com",
     "oauth2-vulcan.com",
     "guildautomation.com",
