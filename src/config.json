@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "eulerrefunds.com",
     "blur-eth.com",
     "blur-collection.com",
     "blur-claimio.xyz",
