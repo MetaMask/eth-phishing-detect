@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "ethersupport.org",
     "eulerrefunds.com",
     "swapad.io",
     "porsche.whitelist-mint.com",
