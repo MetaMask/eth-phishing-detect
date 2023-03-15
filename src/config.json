@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captcha-bot.netlify.app",
     "metamaskairdrops.com",
     "metamasksrewards.com",
     "metamasksirdrops.wixsite.com",
