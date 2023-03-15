@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "ocaenprotocol.com",
     "protocoldapps.web.app",
     "claims-circle.icu",
     "claims-circle.top",
