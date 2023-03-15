@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "auth-vulcan.com",
     "token-assets.netlify.app",
     "server-captcha.com",
     "doterth.co",
