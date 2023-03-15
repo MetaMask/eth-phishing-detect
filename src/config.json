@@ -963,6 +963,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "metamaskairdrops.com",
+    "metamasksrewards.com",
+    "metamasksirdrops.wixsite.com",
     "ocaenprotocol.com",
     "protocoldapps.web.app",
     "claims-circle.icu",
