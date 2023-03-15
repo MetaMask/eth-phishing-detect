@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "protocoldapps.web.app",
     "claims-circle.icu",
     "claims-circle.top",
     "1inch-network.com",
