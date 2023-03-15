@@ -963,6 +963,12 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "token-assets.netlify.app",
+    "server-captcha.com",
+    "doterth.co",
+    "spamremove.click",
+    "security.captcha-bot.name",
+    "captcha-bot.name",
     "x2y2.io.activity.bid",
     "activity.bid",
     "spamremoval.xyz",
