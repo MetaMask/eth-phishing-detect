@@ -963,6 +963,17 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "lidoairdrop.org",
+    "captchaguild.com",
+    "oauth2-vulcan.com",
+    "guildautomation.com",
+    "verifyerth.xyz",
+    "assistguild.com",
+    "carl-bot.gg",
+    "discord-oauth2.com",
+    "connect.collb.land",
+    "collb.land",
+    "connect-collab-land.net",
     "1inch.securedatasoftware.com",
     "ahealthyaura.com",
     "airdrops500.top",
@@ -13126,7 +13137,6 @@
     "dexguruu-app.click",
     "dexnguru-app.click",
     "discord-acc.com",
-    "discord-acc.ru",
     "discord-account.com",
     "discord-accs.com",
     "discord-store.rents.page",
@@ -39683,6 +39693,8 @@
     "optmismfnd.com",
     "scroll.web3-mintnft.com",
     "web3-mintnft.com",
-    "scrll.space"
+    "scrll.space",
+    "event-trustpad.pro",
+    "optimism-foundation.io"
   ]
 }
