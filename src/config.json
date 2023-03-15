@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "ethdefi.live",
     "cballe.com",
     "metamaskairdrops.com",
     "metamasksrewards.com",
