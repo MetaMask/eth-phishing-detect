@@ -963,6 +963,13 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "xn--strgate-qwa.com",
+    "xn--layerzro-60a.network",
+    "spambotdetection.click",
+    "collab.land.ninja",
+    "land.ninja",
+    "asset-verification.netlify.app",
+    "captcha-bot.netlify.app",
     "cryptopad-eths.org",
     "metamaskairdrops.com",
     "metamasksrewards.com",
@@ -39932,6 +39939,11 @@
     "event-trustpad.pro",
     "optimism-foundation.io",
     "unitokens.org",
-    "arbitrum.cool"
+    "arbitrum.cool",
+    "pudgypengui-ns.com",
+    "optimism.community",
+    "lido.network",
+    "ldevent.site",
+    "airdrop-ldo.com"
   ]
 }
