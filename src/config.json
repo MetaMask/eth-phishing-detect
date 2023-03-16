@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "escocrypt.com",
+    "goodvipeth.com",
     "xn--strgate-qwa.com",
     "xn--layerzro-60a.network",
     "spambotdetection.click",
