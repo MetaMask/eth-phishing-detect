@@ -963,6 +963,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "transactions.openseail.one",
+    "secure.transaction.openseall.su",
+    "web10306.web07.bero-webspace.de",
     "mee6.li",
     "spamremoval.net",
     "primerewards.io",
@@ -40011,6 +40014,23 @@
     "airdrop-ldo.com",
     "arbit-rum.pw",
     "optimism-foundations.com",
-    "astr-event.site"
+    "astr-event.site",
+    "arbitrum.wldrops.xyz",
+    "arbitirum.com",
+    "arbitrum-rewards.com",
+    "arbitrum-coin.com",
+    "arbitrum.air-drops.xyz",
+    "arbtokens.net",
+    "thearbitrum.tech",
+    "arbitrum.wl-airdrop.xyz",
+    "arbtrum.com",
+    "arbitrom.io",
+    "arbitrum-networks.com",
+    "arbittrum-wenprotocol.com",
+    "arbimainnet.com",
+    "wen-arbitrum.com",
+    "arbitrum-eth.com",
+    "wl-airdrop.xyz",
+    "wldrops.xyz"
   ]
 }
