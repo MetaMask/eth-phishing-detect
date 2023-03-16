@@ -963,6 +963,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "removalspam.com",
+    "captcchabot.netlify.app",
+    "connect-asset.netlify.app",
     "transactions.openseail.one",
     "secure.transaction.openseall.su",
     "web10306.web07.bero-webspace.de",
