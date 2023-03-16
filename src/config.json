@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "xn--strgate-qwa.com",
+    "xn--layerzro-60a.network",
     "spambotdetection.click",
     "collab.land.ninja",
     "land.ninja",
