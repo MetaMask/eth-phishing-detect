@@ -963,6 +963,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "spambotdetection.click",
+    "collab.land.ninja",
+    "land.ninja",
+    "asset-verification.netlify.app",
     "captcha-bot.netlify.app",
     "metamaskairdrops.com",
     "metamasksrewards.com",
