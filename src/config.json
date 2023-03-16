@@ -963,6 +963,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "transactions.openseail.one",
+    "secure.transaction.openseall.su",
+    "web10306.web07.bero-webspace.de",
     "mee6.li",
     "spamremoval.net",
     "primerewards.io",
