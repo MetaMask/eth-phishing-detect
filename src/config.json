@@ -963,10 +963,10 @@
     "ipfs.io"
   ],
   "blacklist": [
-    "https://transactions.openseail.one/assets/0x5949c34fx832d1bfffxe22c0b25f005f226x58416",
-    "https://transactions.openseail.one/assets/0x7e081x77b37cd65d0d8292f99eb",
-    "http://secure.transaction.openseall.su/",
-    "https://web10306.web07.bero-webspace.de/",
+    "transactions.openseail.one/assets/0x5949c34fx832d1bfffxe22c0b25f005f226x58416",
+    "transactions.openseail.one/assets/0x7e081x77b37cd65d0d8292f99eb",
+    "secure.transaction.openseall.su",
+    "web10306.web07.bero-webspace.de",
     "mee6.li",
     "spamremoval.net",
     "primerewards.io",
