@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bitmixing.net",
     "xn--strgate-qwa.com",
     "xn--layerzro-60a.network",
     "spambotdetection.click",
