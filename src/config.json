@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "xn--strgate-qwa.com",
     "xn--layerzro-60a.network",
     "cryptopad-eths.org",
     "metamaskairdrops.com",
