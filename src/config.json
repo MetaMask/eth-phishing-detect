@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "oath-vulcan.com",
+    "removalspam.click",
     "removalspam.com",
     "captcchabot.netlify.app",
     "connect-asset.netlify.app",
