@@ -963,6 +963,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "stargate.pm",
+    "stargatefi.net",
+    "stargate-flnance.xyz",
     "removalspam.com",
     "captcchabot.netlify.app",
     "connect-asset.netlify.app",
