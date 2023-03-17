@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "antiraidbot.click",
     "zen-cap-bot.com",
     "spambotprevention.click",
     "removalspam.com",
