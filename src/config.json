@@ -963,6 +963,14 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "bnbminner.com",
+    "prominervip.com",
+    "valid-swap.net",
+    "vaultdex.io",
+    "veefriends.kw-nfts.com",
+    "csix-airdrop.com",
+    "bitsvip.top",
+    "dapp.moverse.live",
     "removalspam.com",
     "captcchabot.netlify.app",
     "connect-asset.netlify.app",
