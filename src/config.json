@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "zen-cap-bot.com",
+    "spambotprevention.click",
     "removalspam.com",
     "captcchabot.netlify.app",
     "connect-asset.netlify.app",
