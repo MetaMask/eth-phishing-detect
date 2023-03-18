@@ -963,6 +963,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "stargate.pm",
+    "stargatefi.net",
+    "stargate-flnance.xyz",
     "domaintheth.org",
     "checksvv.ws",
     "captchabot.site",
