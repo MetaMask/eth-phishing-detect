@@ -963,6 +963,12 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "detectspam.click",
+    "stargate.pm",
+    "stargatefi.net",
+    "stargate-flnance.xyz",
+    "domaintheth.org",
+    "checksvv.ws",
     "captchabot.site",
     "antiraidbot.click",
     "zen-cap-bot.com",
@@ -40069,6 +40075,13 @@
     "arbitrum.digital",
     "arbitrumofficial.com",
     "arbitrum.rip",
-    "thearbitrum.com"
+    "thearbitrum.com",
+    "abritum.com",
+    "airbirturm-foundation.com",
+    "aerbitrum.foundation",
+    "arbitum-foundation.com",
+    "arbittrum.com",
+    "arbirtum.com",
+    "arbiturm.com"
   ]
 }
