@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "detectspam.click",
     "stargate.pm",
     "stargatefi.net",
     "stargate-flnance.xyz",
