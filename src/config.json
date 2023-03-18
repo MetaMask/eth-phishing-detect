@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "checksvv.ws",
     "captchabot.site",
     "antiraidbot.click",
     "zen-cap-bot.com",
