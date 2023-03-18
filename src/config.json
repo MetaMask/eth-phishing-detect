@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "dyno.la",
     "detectbots.click",
     "clearspam.org",
     "wickbot.co",
