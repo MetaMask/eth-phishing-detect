@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "checksart.xyz",
     "removalspam.com",
     "captcchabot.netlify.app",
     "connect-asset.netlify.app",
