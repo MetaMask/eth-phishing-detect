@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "detectspam.click",
     "checksvv.ws",
     "captchabot.site",
     "antiraidbot.click",
