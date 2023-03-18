@@ -963,6 +963,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captchabot.site",
+    "antiraidbot.click",
+    "zen-cap-bot.com",
+    "spambotprevention.click",
     "polygonstaking.wiki",
     "shiny-peony-7e7eef.netlify.app",
     "waiiet-paiygem.com",
