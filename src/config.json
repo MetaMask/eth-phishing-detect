@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "platform.enduring-markets.com",
+    "hoffmancapital.org",
     "removalspam.com",
     "captcchabot.netlify.app",
     "connect-asset.netlify.app",
