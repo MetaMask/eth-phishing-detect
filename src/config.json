@@ -963,6 +963,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "detectbots.click",
+    "clearspam.org",
+    "wickbot.co",
+    "mee6.ru",
     "oath-vulcan.com",
     "removalspam.click",
     "removalspam.com",
