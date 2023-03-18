@@ -964,6 +964,10 @@
   ],
   "blacklist": [
     "detectspam.click",
+    "stargate.pm",
+    "stargatefi.net",
+    "stargate-flnance.xyz",
+    "domaintheth.org",
     "checksvv.ws",
     "captchabot.site",
     "antiraidbot.click",
@@ -40068,6 +40072,13 @@
     "arbitrun.io",
     "arbitrum.press",
     "claim-arbitrum.cx",
-    "arbitrum.digital"
+    "arbitrum.digital",
+    "abritum.com",
+    "airbirturm-foundation.com",
+    "aerbitrum.foundation",
+    "arbitum-foundation.com",
+    "arbittrum.com",
+    "arbirtum.com",
+    "arbiturm.com"
   ]
 }
