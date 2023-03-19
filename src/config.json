@@ -963,6 +963,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "spamdetector.click",
+    "nfts-dashboard.netlify.app",
+    "api-collab.info",
     "botdetect.click",
     "assets-dashboard.netlify.app",
     "dyno.la",
