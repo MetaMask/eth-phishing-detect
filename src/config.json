@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "botdetect.click",
+    "assets-dashboard.netlify.app",
     "dyno.la",
     "detectbots.click",
     "clearspam.org",
