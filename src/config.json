@@ -963,6 +963,11 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captcha-bot-verify.deno.dev",
+    "unlock.deno.dev",
+    "spamaltprotection.click",
+    "captcha-bot.pro",
+    "wallets-dashboard.netlify.app",
     "spamdetector.click",
     "nfts-dashboard.netlify.app",
     "api-collab.info",
