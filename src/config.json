@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "https://mooncatcommunity.xyz",
     "detectspam.click",
     "stargate.pm",
     "stargatefi.net",
