@@ -963,6 +963,17 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "foundation.arbitrume.com",
+    "arbitrume.com",
+    "arbitrum.wl-air-drop.xyz",
+    "wl-air-drop.xyz",
+    "arbitrum-foundations.com",
+    "aurbitrum.foundation",
+    "wen-arbltrum.com",
+    "webmainnets.netlify.app",
+    "ployconnect.pages.dev",
+    "system.join-guild.info",
+    "cap-bot.top",
     "collab.land.gives",
     "land.gives",
     "captcha-bot-verify.deno.dev",
