@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "ethdefi.live",
+    "cballe.com",
     "signs-repo.com",
     "bitsvip.top",
     "bnbminner.com",
