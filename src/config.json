@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "collab.land.gives",
+    "land.gives",
     "captcha-bot-verify.deno.dev",
     "unlock.deno.dev",
     "spamaltprotection.click",
