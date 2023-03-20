@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "rtfkt-airforce.com",
     "collab.land.gives",
     "land.gives",
     "captcha-bot-verify.deno.dev",
