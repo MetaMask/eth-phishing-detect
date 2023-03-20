@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "umiswap-app.org",
     "mdapp.abson.top",
     "bridge.arrbitrum.io",
     "hoppotocol.pr-mint.com",
