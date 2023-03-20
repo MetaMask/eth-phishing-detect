@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "arbitrum-airdrop.net",
     "collab.guilds.land",
     "guilds.land",
     "foundation.arbitrume.com",
