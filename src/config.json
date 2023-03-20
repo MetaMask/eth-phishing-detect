@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "collab.servers.land",
+    "servers.land",
     "curiositiesauth.com",
     "arbifrem.com",
     "arbiitrum-bridge.club",
