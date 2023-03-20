@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "aribtrum.foundation",
     "collab.land.gives",
     "land.gives",
     "captcha-bot-verify.deno.dev",
