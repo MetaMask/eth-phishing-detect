@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "mee6-captcha-authenticator.netlify.app",
+    "dyno.do",
     "wicksbot.com",
     "collab.servers.land",
     "servers.land",
