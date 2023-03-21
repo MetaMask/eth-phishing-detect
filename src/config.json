@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "wicksbot.com",
     "collab.servers.land",
     "servers.land",
     "curiositiesauth.com",
