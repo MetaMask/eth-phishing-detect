@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "wick-bots.com",
     "colland.netlify.app",
     "collab.land-connect.us",
     "land-connect.us",
