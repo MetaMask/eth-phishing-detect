@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "platform.enduring-markets.com",
+    "hoffmancapital.org",
     "live-newupdates.com",
     "neutra.netlify.app",
     "ref-7472829.com",
