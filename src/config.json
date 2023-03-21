@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "metamask-uniswap.web.app",
     "1inch-crypto.com",
     "1inch-drop.com",
     "1inch.logininister.site",
