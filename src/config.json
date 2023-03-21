@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "swapvine.io",
+    "swapnova.io",
     "l1xpresale.com",
     "betashiba.com",
     "ape-bak.com",
