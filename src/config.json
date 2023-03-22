@@ -963,6 +963,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "electruim.xyz",
+    "chainsnode.pages.dev",
     "maderasfe.com",
     "opansea-io.org",
     "swapvine.io",
