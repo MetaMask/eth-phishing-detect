@@ -963,6 +963,10 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "dynocaptcha.netlify.app",
+    "collab.land.fail",
+    "land.fail",
+    "collabverify.in",
     "wick-bots.com",
     "colland.netlify.app",
     "collab.land-connect.us",
