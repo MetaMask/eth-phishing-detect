@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "maderasfe.com",
     "opansea-io.org",
     "swapvine.io",
     "swapnova.io",
