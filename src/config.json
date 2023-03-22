@@ -963,6 +963,13 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "erdefimining.live",
+    "arbitrum.gift",
+    "tesla-intelligence.net",
+    "notagoblintown.xyz",
+    "tokenx.top",
+    "rtfkt-airforce.com",
+    "gptairdrop.com",
     "0xaltcoin.com",
     "1291swisscoins.com",
     "1inch-cryptoair.com",
@@ -41732,6 +41739,7 @@
     "mint-arbitrum.xyz",
     "presale-arbitrum.io",
     "thearbitrum.blue",
-    "xn--abitrum-foundation-xkd.com"
+    "xn--abitrum-foundation-xkd.com",
+    "dappradar.pro"
   ]
 }
