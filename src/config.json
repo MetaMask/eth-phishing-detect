@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "mdapp.abson.top",
     "bridge.arrbitrum.io",
     "stargatefinance.tech",
     "blur-claim.site",
