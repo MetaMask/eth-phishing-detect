@@ -947,7 +947,7 @@
     "boyensea.me",
     "drivity.org",
     "victus.sport",
-    "victus.team",
+    "victus.team",a
     "acus.dev",
     "finiti.rs",
     "satoshilabs.com",
@@ -963,6 +963,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "opansea-io.org",
     "swapvine.io",
     "swapnova.io",
     "l1xpresale.com",
