@@ -963,6 +963,14 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "coinmarketpage.com",
+    "cointop3.abson.top",
+    "eth-dep.com",
+    "myportalmeta.com",
+    "layer3.dapp-web3.net",
+    "main.d1ot2qh3wiov1v.amplifyapp.com",
+    "metapad-beta.xyz",
+    "stake-wise.net",
     "1inch-drop.org",
     "1inch-event.top",
     "500coin-get.top",
