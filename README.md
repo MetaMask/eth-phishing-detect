@@ -2,7 +2,7 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/eth-phishing-detect.svg)](https://greenkeeper.io/)
 
-Utility for detecting phishing domains targeting Ethereum users.
+Utility for detecting phishing domains targeting Web3 users.
 
 For checking why a given domain was blocked, try our interactive page [here](https://metamask.github.io/eth-phishing-detect) (outdated)
 
@@ -41,6 +41,8 @@ console.log(value)
 ```
 
 ## Contributions
+
+Contributors are encouraged to read [`CONTRIBUTING.md`](./CONTRIBUTING.md) to for tips, pointers, and guidelines before reporting or collaborating.
 
 To keep a tidy file, use the following CLI to make changes to the list:
 
