@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "sui.presalepad.com",
     "airdrops-apecoin.com",
     "anatanft.freemiting.cyou",
     "animetaverses.club",
