@@ -14,7 +14,8 @@ We are constantly evolving the ideal policy that guides this list, but a few cle
 
 There are other grounds for blocking, and we will ultimately do our best to keep our users safe.
 
-### basic usage
+
+### Basic usage
 
 ```js
 const checkForPhishing = require('eth-phishing-detect')
@@ -23,7 +24,7 @@ const value = checkForPhishing('etherclassicwallet.com')
 console.log(value) // true
 ```
 
-### advanced usage
+### Advanced usage
 
 ```js
 const PhishingDetector = require('eth-phishing-detect/src/detector')
