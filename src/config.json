@@ -965,6 +965,14 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "rarible-giftcard-promo.premintweb3.com",
+    "walletsbugfix.pages.dev",
+    "garbage-friend.in",
+    "web.coiresolveapps.live",
+    "bridge-zksync.com",
+    "zksync-cryptodrop.com",
+    "launchpads.network",
+    "consensystrade.online",
     "dynocaptcha.netlify.app",
     "collab.land.fail",
     "land.fail",
