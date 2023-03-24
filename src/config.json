@@ -1,3 +1,4 @@
+
 {
   "version": 2,
   "tolerance": 2,
@@ -965,6 +966,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "seeliesnft.xyz",
+    "captchabot.website",
+    "connect.xn--collb-6qa.land",
     "tbachronicles.the-premint.com",
     "syncwallet.airdrops.su",
     "supersea.vip-premint.com",
