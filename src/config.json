@@ -965,6 +965,9 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "connect.xn--collb-6qa.land",
+    "seeliesnft.xyz",
+    "captchabot.website",
     "dynocaptcha.netlify.app",
     "collab.land.fail",
     "land.fail",
