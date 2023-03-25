@@ -965,6 +965,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "arbtirum.io",
     "seeliesnft.xyz",
     "captchabot.website",
     "connect.xn--collb-6qa.land",
