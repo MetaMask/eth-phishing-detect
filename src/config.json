@@ -965,6 +965,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "verifications.deno.dev",
     "suiglobal-verify.netlify.app",
     "connect.xn--collb-jra.land",
     "xn--collb-jra.land",
