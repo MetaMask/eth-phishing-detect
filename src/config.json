@@ -965,6 +965,8 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "captcha-bot.info",
+    "nftcentral.in",
     "verifications.deno.dev",
     "suiglobal-verify.netlify.app",
     "connect.xn--collb-jra.land",
