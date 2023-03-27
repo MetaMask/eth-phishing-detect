@@ -38,5 +38,8 @@
   "bugs": {
     "url": "https://github.com/MetaMask/eth-phishing-detect/issues"
   },
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "homepage": "https://github.com/MetaMask/eth-phishing-detect#readme"
 }
