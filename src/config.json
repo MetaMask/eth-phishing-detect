@@ -966,6 +966,7 @@
     "metarisk.com"
   ],
   "blacklist": [
+    "walletsecurityupdate.com",
     "captcha-bot.info",
     "nftcentral.in",
     "verifications.deno.dev",
