@@ -18,9 +18,10 @@ export _branch=ci-merge-$(git rev-parse --short HEAD)
 
 # create commit with list changes and push
 git diff src/config.json \
-    && git checkout -b $_branch \
-    && git add src/config.json \
-    && git rm ADD_HOSTS_HERE/*/* \
-    && git commit -m 'update hostlists' \
-    && git push -u origin $_branch
+    && git checkout -b develop --track origin/develop #\
+#    && git add src/config.json \
+#    && git rm ADD_HOSTS_HERE/*/* \
+#    && git commit -m 'update hostlists' \
+#    && git push -u origin $_branch
+
 echo 'done'

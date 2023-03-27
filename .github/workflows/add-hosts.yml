@@ -11,18 +11,25 @@ jobs:
     name: hostnames
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Use Node.js
       uses: actions/setup-node@v3
       with:
         node-version-file: "./.nvmrc"
     - run: yarn --frozen-lockfile
-    - name: setup git config
-      run: |
-        git config user.name "GitHub Actions Bot"
-        git config user.email "<>"
     - name: process hosts lists
       run: .github/workflows/process-hostlists.sh
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4.2.0
+      with:
+        # push-to-fork: legobeat/eth-phishing-detect
+        branch-suffix: short-commit-hash
+        add-paths: |
+          src/config.json
+          ADD_HOSTS_HERE/allowlist/*
+          ADD_HOSTS_HERE/blocklist/*
+          ADD_HOSTS_HERE/fuzzylist/*
+
 
   all-jobs-pass:
     name: All jobs pass
