@@ -966,6 +966,14 @@
     "metarisk.com"
   ],
   "blacklist": [
+    "captcha-bot.info",
+    "nftcentral.in",
+    "verifications.deno.dev",
+    "suiglobal-verify.netlify.app",
+    "connect.xn--collb-jra.land",
+    "xn--collb-jra.land",
+    "robotspamguard.cc",
+    "mee6-bot.cc",
     "arbtirum.io",
     "seeliesnft.xyz",
     "captchabot.website",
