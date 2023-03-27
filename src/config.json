@@ -966,6 +966,7 @@
     "metarisk.com"
   ],
   "blacklist": [
+    "enseth.domains",
     "chainspace.nft-premints.xyz",
     "brightmomentsnft.xyz",
     "bridgemeetis.com",
