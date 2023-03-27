@@ -962,7 +962,8 @@
     "satoshilabs.design",
     "goerli.net",
     "ethberlin.org",
-    "ipfs.io"
+    "ipfs.io",
+    "metarisk.com"
   ],
   "blacklist": [
     "captcha-bot.info",
