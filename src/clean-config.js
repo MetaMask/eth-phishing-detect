@@ -23,10 +23,6 @@ if (!section) {
   exitWithUsage(1);
 }
 
-const resultFilter = listName === 'blocklist'
-  ? r => r.result && r.type !== 'fuzzy'
-  : r => !r.result;
-
 const cleanConfig = {
   version: config.version,
   tolerance: listName === 'blockList' ? 0 : config.tolerance, // disable fuzzychecking for performance
@@ -39,6 +35,10 @@ const finalEntries = new Set();
 const detector = new PhishingDetector(cleanConfig);
 const baseList = detector.configs[0][listName];
 
+const isResultRedundant = listName === 'blocklist'
+  ? r => r.result && r.type !== 'fuzzy'
+  : r => !r.result;
+
 for (let i = 0; i < config[section].length; i++) {
   const host = config[section][i];
 
@@ -46,7 +46,7 @@ for (let i = 0; i < config[section].length; i++) {
   detector.configs[0][listName] = baseList.slice(0,i).concat(baseList.slice(i+1));
   const result = detector.check(host);
 
-  if (!resultFilter(result)) {
+  if (!isResultRedundant(result)) {
     finalEntries.add(host);
   } else {
     if (listName === 'allowlist') {
