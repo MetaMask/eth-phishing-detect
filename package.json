@@ -11,7 +11,8 @@
     "clean:allowlist": "node src/clean-config.js allowlist",
     "add:blacklist": "node src/blacklist.js",
     "add:blocklist": "node src/add-hosts.js src/config.json blocklist",
-    "add:allowlist": "node src/add-hosts.js src/config.json allowlist"
+    "add:allowlist": "node src/add-hosts.js src/config.json allowlist",
+    "prepare": "husky install"
   },
   "author": "kumavis",
   "license": "DBAD",
@@ -26,6 +27,7 @@
     "async": "^3.2.4",
     "browserify": "^17.0.0",
     "csv-parse": "^5.3.6",
+    "husky": "^8.0.3",
     "needle": "^3.2.0",
     "punycode": "^2.3.0",
     "tap-summary": "^4.0.0",
