@@ -4,7 +4,8 @@ const needle = require('needle')
 const mapValues = require('async/mapValues')
 const parseCsv = require('csv-parse/sync')
 const punycode = require('punycode/')
-const PhishingDetector = require("../src/detector")
+const PhishingDetector = require('../src/detector.js')
+const { cleanAllowlist, cleanBlocklist } = require('../src/clean-config.js')
 const config = require("../src/config.json")
 const alexaTopSites = require("./alexa.json")
 const popularDapps = require("./dapps.json")
@@ -58,7 +59,6 @@ function startTests () {
     testWhitelist(t, [
       "metamask.io",
       "etherscan.io",
-      "ethereum.org",
       // whitelist subdomains
       "www.metamask.io",
       "faucet.metamask.io",
@@ -81,6 +81,7 @@ function startTests () {
 
     testAnyType(t, false, [
       "example.com",
+      "ethereum.org",
       "etherid.org",
       "ether.cards",
       "easyeth.com",
@@ -409,7 +410,6 @@ function startTests () {
     testWhitelist(t, [
       "metamask.io",
       "etherscan.io",
-      "ethereum.org",
       // whitelist subdomains
       "www.metamask.io",
       "faucet.metamask.io",
@@ -432,6 +432,7 @@ function startTests () {
 
     testAnyType(t, false, [
       "example.com",
+      "ethereum.org",
       "etherid.org",
       "ether.cards",
       "easyeth.com",
@@ -1195,6 +1196,11 @@ function startTests () {
     t.end()
   })
 
+  test("config does not contain redundant entries", (t) => {
+    testListNoBlocklistRedundancies(t, config)
+    testListNoAllowlistRedundancies(t, config)
+    t.end()
+  })
 }
 
 function testBlacklist (t, domains, options) {
@@ -1255,6 +1261,16 @@ function testListDoesntContainRepeats (t, list) {
     const count = list.filter(item => item === domain).length
     t.ok(count === 1, `domain "${domain}" is duplicated. Domains can only appear in list once`)
   })
+}
+
+function testListNoBlocklistRedundancies (t, config) {
+  const cleanConfig = cleanBlocklist(config)
+  t.ok(cleanConfig.blacklist.length === config.blacklist.length, `blocklist contains ${config.blacklist.length-cleanConfig.blacklist.length} redundant entries. run "yarn clean:blocklist".`)
+}
+
+function testListNoAllowlistRedundancies (t, config) {
+  const cleanConfig = cleanAllowlist(config)
+  t.ok(cleanConfig.whitelist.length === config.whitelist.length, `allowlist contains ${config.whitelist.length-cleanConfig.whitelist.length} redundant entries. run "yarn clean:allowlist".`)
 }
 
 function testNoMatch (t, domains, options) {
