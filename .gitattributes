@@ -1,3 +1,5 @@
-* text eol=lf
+* text=auto
+*.json text eol=lf
+*.js text eol=lf
 
 yarn.lock linguist-generated=false
