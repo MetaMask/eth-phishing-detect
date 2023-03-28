@@ -119,6 +119,9 @@ class PhishingDetector {
 
 }
 
+PhishingDetector.processDomainList = processDomainList
+PhishingDetector.domainToParts = domainToParts
+PhishingDetector.domainPartsToDomain = domainPartsToDomain
 module.exports = PhishingDetector
 
 // util
