@@ -1,4 +1,4 @@
-const levenshtein = require('fast-levenshtein')
+const { distance } = require('fastest-levenshtein')
 const DEFAULT_TOLERANCE = 3
 
 class PhishingDetector {
@@ -103,8 +103,8 @@ class PhishingDetector {
         // check against fuzzylist
         const levenshteinMatched = fuzzylist.find((targetParts) => {
           const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
-          const distance = levenshtein.get(fuzzyForm, fuzzyTarget)
-          return distance <= tolerance
+          const dist = distance(fuzzyForm, fuzzyTarget)
+          return dist <= tolerance
         })
         if (levenshteinMatched) {
           const match = domainPartsToDomain(levenshteinMatched)
