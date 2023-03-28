@@ -1,6 +1,8 @@
 #!/usr/bin/env node
-const PhishingDetector = require('./detector')
-const config = require('./config.json')
+const { writeFileSync } = require('fs');
+const path = require('path');
+const PhishingDetector = require('./detector');
+const config = require('./config.json');
 
 const SECTION_KEYS = {
   blocklist: 'blacklist',
@@ -60,4 +62,12 @@ for (let i = 0; i < config[section].length; i++) {
 cleanConfig[section] = Array.from(finalEntries);
 cleanConfig.tolerance = config.tolerance;
 
-process.stdout.write(JSON.stringify(cleanConfig, undefined, 2)+'\n');
+// if this is piped to another process, then write to stdout.
+// otherwise, write new config to disk.
+const result = JSON.stringify(cleanConfig, undefined, 2)+'\n';
+if (process.stdout.isTTY) {
+  const destinationPath = process.env['MM_OUTPUT_PATH'] || './config.json';
+  writeFileSync(path.join(__dirname, destinationPath), result);
+} else {
+  process.stdout.write(result);
+}
