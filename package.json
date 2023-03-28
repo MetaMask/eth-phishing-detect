@@ -22,7 +22,7 @@
   "devDependencies": {
     "async": "^3.2.4",
     "browserify": "^17.0.0",
-    "csv-parse": "^4.4.6",
+    "csv-parse": "^5.3.6",
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
     "tap-summary": "^4.0.0",
