@@ -24,7 +24,7 @@
     "browserify": "^17.0.0",
     "csv-parse": "^5.3.6",
     "needle": "^3.2.0",
-    "punycode": "^2.1.0",
+    "punycode": "^2.3.0",
     "tap-summary": "^4.0.0",
     "tape": "^4.8.0"
   },
