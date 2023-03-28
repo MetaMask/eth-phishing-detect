@@ -99,7 +99,7 @@ class PhishingDetector {
         // check if near-match of whitelist domain, FAIL
         let fuzzyForm = domainPartsToFuzzyForm(source)
         // strip www
-        fuzzyForm = fuzzyForm.replace('www.', '')
+        fuzzyForm = fuzzyForm.replace(/^www\./, '')
         // check against fuzzylist
         const levenshteinMatched = fuzzylist.find((targetParts) => {
           const fuzzyTarget = domainPartsToFuzzyForm(targetParts)
