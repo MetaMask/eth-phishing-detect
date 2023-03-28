@@ -58,7 +58,6 @@ function startTests () {
     testWhitelist(t, [
       "metamask.io",
       "etherscan.io",
-      "ethereum.org",
       // whitelist subdomains
       "www.metamask.io",
       "faucet.metamask.io",
@@ -81,6 +80,7 @@ function startTests () {
 
     testAnyType(t, false, [
       "example.com",
+      "ethereum.org",
       "etherid.org",
       "ether.cards",
       "easyeth.com",
@@ -409,7 +409,6 @@ function startTests () {
     testWhitelist(t, [
       "metamask.io",
       "etherscan.io",
-      "ethereum.org",
       // whitelist subdomains
       "www.metamask.io",
       "faucet.metamask.io",
@@ -432,6 +431,7 @@ function startTests () {
 
     testAnyType(t, false, [
       "example.com",
+      "ethereum.org",
       "etherid.org",
       "ether.cards",
       "easyeth.com",
