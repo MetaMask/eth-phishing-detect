@@ -512,6 +512,10 @@
     "metarisk.com"
   ],
   "blacklist": [
+    "nftsmartbox.io",
+    "app-arbitrum.foundation",
+    "changellybit.com",
+    "event-multichain.online",
     "piklefinance.com",
     "optimism-drop.top",
     "notnftproject.xyz",
