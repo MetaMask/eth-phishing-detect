@@ -509,9 +509,11 @@
     "boyensea.me",
     "satoshilabs.com",
     "satoshilabs.design",
-    "metarisk.com"
+    "metarisk.com",
+    "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mask-tokens.io",
     "ether.scc-defi.com",
     "zksync-2023.com",
     "mask-token.net",
