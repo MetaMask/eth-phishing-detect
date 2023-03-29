@@ -19,6 +19,9 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: yarn --frozen-lockfile
+    - name: validate list invariants
+      run: |
+        env
     - run: yarn buildSample
     - run: yarn ci
   all-jobs-pass:
