@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+. "$(dirname -- "$0")/_/husky.sh"
+
+set -e
+
+# BRIEF=1 node test | tap-summary --no-progress
+
+if ! git diff --staged --quiet --exit-code src/config.json; then
+  local PATH=$(pwd)/node_modules/.bin:$PATH
+  git_head=$(git show-ref --head -s HEAD | head -c7)
+
+  oldcfg=$(pwd)/src/.config-${git_head}.json
+  newcfg=$(pwd)/src/.config-${git_head}-$(date -u '+%s')-dirty.json
+  git show HEAD:src/config.json > ${oldcfg}
+  git show :src/config.json     > ${newcfg}
+
+  # run invariant check on head commit version vs staged version
+  node src/validate-new-config.js "${oldcfg}" "${newcfg}"
+
+  ## check for invalid line-endings
+  grep -q $'\r' "${newcfg}"  && echo "invalid line-endings in ${cfg}" && exit 1
+fi
+
+exit 0
