@@ -512,6 +512,8 @@
     "metarisk.com"
   ],
   "blacklist": [
+    "airdrop-ton.com",
+    "space.claims",
     "piklefinance.com",
     "optimism-drop.top",
     "notnftproject.xyz",
