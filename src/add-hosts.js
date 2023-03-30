@@ -24,8 +24,8 @@ const addHosts = (section, domains, dest) => {
   });
 }
 
-const validateHostRedundancy = (detector, section, h) => {
-  switch (section) {
+const validateHostRedundancy = (detector, listName, h) => {
+  switch (listName) {
     case 'blocklist': {
       const r = detector.check(h);
       if (r.result) {
@@ -42,7 +42,7 @@ const validateHostRedundancy = (detector, section, h) => {
       return true;
     }
     default:
-      throw new Error(`unrecognized section '${section}'`);
+      throw new Error(`unrecognized section '${listName}'`);
   }
 }
 
