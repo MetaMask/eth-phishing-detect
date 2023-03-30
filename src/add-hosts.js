@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 const { writeFileSync } = require('fs');
-const config = require('./config.json');
 const PhishingDetector = require('./detector')
 
 const SECTION_KEYS = {
@@ -9,7 +8,7 @@ const SECTION_KEYS = {
   allowlist: 'whitelist',
 };
 
-const addHosts = (section, domains, dest) => {
+const addHosts = (config, section, domains, dest) => {
   const cfg = {
     ...config,
     [section]: config[section].concat(domains),
@@ -65,6 +64,8 @@ const exitWithUsage = (exitCode) => {
 };
 
 if (require.main === module) {
+  const config = require('./config.json');
+
   if (process.argv.length < 4) {
     exitWithUsage(1);
   }
@@ -85,5 +86,5 @@ if (require.main === module) {
     process.exit(1);
   }
 
-  addHosts(SECTION_KEYS[section], newHosts, destFile);
+  addHosts(config, SECTION_KEYS[section], newHosts, destFile);
 }
