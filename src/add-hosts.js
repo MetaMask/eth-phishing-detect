@@ -41,13 +41,6 @@ const validateHostRedundancy = (detector, section, h) => {
       }
       return true;
     }
-    case 'fuzzylist': {
-      if (config.fuzzylist.includes(h)) {
-        console.error(`'${h}' already in fuzzylist`);
-        return false;
-      }
-      return true;
-    }
     default:
       throw new Error(`unrecognized section '${section}'`);
   }
