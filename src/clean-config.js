@@ -12,7 +12,7 @@ const cleanConfig = (config, listName) => {
   const section = SECTION_KEYS[listName];
   const newConfig = {
     version: config.version,
-    tolerance: listName === 'blockList' ? 0 : config.tolerance, // disable fuzzychecking for performance
+    tolerance: listName === 'blocklist' ? 0 : config.tolerance, // disable fuzzychecking for performance
     fuzzylist: [...config.fuzzylist],
     [SECTION_KEYS.allowlist] : [...config[SECTION_KEYS.allowlist]],
     [SECTION_KEYS.blocklist] : [...config[SECTION_KEYS.blocklist]],
