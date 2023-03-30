@@ -59,7 +59,7 @@ const cleanConfig = (config, listName) => {
     }
   }
 
-  newConfig[section] = Array.from(finalEntries);
+  newConfig[section] = Array.from(finalEntries).sort();
   newConfig.tolerance = config.tolerance;
   return newConfig;
 };

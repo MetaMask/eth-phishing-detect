@@ -10,9 +10,13 @@ const SECTION_KEYS = {
 };
 
 const addHosts = (section, domains, dest) => {
+  const newEntries = new Set([
+    ...config[section],
+    ...domains,
+  ]);
   const cfg = {
     ...config,
-    [section]: config[section].concat(domains),
+    [section]: Array.from(newEntries).sort(),
   };
 
   const output = JSON.stringify(cfg, null, 2) + '\n';
