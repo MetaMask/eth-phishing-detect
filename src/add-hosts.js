@@ -8,6 +8,13 @@ const SECTION_KEYS = {
   allowlist: 'whitelist',
 };
 
+/**
+  * Adds new host to config and writes result to destination path on filesystem.
+  * @param {PhishingDetectorConfiguration} config - Input config
+  * @param {'blacklist'|'whitelist'} section - Target list of addition
+  * @param {string[]} domains - domains to add
+  * @param {string} dest - destination file path
+  */
 const addHosts = (config, section, domains, dest) => {
   const cfg = {
     ...config,
@@ -23,19 +30,26 @@ const addHosts = (config, section, domains, dest) => {
   });
 }
 
-const validateHostRedundancy = (detector, listName, h) => {
+/**
+  * Adds new host to config and writes result to destination path on filesystem.
+  * @param {PhishingDetector} detector - PhishingDetecor instance to utilize
+  * @param {'blocklist'|'allowlist'} listName - Target list to validate
+  * @param {string} host - hostname to validate
+  * @returns {boolean}  true if valid as new entry; false otherwise
+  */
+const validateHostRedundancy = (detector, listName, host) => {
   switch (listName) {
     case 'blocklist': {
-      const r = detector.check(h);
+      const r = detector.check(host);
       if (r.result) {
-        throw new Error(`'${h}' already covered by '${r.match}' in '${r.type}'.`);
+        throw new Error(`'${host}' already covered by '${r.match}' in '${r.type}'.`);
       }
       return true;
     }
     case 'allowlist': {
-      const r = detector.check(h);
+      const r = detector.check(host);
       if (!r.result) {
-        console.error(`'${h}' does not require allowlisting`);
+        console.error(`'${host}' does not require allowlisting`);
         return false;
       }
       return true;
@@ -64,6 +78,7 @@ const exitWithUsage = (exitCode) => {
 };
 
 if (require.main === module) {
+  /** @type {PhishingDetectorConfiguration} */
   const config = require('./config.json');
 
   if (process.argv.length < 4) {
@@ -77,6 +92,7 @@ if (require.main === module) {
   }
 
   const detector = new PhishingDetector(config);
+  /** @type {string[]} */
   let newHosts = [];
 
   try {
