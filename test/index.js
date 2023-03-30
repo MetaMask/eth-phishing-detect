@@ -1196,6 +1196,11 @@ function startTests () {
     t.end()
   })
 
+  test("all fuzzylist entries are present in allowlist", (t) => {
+    testListIsContained(t, config.fuzzylist, config.whitelist)
+    t.end()
+  })
+
   test("config does not contain redundant entries", (t) => {
     testListNoBlocklistRedundancies(t, config)
     testListNoAllowlistRedundancies(t, config)
@@ -1254,6 +1259,14 @@ function testListIsPunycode (t, list) {
   list.forEach((domain) => {
     t.equals(domain, punycode.toASCII(domain), `domain "${domain}" is encoded in punycode`)
   })
+}
+
+function testListIsContained (t, needles, stack) {
+  needles.forEach((domain) => {
+    if (!stack.includes(domain)) {
+      t.fail(`${domain} in fuzzylist but not present in allowlist`, domain)
+    }
+  });
 }
 
 function testListDoesntContainRepeats (t, list) {
