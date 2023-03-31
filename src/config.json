@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "hopprotocol.web3-promint.com",
     "app.hopusdc.org",
     "mask-tokens.io",
     "ether.scc-defi.com",
@@ -42000,6 +42001,11 @@
     "arbltrym.site",
     "arbitrumcrypto.net",
     "arbitrumgift.live",
+<<<<<<< HEAD
     "bridga-orbitrom.com"
+=======
+    "bridga-orbitrom.com",
+    "walleet-trezorr.com"
+>>>>>>> upstream/main
   ]
 }
