@@ -12,13 +12,14 @@ const cleanConfig = (config, listName) => {
   const section = SECTION_KEYS[listName];
   const newConfig = {
     version: config.version,
-    tolerance: listName === 'blockList' ? 0 : config.tolerance, // disable fuzzychecking for performance
+    tolerance: listName === 'blocklist' ? 0 : config.tolerance, // disable fuzzychecking for performance
     fuzzylist: [...config.fuzzylist],
     [SECTION_KEYS.allowlist] : [...config[SECTION_KEYS.allowlist]],
     [SECTION_KEYS.blocklist] : [...config[SECTION_KEYS.blocklist]],
   };
 
   const finalEntries = new Set();
+  const excludedEntries = new Set();
   const detector = new PhishingDetector(newConfig);
   const baseList = detector.configs[0][listName];
 
@@ -36,11 +37,25 @@ const cleanConfig = (config, listName) => {
     if (!isResultRedundant(result)) {
       finalEntries.add(host);
     } else {
-      if (listName === 'allowlist') {
-        console.error(`removing redundant ${JSON.stringify({entry: host, result: result.result, tolerance: config.tolerance})}`);
-      } else {
-        console.error(`removing redundant ${JSON.stringify({entry: host, match: result.match, matchList: result.type})}`);
+      if (!excludedEntries.has(host)) {
+        excludedEntries.add(host);
+        if (listName === 'allowlist') {
+          console.error(`removing redundant ${JSON.stringify({entry: host, result: result.result, tolerance: config.tolerance})}`);
+        } else {
+          console.error(`removing redundant ${JSON.stringify({entry: host, match: result.match, matchList: result.type})}`);
+        }
       }
+    }
+  }
+
+  // attempt to add back excluded entries ensuring consistency
+  for (const host of excludedEntries) {
+    newConfig[section] = Array.from(finalEntries);
+    const detector = new PhishingDetector(newConfig);
+    const result = detector.check(host);
+    if (!isResultRedundant(result)) {
+      console.error(`adding back ${JSON.stringify({host})}`);
+      finalEntries.add(host);
     }
   }
 
