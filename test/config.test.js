@@ -1,4 +1,3 @@
-const mapValues = require('async/mapValues')
 const punycode = require('punycode/')
 const test = require('tape')
 
@@ -22,30 +21,17 @@ const {
 const alexaTopSites = require('./alexa.json')
 const popularDapps = require('./dapps.json')
 
+const MEW_ALLOWLIST_URL = 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-lightlist.json'
+const MEW_BLOCKLIST_URL = 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-darklist.json'
+const REMOTE_BLOCKLIST_EXCLUDE = ['bittreat.com']
+
 const metamaskGaq = loadMetamaskGaq()
-let mewBlacklist, mewWhitelist
 
-const remoteBlacklistException = ['bittreat.com']
-
-function runTests ({ config }) {
-  // load MEW blocklist
-  mapValues({
-    mewBlacklist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-darklist.json',
-    mewWhitelist: 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-lightlist.json',
-  }, (url, _, cb) => loadRemoteJson(url, cb), (err, results) => {
-    if (err) throw err
-    // parse results
-    mewBlacklist = results.mewBlacklist.map(entry => entry.id).filter((domain) => !domain.includes('/')).map(punycode.toASCII)
-    mewWhitelist = results.mewWhitelist.map(entry => entry.id).filter((domain) => !domain.includes('/')).map(punycode.toASCII)
-    // remove exceptions
-    mewBlacklist = mewBlacklist.filter((domain) => !domain.includes(remoteBlacklistException))
-    startTests({ config })
-  })
+async function runTests ({ config }) {
+  startTests({ config })
 }
 
-
 function startTests ({ config }) {
-
   test('legacy config', (t) => {
     // blocklist
 
@@ -345,11 +331,19 @@ function startTests ({ config }) {
     t.end()
   })
 
-  test('MEW lists', (t) => {
-    testListIsPunycode(t, mewWhitelist)
-    testListIsPunycode(t, mewBlacklist)
-    testAnyType(t, false, mewWhitelist, config)
-    testAnyType(t, true, mewBlacklist, config)
+
+  test('MEW lists', async (t) => {
+    const mewBlocklist = (await loadRemoteJson(MEW_BLOCKLIST_URL))
+      .map(entry => entry.id).filter((host) => !host.includes('/')).map(punycode.toASCII)
+      .filter(host => !REMOTE_BLOCKLIST_EXCLUDE.includes(host))
+      .filter(skit => skit.startsWith('a'))
+    const mewAllowlist = (await loadRemoteJson(MEW_ALLOWLIST_URL))
+      .map(entry => entry.id).filter((host) => !host.includes('/')).map(punycode.toASCII)
+      .filter(skit => skit.startsWith('a'))
+    testListIsPunycode(t, mewAllowlist)
+    testListIsPunycode(t, mewBlocklist)
+    testAnyType(t, false, mewAllowlist, config)
+    testAnyType(t, true, mewBlocklist, config)
     t.end()
   })
 

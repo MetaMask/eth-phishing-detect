@@ -5,9 +5,23 @@ const { runTests: runConfigTests } = require('./config.test.js');
 
 const config = require('../src/config.json');
 
-function runTests () {
-  runDetectorTests();
-  runConfigTests({config});
+const SUITES = {
+  config: [
+    () => runConfigTests({config}),
+  ],
+  unit: [
+    runDetectorTests,
+  ],
 }
 
-runTests();
+function runTests (target = 'all') {
+  const suites = target === 'all'
+    ? [...Object.values(SUITES).flatMap(ss => [...ss])]
+    : SUITES[target];
+  for (const suite of suites) {
+    suite();
+  }
+}
+
+const target = process.argv[2] || 'all';
+runTests(target);

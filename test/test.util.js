@@ -137,21 +137,15 @@ function testDomain (t, { domain, name, type, expected, options, version }) {
   t.equal(value.result, expected, `result: "${domain}" should be match "${expected}"`)
 }
 
-function loadRemoteJson (url, cb) {
-  needle.get(url, (err, res) => {
-    if (err) return cb(new Error(`Trouble loading list at "${url}":\n${err.stack}`))
-    if (res.statusCode !== 200) {
-      return cb(new Error(`Trouble loading list at "${url}":\n${res.body}`))
-    }
-    let _err, result
-    try {
-      result = JSON.parse(res.body)
-    } catch (err) {
-      _err = err
-    }
-    if (err) return cb(new Error(`Trouble loading list at "${url}":\n${err.stack}`))
-    cb(_err, result)
+async function loadRemoteJson (url) {
+  const res = await needle('get', url).catch(err => {
+    throw new Error(`Trouble loading list at "${url}":\n${err.stack}`)
   })
+  if (res.statusCode !== 200) {
+    throw new Error(`HTTP status ${res.statusCode} for list at "${url}":\n${res.body}`)
+  }
+  const result = JSON.parse(res.body)
+  return result
 }
 
 module.exports = {
