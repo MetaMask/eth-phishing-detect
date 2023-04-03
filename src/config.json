@@ -513,6 +513,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "xy.ethdefiadm.com",
+    "fegtoken.cc",
+    "flodapps-rpc.network",
+    "amztokens.co",
+    "scroll.zone",
+    "connecting-opensea.com",
+    "site.coiappnode.live",
+    "dexconnect.repair",
+    "en.coiresolveapps.live",
+    "cryptopads-eths.io",
     "mask-tokens.io",
     "ether.scc-defi.com",
     "zksync-2023.com",
