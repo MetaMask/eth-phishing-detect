@@ -1,0 +1,19 @@
+name: Sync branch
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync-branch:
+    name: Sync legacy branch
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@master
+      - uses: MetaMask/action-sync-branch@0c8afe60810de1c260ec288bc792b6f513bbcc23
+        with:
+          branch: master
+          token: ${{ secrets.SYNC_BRANCH_GITHUB_TOKEN }}
+          force: true
