@@ -28,10 +28,11 @@ const validateHostRedundancy = (detector, section, h, continueOnDuplicateBlockli
   switch (section) {
     case 'blocklist': {
       const r = detector.check(h);
-      if(continueOnDuplicateBlocklist) {
-        return false
-      }
       if (r.result) {
+        if(continueOnDuplicateBlocklist) {
+          console.log(`'${h}' already covered by '${r.match}' in '${r.type}'.`)
+          return false
+        }
         throw new Error(`'${h}' already covered by '${r.match}' in '${r.type}'.`);
       }
       return true;
@@ -103,7 +104,6 @@ if (require.main === module) {
         h,
         continueOnDuplicate
       );
-      if (!result) console.log(`'${h}' not added to ${section} because it is a duplicate`);
       return result;
     });
   } catch (err) {
