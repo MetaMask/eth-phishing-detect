@@ -24,10 +24,13 @@ const addHosts = (section, domains, dest) => {
   });
 }
 
-const validateHostRedundancy = (detector, section, h) => {
+const validateHostRedundancy = (detector, section, h, continueOnDuplicateBlocklist = false) => {
   switch (section) {
     case 'blocklist': {
       const r = detector.check(h);
+      if(continueOnDuplicateBlocklist) {
+        return false
+      }
       if (r.result) {
         throw new Error(`'${h}' already covered by '${r.match}' in '${r.type}'.`);
       }
@@ -76,7 +79,14 @@ if (require.main === module) {
     exitWithUsage(1);
   }
 
-  const [destFile, section, ...hosts] = process.argv.slice(2);
+  let [destFile, section, ...hosts] = process.argv.slice(2);
+
+  let continueOnDuplicate = false;
+
+  if (hosts[0] === '--continue-on-duplicate') {
+    continueOnDuplicate = true;
+    hosts = hosts.slice(1);
+  }
 
   if (!Object.keys(SECTION_KEYS).includes(section) || hosts.length < 1) {
     exitWithUsage(1);
@@ -86,7 +96,16 @@ if (require.main === module) {
   let newHosts = [];
 
   try {
-    newHosts = hosts.filter(h => validateHostRedundancy(detector, section, h));
+    newHosts = hosts.filter((h) => {
+      const result = validateHostRedundancy(
+        detector,
+        section,
+        h,
+        continueOnDuplicate
+      );
+      if (!result) console.log(`'${h}' not added to ${section} because it is a duplicate`);
+      return result;
+    });
   } catch (err) {
     console.error(err);
     process.exit(1);
