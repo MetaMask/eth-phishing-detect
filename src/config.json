@@ -953,6 +953,7 @@
     "ipfs.io"
   ],
   "blacklist": [
+    "gemesis-mint.io",
     "heymint.pm",
     "airdrops-apecoin.com",
     "anatanft.freemiting.cyou",
