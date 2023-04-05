@@ -513,7 +513,6 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-<<<<<<< HEAD
     "web3et.gq",
     "eth-grid.top",
     "nodegenix.com",
@@ -539,7 +538,6 @@
     "ecoluniverse.com",
     "stargaite.finance",
     "layerzeros.network",
-=======
     "1i-nch-sale.site",
     "1inch-2023.org",
     "1inch-claim.net",
@@ -621,7 +619,6 @@
     "walletconnectregistry.pages.dev",
     "walleterrorcorrectionweb.pages.dev",
     "whitelist-openai.com",
->>>>>>> origin/main
     "mask-tokens.io",
     "ether.scc-defi.com",
     "zksync-2023.com",
