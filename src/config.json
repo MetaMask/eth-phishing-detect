@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "hopprotocol.web3-promint.com",
     "web3et.gq",
     "eth-grid.top",
     "nodegenix.com",
