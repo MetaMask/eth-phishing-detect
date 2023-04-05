@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eth-grid.net",
+    "eth-view.net",
     "optimismfoundations.com",
     "fananeesraffle.com",
     "difimining-top.com",
