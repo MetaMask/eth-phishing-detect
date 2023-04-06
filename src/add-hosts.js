@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const fs = require('fs');
+const { writeFileSync } = require('fs');
 const config = require('./config.json');
 const PhishingDetector = require('./detector')
 
@@ -17,7 +17,7 @@ const addHosts = (section, domains, dest) => {
 
   const output = JSON.stringify(cfg, null, 2) + '\n';
 
-  fs.writeFile(dest, output, (err) => {
+  writeFileSync(dest, output, (err) => {
     if (err) {
       return console.log(err);
     }
