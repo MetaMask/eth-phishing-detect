@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nakamigos.net",
+    "moralis-web3-api.com",
     "xy.ethdefiadm.com",
     "fegtoken.cc",
     "flodapps-rpc.network",
