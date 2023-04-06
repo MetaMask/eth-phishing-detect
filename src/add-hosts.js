@@ -113,15 +113,36 @@ if (require.main === module) {
     exitWithUsage(1);
   }
 
-  const detector = new PhishingDetector(config);
 
   try {
-    /** @type {string[]} */
-    const newHosts = hosts.filter(h => validateHostRedundancy(detector, section, h));
-    const didFilter = addHosts(config, SECTION_KEYS[section], newHosts, destFile);
+    /** @type {Set<string>} */
+    const newHosts = new Set();
+    // two-pass test for redundancy
+    // 1. add hosts in-order...
+    let detector = new PhishingDetector(config);
+    for (const host of hosts) {
+      if (validateHostRedundancy(detector, section, host)) {
+        newHosts.add(host);
+        detector.configs[0][section].push(PhishingDetector.domainToParts(host));
+      }
+    }
+    // 2. ...and in reverse
+    detector = new PhishingDetector(config);
+    for (const host of hosts.reverse()) {
+      if (newHosts.has(host)) {
+        if (validateHostRedundancy(detector, section, host)) {
+          detector.configs[0][section].push(PhishingDetector.domainToParts(host));
+        } else {
+          newHosts.delete(host);
+        }
+      }
+    }
+
+    // finally, generate new config with valid entries only added, and write result
+    const didFilter = addHosts(config, SECTION_KEYS[section], Array.from(newHosts), destFile);
 
     // exit with non-success if filtering removed entries
-    if (newHosts.length < hosts.length || didFilter) {
+    if (newHosts.size < hosts.length || didFilter) {
       process.exit(1);
     }
   } catch (err) {
