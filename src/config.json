@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensea-pro.io",
     "zyberswap-join.com",
     "zyberswap-arb.com",
     "wrappedpunks.whitelist-web3.com",
