@@ -514,6 +514,10 @@
   ],
   "blacklist": [
     "web-3drop.xyz",
+    "raidprotection.xyz",
+    "owl-verification.netlify.app",
+    "vulcanweb3.com",
+    "mee6auth.net",
     "nakamigos.art",
     "captcha-bot.management",
     "mee6-verify.vercel.app",
