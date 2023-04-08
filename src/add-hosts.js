@@ -117,8 +117,11 @@ if (require.main === module) {
   try {
     /** @type {Set<string>} */
     const newHosts = new Set();
-    // two-pass test for redundancy
-    // 1. add hosts in-order...
+    // sort entries by number of periods to correctly resolve internal redundancies
+    hosts.sort((a,b) => (a.split('.').length - b.split('.').length) * 8 + a.localeCompare(b));
+
+    // check each entry for redundancy, adding it to the detector's internal config if valid
+    // reuse detector to avoid costly reinitialization
     let detector = new PhishingDetector(config);
     for (const host of hosts) {
       if (validateHostRedundancy(detector, section, host)) {
@@ -126,19 +129,8 @@ if (require.main === module) {
         detector.configs[0][section].push(PhishingDetector.domainToParts(host));
       }
     }
-    // 2. ...and in reverse
-    detector = new PhishingDetector(config);
-    for (const host of hosts.reverse()) {
-      if (newHosts.has(host)) {
-        if (validateHostRedundancy(detector, section, host)) {
-          detector.configs[0][section].push(PhishingDetector.domainToParts(host));
-        } else {
-          newHosts.delete(host);
-        }
-      }
-    }
 
-    // finally, generate new config with valid entries only added, and write result
+    // generate new config with only valid entries added, and write result
     const didFilter = addHosts(config, SECTION_KEYS[section], Array.from(newHosts), destFile);
 
     // exit with non-success if filtering removed entries
