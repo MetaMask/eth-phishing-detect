@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "register-openseapro.com",
     "zetachain.gailxe.one",
     "mint-gho.xyz",
     "web-3drop.xyz",
