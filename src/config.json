@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "personal.uni-co.tech",
+    "kingdatas.com",
+    "chaingpt.in",
+    "my.tradings.tools",
+    "dappcoin.vip",
     "web-3drop.xyz",
     "opensea-pro.io",
     "zyberswap-join.com",
