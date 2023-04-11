@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 const { writeFileSync } = require('fs');
-const config = require('./config.json');
 const PhishingDetector = require('./detector')
 
 const SECTION_KEYS = {
@@ -9,7 +8,14 @@ const SECTION_KEYS = {
   allowlist: 'whitelist',
 };
 
-const addHosts = (section, domains, dest) => {
+/**
+  * Adds new host to config and writes result to destination path on filesystem.
+  * @param {PhishingDetectorConfiguration} config - Input config
+  * @param {'blacklist'|'whitelist'} section - Target list of addition
+  * @param {string[]} domains - domains to add
+  * @param {string} dest - destination file path
+  */
+const addHosts = (config, section, domains, dest) => {
   const cfg = {
     ...config,
     [section]: config[section].concat(domains),
@@ -24,32 +30,32 @@ const addHosts = (section, domains, dest) => {
   });
 }
 
-const validateHostRedundancy = (detector, section, h) => {
-  switch (section) {
+/**
+  * Adds new host to config and writes result to destination path on filesystem.
+  * @param {PhishingDetector} detector - PhishingDetecor instance to utilize
+  * @param {'blocklist'|'allowlist'} listName - Target list to validate
+  * @param {string} host - hostname to validate
+  * @returns {boolean}  true if valid as new entry; false otherwise
+  */
+const validateHostRedundancy = (detector, listName, host) => {
+  switch (listName) {
     case 'blocklist': {
-      const r = detector.check(h);
+      const r = detector.check(host);
       if (r.result) {
-        throw new Error(`'${h}' already covered by '${r.match}' in '${r.type}'.`);
+        throw new Error(`'${host}' already covered by '${r.match}' in '${r.type}'.`);
       }
       return true;
     }
     case 'allowlist': {
-      const r = detector.check(h);
+      const r = detector.check(host);
       if (!r.result) {
-        console.error(`'${h}' does not require allowlisting`);
-        return false;
-      }
-      return true;
-    }
-    case 'fuzzylist': {
-      if (config.fuzzylist.includes(h)) {
-        console.error(`'${h}' already in fuzzylist`);
+        console.error(`'${host}' does not require allowlisting`);
         return false;
       }
       return true;
     }
     default:
-      throw new Error(`unrecognized section '${section}'`);
+      throw new Error(`unrecognized section '${listName}'`);
   }
 }
 
@@ -72,6 +78,9 @@ const exitWithUsage = (exitCode) => {
 };
 
 if (require.main === module) {
+  /** @type {PhishingDetectorConfiguration} */
+  const config = require('./config.json');
+
   if (process.argv.length < 4) {
     exitWithUsage(1);
   }
@@ -83,6 +92,7 @@ if (require.main === module) {
   }
 
   const detector = new PhishingDetector(config);
+  /** @type {string[]} */
   let newHosts = [];
 
   try {
@@ -92,5 +102,5 @@ if (require.main === module) {
     process.exit(1);
   }
 
-  addHosts(SECTION_KEYS[section], newHosts, destFile);
+  addHosts(config, SECTION_KEYS[section], newHosts, destFile);
 }
