@@ -8,6 +8,11 @@ const SECTION_KEYS = {
   allowlist: 'whitelist',
 };
 
+/**
+  * @param {PhishingDetectorConfiguration} config - Config to clean
+  * @param {'blocklist'|'allowlist'} listName - List in config to clean
+  * @returns {PhishingDetectorConfiguration} Cleaned config
+  */
 const cleanConfig = (config, listName) => {
   const section = SECTION_KEYS[listName];
   const newConfig = {
@@ -98,6 +103,7 @@ if (require.main === module) {
   }
 
   try {
+    /** @type {PhishingDetectorConfiguration} */
     const config = require('./config.json')
     const newConfig = cleanConfig(config, listName);
 
