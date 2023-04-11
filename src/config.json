@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "wasabi-mixer.pw",
+    "criptomixer.com",
+    "coinmixer.cc",
+    "bitcoinsmix.pro",
+    "helixmixer.co",
+    "helixmixer.io",
+    "mixm.cc",
+    "ethereummixing.com",
     "web-3drop.xyz",
     "opensea-pro.io",
     "zyberswap-join.com",
