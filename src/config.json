@@ -520,6 +520,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "swapnova.io",
+    "otchive.io",
     "boomchange.io",
     "nakamigos.art",
     "captcha-bot.management",
