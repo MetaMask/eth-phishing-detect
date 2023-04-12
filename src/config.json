@@ -520,6 +520,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "boomchange.io",
     "nakamigos.art",
     "captcha-bot.management",
     "mee6-verify.vercel.app",
