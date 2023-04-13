@@ -402,7 +402,8 @@ function startTests () {
       "metamask.com",
       "wallet-ethereum.net",
       "etherclassicwallet.com",
-      "wallet-ethereum.net." //Test for absolute fully-qualified domain name
+      "wallet-ethereum.net.", //Test for absolute fully-qualified domain name
+      "phishing-test.metamask.io", // Assert that we block our test phishing site
     ], currentConfig)
 
     // whitelist
