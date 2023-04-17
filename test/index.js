@@ -854,11 +854,11 @@ function startTests () {
       type: 'blocklist'
     })
 
-    // prefer first config when fuzzy blocked by first and blocked by second
+    // prefer second config when fuzzy blocked by first and blocked by second
     testDomain(t, {
       domain: 'fuzzy-first-blocked-second.com',
       expected: true,
-      name: 'first',
+      name: 'second',
       options: [
         {
           allowlist: [],
@@ -877,7 +877,7 @@ function startTests () {
           version: 1
         },
       ],
-      type: 'fuzzy'
+      type: 'blocklist'
     })
 
     // allow origin that is allowed and not blocked on first config
@@ -932,10 +932,10 @@ function startTests () {
       type: 'allowlist'
     })
 
-    // allow origin that is blocklisted and allowlisted, both on first config
+    // block origin that is blocklisted and allowlisted, both on first config
     testDomain(t, {
       domain: 'allowed-and-blocked-first.com',
-      expected: false,
+      expected: true,
       name: 'first',
       options: [
         {
@@ -955,7 +955,7 @@ function startTests () {
           version: 1
         },
       ],
-      type: 'allowlist'
+      type: 'blocklist'
     })
 
     // allow origin blocked by fuzzylist and allowlisted, both on first config
@@ -984,10 +984,10 @@ function startTests () {
       type: 'allowlist'
     })
 
-    // allow origin that is blocklisted and allowlisted, both on second config
+    // block origin that is blocklisted and allowlisted, both on second config
     testDomain(t, {
       domain: 'allowed-and-blocked-second.com',
-      expected: false,
+      expected: true,
       name: 'second',
       options: [
         {
@@ -1007,7 +1007,7 @@ function startTests () {
           version: 1
         },
       ],
-      type: 'allowlist'
+      type: 'blocklist'
     })
 
     // allow origin blocked by fuzzylist and allowlisted, both on second config
@@ -1036,11 +1036,11 @@ function startTests () {
       type: 'allowlist'
     })
 
-    // allow origin blocked by first config but allowedlisted by second
+    // block origin blocked by first config but allowedlisted by second
     testDomain(t, {
       domain: 'blocked-first-allowed-second.com',
-      expected: false,
-      name: 'second',
+      expected: true,
+      name: 'first',
       options: [
         {
           allowlist: [],
@@ -1059,7 +1059,7 @@ function startTests () {
           version: 1
         },
       ],
-      type: 'allowlist'
+      type: 'blocklist'
     })
 
     // allow origin allowed by first config but blocked by second

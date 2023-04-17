@@ -1,6 +1,5 @@
 const { distance } = require('fastest-levenshtein')
 const DEFAULT_TOLERANCE = 3
-const PHISHING_TEST_DOMAIN = "phishing-test.metamask.io"
 class PhishingDetector {
 
   /**
@@ -55,23 +54,25 @@ class PhishingDetector {
       : domain;
 
     const source = domainToParts(fqdn)
+   
+    for (const { blocklist, allowlist, name, version } of this.configs) {
 
-    for (const { allowlist, name, version } of this.configs) {
-      // if source matches allowlist hostname (or subdomain thereof), PASS
-      const allowlistMatch = matchPartsAgainstList(source, allowlist)
-      if (allowlistMatch && fqdn != PHISHING_TEST_DOMAIN) {
-        const match = domainPartsToDomain(allowlistMatch);
-        return { match, name, result: false, type: 'allowlist', version }
-      }
-    }
-
-    for (const { blocklist, fuzzylist, name, tolerance, version } of this.configs) {
       // if source matches blocklist hostname (or subdomain thereof), FAIL
       const blocklistMatch = matchPartsAgainstList(source, blocklist)
       if (blocklistMatch) {
         const match = domainPartsToDomain(blocklistMatch);
         return { match, name, result: true, type: 'blocklist', version }
       }
+
+      // if source matches allowlist hostname (or subdomain thereof), PASS
+      const allowlistMatch = matchPartsAgainstList(source, allowlist)
+      if (allowlistMatch) {
+        const match = domainPartsToDomain(allowlistMatch);
+        return { match, name, result: false, type: 'allowlist', version }
+      }
+    }
+
+    for (const {fuzzylist, name, tolerance, version } of this.configs) {
 
       if (tolerance > 0) {
         // check if near-match of whitelist domain, FAIL
