@@ -520,6 +520,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "degods.one",
+    "opensea.backfees.pro",
+    "backfees.pro",
+    "mee6auth.io",
+    "nakamigos.info",
+    "theimps.info",
+    "beanz.icu",
     "owlcity.info",
     "lucidnft-api.surge.sh",
     "beautiful-moxie-1a719b.netlify.app",
