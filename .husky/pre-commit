@@ -9,7 +9,7 @@ target_ref=$2
 # BRIEF=1 node test | tap-summary --no-progress
 
 if ! git diff --staged --quiet --exit-code --merge-base $base_ref $target_ref src/config.json; then
-  local PATH=$(pwd)/node_modules/.bin:$PATH
+  PATH=$(pwd)/node_modules/.bin:$PATH
   #git_head=$(git show-ref --head -s HEAD | head -c7)
 
   oldcfg=$(pwd)/src/.config-${base_ref}.json
