@@ -8,7 +8,7 @@ base_ref="${1:-$(git show-ref --head -s HEAD | head -c7)}"
 target_ref=$2
 
 
-if ! git diff --staged --quiet --exit-code --merge-base $base_ref $target_ref src/config.json; then
+if ! git diff --quiet --exit-code --merge-base $base_ref ${target_ref:---staged} src/config.json; then
   PATH=$(pwd)/node_modules/.bin:$PATH
 
   oldcfg=$(pwd)/src/.config-${base_ref}.json
