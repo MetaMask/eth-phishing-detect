@@ -4,6 +4,7 @@
   "description": "Utility for detecting phishing domains targeting Ethereum users",
   "main": "src/index.js",
   "scripts": {
+    "prepare": "simple-git-hooks",
     "test": "node test | tap-summary",
     "buildSample": "browserify example/index.js -o example/bundle.js",
     "ci": "node test | tap-summary --no-progress",
