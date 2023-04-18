@@ -1,16 +1,15 @@
 #!/usr/bin/env bash
-. "$(dirname -- "$0")/_/husky.sh"
+
+# USAGE: compare-git-configs.sh [base_ref:HEAD] [target_ref]
 
 set -e
 
 base_ref="${1:-$(git show-ref --head -s HEAD | head -c7)}"
 target_ref=$2
 
-# BRIEF=1 node test | tap-summary --no-progress
 
 if ! git diff --staged --quiet --exit-code --merge-base $base_ref $target_ref src/config.json; then
   PATH=$(pwd)/node_modules/.bin:$PATH
-  #git_head=$(git show-ref --head -s HEAD | head -c7)
 
   oldcfg=$(pwd)/src/.config-${base_ref}.json
   newcfg=$(pwd)/src/.config-${base_ref}-$(date -u '+%s')-dirty.json
@@ -21,7 +20,9 @@ if ! git diff --staged --quiet --exit-code --merge-base $base_ref $target_ref sr
   node src/validate-new-config.js "${oldcfg}" "${newcfg}"
 
   ## check for invalid line-endings
-  grep -q $'\r' "${newcfg}"  && echo "invalid line-endings in ${cfg}" && exit 1
+  grep -q $'\r' "${newcfg}" \
+    && echo "invalid line-endings in ${newcfg}" \
+    && exit 1
 fi
 
 exit 0

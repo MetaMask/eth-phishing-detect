@@ -37,7 +37,7 @@
     "test": "test"
   },
   "simple-git-hooks": {
-    "pre-commit": ".husky/pre-commit"
+    "pre-commit": "src/compare-git-configs.sh"
   },
   "repository": {
     "type": "git",
