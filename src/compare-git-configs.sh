@@ -13,6 +13,8 @@ if ! git diff --quiet --exit-code --merge-base $base_ref ${target_ref:---staged}
 
   oldcfg=$(pwd)/src/.config-${base_ref}.json
   newcfg=$(pwd)/src/.config-${base_ref}-$(date -u '+%s')-dirty.json
+  trap "rm -f '${oldcfg}' '${newcfg}'" EXIT
+
   git show ${base_ref}:src/config.json    > ${oldcfg}
   git show ${target_ref}:src/config.json  > ${newcfg}
 
