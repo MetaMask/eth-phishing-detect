@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const { readFileSync } = require('fs');
-const deepEqual = require('deep-equal');
+// const deepEqual = require('deep-equal');
 const PhishingDetector = require('../src/detector.js');
 const { validateHostRedundancy } = require('../src/add-hosts.js');
 
@@ -47,7 +47,10 @@ try {
     ['blocklist','allowlist'].forEach(listName => {
       const section = SECTION_KEYS[listName];
       const baseHosts = new Set(baseConfig[section]);
-      const newHosts = newConfig[section].filter(h => !baseHosts.has(h));
+      const newHosts = new Set(newConfig[section].filter(h => !baseHosts.has(h)));
+      if (new Set(newConfig[section]).size < newConfig[section].length) {
+        return exitWithFail(`${listName} contains duplicate entry`);
+      }
 
       // entry-wise checking is typically faster than doing a full consistency check
       const checkList = [...baseConfig[section]];
@@ -58,7 +61,7 @@ try {
         };
         const detector = new PhishingDetector(cfg);
         if (!validateHostRedundancy(detector, listName, host)) {
-          exitWithFail(`${listName} "${host}" failed redundancy check`);
+          return exitWithFail(`${listName} "${host}" failed redundancy check`);
         }
       }
     });
