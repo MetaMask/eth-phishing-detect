@@ -26,7 +26,6 @@
     "async": "^3.2.4",
     "browserify": "^17.0.0",
     "csv-parse": "^5.3.6",
-    "husky": "^8.0.3",
     "needle": "^3.2.0",
     "punycode": "^2.3.0",
     "simple-git-hooks": "^2.8.1",
