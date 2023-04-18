@@ -63,6 +63,7 @@ try {
         if (!validateHostRedundancy(detector, listName, host)) {
           return exitWithFail(`${listName} "${host}" failed redundancy check`);
         }
+        checkList.push(host);
       }
     });
   }
