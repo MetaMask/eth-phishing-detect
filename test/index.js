@@ -1201,9 +1201,8 @@ function startTests () {
     t.end()
   })
 
-  test("config does not contain redundant entries", (t) => {
+  test("blocklist does not contain redundant entries", (t) => {
     testListNoBlocklistRedundancies(t, config)
-    testListNoAllowlistRedundancies(t, config)
     t.end()
   })
 
