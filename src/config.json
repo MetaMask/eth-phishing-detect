@@ -515,6 +515,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "transacton.one",
+    "gemesispro.com",
     "zetachain.airdrop-tokens.com",
     "zenacademy.nft-premint.com",
     "yuiyuni.nft-premint.com",
