@@ -9,7 +9,6 @@ const { cleanAllowlist, cleanBlocklist } = require('../src/clean-config.js')
 const config = require("../src/config.json")
 const alexaTopSites = require("./alexa.json")
 const popularDapps = require("./dapps.json")
-
 const metamaskGaq = loadMetamaskGaq()
 let mewBlacklist, mewWhitelist
 const remoteBlacklistException = ['bittreat.com']
@@ -1207,6 +1206,18 @@ function startTests () {
     testListNoAllowlistRedundancies(t, config)
     t.end()
   })
+
+  test("config does not contain the same entry in both the allowlist and blocklist", (t) => {
+    testNoAllowlistedDomainInBlocklist(t, config)
+    t.end()
+  });
+}
+
+function testNoAllowlistedDomainInBlocklist (t, config) {
+  const {blacklist: blocklist, whitelist: allowlist} = config;
+  const overlap = blocklist.filter((domain) => allowlist.includes(domain))
+  
+  t.equal(overlap.length, 0, `config should not contain the same entry in both the allowlist and blocklist: ${overlap}`)
 }
 
 function testBlacklist (t, domains, options) {
