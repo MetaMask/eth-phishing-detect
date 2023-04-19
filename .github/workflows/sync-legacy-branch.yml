@@ -1,5 +1,8 @@
 name: Sync branch
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
@@ -16,5 +19,5 @@ jobs:
       - uses: MetaMask/action-sync-branch@0c8afe60810de1c260ec288bc792b6f513bbcc23
         with:
           branch: master
-          token: ${{ secrets.SYNC_BRANCH_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           force: true
