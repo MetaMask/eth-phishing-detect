@@ -515,6 +515,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "kwst.vip",
+    "mdexwap.vip",
+    "error-fix.org",
     "gemesispro.com",
     "transacton.one",
     "zetachain.airdrop-tokens.com",
