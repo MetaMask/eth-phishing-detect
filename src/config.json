@@ -515,7 +515,6 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-<<<<<<< HEAD
     "blur2-airdrop.com",
     "zapperfinance.xyz",
     "home-zapperxyz.com",
@@ -585,9 +584,7 @@
     "solana-so.com",
     "solanaecosystemapp.com",
     "info-zapperxyz.com",
-=======
     "pepelp.com",
->>>>>>> 1a05358dc0534222add872a5d3211bfbf6bd20be
     "kwst.vip",
     "mdexwap.vip",
     "error-fix.org",
