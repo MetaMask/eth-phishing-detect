@@ -28280,7 +28280,6 @@
     "arb-drop.org",
     "arbdoge-ai-claim.online",
     "arbdoge-token-claim.online",
-    "arbitrum-foundation.netlify.app",
     "arbjtyum.com",
     "blockchainmetamask.com",
     "blocksdapps.web.app",
@@ -28333,7 +28332,6 @@
     "iweb3protocol.com",
     "join-arbitrum.info",
     "join-pepe.info",
-    "kucoinevent.com",
     "kyc-metamask-io.dnsuser.info",
     "kyc-metamask.easterndns.com",
     "kyc-metamask.libfoobar.com",
@@ -28444,7 +28442,6 @@
     "uniswap-ipfs.com",
     "uniswap-ipfs.org",
     "uniswapclaim.xyz",
-    "uniswapdoh.com",
     "uniswapews-app.pw",
     "uniswapl.org",
     "uniswapsv2.top",
@@ -44953,7 +44950,6 @@
     "lidonft.site",
     "layer2-optchain.com",
     "link3.su",
-    "kucoinevent.com",
     "my-zapperxyz.com",
     "suinetwork.icu",
     "sui-claims.xyz",
@@ -44975,7 +44971,6 @@
     "liquityprotocols.com",
     "lensprotocoldrops.com",
     "wvwv-start-ledger.com",
-    "uniswapdoh.com",
     "claim-optimism.live",
     "optimism-alrdrop.com",
     "airoptimism.site",
@@ -45003,7 +44998,6 @@
     "arbitrum.newprojects.live",
     "arbitrumverse.com",
     "check.foundation",
-    "arbitrum-foundation.netlify.app",
     "arbitrume.org",
     "arbitrumgamecoin.finance",
     "arbitrumexchange.com",
@@ -45048,6 +45042,9 @@
     "layerzerobridge.pro",
     "net-layerzero.com",
     "online-layerzero.com",
-    "claimlayerzero.com"
+    "claimlayerzero.com",
+    "arbitrum-foundation.netlify.app",
+    "kucoinevent.com",
+    "uniswapdoh.com"
   ]
 }
