@@ -515,6 +515,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pepelp.com",
     "kwst.vip",
     "mdexwap.vip",
     "error-fix.org",
