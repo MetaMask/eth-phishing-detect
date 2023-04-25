@@ -42,7 +42,8 @@ const validateHostRedundancy = (detector, listName, host) => {
     case 'blocklist': {
       const r = detector.check(host);
       if (r.result) {
-        throw new Error(`'${host}' already covered by '${r.match}' in '${r.type}'.`);
+        console.error(`'${host}' already covered by '${r.match}' in '${r.type}'.`);
+        return false;
       }
       return true;
     }
@@ -92,15 +93,18 @@ if (require.main === module) {
   }
 
   const detector = new PhishingDetector(config);
-  /** @type {string[]} */
-  let newHosts = [];
 
   try {
-    newHosts = hosts.filter(h => validateHostRedundancy(detector, section, h));
+    /** @type {string[]} */
+    const newHosts = hosts.filter(h => validateHostRedundancy(detector, section, h));
+    addHosts(config, SECTION_KEYS[section], newHosts, destFile);
+
+    // exit with non-success if filtering removed entries
+    if (newHosts.length < hosts.length) {
+      process.exit(1);
+    }
   } catch (err) {
     console.error(err);
     process.exit(1);
   }
-
-  addHosts(config, SECTION_KEYS[section], newHosts, destFile);
 }
