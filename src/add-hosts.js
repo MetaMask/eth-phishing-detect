@@ -16,12 +16,9 @@ const SECTION_KEYS = {
   * @param {string} dest - destination file path
   */
 const addHosts = (config, section, domains, dest) => {
-  // Prepend new domains, assists in avoiding Git conflicts
-  config[section].unshift(...domains);
-
   const cfg = {
     ...config,
-    [section]: config[section],
+    [section]: domains.concat(config[section]),
   };
 
   const output = JSON.stringify(cfg, null, 2) + '\n';
