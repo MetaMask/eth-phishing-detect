@@ -517,6 +517,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "altidentifer.com",
     "blur2-airdrop.com",
     "zapperfinance.xyz",
     "home-zapperxyz.com",
