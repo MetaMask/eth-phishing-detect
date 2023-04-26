@@ -13,13 +13,17 @@ jobs:
       matrix:
         node-version: [16.x, 18.x, 19.x]
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 500
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
     - run: yarn --frozen-lockfile
     - run: yarn buildSample
+    - run: |
+        src/compare-git-configs.sh "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}"
     - run: yarn ci
   all-jobs-pass:
     name: All jobs pass
