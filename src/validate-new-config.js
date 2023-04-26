@@ -62,6 +62,7 @@ try {
       for (const host of newHosts) {
         const cfg = {
           ...baseConfig,
+          tolerance: listName === 'blocklist' ? 0 : newConfig.tolerance,
           [section]: checkList,
         };
         const detector = new PhishingDetector(cfg);
@@ -69,6 +70,22 @@ try {
           return exitWithFail(`${listName} "${host}" failed redundancy check`);
         }
         checkList.push(host);
+      }
+
+      // 4. Check in reverse direction to catch existing entries which are now made redundant
+      const cfg = {
+        ...baseConfig,
+        tolerance: listName === 'blocklist' ? 0 : newConfig.tolerance,
+        [section]: Array.from(newHosts),
+      };
+      const detector = new PhishingDetector(cfg);
+      for (const host of baseHosts) {
+        if (newHosts.has(host)) {
+          continue;
+        }
+        if (!validateHostRedundancy(detector, listName, host)) {
+          return exitWithFail(`${listName} existing "${host}" failed redundancy check`);
+        }
       }
     });
   }
