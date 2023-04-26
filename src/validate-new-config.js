@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 const { readFileSync } = require('fs');
-// const deepEqual = require('deep-equal');
 const PhishingDetector = require('../src/detector.js');
 const { validateHostRedundancy } = require('../src/add-hosts.js');
 
