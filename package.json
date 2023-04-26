@@ -4,6 +4,7 @@
   "description": "Utility for detecting phishing domains targeting Ethereum users",
   "main": "src/index.js",
   "scripts": {
+    "prepare": "simple-git-hooks",
     "test": "node test | tap-summary",
     "test:unit": "node test unit | tap-summary",
     "test:config": "node test config | tap-summary",
@@ -29,11 +30,15 @@
     "csv-parse": "^5.3.6",
     "needle": "^3.2.0",
     "punycode": "^2.3.0",
+    "simple-git-hooks": "^2.8.1",
     "tap-summary": "^4.0.0",
     "tape": "^5.6.3"
   },
   "directories": {
     "test": "test"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "src/compare-git-configs.sh"
   },
   "repository": {
     "type": "git",
