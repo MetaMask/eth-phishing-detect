@@ -56,6 +56,7 @@ try {
       for (const host of newHosts) {
         const cfg = {
           ...baseConfig,
+          tolerance: listName === 'blocklist' ? 0 : newConfig.tolerance,
           [section]: checkList,
         };
         const detector = new PhishingDetector(cfg);
