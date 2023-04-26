@@ -48,7 +48,13 @@ try {
       const baseHosts = new Set(baseConfig[section]);
       const newHosts = new Set(newConfig[section].filter(h => !baseHosts.has(h)));
       if (new Set(newConfig[section]).size < newConfig[section].length) {
-        return exitWithFail(`${listName} contains duplicate entry`);
+        const dupeHosts = new Set(
+          newConfig[section].filter((host, i) =>
+            newConfig[section].lastIndexOf(host) !== i
+          )
+        );
+
+        return exitWithFail(`${listName} contains duplicate entries: ${Array.from(dupeHosts).join()}`);
       }
 
       // entry-wise checking is typically faster than doing a full consistency check
