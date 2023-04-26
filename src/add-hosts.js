@@ -16,9 +16,29 @@ const SECTION_KEYS = {
   * @param {string} dest - destination file path
   */
 const addHosts = (config, section, domains, dest) => {
+  const hosts = [...domains];
+
+  const detector = new PhishingDetector({
+    ...config,
+    tolerance: section === 'blacklist' ? 0 : config.tolerance,
+    [section]: domains,
+  });
+
+  let didFilter = false;
+
+  for (const host of config[section]) {
+    const r = detector.check(host);
+    if (r.result) {
+      console.error(`existing entry '${host}' removed due to now covered by '${r.match}' in '${r.type}'.`);
+      didFilter = true;
+      continue;
+    }
+    hosts.push(host);
+  }
+
   const cfg = {
     ...config,
-    [section]: config[section].concat(domains),
+    [section]: hosts,
   };
 
   const output = JSON.stringify(cfg, null, 2) + '\n';
@@ -28,6 +48,7 @@ const addHosts = (config, section, domains, dest) => {
       return console.log(err);
     }
   });
+  return didFilter;
 }
 
 /**
@@ -97,10 +118,10 @@ if (require.main === module) {
   try {
     /** @type {string[]} */
     const newHosts = hosts.filter(h => validateHostRedundancy(detector, section, h));
-    addHosts(config, SECTION_KEYS[section], newHosts, destFile);
+    const didFilter = addHosts(config, SECTION_KEYS[section], newHosts, destFile);
 
     // exit with non-success if filtering removed entries
-    if (newHosts.length < hosts.length) {
+    if (newHosts.length < hosts.length || didFilter) {
       process.exit(1);
     }
   } catch (err) {

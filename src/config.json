@@ -12,6 +12,8 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "openep.io",
+    "openifa.com",
     "tamask.hu",
     "openseam.co",
     "opensat.io",
@@ -5569,7 +5571,6 @@
     "pancakeswaps.us",
     "panicrek.site",
     "polygonexchange.xyz",
-    "polygonventures.xyz",
     "redeemable-circle.com",
     "svb-usdc.com",
     "take-blur.com",
@@ -45445,7 +45446,6 @@
     "layerzero-labs.app",
     "layerzero-labs.org",
     "claim-layerzero.com",
-    "discord-layerzero.netlify.app",
     "layerzerolabs.link",
     "layerzero.exchange",
     "layerzero.market",
