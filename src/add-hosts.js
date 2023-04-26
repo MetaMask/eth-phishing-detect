@@ -18,7 +18,7 @@ const SECTION_KEYS = {
 const addHosts = (config, section, domains, dest) => {
   const cfg = {
     ...config,
-    [section]: config[section].concat(domains),
+    [section]: domains.concat(config[section]),
   };
 
   const output = JSON.stringify(cfg, null, 2) + '\n';
