@@ -520,6 +520,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "darkmix.io",
+    "coinomize.la",
+    "ethereummixer.cc",
     "altidentifer.com",
     "pancakeswap.ecproevents.com",
     "galxe.tokens-drop.com",
