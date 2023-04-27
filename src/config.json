@@ -520,6 +520,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app.hopusdc.net",
     "blur2-airdrop.com",
     "zapperfinance.xyz",
     "home-zapperxyz.com",
