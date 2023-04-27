@@ -12,6 +12,9 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "openex.org",
+    "openlead.xyz",
+    "metalaska.io",
     "openep.io",
     "openifa.com",
     "tamask.hu",
@@ -3732,7 +3735,6 @@
     "crypto-claims.top",
     "crypto-metamask-verificationprotocol.com",
     "crypto500claim.top",
-    "cryptoleakvn.com",
     "cryptometamarketplace.com",
     "defiwebprotocols.web.app",
     "dexplatform.top",
@@ -45434,10 +45436,8 @@
     "arbitrum-binance.com",
     "binance-arbitrum.com",
     "arbitrum-nova.com",
-    "babyarbitrum.finance",
     "arbitrumceo.com",
     "arbitrumdrop.club",
-    "arbitrum.tools",
     "gmarbitrum.online",
     "arbitrium.io",
     "layerzero-lab.org",
