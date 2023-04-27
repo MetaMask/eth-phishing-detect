@@ -520,6 +520,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "altidentifer.com",
     "pancakeswap.ecproevents.com",
     "galxe.tokens-drop.com",
     "evolving-pixels.xyz",
