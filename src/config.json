@@ -520,6 +520,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "concept-zapper.com",
+    "your-zapper.com",
+    "zapper-fi.sale",
+    "get-zapper.com",
+    "add-zapper.com",
+    "zapper-help.com",
+    "zapper-marketplace.online",
+    "zapper-xyz.online",
+    "zapper-collections.online",
     "cowswapexchange.io",
     "v2-lido.net",
     "blur2-airdrop.com",
