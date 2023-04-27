@@ -515,10 +515,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pancakeswap.ecproevents.com",
     "galxe.tokens-drop.com",
     "evolving-pixels.xyz",
     "ethereum-shanghai.com",
-    "ecproevents.com",
     "limited-premint.com",
     "delabs.imints.xyz",
     "cryptoaivision.space",
