@@ -16,9 +16,29 @@ const SECTION_KEYS = {
   * @param {string} dest - destination file path
   */
 const addHosts = (config, section, domains, dest) => {
+  const hosts = [...domains];
+
+  const detector = new PhishingDetector({
+    ...config,
+    tolerance: section === 'blacklist' ? 0 : config.tolerance,
+    [section]: domains,
+  });
+
+  let didFilter = false;
+
+  for (const host of config[section]) {
+    const r = detector.check(host);
+    if (r.result) {
+      console.error(`existing entry '${host}' removed due to now covered by '${r.match}' in '${r.type}'.`);
+      didFilter = true;
+      continue;
+    }
+    hosts.push(host);
+  }
+
   const cfg = {
     ...config,
-    [section]: config[section].concat(domains),
+    [section]: hosts,
   };
 
   const output = JSON.stringify(cfg, null, 2) + '\n';
@@ -28,6 +48,7 @@ const addHosts = (config, section, domains, dest) => {
       return console.log(err);
     }
   });
+  return didFilter;
 }
 
 /**
@@ -42,7 +63,8 @@ const validateHostRedundancy = (detector, listName, host) => {
     case 'blocklist': {
       const r = detector.check(host);
       if (r.result) {
-        throw new Error(`'${host}' already covered by '${r.match}' in '${r.type}'.`);
+        console.error(`'${host}' already covered by '${r.match}' in '${r.type}'.`);
+        return false;
       }
       return true;
     }
@@ -92,15 +114,18 @@ if (require.main === module) {
   }
 
   const detector = new PhishingDetector(config);
-  /** @type {string[]} */
-  let newHosts = [];
 
   try {
-    newHosts = hosts.filter(h => validateHostRedundancy(detector, section, h));
+    /** @type {string[]} */
+    const newHosts = hosts.filter(h => validateHostRedundancy(detector, section, h));
+    const didFilter = addHosts(config, SECTION_KEYS[section], newHosts, destFile);
+
+    // exit with non-success if filtering removed entries
+    if (newHosts.length < hosts.length || didFilter) {
+      process.exit(1);
+    }
   } catch (err) {
     console.error(err);
     process.exit(1);
   }
-
-  addHosts(config, SECTION_KEYS[section], newHosts, destFile);
 }
