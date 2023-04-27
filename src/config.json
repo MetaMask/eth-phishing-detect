@@ -517,6 +517,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "v2-lido.net",
     "blur2-airdrop.com",
     "zapperfinance.xyz",
     "home-zapperxyz.com",
