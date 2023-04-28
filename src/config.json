@@ -520,6 +520,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptosfoundation-event.com",
     "platform-zetachain.com",
     "tab-zapper.com",
     "appszapper.com",
