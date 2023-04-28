@@ -520,6 +520,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrops-zksync.com",
     "altidentifer.com",
     "pancakeswap.ecproevents.com",
     "galxe.tokens-drop.com",
