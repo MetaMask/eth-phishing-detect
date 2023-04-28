@@ -520,6 +520,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tab-zapper.com",
+    "appszapper.com",
     "concept-zapper.com",
     "your-zapper.com",
     "zapper-fi.sale",
