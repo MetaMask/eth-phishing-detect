@@ -113,15 +113,28 @@ if (require.main === module) {
     exitWithUsage(1);
   }
 
-  const detector = new PhishingDetector(config);
 
   try {
-    /** @type {string[]} */
-    const newHosts = hosts.filter(h => validateHostRedundancy(detector, section, h));
-    const didFilter = addHosts(config, SECTION_KEYS[section], newHosts, destFile);
+    /** @type {Set<string>} */
+    const newHosts = new Set();
+    // sort entries by number of periods to correctly resolve internal redundancies
+    hosts.sort((a,b) => (a.split('.').length - b.split('.').length) * 8 + a.localeCompare(b));
+
+    // check each entry for redundancy, adding it to the detector's internal config if valid
+    // reuse detector to avoid costly reinitialization
+    let detector = new PhishingDetector(config);
+    for (const host of hosts) {
+      if (validateHostRedundancy(detector, section, host)) {
+        newHosts.add(host);
+        detector.configs[0][section].push(PhishingDetector.domainToParts(host));
+      }
+    }
+
+    // generate new config with only valid entries added, and write result
+    const didFilter = addHosts(config, SECTION_KEYS[section], Array.from(newHosts), destFile);
 
     // exit with non-success if filtering removed entries
-    if (newHosts.length < hosts.length || didFilter) {
+    if (newHosts.size < hosts.length || didFilter) {
       process.exit(1);
     }
   } catch (err) {
