@@ -520,6 +520,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumeth.com",
     "arbitlrum.net",
     "testnet-zksync.xyz",
     "layerzerozksync.com",
