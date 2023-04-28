@@ -520,6 +520,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "service-lido.com",
     "arbitrumeth.com",
     "arbitlrum.net",
     "testnet-zksync.xyz",
