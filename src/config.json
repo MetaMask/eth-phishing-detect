@@ -520,6 +520,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "testnet-zksync.xyz",
+    "layerzerozksync.com",
     "airdrops-zksync.com",
     "zksync-getapp.org",
     "zksyncclaims.com",
