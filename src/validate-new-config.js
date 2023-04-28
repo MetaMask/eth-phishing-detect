@@ -73,8 +73,9 @@ try {
         [section]: Array.from(newHosts),
       };
       const detector = new PhishingDetector(cfg);
+      const allNewHosts = new Set(newConfig[section]);
       for (const host of baseHosts) {
-        if (newHosts.has(host)) {
+        if (newHosts.has(host) || !allNewHosts.has(host)) {
           continue;
         }
         if (!validateHostRedundancy(detector, listName, host)) {
