@@ -520,6 +520,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrops-zksync.com",
+    "zksync-getapp.org",
+    "zksyncclaims.com",
     "aptosfoundation-event.com",
     "platform-zetachain.com",
     "tab-zapper.com",
