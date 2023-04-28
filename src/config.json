@@ -520,6 +520,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "test.metamask-phishing.io",
     "service-lido.com",
     "arbitrumeth.com",
     "arbitlrum.net",
@@ -45634,7 +45635,6 @@
     "web3-zone.com",
     "hugosale.com",
     "zetachain.web3-bridging.foundation",
-    "phishing-test.ellul.dev",
     "optimism-claim.org",
     "zks-allocation.com",
     "zksync-bridge.network",
