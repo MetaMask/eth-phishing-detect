@@ -521,6 +521,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "transacton.art",
     "vintera.io",
     "pudefie.com",
     "wksy.one",
