@@ -521,6 +521,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimismairdrops.com",
     "vintera.io",
     "pudefie.com",
     "wksy.one",
