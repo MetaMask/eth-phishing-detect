@@ -521,6 +521,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido.tl",
+    "lidofi.fi",
     "optimism-airdrop.sec-web3.foundation",
     "optimism-airdrop.web3-sec.foundation",
     "optimismairdrops.com",
