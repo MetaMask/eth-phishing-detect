@@ -12,6 +12,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "open.esa.int",
     "openex.org",
     "openlead.xyz",
     "metalaska.io",
@@ -520,6 +521,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "vintera.io",
+    "pudefie.com",
+    "wksy.one",
+    "tokenprojectrarity.site",
+    "earthnft.net",
     "test.metamask-phishing.io",
     "service-lido.com",
     "arbitrumeth.com",
