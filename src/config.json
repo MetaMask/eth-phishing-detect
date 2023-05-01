@@ -521,6 +521,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yuga-airdrop.com",
     "ironfish.web3promint.com",
     "earthbit-meebits.app",
     "otherside-meta.net",
