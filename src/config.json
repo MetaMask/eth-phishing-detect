@@ -521,6 +521,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumlayer2.com",
+    "arbitrumnovas.com",
+    "arbitrumnovas.xyz",
     "connect-doodles.com",
     "saladhubny.com",
     "core-app.info",
