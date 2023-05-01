@@ -521,6 +521,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "daomaker.host",
     "airdrop-zetachain.com",
     "stake-lidofinance.com",
     "arbitrumlayer2.com",
