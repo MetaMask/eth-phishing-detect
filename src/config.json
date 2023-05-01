@@ -521,6 +521,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "meebits.vip",
     "layerzreo-labs.top",
     "layerzero.web3-market.com",
     "airdrop-zksynsc.com",
