@@ -521,6 +521,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "transacton.art",
     "discord-log.deno.dev",
     "feoverse.vip",
     "dyno.re",
