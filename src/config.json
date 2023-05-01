@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido.guru",
     "doodlesanimator.io",
     "sollet.us",
     "connect-sui.com",
