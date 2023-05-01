@@ -521,6 +521,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-networks.com",
+    "layerzeronet.work",
+    "layerzeroprotocol.org",
     "crypto-optimism.com",
     "optimism-airdrop.com",
     "optimismclaim.io",
