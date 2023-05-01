@@ -521,6 +521,23 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zapperxyz.space",
+    "yuga-airdrop.com",
+    "ironfish.web3promint.com",
+    "earthbit-meebits.app",
+    "otherside-meta.net",
+    "cryptopunks.free-airdrops.com",
+    "meebits.free-airdrops.com",
+    "meebits.vip",
+    "layerzreo-labs.top",
+    "layerzero.web3-market.com",
+    "zksync.nakamigos.one",
+    "othersidee.net",
+    "lido.tl",
+    "lidofi.fi",
+    "optimism-airdrop.sec-web3.foundation",
+    "optimism-airdrop.web3-sec.foundation",
+    "optimismairdrops.com",
     "lookscoin.xyz",
     "lilmutantape.com",
     "kungfubeasts.club",
@@ -13861,7 +13878,6 @@
     "memeland-mint.cc",
     "unstake-chain.link",
     "1inch-reborn.site",
-    "airdrop-zksynsc.com",
     "ab-drop.xyz",
     "blockchain4-mmn.com",
     "claim-token.top",
@@ -45889,6 +45905,7 @@
     "claim-arbitrium.xyz",
     "layerzerodao.net",
     "layerzeronetwork.xyz",
-    "layerzeroprotocols.com"
+    "layerzeroprotocols.com",
+    "airdrop-zksynsc.com"
   ]
 }
