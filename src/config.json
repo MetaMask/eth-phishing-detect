@@ -521,6 +521,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksynsc.com",
+    "zksync.nakamigos.one",
     "othersidee.net",
     "lido.tl",
     "lidofi.fi",
