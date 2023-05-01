@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumnovachain.com",
     "lido.guru",
     "doodlesanimator.io",
     "sollet.us",
