@@ -521,6 +521,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zapperxyz.space",
     "veefriends.whitelist-airdrops.com",
     "veefriends.opensea.io-0x7be8076f4ea4a4ad08075c2508e481d6c946d12b.us",
     "yuga-airdrop.com",
