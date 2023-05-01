@@ -521,6 +521,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzreo-labs.top",
+    "layerzero.web3-market.com",
     "airdrop-zksynsc.com",
     "zksync.nakamigos.one",
     "othersidee.net",
