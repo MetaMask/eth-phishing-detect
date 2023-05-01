@@ -523,7 +523,6 @@
   "blacklist": [
     "discord-log.deno.dev",
     "feoverse.vip",
-    "collabland.plus",
     "dyno.re",
     "vfy.land",
     "connectverification.vercel.app",
@@ -589,8 +588,6 @@
     "claim-zk5ync.org",
     "get-zksynks.tech",
     "whitelist-zksync.com",
-    "zksync.at",
-    "airdrops-zksync.com",
     "zksync-nvm.xyz",
     "zks-allocation.org",
     "dyno.rs",
