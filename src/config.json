@@ -521,6 +521,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-foundation.store",
+    "arbitrum-foundation.top",
     "sui-launching.com",
     "sui-registerwhitelist.xyz",
     "suibridge.online",
