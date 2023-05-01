@@ -521,6 +521,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "earthbit-meebits.app",
+    "otherside-meta.net",
+    "cryptopunks.free-airdrops.com",
+    "cryptopunks.whitelist-airdrops.com",
+    "meebits.free-airdrops.com",
+    "meebits.whitelist-airdrops.com",
     "meebits.vip",
     "layerzreo-labs.top",
     "layerzero.web3-market.com",
