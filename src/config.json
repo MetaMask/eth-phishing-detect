@@ -521,6 +521,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sui-launching.com",
+    "sui-registerwhitelist.xyz",
+    "suibridge.online",
+    "suidrop.in",
     "layerzero-networks.com",
     "layerzeronet.work",
     "layerzeroprotocol.org",
