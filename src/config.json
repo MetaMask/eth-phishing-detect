@@ -521,6 +521,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "crypto-optimism.com",
+    "optimism-airdrop.com",
+    "optimismclaim.io",
+    "optimismecosystem.com",
+    "optimismfndclaim.net",
     "daomaker.host",
     "airdrop-zetachain.com",
     "stake-lidofinance.com",
