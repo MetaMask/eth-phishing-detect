@@ -521,6 +521,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stake-lidofinance.com",
     "arbitrumlayer2.com",
     "arbitrumnovas.com",
     "arbitrumnovas.xyz",
