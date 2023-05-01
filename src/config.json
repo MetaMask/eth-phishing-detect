@@ -522,19 +522,15 @@
   ],
   "blacklist": [
     "zapperxyz.space",
-    "veefriends.whitelist-airdrops.com",
     "yuga-airdrop.com",
     "ironfish.web3promint.com",
     "earthbit-meebits.app",
     "otherside-meta.net",
     "cryptopunks.free-airdrops.com",
-    "cryptopunks.whitelist-airdrops.com",
     "meebits.free-airdrops.com",
-    "meebits.whitelist-airdrops.com",
     "meebits.vip",
     "layerzreo-labs.top",
     "layerzero.web3-market.com",
-    "airdrop-zksynsc.com",
     "zksync.nakamigos.one",
     "othersidee.net",
     "lido.tl",
@@ -13882,7 +13878,6 @@
     "memeland-mint.cc",
     "unstake-chain.link",
     "1inch-reborn.site",
-    "airdrop-zksynsc.com",
     "ab-drop.xyz",
     "blockchain4-mmn.com",
     "claim-token.top",
@@ -45910,6 +45905,7 @@
     "claim-arbitrium.xyz",
     "layerzerodao.net",
     "layerzeronetwork.xyz",
-    "layerzeroprotocols.com"
+    "layerzeroprotocols.com",
+    "airdrop-zksynsc.com"
   ]
 }
