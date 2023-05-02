@@ -522,6 +522,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidofi-stake.com",
+    "2exchange.lidonft.info",
     "gaixe.ink",
     "airdrop-zetachains.com",
     "coinomize.la",
