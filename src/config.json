@@ -522,6 +522,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncdefi.com",
+    "zksync.claiming-provider.foundation",
     "arbiscan.tech",
     "arbitrums.web3-promint.com",
     "arbiltrum.com",
