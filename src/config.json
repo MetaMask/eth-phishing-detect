@@ -522,6 +522,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layer-zero-register.net",
+    "layerzero.social",
+    "layerzero.tv",
+    "layerzerolab.app",
+    "layerzro.network",
     "optimisme.site",
     "optimismlayer.com",
     "optimiism.web3promint.com",
