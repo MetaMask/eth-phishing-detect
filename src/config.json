@@ -522,6 +522,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinomize.la",
+    "ethereummixer.cc",
+    "darkmix.io",
     "claim.airdrophex.com",
     "centralairdrop.xyz",
     "centralairdrop.net",
