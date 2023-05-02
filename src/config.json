@@ -522,6 +522,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-allocation.net",
+    "layerzero.quest",
     "arbitrumnovachain.com",
     "lido.guru",
     "doodlesanimator.io",
