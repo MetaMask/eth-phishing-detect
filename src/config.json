@@ -522,6 +522,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptosfoundationnetwork.com",
+    "aptoslab.su",
     "zksync-presale.live",
     "zksync.center",
     "events.dapp-zksync.net",
