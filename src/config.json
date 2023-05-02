@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensel.shop",
     "zetachain-airdrop.com",
     "labs.zetachain.one",
     "zetachain.claiming-web3call.foundation",
