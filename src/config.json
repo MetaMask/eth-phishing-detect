@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mongcoin.finance",
     "doodlesanimator.io",
     "sollet.us",
     "connect-sui.com",
