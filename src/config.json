@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbiscan.tech",
     "arbitrums.web3-promint.com",
     "arbiltrum.com",
     "arbitrjum.top",
