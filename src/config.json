@@ -522,6 +522,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-presale.live",
+    "zksync.center",
+    "events.dapp-zksync.net",
     "layerzero-allocation.net",
     "layerzero.quest",
     "arbitrumnovachain.com",
