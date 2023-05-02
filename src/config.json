@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-staking-finance.com",
     "lido-fin.cloud",
     "lidofi-stake.com",
     "2exchange.lidonft.info",
