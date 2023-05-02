@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mongcoin.finance",
     "aptosfoundationnetwork.com",
     "aptoslab.su",
     "zksync-presale.live",
