@@ -522,6 +522,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimisme.site",
+    "optimismlayer.com",
+    "optimiism.web3promint.com",
     "zksyncdefi.com",
     "zksync.claiming-provider.foundation",
     "arbiscan.tech",
