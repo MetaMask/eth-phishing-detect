@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimismfnd-claim.com",
     "drops-optimism.com",
     "optchain-layer2.com",
     "optimism-blockchain.de",
