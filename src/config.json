@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zetachains.com",
     "coinomize.la",
     "ethereummixer.cc",
     "darkmix.io",
