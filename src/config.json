@@ -522,6 +522,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drops-optimism.com",
+    "optchain-layer2.com",
+    "optimism-blockchain.de",
+    "optimismgov.com",
     "lido-staking-finance.com",
     "lido-fin.cloud",
     "lidofi-stake.com",
