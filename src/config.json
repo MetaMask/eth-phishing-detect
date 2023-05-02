@@ -522,6 +522,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptosfoundationnetwork.com",
+    "aptoslab.su",
+    "zksync-presale.live",
+    "zksync.center",
+    "events.dapp-zksync.net",
+    "layerzero-allocation.net",
+    "layerzero.quest",
+    "arbitrumnovachain.com",
+    "lido.guru",
     "088eth.us",
     "acetr.vip",
     "airdropsbob.com",
