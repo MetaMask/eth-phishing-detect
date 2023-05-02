@@ -522,6 +522,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinomize.la",
+    "ethereummixer.cc",
+    "darkmix.io",
     "doodlesanimator.io",
     "sollet.us",
     "connect-sui.com",
