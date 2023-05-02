@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrums.web3-promint.com",
     "arbiltrum.com",
     "arbitrjum.top",
     "arbitrum-air-drop.xyz",
