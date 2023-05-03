@@ -522,6 +522,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksyncs.com",
+    "zksync-brigde.website",
+    "zksync-web3.com",
     "aptosholyshit.xyz",
     "do-boredapeyachtclub.com",
     "app-everswap.com",
