@@ -522,6 +522,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumdrop.app",
+    "arbitrumdrop.info",
+    "arbitrumreward.net",
+    "arbitrumreward.org",
+    "arbittum.foundation",
+    "bridge-arbiitrium.com",
     "arbstaking.io",
     "airdrop-zksyncs.com",
     "zksync-brigde.website",
