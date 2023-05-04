@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "hopbridge-protocol.com",
     "app.hopusdc.net",
     "arbstaking.io",
     "airdrop-zksyncs.com",
