@@ -17,7 +17,7 @@ function runTests () {
     t.deepEqual(cleanBlocklist(validConfig), validConfig);
     t.end()
   });
-  test('produces identical copy of consistent config', (t) => {
+  test('produces identical copy for config without duplicates', (t) => {
     const validConfig = {
       version: 2,
       tolerance: 5,
