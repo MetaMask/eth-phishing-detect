@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzerolab.network",
     "layerzero-whitelist.com",
     "syncswap.me",
     "syncswapp.org",
