@@ -2,6 +2,7 @@
 
 const { runTests: runDetectorTests } = require('./detector.test.js');
 const { runTests: runConfigTests } = require('./config.test.js');
+const { runTests: runCleanConfigTests } = require('./clean-config.test.js');
 
 const config = require('../src/config.json');
 
@@ -11,6 +12,7 @@ const SUITES = {
   ],
   unit: [
     runDetectorTests,
+    runCleanConfigTests,
   ],
 }
 
