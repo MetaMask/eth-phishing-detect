@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aztec-presale.live",
     "claim.zetachain.top",
     "web3.tickmillorg.com",
     "arbitrumdrop.app",
