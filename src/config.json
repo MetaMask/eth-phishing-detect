@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "taiko-event.xyz",
     "yugalabs.events",
     "users-boredapeyachtclub.com",
     "api31-collab-land.com",
