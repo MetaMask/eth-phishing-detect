@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "collab-doodles.com",
     "arbitrum-dao.org",
     "optimisme.su",
     "aztec-presale.live",
