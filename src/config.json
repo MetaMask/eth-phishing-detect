@@ -522,6 +522,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.zetachain.top",
+    "web3.tickmillorg.com",
     "arbitrumdrop.app",
     "arbitrumdrop.info",
     "arbitrumreward.net",
