@@ -522,6 +522,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidonetwork.finance",
+    "lidonetwork.info",
     "taiko-event.xyz",
     "yugalabs.events",
     "users-boredapeyachtclub.com",
