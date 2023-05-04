@@ -522,6 +522,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncswap.me",
+    "syncswapp.org",
+    "zk-drop.com",
+    "zksynck.zone",
+    "claim.dex-zksync.net",
     "lido.giftgo.site",
     "lidonetwork.finance",
     "lidonetwork.info",
