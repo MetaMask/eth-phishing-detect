@@ -522,6 +522,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "projectsinterface.io",
+    "mainnetschain.live",
+    "dex-finances.netlify.app",
     "super-pancake.com",
     "staderlabs-connect.com",
     "spaceshibasofficial.com",
