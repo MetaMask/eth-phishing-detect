@@ -522,6 +522,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "hop-exchange.in",
+    "hopbridge-protocol.com",
+    "app.hopusdc.net",
     "dookeydaish.com",
     "layerzerolab.network",
     "layerzero-whitelist.com",
