@@ -522,6 +522,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "at-zapper.com",
+    "zapper-chain.com",
+    "zapper-official.com",
+    "zp-zapper.com",
     "airdroparbitrum.top",
     "arbitarun.com",
     "arbitrum-foundatlon.io",
