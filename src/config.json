@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbstake.io",
     "web3-onemint.com",
     "hop-exchange.in",
     "hopbridge-protocol.com",
