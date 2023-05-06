@@ -8,6 +8,11 @@ const SECTION_KEYS = {
   allowlist: 'whitelist',
 };
 
+const LISTNAME_KEYS = {
+  blacklist: 'blocklist',
+  whitelist: 'allowlist',
+};
+
 /**
   * Adds new host to config and writes result to destination path on filesystem.
   * @param {PhishingDetectorConfiguration} config - Input config
@@ -27,8 +32,7 @@ const addHosts = (config, section, domains, dest) => {
   let didFilter = false;
 
   for (const host of config[section]) {
-    const r = detector.check(host);
-    if (r.result) {
+    if (!validateHostRedundancy(detector, LISTNAME_KEYS[section], host)) {
       console.error(`existing entry '${host}' removed due to now covered by '${r.match}' in '${r.type}'.`);
       didFilter = true;
       continue;
