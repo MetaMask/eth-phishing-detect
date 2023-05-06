@@ -25,7 +25,10 @@ const addHosts = (config, section, domains, dest) => {
 
   const detector = new PhishingDetector({
     ...config,
-    tolerance: section === 'blacklist' ? 0 : config.tolerance,
+    // FIXME: Temporary workaround during list inconsistency.
+    // Can be reverted after 2023-05-14
+    tolerance: section === 'blacklist' ? 0 : 2,
+    // tolerance: section === 'blacklist' ? 0 : config.tolerance,
     [section]: domains,
   });
 
@@ -126,7 +129,14 @@ if (require.main === module) {
 
     // check each entry for redundancy, adding it to the detector's internal config if valid
     // reuse detector to avoid costly reinitialization
-    let detector = new PhishingDetector(config);
+
+    // FIXME: Temporary workaround during list inconsistency.
+    // Can be reverted after 2023-05-14
+    // let detector = new PhishingDetector(config);
+    let detector = new PhishingDetector({
+      ...config,
+      tolerance: 2,
+    });
     for (const host of hosts) {
       if (validateHostRedundancy(detector, section, host)) {
         newHosts.add(host);
