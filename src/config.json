@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "tolerance": 2,
+  "tolerance": 1,
   "fuzzylist": [
     "cryptokitties.co",
     "launchpad.ethereum.org",
@@ -12,7 +12,6 @@
     "satoshilabs.com"
   ],
   "whitelist": [
-    "openmeta.network",
     "open.esa.int",
     "openex.org",
     "openlead.xyz",
