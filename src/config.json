@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "free-zksync.com",
     "at-zapper.com",
     "zapper-chain.com",
     "zapper-official.com",
