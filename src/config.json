@@ -521,6 +521,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "projectsinterface.io",
+    "mainnetschain.live",
+    "dex-finances.netlify.app",
     "free-zksync.com",
     "at-zapper.com",
     "zapper-chain.com",
