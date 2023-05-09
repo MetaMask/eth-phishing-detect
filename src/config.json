@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "livedropps.com",
     "scroll-whitelists.com",
     "scroll.web3-market.com",
     "sui-ticket.xyz",
