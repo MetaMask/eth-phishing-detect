@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "portal-zksync.io",
+    "zkairdrop.com",
+    "zksyhcs.online",
+    "zksync-airdrop.pro",
     "zcsync-l2.com",
     "era-zksync.net",
     "claim.zksyne.io",
