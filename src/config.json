@@ -512,6 +512,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensel.ws",
+    "secure.transaction.one",
+    "coastalcurbing.com",
     "club-boredapeyachtclub.com",
     "claiming-provider.foundation",
     "hvmtl.info",
