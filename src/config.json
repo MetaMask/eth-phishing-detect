@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zcsync-l2.com",
     "era-zksync.net",
     "claim.zksyne.io",
     "boredpepeyachtclub.live",
