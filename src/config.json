@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sui-mainnet.store",
     "portal-zksync.io",
     "zkairdrop.com",
     "zksyhcs.online",
