@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "m.bipicoin.com",
     "quests-otherside.xyz",
     "livedropps.com",
     "scroll-whitelists.com",
