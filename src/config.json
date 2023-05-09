@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "quests-otherside.xyz",
+    "livedropps.com",
+    "scroll-whitelists.com",
+    "scroll.web3-market.com",
     "sui-ticket.xyz",
     "kr-boredapeyachtclub.com",
     "yugalab.events",
