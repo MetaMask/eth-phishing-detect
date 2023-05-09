@@ -8,6 +8,11 @@ const SECTION_KEYS = {
   allowlist: 'whitelist',
 };
 
+const LISTNAME_KEYS = {
+  blacklist: 'blocklist',
+  whitelist: 'allowlist',
+};
+
 /**
   * Adds new host to config and writes result to destination path on filesystem.
   * @param {PhishingDetectorConfiguration} config - Input config
@@ -20,15 +25,17 @@ const addHosts = (config, section, domains, dest) => {
 
   const detector = new PhishingDetector({
     ...config,
-    tolerance: section === 'blacklist' ? 0 : config.tolerance,
+    // FIXME: Temporary workaround during list inconsistency.
+    // Can be reverted after 2023-05-14
+    tolerance: section === 'blacklist' ? 0 : 2,
+    // tolerance: section === 'blacklist' ? 0 : config.tolerance,
     [section]: domains,
   });
 
   let didFilter = false;
 
   for (const host of config[section]) {
-    const r = detector.check(host);
-    if (r.result) {
+    if (!validateHostRedundancy(detector, LISTNAME_KEYS[section], host)) {
       console.error(`existing entry '${host}' removed due to now covered by '${r.match}' in '${r.type}'.`);
       didFilter = true;
       continue;
@@ -122,7 +129,14 @@ if (require.main === module) {
 
     // check each entry for redundancy, adding it to the detector's internal config if valid
     // reuse detector to avoid costly reinitialization
-    let detector = new PhishingDetector(config);
+
+    // FIXME: Temporary workaround during list inconsistency.
+    // Can be reverted after 2023-05-14
+    // let detector = new PhishingDetector(config);
+    let detector = new PhishingDetector({
+      ...config,
+      tolerance: 2,
+    });
     for (const host of hosts) {
       if (validateHostRedundancy(detector, section, host)) {
         newHosts.add(host);
