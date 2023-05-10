@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbiscan-foundation.live",
     "giveaway-lido.com",
     "lidoeth.app",
     "lidonetwork.app",
