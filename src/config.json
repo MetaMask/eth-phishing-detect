@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "thelayerzeronetwork.xyz",
     "manlte.org",
     "whitelist-scroll.io",
     "api22collab-land.com",
