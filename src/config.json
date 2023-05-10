@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ironfish.web3frmint.com",
     "layarzero.network",
     "layerzero-web3.com",
     "layerzero.ltd",
