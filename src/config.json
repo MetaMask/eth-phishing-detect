@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "giveaway-lido.com",
+    "lidoeth.app",
     "lidonetwork.app",
     "lido-dapp.com",
     "lido-dapp.com.ape-nft.org",
