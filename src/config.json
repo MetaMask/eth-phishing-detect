@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optmism-io.com",
     "optimism-gift.com",
     "optinisn.io",
     "systemoptimism.site",
