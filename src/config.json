@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidonetwork.app",
     "lido-dapp.com",
     "lido-dapp.com.ape-nft.org",
     "xn--ldo-rma.li",
