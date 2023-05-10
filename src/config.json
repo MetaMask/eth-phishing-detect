@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sync.nodescontractapp.com",
     "scoll-aipho.online",
     "scroll-alpha.pro",
     "trips-otherside.xyz",
