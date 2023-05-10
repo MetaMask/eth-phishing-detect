@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncera.xyz",
     "suiecosystem.web3-promint.com",
     "suiname.web3-promint.com",
     "sul-networks.com",
