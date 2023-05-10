@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "whitelist-scroll.io",
     "api22collab-land.com",
     "collabland.cc",
     "acrossbridge.online",
