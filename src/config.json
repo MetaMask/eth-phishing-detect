@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "acrossbridge.online",
+    "acrossbridge.pw",
+    "acrossbridge.site",
     "ledgerlives.live",
     "ledgerlive-x.web.app",
     "e-ledger.live",
