@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-gift.com",
+    "optinisn.io",
+    "systemoptimism.site",
+    "optimism.getfree.su",
     "optimismtoken-airdrop.com",
     "airdrop-zksync.club",
     "zksync-lo.com",
