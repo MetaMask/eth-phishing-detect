@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "wwvv-app-ledger.com",
     "arb-check.web3-join.foundation",
     "arbitrum.airdrop-alert.xyz",
     "arbiscan-foundation.live",
