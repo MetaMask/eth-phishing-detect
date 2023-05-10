@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sync.nodescontractapp.com",
     "boredpepeyachtclub.live",
     "boredpepeyachtclub.vip",
     "revokemycash.com",
