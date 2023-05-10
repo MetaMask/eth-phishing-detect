@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "suiname.web3-promint.com",
     "sul-networks.com",
     "mainnet-sui.com",
     "pepe-sui.vip",
