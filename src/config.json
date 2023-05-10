@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb-check.web3-join.foundation",
+    "arbitrum.airdrop-alert.xyz",
     "arbiscan-foundation.live",
     "giveaway-lido.com",
     "lidoeth.app",
