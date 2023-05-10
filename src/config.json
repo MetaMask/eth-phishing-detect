@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mainnet-sui.com",
+    "pepe-sui.vip",
+    "sui-airdrop.io",
+    "sui-pepe.com",
+    "app.suiswap.one",
+    "extention.app-suiwallet.com",
+    "ico.fbxtoken.app",
+    "snapshot.pepesui.ceo",
+    "sui-mainnet.web3-reward.foundation",
     "bnbsui.xyz",
     "suiclaims.co",
     "airdrop-sui.co",
