@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bnbsui.xyz",
+    "suiclaims.co",
     "airdrop-sui.co",
     "sui-app.com",
     "sui-wallett.com",
