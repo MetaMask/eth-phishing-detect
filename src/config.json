@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimismtoken-airdrop.com",
     "airdrop-zksync.club",
     "zksync-lo.com",
     "zksyncs-airdrops.com",
