@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-sui.co",
+    "sui-app.com",
+    "sui-wallett.com",
+    "sui.airdrops.company",
+    "suiswap.suimo.xyz",
     "suio.io",
     "suiprotocols.org",
     "sui-mainnet.store",
