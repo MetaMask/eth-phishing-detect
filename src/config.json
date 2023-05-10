@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layarzero.network",
     "layerzero-web3.com",
     "layerzero.ltd",
     "layerzerolabs.app",
