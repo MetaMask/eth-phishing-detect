@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-dapp.com",
+    "lido-dapp.com.ape-nft.org",
     "xn--ldo-rma.li",
     "optmism-io.com",
     "optimism-gift.com",
