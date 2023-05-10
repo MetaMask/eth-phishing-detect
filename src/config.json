@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sul-networks.com",
     "mainnet-sui.com",
     "pepe-sui.vip",
     "sui-airdrop.io",
