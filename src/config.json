@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zkbridger.com",
     "claim-sui.foundation",
     "sui-network.space",
     "zksera.com",
