@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksera.com",
     "layerzero-network.org",
     "keungz.in",
     "giveaway-vra.com",
