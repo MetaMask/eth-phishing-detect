@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-sui.foundation",
+    "sui-network.space",
+    "zksera.com",
     "layerzero-network.org",
     "keungz.in",
     "giveaway-vra.com",
