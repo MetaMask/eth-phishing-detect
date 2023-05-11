@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sui-network.space",
     "zksera.com",
     "layerzero-network.org",
     "keungz.in",
