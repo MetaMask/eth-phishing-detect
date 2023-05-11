@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+	"web3-join.foundation",
     "sync.nodescontractapp.com",
     "scoll-aipho.online",
     "scroll-alpha.pro",
