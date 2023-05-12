@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidos.fi",
     "xn--stake-ldo-m5a.com",
     "arb-claim.kepler.homes",
     "zksync-era.in",
