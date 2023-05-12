@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidos.fi",
+    "xn--stake-ldo-m5a.com",
     "suinetworks.app",
     "drop-l2.foundation",
     "suinetwork-awards.site",
