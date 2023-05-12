@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app.hopusdc.io",
     "arb-claim.kepler.homes",
     "zksync-era.in",
     "zksync-financed.com",
