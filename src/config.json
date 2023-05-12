@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinwalletdefi.online",
+    "manacoin-defi.info",
+    "eventmeta.org",
+    "web3-block.vercel.app",
+    "airdropay.store",
     "mysyncnode.pages.dev",
     "opencampus.top",
     "pepe.bingo",
