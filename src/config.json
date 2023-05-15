@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fix-zksync.io",
     "m-ee6.tech",
     "arbitum-airdrop.com",
     "arbtrum.top",
