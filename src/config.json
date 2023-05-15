@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-network.app",
     "optmism-layer.com",
     "optimism.in.net",
     "optimism-tokens.com",
