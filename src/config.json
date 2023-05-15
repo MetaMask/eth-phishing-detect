@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-protocol.app",
     "1inch.gift",
     "lilbabyapeclub.com",
     "lilmutantapeclub.com",
