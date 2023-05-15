@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cow-swap.com",
     "stayarbitrum.pro",
     "layerzero-network.app",
     "optmism-layer.com",
