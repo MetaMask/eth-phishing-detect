@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apps-zapperfi.com",
     "zksyncdrop.pro",
     "fix-zksync.io",
     "m-ee6.tech",
