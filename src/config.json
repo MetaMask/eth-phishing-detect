@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yugalabs.dev",
+    "ho-boredapeyachtclub.com",
+    "hg-boredapeyachtclub.com",
+    "wa-boredapeyachtclub.com",
+    "io-boredapeyachtclub.com",
     "zksync-brigde.site",
     "zksync.era-bridge.eu",
     "zksync-io.website",
