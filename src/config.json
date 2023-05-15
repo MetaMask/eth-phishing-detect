@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptosdevlabs.com",
     "sui-raffle.com",
     "suicoin-claim.xyz",
     "claim-creoengine.com",
