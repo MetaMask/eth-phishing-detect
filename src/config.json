@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sui-raffle.com",
+    "suicoin-claim.xyz",
     "claim-creoengine.com",
     "claim-cultdao.xyz",
     "claim-cybercity.com",
