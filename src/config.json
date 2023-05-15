@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism.in.net",
     "optimism-tokens.com",
     "zksyhck.pro",
     "zksync-protocol.app",
