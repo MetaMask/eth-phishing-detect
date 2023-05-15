@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-brigde.site",
+    "zksync.era-bridge.eu",
+    "zksync-io.website",
+    "zksync-web.online",
+    "zksync.airdropsapp.space",
     "digidaigaku.pages.dev",
     "blurlive.com",
     "en-suinetwork.com",
