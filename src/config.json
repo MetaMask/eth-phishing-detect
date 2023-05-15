@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-creoengine.com",
+    "claim-cultdao.xyz",
+    "claim-cybercity.com",
+    "claim-liqwid.finance",
+    "claim-syncswap.xyz",
+    "claim-vitadao.com",
     "cow.claims",
     "cow-swap.com",
     "stayarbitrum.pro",
