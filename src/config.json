@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezor-hardware.live",
     "trezorsuite.app",
     "yugalabs.dev",
     "ho-boredapeyachtclub.com",
