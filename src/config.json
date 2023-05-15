@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pc-zapper.com",
+    "pk-zapper.com",
+    "zapper-mint.com",
+    "zapper-mints.com",
+    "zapper-wallet.com",
     "aptos-global.net",
     "aptosdevlabs.com",
     "sui-raffle.com",
