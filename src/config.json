@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-chains.com",
     "optimism-dropia.world",
     "apps-zapperfi.com",
     "zksyncdrop.pro",
