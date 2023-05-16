@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yugalabs.dev",
+    "ho-boredapeyachtclub.com",
+    "hg-boredapeyachtclub.com",
+    "wa-boredapeyachtclub.com",
+    "io-boredapeyachtclub.com",
     "zksync-brigde.site",
     "zksync.era-bridge.eu",
     "zksync-io.website",
@@ -35813,7 +35818,6 @@
     "myetherwallet.keynasty.com",
     "wallets.company",
     "myetherwallet-erc20token.weebly.com",
-    "bitgen.pro",
     "metarnask.io",
     "giveaway.revproject.site",
     "elonmusk.financial",
