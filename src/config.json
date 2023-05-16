@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain-airdrops.com",
     "blockchaincity.top",
     "sui-io.net",
     "sui-launch.com",
