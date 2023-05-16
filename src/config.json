@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidofi.ltd",
+    "ld.enriching.site",
     "zk-official.com",
     "zksync.web3-l2.foundation",
     "layerzero-networks.org",
