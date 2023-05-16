@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coins-x.top",
+    "x-coin.top",
+    "sui.link3.icu",
     "lidofi.ltd",
     "ld.enriching.site",
     "zk-official.com",
