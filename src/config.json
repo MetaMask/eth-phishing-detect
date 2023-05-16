@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zk-official.com",
+    "zksync.web3-l2.foundation",
     "layerzero-networks.org",
     "opensel.one",
     "layer-zero-whitelist.com",
