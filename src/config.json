@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-networks.org",
     "opensel.one",
     "layer-zero-whitelist.com",
     "web3drop.pro",
@@ -34008,7 +34009,7 @@
     "exodus.com.technexus.tech",
     "wethepeopleamericainc.org",
     "app.exodus.com.alchemys.cl",
-	"techmediafilmsandproductions.com",
+    "techmediafilmsandproductions.com",
     "wallet-sync.io",
     "metamask-sync.com",
     "metamaskv2.io",
