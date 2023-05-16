@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensel.one",
     "layer-zero-whitelist.com",
     "web3drop.pro",
     "xn--lidofnance-o8a.com",
