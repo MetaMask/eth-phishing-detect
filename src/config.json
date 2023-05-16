@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stakewithlido.co.uk",
     "optimism-chains.com",
     "optimism-dropia.world",
     "apps-zapperfi.com",
