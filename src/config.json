@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockchaincity.top",
+    "sui-io.net",
+    "sui-launch.com",
+    "trustpad-air.top",
     "airdrop-sui.cc",
     "suifoundation.app",
     "sui-ticket.netlify.app",
