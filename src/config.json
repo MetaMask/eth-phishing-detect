@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-sui.cc",
+    "suifoundation.app",
+    "sui-ticket.netlify.app",
     "coins-x.top",
     "x-coin.top",
     "sui.link3.icu",
