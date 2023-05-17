@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-sui.club",
+    "evpad.top",
     "boredapeyachtclub.farm",
     "mint-otherside.com",
     "nftotherside.life",
