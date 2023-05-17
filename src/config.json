@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezoresi.com",
+    "trezor.im",
     "apeswap.cc",
     "claimings-service.online",
     "as-boredapeyachtclub.com",
