@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.getfree.su",
     "arbreward.app",
     "bobo-arbitrum.com",
     "drop-arbitrum.cc",
