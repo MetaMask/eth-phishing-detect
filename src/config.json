@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chronos.exchange-v2.com",
     "arbitriun.com",
     "arbitriunn.com",
     "arbitrunn.top",
