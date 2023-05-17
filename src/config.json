@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitriun.com",
+    "arbitriunn.com",
+    "arbitrunn.top",
+    "fi-arbitrun.com",
     "apeswap.cc",
     "claimings-service.online",
     "as-boredapeyachtclub.com",
