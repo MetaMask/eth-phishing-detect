@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezoresi.com",
+    "trezor.im",
     "airdrop-sui.club",
     "evpad.top",
     "boredapeyachtclub.farm",
