@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apeswap.cc",
     "claimings-service.online",
     "as-boredapeyachtclub.com",
     "twtpads.top",
