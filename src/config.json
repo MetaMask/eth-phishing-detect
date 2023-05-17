@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "join-optimism.xyz",
+    "opitmism.us",
+    "optimismz.zone",
+    "web3-connectad.cf",
+    "optimism.0kxwallet.com",
     "airdrop-zksync.top",
     "zksyncxdrops.com",
     "zksync.zksyncregal.io",
