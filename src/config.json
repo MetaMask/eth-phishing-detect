@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.zksyncregal.io",
     "zksync.web3to-connect.com",
     "zkswap-whitelists.com",
     "zksynch.xyz",
