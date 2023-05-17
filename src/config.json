@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensell.su",
     "trezoresi.com",
     "trezor.im",
     "airdrop-sui.club",
