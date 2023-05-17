@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbreward.app",
+    "bobo-arbitrum.com",
+    "drop-arbitrum.cc",
+    "newarbitrum.com",
     "arbitriumtoken-airdrops.com",
     "chronos.exchange-v2.com",
     "arbitriun.com",
