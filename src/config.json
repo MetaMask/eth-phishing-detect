@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksync.top",
     "zksyncxdrops.com",
     "zksync.zksyncregal.io",
     "zksync.web3to-connect.com",
