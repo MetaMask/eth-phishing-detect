@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-labs.link",
     "0xhv-mtl.xyz",
     "opensell.su",
     "trezoresi.com",
