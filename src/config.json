@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbltrum.org",
     "gpt-ai.io",
     "garbageuniverse.com",
     "opensel.info",
