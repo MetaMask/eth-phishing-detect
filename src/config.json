@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gpt-ai.io",
+    "garbageuniverse.com",
     "opensel.info",
     "husdc.on.fleek.co",
     "near.partners",
