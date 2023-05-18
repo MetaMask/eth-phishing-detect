@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "husdc.on.fleek.co",
     "near.partners",
     "blurxdrop.com",
     "lottery-sui.com",
