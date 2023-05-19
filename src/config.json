@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "portalls-zksync.pw",
+    "zksync-airdrop.cc",
+    "zksync-era-foundation.site",
+    "zksync.fans",
+    "zksyncera.tech",
+    "zksynceradrop.pro",
+    "zksync-wallet-scan-kkii.vercel.app",
+    "zksync.dropapp.pro",
     "bonus-boredapeyachtclub.com",
     "boredapeyachtclub-s.com",
     "dashboard.web3-change.com",
