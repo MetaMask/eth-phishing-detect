@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dashboard.web3-change.com",
     "arbltrum.org",
     "gpt-ai.io",
     "garbageuniverse.com",
