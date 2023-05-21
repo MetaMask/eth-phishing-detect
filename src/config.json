@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptopunks.airdrop-limited.com",
     "otherside.airdrop-limited.com",
     "oo-boredapeyachtclub.com",
     "boredapeyachtclub.airdrop-limited.com",
