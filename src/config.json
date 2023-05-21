@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "oo-boredapeyachtclub.com",
+    "boredapeyachtclub.airdrop-limited.com",
+    "boredapeyachtclubs.pages.dev",
     "portalls-zksync.pw",
     "zksync-airdrop.cc",
     "zksync-era-foundation.site",
