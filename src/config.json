@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-global.com",
+    "zksynceraxdrop.pro",
+    "analytics-zksync.vercel.app",
+    "zksync.airdrop-limited.com",
     "cryptopunks.airdrop-limited.com",
     "otherside.airdrop-limited.com",
     "oo-boredapeyachtclub.com",
