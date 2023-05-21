@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-cryptoair.com",
+    "optimism-staking.com",
+    "optimism.dropapp.pro",
     "zetachain.airdrop-limited.com",
     "exp1.shop",
     "zksync.bridge-era.eu",
