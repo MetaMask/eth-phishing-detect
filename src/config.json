@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksy.zksyncregal.io",
     "zksync-global.com",
     "zksynceraxdrop.pro",
     "analytics-zksync.vercel.app",
