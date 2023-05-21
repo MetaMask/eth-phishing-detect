@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.airdrop-limited.com",
     "exp1.shop",
     "zksync.bridge-era.eu",
     "zksy.zksyncregal.io",
