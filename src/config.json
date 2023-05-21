@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "exp1.shop",
     "zksync.bridge-era.eu",
     "zksy.zksyncregal.io",
     "zksync-global.com",
