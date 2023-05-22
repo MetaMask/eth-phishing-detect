@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "v2-lido.cc",
     "lido-v2.fun",
     "staking-lido-eth.com",
     "lidofi.dubya.net",
