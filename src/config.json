@@ -522,6 +522,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+	"bestmixer.pro",
     "coinomize.la",
     "ethereummixer.cc",
     "darkmix.io",
