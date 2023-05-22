@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "communication-trezor.com",
+    "tnezor.io",
+    "trezor-hardware.digital",
+    "trezor-hardware.tech",
     "gpt-ai.io",
     "garbageuniverse.com",
     "opensel.info",
