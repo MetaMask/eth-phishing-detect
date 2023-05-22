@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridge-claims.live",
+    "simdif.com",
+    "dapppaxos.com",
+    "paxostrade.com",
+    "openseaworkshop.com",
+    "doodlesgenesisdrops.com",
+    "aptoslab.fun",
+    "satoshiminer.app",
     "gpt-ai.io",
     "garbageuniverse.com",
     "opensel.info",
