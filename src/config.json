@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metatoken.gift",
     "gpt-ai.io",
     "garbageuniverse.com",
     "opensel.info",
