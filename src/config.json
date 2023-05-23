@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "hopprotocol.web3rmint.com",
     "0e1-dapps0.duckdns.org",
     "site.darpstech.network",
     "syncresolver.pages.dev",
