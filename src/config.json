@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-cnnct-clk.online",
     "airdrop-arbitrum.club",
     "arbitrum-drops.pro",
     "arbitrumairdrop.pro",
