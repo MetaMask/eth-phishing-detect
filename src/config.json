@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "seniorassistantsupportservices.com",
     "v2-lido.cc",
     "lido-v2.fun",
     "staking-lido-eth.com",
