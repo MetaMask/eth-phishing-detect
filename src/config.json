@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "communication-trezor.com",
+    "tnezor.io",
+    "trezor-hardware.digital",
+    "trezor-hardware.tech",
     "bridge-claims.live",
     "simdif.com",
     "dapppaxos.com",
