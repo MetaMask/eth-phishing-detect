@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewarduniswap.org",
+    "sappyseals.click",
     "airdrop-sui.top",
     "airdrop-sui-testnet.com",
     "claimsui.io",
