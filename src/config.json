@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sui-layer.network",
     "zapper-s.com",
     "zapper-site.com",
     "lido-staking.click",
