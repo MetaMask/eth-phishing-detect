@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tbtrc.com",
     "sappyseals.click",
     "airdrop-sui.top",
     "airdrop-sui-testnet.com",
