@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-sui-testnet.com",
+    "claimsui.io",
+    "suiclaim.su",
+    "suiswap-app.com",
+    "suiswap-apps.com",
+    "eligable.sui-finance.site",
     "sui-layer.network",
     "zapper-s.com",
     "zapper-site.com",
