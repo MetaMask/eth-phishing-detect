@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zapper-s.com",
+    "zapper-site.com",
     "lido-staking.click",
     "v2-lidoapp.com",
     "live-otherside.xyz",
