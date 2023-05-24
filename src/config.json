@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-staking.click",
+    "v2-lidoapp.com",
     "live-otherside.xyz",
     "boredapeyachtclub-me.com",
     "boredapeyachtclub-my.com",
