@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksync.vip",
+    "zksyncairdrop.pro",
+    "zksyncera-drops.pro",
     "arbitrum-cnnct-clk.online",
     "airdrop-arbitrum.club",
     "arbitrum-drops.pro",
