@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensell.art",
+    "openseil.info",
     "bestmixer.ac",
     "bestmixer.cash",
     "bestmixer.co",
