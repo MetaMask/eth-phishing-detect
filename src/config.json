@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bestmixer.pro",
+    "bestmixer.ac",
     "tbtrc.com",
     "sappyseals.click",
     "airdrop-sui.top",
