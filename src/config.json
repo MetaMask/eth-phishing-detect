@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzerolab.link",
+    "layerzerolab.xyz",
     "bestmixer.ac",
     "bestmixer.cash",
     "bestmixer.co",
