@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimsuitoken.com",
+    "suinet.xyz",
+    "sui-tickets.netlify.app",
+    "suicoins.tronplus.link",
     "arbirtum.fun",
     "arbitrumarb.com",
     "arbitrumsales.com",
