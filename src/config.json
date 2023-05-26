@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "meebits.airdrop-limited.com",
     "zkaptos.tech",
     "mantle-event.com",
     "web-zksync.eu",
