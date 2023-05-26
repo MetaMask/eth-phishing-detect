@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web-zksync.eu",
+    "zkera.top",
+    "desktop-analytics-zksync.vercel.app",
     "claimsuitoken.com",
     "suinet.xyz",
     "sui-tickets.netlify.app",
