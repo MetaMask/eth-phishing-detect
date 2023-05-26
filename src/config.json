@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "exchange-lidonft.live",
+    "lido-token.xyz",
+    "stlido.fi",
+    "stlido.xyz",
     "cowswap.co.uk",
     "arbitruim.online",
     "arbitrumbridge.us",
