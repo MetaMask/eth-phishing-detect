@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswap.co.uk",
     "arbitruim.online",
     "arbitrumbridge.us",
     "layerzeros.com",
