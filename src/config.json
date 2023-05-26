@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zkaptos.tech",
     "mantle-event.com",
     "web-zksync.eu",
     "zkera.top",
