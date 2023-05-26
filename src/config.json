@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitruim.online",
+    "arbitrumbridge.us",
     "layerzeros.com",
     "cryptopunks-mint.live",
     "meebits.airdrop-limited.com",
