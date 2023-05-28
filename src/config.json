@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-web3.eu",
+    "optimismairdrops.pro",
     "tronn.pw",
     "claimx500.top",
     "one-drop.top",
