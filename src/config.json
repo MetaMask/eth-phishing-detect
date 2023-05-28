@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.foundation.wf",
     "optimismairdrop.pro",
     "exchange-lidonft.live",
     "lido-token.xyz",
