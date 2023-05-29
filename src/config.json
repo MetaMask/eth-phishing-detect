@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezorsuite.com",
+    "trezor-access.com",
+    "trezor-websuite.com",
     "pudgydegen.xyz",
     "aptos-drop.com",
     "blurairdrops.pro",
