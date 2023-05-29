@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncmarket.com",
     "zksync.biz",
     "test.tjinx.cn",
     "atf.mguwk.vip",
