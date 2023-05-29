@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web-trezor.com",
+    "trezorsuite.com",
+    "trezor-access.com",
+    "trezor-websuite.com",
     "airdrop-limited.com",
     "claimyourpepecoin.com",
     "claim-x500.top",
