@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "test.tjinx.cn",
     "atf.mguwk.vip",
     "cryptopod-pro.info",
     "homersimpson.fans",
@@ -23926,7 +23927,6 @@
     "shibawalletgo.buzz",
     "sites-coinbase.com",
     "sui-drops.com",
-
     "tategift.com",
     "unionstandard-trust.com",
     "uniswap.workers.dev",
