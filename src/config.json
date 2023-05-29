@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web-trezor.com",
     "trezorsuite.com",
     "trezor-access.com",
     "trezor-websuite.com",
