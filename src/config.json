@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridge-zksync.net",
+    "zksync-bridlge.xyz",
     "zksync-pass.xyz",
     "erazksync.world",
     "zksyncmarket.com",
