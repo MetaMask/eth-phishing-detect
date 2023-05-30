@@ -513,6 +513,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-bridge.xyz",
+    "zksync-air.pro",
+    "bridge-zksync.net",
+    "zksync-bridlge.xyz",
+    "zksync-pass.xyz",
+    "erazksync.world",
+    "zksyncmarket.com",
+    "zksync.biz",
+    "test.tjinx.cn",
+    "helpdeskether.online",
     "atf.mguwk.vip",
     "cryptopod-pro.info",
     "homersimpson.fans",
@@ -23922,7 +23932,6 @@
     "shibawalletgo.buzz",
     "sites-coinbase.com",
     "sui-drops.com",
-
     "tategift.com",
     "unionstandard-trust.com",
     "uniswap.workers.dev",
