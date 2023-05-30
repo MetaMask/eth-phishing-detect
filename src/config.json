@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "helpdeskether.online",
     "atf.mguwk.vip",
     "cryptopod-pro.info",
     "homersimpson.fans",
