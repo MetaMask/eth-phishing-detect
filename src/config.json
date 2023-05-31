@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rockatpool.net",
+    "airdrop-layerzero.com",
+    "claimslayerzero.com",
+    "layerzero-lab.app",
+    "layerzero.solutions",
+    "layerzerolabs.info",
+    "layerzero.web3-claiming.xyz",
+    "metamask-drop.com",
+    "daily-pads.top",
     "live-airdrops.com",
     "test2.homestore-az.com",
     "sunflowergame.fun",
