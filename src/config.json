@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "www.sui-lottery.com",
     "airdrop-zksync.pw",
     "drop-alert.live",
     "evm-zksync.xyz",
