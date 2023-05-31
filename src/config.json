@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lives-airdrop.com",
+    "claim-web3.com",
     "milady-platform.app",
     "memeland-site.com",
     "memeland-home.com",
@@ -549,7 +551,6 @@
     "venom-event.com",
     "tonton-claim.xyz",
     "tiger-top.com",
-    "stargate.claim-web3.com",
     "spacexlab.net",
     "snekcoinada-event.com",
     "quilckswap.exchange",
@@ -570,7 +571,6 @@
     "moonpayjobs.com",
     "lovehinu.com",
     "jaypeggers-event.com",
-    "izumi.claim-web3.com",
     "immutable-games.com",
     "greg.claims",
     "gmx-reward.com",
@@ -581,7 +581,6 @@
     "dtenset.claim-x.one",
     "dogodoge.fun",
     "demo.bluefloridahealth.com",
-    "cyberconnect.claim-web3.com",
     "cryptotabnft.bio",
     "crypto-ad.top",
     "coin-xpad.top",
