@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zetachain.vip",
     "zetachain.pro",
     "www.sui-lottery.com",
     "airdrop-zksync.pw",
