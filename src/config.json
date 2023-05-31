@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pikaprotocol.pm",
     "live-airdrops.com",
     "test2.homestore-az.com",
     "sunflowergame.fun",
