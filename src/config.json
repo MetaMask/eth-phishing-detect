@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rockatpool.net",
     "airdrop-layerzero.com",
     "claimslayerzero.com",
     "layerzero-lab.app",
