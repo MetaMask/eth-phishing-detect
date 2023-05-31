@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-drop.com",
     "lives-airdrop.com",
     "daily-pads.top",
     "live-airdrops.com",
