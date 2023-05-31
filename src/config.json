@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksync.pw",
+    "drop-alert.live",
+    "evm-zksync.xyz",
+    "zksyncxdrop.net",
     "rockatpool.net",
     "airdrop-layerzero.com",
     "claimslayerzero.com",
