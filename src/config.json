@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scroll-io.online",
     "collabland-wallet-ui-bw7.pages.dev",
     "collablannd.com",
     "api28-collab-land.com",
