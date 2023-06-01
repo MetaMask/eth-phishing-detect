@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.zksyno.io",
     "layerzeroaccess.com",
     "airdrop-zetachain.vip",
     "zetachain.pro",
