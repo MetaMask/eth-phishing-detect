@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "uniswap-v3.com",
+    "uniswap-wallet.online",
+    "uniswap-wallet.website",
     "scroll-io.online",
     "collabland-wallet-ui-bw7.pages.dev",
     "collablannd.com",
