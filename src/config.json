@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbase.wallet-mask.com",
     "https://zetachain.claims-connect.network/",
     "zetachainsairdrops.com",
     "metamask781.vip",
