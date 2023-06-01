@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "swaplido.com",
     "uniswap-v3.com",
     "uniswap-wallet.online",
     "uniswap-wallet.website",
