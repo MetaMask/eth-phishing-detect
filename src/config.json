@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamaskwallet93.godaddysites.com",
     "airdrops-metamask.com",
     "metamasklogininfo.mystrikingly.com",
     "metamasks-login.mystrikingly.com",
