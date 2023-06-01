@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbase.wallets-coin.com",
     "coinbasetg.com",
     "coinbasezx.top",
     "httpswwwcoinbasebtxcomcoinbase.com",
