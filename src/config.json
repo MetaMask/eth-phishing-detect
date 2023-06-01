@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask381.vip",
+    "metamask681.vip",
+    "metamask713.vip",
     "claim.zksyno.io",
     "layerzeroaccess.com",
     "airdrop-zetachain.vip",
