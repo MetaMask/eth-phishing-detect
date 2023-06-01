@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrops-metamask.com",
+    "metamasklogininfo.mystrikingly.com",
+    "metamasks-login.mystrikingly.com",
     "metamask381.vip",
     "metamask681.vip",
     "metamask713.vip",
