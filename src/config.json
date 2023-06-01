@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask781.vip",
+    "metamask783.vip",
+    "metamask-loegin.godaddysites.com",
     "register-metamask.com",
     "metamaskloginn.educatorpages.com",
     "claims.consensys-nft.com",
