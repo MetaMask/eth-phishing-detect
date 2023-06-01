@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "limited-web3.com",
     "shibainu-airdrop.dog",
     "shibagot.org",
     "shibaget.org",
