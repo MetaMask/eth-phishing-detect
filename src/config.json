@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "uniswappool1109t.vercel.app",
     "uniswapnews.net",
     "uniswap-exnge.github.io",
     "uniswapwallet-org.gitbook.io",
