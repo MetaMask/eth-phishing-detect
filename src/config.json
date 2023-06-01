@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "www1-uniswap.org",
     "uniswap-interface-oexk-4h2bkx8pu-must479.vercel.app",
     "uniswap.geoblock.eth.limo",
     "swaplido.com",
