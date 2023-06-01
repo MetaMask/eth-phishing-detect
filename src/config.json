@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "api28-collab-land.com",
     "ledger-com-startlive.com",
     "ledger-conect.com",
     "pepecoinbase.com",
