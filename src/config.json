@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-layerzero.top",
+    "layerzero.systems",
+    "layerzerolab.info",
+    "layerzeros.app",
+    "zerolayerlabs.top",
     "uniswappool1109t.vercel.app",
     "uniswapnews.net",
     "uniswap-exnge.github.io",
