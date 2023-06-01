@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coin-baseairdrop.com",
+    "coinbasedex.me",
+    "coinbasedrf.top",
+    "coinbasewe.com",
+    "coinbase.meet-ritik.software",
     "coinbase.wallet-mask.com",
     "https://zetachain.claims-connect.network/",
     "zetachainsairdrops.com",
