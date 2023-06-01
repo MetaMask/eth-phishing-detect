@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledger-com-startlive.com",
+    "ledger-conect.com",
     "pepecoinbase.com",
     "coinbase.wallets-coin.com",
     "coinbasetg.com",
