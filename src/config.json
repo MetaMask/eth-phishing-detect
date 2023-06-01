@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "httpswwwcoinbasebtxcomcoinbase.com",
     "coin-baseairdrop.com",
     "coinbasedex.me",
     "coinbasedrf.top",
