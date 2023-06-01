@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamaskloginn.educatorpages.com",
     "claims.consensys-nft.com",
     "metamask.wallets-coin.com",
     "metamasklwallet.mypixieset.com",
