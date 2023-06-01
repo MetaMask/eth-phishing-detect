@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "register-metamask.com",
     "metamaskloginn.educatorpages.com",
     "claims.consensys-nft.com",
     "metamask.wallets-coin.com",
