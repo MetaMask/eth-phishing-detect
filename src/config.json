@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "0x0.center",
+    "cbmaxtrade.com",
+    "dapp.fintoch.com",
+    "get-boredapeyachtclub.com",
+    "loyal.gl",
+    "loyaleth.com",
+    "web3fixsync.pages.dev",
+    "webmaxdefi.com",
     "arbinu.club",
     "blocknodeapp.pages.dev",
     "claim-dapp.netlify.app",
