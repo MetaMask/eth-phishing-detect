@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims.consensys-nft.com",
+    "metamask.wallets-coin.com",
+    "metamasklwallet.mypixieset.com",
     "metamaskwallet93.godaddysites.com",
     "airdrops-metamask.com",
     "metamasklogininfo.mystrikingly.com",
