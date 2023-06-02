@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "collabland.tech",
     "airdrop.zksync.tel",
     "pudgypenguins.pzmint.com",
     "pudgypenguins.airdrops.host",
