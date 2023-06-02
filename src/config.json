@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chaingpt.build",
     "optimism-phase3.com",
     "dodoexen-io.pw",
     "airdrop-layerzero.top",
