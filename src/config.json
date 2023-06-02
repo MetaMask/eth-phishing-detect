@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-phase3.com",
     "dodoexen-io.pw",
     "airdrop-layerzero.top",
     "layerzero.systems",
