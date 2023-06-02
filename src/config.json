@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pudgypenguins.pzmint.com",
     "pudgypenguins.airdrops.host",
     "pudgypenguins.web3-promint.com",
     "pudgypenguins.mintnfts.cc",
