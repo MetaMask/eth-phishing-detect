@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridge-pudgypenguins.icu",
     "scrollzkp.net",
     "scrollzkpairdrop.com",
     "chaingpt.build",
