@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pudgydrop.com",
     "bridge-pudgypenguins.icu",
     "scrollzkp.net",
     "scrollzkpairdrop.com",
