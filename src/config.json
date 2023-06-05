@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.suui.io",
     "enter-zksync.io",
     "zksync.blog",
     "zksync.design",
