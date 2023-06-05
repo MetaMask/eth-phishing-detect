@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethereumtop.com",
+    "blander.pw",
     "nature-makerdao.com",
     "lineabuild-airdrop.com",
     "lives-airdrop.com",
