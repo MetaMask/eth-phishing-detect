@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blur-x-otherside.xyz",
     "cryptopunksofficial.xyz",
     "uniswap-staging.org",
     "uniswap.art",
