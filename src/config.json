@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-layerzero.vip",
+    "airdrop-layerzero.win",
+    "layerzero-claim.pw",
+    "layerzero-lab.co",
+    "layerzero.claims",
     "coinbasebm.com",
     "coinbaseexchange.cn",
     "coinbasewalletdefi.net",
