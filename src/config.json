@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "enter-zksync.io",
+    "zksync.blog",
+    "zksync.design",
     "metamask-wellet.mystrikingly.com",
     "metamask.matamaskloen.com",
     "lidonft.fi",
