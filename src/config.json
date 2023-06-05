@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.arbitruun.foundation",
     "arbitrum.claims",
     "arbitrum.sh",
     "arbltrum-foundatlon.ltd",
