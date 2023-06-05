@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbasebm.com",
+    "coinbaseexchange.cn",
+    "coinbasewalletdefi.net",
+    "coinbase.coin-dapp.com",
     "researchartibrum.online",
     "arbitrum.minereumtoken.com",
     "claim.arbitruun.foundation",
