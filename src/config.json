@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidonft.fi",
+    "lidonft.in",
+    "stakelido.finance",
+    "6exchange.lidonft.info",
     "app.ledger-ledger.com",
     "airdrop-layerzero.vip",
     "airdrop-layerzero.win",
