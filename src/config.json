@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbltrum-foundatlon.ltd",
+    "airbitrum.nova-web3.foundation",
     "aptos-claim.one",
     "doodlesgenesis-box.com",
     "airdrop-sui.win",
