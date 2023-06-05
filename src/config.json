@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.claims",
+    "arbitrum.sh",
     "arbltrum-foundatlon.ltd",
     "airbitrum.nova-web3.foundation",
     "aptos-claim.one",
