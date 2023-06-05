@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pikaprotocol.pm",
     "airdrop-layerzero.top",
     "airdrop-zetachain.vip",
     "airdrop-zksync.pw",
