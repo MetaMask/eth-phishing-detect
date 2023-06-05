@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app.ledger-ledger.com",
     "airdrop-layerzero.vip",
     "airdrop-layerzero.win",
     "layerzero-claim.pw",
