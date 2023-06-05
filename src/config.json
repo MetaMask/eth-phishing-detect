@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "researchartibrum.online",
+    "arbitrum.minereumtoken.com",
     "claim.arbitruun.foundation",
     "arbitrum.claims",
     "arbitrum.sh",
