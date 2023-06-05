@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "hopprotocolnft.web3rmint.com",
     "vanity-eth.io",
     "bellas.ltd",
     "kusdc.com",
