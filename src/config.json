@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptopunksofficial.xyz",
     "uniswap-staging.org",
     "uniswap.art",
     "uniswap.vc",
