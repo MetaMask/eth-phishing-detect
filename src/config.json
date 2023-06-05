@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethereumtop.com",
+    "blander.pw",
     "100kpassive.com",
     "cc-wallstmemes.com",
     "connection-fix.netlify.app",
