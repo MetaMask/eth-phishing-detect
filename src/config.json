@@ -514,7 +514,6 @@
   ],
   "blacklist": [
     "doodlesgenesis-box.com",
-    "bridge-pudgypenguins.icu",
     "airdrop-sui.win",
     "blur.io-v2.app",
     "cryptokitties.country",
@@ -687,7 +686,6 @@
     "airdrop-zksync.pw",
     "airdrops-metamask.com",
     "api28-collab-land.com",
-    "bridge-pudgypenguins.icu",
     "chaingpt.build",
     "coin-baseairdrop.com",
     "coinbasedex.me",
@@ -50711,6 +50709,7 @@
     "airdrop-zksynsc.com",
     "husdc.io",
     "tacenswap.io",
-    "arbshibsclaim.xyz"
+    "arbshibsclaim.xyz",
+    "bridge-pudgypenguins.icu"
   ]
 }
