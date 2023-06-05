@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "uniswap-staging.org",
+    "uniswap.art",
+    "uniswap.vc",
+    "app-uniswap-org.w3eth.io",
+    "uniswap.improd.pro",
+    "uniswap.nos.dev",
     "airdrops-sui.top",
     "suiswap.de",
     "suiswap.site",
