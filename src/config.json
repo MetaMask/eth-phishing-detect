@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-wellet.mystrikingly.com",
+    "metamask.matamaskloen.com",
     "lidonft.fi",
     "lidonft.in",
     "stakelido.finance",
