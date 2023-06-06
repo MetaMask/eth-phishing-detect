@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridge-pudgypenguins.website",
+    "pudgypenguins.center",
+    "pudgypenguins.app",
+    "sui-airdrop.space",
+    "suiairdrop.club",
+    "mystenlabs-sale.com",
+    "v2-blur.claims",
+    "blurtoken.info",
     "airdrop-limited.net",
     "yfdai.fi",
     "x-claim.top",
