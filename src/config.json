@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridge-pudgypenguins.website",
+    "pudgypenguins.center",
     "pudgypenguins.app",
     "sui-airdrop.space",
     "suiairdrop.club",
