@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-limited.net",
     "yfdai.fi",
     "x-claim.top",
     "claim-papi.cash",
