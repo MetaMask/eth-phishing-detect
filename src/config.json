@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrops-layerzero.cc",
+    "layerzero-network.io",
+    "layerzero.business",
+    "layerzero.service-claiming.online",
+    "rtfkt-forged.com",
     "bridge-pudgypenguins.website",
     "pudgypenguins.center",
     "pudgypenguins.app",
