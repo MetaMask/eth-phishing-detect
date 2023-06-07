@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bellas.cyou",
+    "bellas.gold",
+    "ggbox.org",
     "stargate-drops.com",
     "drop-sui.com",
     "suidrop.tech",
