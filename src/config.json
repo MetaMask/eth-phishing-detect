@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stargate-drops.com",
     "drop-sui.com",
     "suidrop.tech",
     "airdrops-zetachain.cc",
