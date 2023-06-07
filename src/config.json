@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drop-sui.com",
+    "suidrop.tech",
     "airdrops-zetachain.cc",
     "lidostaking.xyz",
     "arbitrum-app.ltd",
