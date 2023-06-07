@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-app.ltd",
+    "arbitrum.charity",
     "https://airdrops-zetachain.cc",
     "trustspad.finance",
     "airdrops-layerzero.cc",
