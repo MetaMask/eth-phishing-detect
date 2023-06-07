@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trustspad.finance",
     "airdrops-layerzero.cc",
     "layerzero-network.io",
     "layerzero.business",
