@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "circlexarbitrum.com",
     "bellas.cyou",
     "bellas.gold",
     "ggbox.org",
