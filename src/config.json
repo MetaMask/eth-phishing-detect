@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidostaking.xyz",
     "arbitrum-app.ltd",
     "arbitrum.charity",
     "https://airdrops-zetachain.cc",
