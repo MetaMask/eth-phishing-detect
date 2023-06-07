@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stargate-drops.com",
+    "drop-sui.com",
+    "suidrop.tech",
+    "airdrops-zetachain.cc",
+    "lidostaking.xyz",
+    "arbitrum-app.ltd",
+    "arbitrum.charity",
+    "trustspad.finance",
     "dapps.toolsync.online",
     "dexttoois.com",
     "ehaen.top",
