@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "atlas-rocketpool.net",
     "layerzeroo.cc",
     "presale-seedify.fund",
     "scroll-zkp.org",
