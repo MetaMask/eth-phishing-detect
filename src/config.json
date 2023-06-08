@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pinksalue.finance",
+    "magiceden.market",
+    "blur.lu",
+    "suipass.netlify.app",
+    "blur.season.claims",
     "bunzznft.com",
     "arlingtondrivingschool.com",
     "rewards-illuvium.io",
