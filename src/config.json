@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "presale-seedify.fund",
     "scroll-zkp.org",
     "claimsui.su",
     "suicoin.site",
