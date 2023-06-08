@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbase-class.com",
+    "coinbase-global-a.com",
+    "coinbasevalidator.com",
     "airdrop-zetachains.cc",
     "bunzznft.com",
     "arlingtondrivingschool.com",
