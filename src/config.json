@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimsui.su",
+    "suicoin.site",
+    "suinetworks.io",
+    "suitokens.online",
+    "xn--si-gua.online",
     "app.suui.io",
     "sui-mainnet.connect-claims.network",
     "sui3x.trustevent.xyz",
