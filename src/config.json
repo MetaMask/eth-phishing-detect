@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptos.web3frmint.com",
     "optimismlabs.gift",
     "optimism.limited-airdrop.net",
     "coinbase-class.com",
