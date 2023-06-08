@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app.suui.io",
+    "sui-mainnet.connect-claims.network",
+    "sui3x.trustevent.xyz",
     "aptos.web3frmint.com",
     "optimismlabs.gift",
     "optimism.limited-airdrop.net",
