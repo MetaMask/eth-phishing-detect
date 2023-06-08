@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scroll-zkp.org",
     "claimsui.su",
     "suicoin.site",
     "suinetworks.io",
