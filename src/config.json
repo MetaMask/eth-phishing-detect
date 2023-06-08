@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimismlabs.gift",
+    "optimism.limited-airdrop.net",
+    "coinbase-class.com",
+    "coinbase-global-a.com",
+    "coinbasevalidator.com",
+    "airdrop-zetachains.cc",
     "pinksalue.finance",
     "magiceden.market",
     "blur.lu",
