@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.service-claimings.live",
     "https://zetachain.web3-claims.network",
     "transactionals.io",
     "opensel.pro",
