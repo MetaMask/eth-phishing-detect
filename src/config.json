@@ -514,8 +514,8 @@
   ],
   "blacklist": [
     "trustspad.io",
-    "zetachain.service-claimings.live",
-    "https://zetachain.web3-claims.network",
+    "service-claimings.live",
+    "web3-claims.network",
     "transactionals.io",
     "opensel.pro",
     "opensl.su",
