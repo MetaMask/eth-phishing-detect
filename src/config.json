@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptopunks.web3-airdrop.net",
     "near-wallet.org",
     "near.web3-airdrop.net",
     "claim-zksync.top",
