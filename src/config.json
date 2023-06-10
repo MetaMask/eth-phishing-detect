@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.claims-manage.website",
     "trustspad.io",
     "service-claimings.live",
     "web3-claims.network",
