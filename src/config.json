@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimismos.pages.dev",
     "lido.airdropu.top",
     "lidonft.art",
     "zetachain.claims-manage.website",
