@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "near.web3-airdrop.net",
     "claim-zksync.top",
     "api37-collab-land.com",
     "suins-portal.io",
