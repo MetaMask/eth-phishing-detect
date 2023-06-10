@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidonft.art",
     "zetachain.claims-manage.website",
     "trustspad.io",
     "service-claimings.live",
