@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-zksync.top",
     "api37-collab-land.com",
     "suins-portal.io",
     "arbitrum-coin.site",
