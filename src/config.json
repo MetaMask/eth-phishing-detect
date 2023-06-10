@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-coin.site",
+    "arbltrum.ltd",
     "optimismos.pages.dev",
     "lido.airdropu.top",
     "lidonft.art",
