@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "suins-portal.io",
     "arbitrum-coin.site",
     "arbltrum.ltd",
     "optimismos.pages.dev",
