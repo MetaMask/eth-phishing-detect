@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "finalclaims.site",
+    "loyals.exchange",
+    "loyalty.holdings",
+    "psyop.gives",
     "trustspad.io",
     "service-claimings.live",
     "web3-claims.network",
