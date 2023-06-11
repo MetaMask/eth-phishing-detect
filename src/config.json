@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism.web3-airdrop.net",
     "optimism.io-airdrop.s-1ll.app",
     "optimism.drop-zone.one",
     "ledger-live-update.bangangtaydabong.com",
