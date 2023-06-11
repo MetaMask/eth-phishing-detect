@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rocketpool.web3-airdrop.net",
     "tron.web3-airdrop.net",
     "veefriends.web3-airdrop.net",
     "mantle.web3fast.net",
