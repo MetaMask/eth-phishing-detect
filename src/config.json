@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism.drop-zone.one",
     "ledger-live-update.bangangtaydabong.com",
     "coinbaseus-wallet.com",
     "airdrop-zetachain.live",
