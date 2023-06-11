@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbaseus-wallet.com",
     "airdrop-zetachain.live",
     "zetachain.web3frmint.com",
     "cryptopunks.web3-airdrop.net",
