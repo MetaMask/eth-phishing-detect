@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.web3fast.net",
     "arbitrum-eth.space",
     "arbitrum-d2m.pages.dev",
     "optimism.web3-airdrop.net",
