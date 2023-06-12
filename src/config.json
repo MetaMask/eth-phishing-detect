@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "avax.web3fast.net",
     "lidonft.top",
     "taikio.xyz",
     "rocketpool.web3-airdrop.net",
