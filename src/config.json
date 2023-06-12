@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumone.net",
     "arbitrumairdrop.website",
     "arbitrurm.net",
     "arbitrum-drop.pages.dev",
