@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidov2.xyz",
     "arbitrumone.net",
     "arbitrumairdrop.website",
     "arbitrurm.net",
