@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "finalclaims.site",
+    "loyals.exchange",
+    "loyalty.holdings",
+    "psyop.gives",
     "arb-drop.online",
     "bgx.ai",
     "butane.network",
