@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumairdrop.website",
+    "arbitrurm.net",
+    "arbitrum-drop.pages.dev",
     "avax.web3fast.net",
     "lidonft.top",
     "taikio.xyz",
