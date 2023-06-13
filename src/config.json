@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-sui.icu",
     "optimism.rewards.ac",
     "solana.lido-finance.pro",
     "kusama.lido-finance.pro",
