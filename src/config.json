@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zetachain.co",
     "metamasklogin.odoo.com",
     "layerzeroentry.com",
     "arbitrumairdrop.info",
