@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tokendrop-taiko.megumii.xyz",
     "collabland.pw",
     "airdrop-zetachain.co",
     "metamasklogin.odoo.com",
