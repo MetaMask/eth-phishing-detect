@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "alrbitrum.foundation",
     "zk-syncswap.com",
     "worldcointrade.com",
     "worldcoinpro.com",
