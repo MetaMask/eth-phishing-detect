@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "portal-zksync-io.com",
     "suicoin.us",
     "register-suiswap.app",
     "airdrops-x.top",
