@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidonft.co",
     "app-lido.exchange",
     "tokendrop-taiko.megumii.xyz",
     "collabland.pw",
