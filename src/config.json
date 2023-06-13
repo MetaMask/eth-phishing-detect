@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumdrop.click",
     "alrbitrum.foundation",
     "zk-syncswap.com",
     "worldcointrade.com",
