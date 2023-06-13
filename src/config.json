@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "kusama.lido-finance.pro",
     "lidonft.co",
     "app-lido.exchange",
     "tokendrop-taiko.megumii.xyz",
