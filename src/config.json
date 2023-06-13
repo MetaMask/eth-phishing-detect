@@ -513,8 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "kbo-kbollect.com"
-    "kbo-kbollect.online"
+    "kbo-kbollect.com",
+    "kbo-kbollect.online",
     "trustspad.io",
     "service-claimings.live",
     "web3-claims.network",
