@@ -513,7 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "https://zk-syncswap.com",
+    "zk-syncswap.com",
     "worldcointrade.com",
     "worldcoinpro.com",
     "worldcoinq.com",
