@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app-lido.exchange",
     "tokendrop-taiko.megumii.xyz",
     "collabland.pw",
     "airdrop-zetachain.co",
