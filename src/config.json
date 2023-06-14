@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zrn.app",
     "matrix-eco.xyz",
     "blurpool.io",
     "refundcoin.io",
