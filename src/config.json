@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-zksync.pw",
+    "claim-zksync.win",
+    "sslzksync.com",
+    "zksync-live.com",
     "scroll-zkp.co",
     "suitestnet.fun",
     "lidotoken.net",
