@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledgerlivewallet.net",
     "airdrop-layerzero.network",
     "layerzerodrop.tech",
     "mygoldenpp.com",
