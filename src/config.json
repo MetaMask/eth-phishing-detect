@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "suitestnet.fun",
     "lidotoken.net",
     "ledgerlivewallet.net",
     "airdrop-layerzero.network",
