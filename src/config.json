@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "troncrypto.pro",
     "claim-zksync.pw",
     "claim-zksync.win",
     "sslzksync.com",
