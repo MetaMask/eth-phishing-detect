@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "kbo-kbollect.com",
+    "kbo-kbollect.online",
     "layerzeroentry.com",
     "arbitrumairdrop.info",
     "arbitrumdrop.click",
