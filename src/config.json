@@ -513,7 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "hopprotocol.web3imint.com",
+    "web3imint.com",
+    "kbo-kbollect.com",
+    "kbo-kbollect.online",
+    "layerzeroentry.com",
+    "arbitrumairdrop.info",
+    "arbitrumdrop.click",
+    "alrbitrum.foundation",
+    "zk-syncswap.com",
     "worldcointrade.com",
     "worldcoinpro.com",
     "worldcoinq.com",
@@ -588,7 +595,6 @@
     "v8.freewebdex.com",
     "v8.bxcswap.cc",
     "trustpadz.top",
-    "treasureland.web3imint.com",
     "tornado-cash.org",
     "thehabibiz.com",
     "test.xin-mine.com",
