@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "matrix-eco.xyz",
+    "blurpool.io",
+    "refundcoin.io",
+    "minaswap.io",
     "gitcoin.ink",
     "sui-airdrop.website",
     "sui-airdrop.store",
