@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mygoldenpp.com",
     "tron2017.asia",
     "uniswapwallet.azurewebsites.net",
     "uniswap-x.online",
