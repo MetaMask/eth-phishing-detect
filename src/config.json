@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zrn.app",
     "gitcoin.ink",
     "sui-airdrop.website",
     "sui-airdrop.store",
