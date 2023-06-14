@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-layerzero.network",
+    "layerzerodrop.tech",
     "mygoldenpp.com",
     "tron2017.asia",
     "uniswapwallet.azurewebsites.net",
