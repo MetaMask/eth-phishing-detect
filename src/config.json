@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scroll-zkp.co",
     "suitestnet.fun",
     "lidotoken.net",
     "ledgerlivewallet.net",
