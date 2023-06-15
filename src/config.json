@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbget.org",
     "arbltrum-app.ltd",
     "taikopunks.com",
     "ethloyal.claims",
