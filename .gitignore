@@ -97,4 +97,6 @@ tranco-temp.db
 dappradar-temp.db
 coinmarketcap-temp.db
 trancoTop1m.csv
+trancoList.csv
 .vscode/
+.update-lists.env
