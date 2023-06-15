@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswapping.io",
     "arbget.org",
     "arbltrum-app.ltd",
     "taikopunks.com",
