@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "taikopunks.com",
     "zrn.app",
     "matrix-eco.xyz",
     "blurpool.io",
