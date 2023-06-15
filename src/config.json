@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop.optimism.nu",
     "lauerzerolabs.top",
     "leyersezero.com",
     "layerzero.claimings-connect.xyz",
