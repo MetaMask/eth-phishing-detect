@@ -12,6 +12,10 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "consensys-nft.com",
+    "consensys-nft.io",
+    "consensys-nft.net",
+    "consensys-nft.xyz",
     "cryptocities.world",
     "metamax.exchange",
     "openmeta.network",
@@ -1980,7 +1984,6 @@
     "zksyncxdrop.net",
     "airdrop.zksync.tel",
     "claim.zksyno.io",
-    "claims.consensys-nft.com",
     "coinbase.meet-ritik.software",
     "coinbase.wallet-mask.com",
     "coinbase.wallets-coin.com",
