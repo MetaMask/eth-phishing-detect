@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbaseweb.vip",
     "alrbitrum.com",
     "collabland.wiki",
     "apecoinreward.org",
