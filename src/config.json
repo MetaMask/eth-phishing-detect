@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ldo-lido.finance",
     "layerzero-wl.com",
     "claim-layerzero.news",
     "coinbaseweb.vip",
