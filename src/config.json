@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "alrbitrum.com",
     "collabland.wiki",
     "apecoinreward.org",
     "sui-io-airdrop.website",
