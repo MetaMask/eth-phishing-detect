@@ -514,7 +514,7 @@
   ],
   "blacklist": [
     "zksync-bridge.net",
-    "https://zetachain.web3-requests-claimings.xyz/",
+    "web3-requests-claimings.xyz",
     "walletsui.net",
     "ldo-lido.finance",
     "layerzero-wl.com",
