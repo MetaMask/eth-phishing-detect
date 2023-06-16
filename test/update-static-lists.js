@@ -1,7 +1,7 @@
 const sqlite3 = require("sqlite3");
 const parseCsv = require("csv-parse/sync");
 const fs = require("fs");
-const axios = require("axios");
+const needle = require("needle");
 const join = require("path").join;
 require("dotenv").config({ path: join(__dirname, ".update-lists.env") });
 
@@ -36,14 +36,7 @@ async function updateTrancoList() {
   const stream = fs.createWriteStream("trancoList.csv");
 
   try {
-    const response = await axios.get(
-      "https://tranco-list.eu/download/K25GW/100000",
-      {
-        responseType: "stream",
-      }
-    );
-
-    response.data.pipe(stream);
+    needle.get("https://tranco-list.eu/download/K25GW/100000").pipe(stream);
 
     await new Promise((resolve, reject) => {
       stream.on("finish", resolve);
@@ -132,7 +125,8 @@ async function updateCoinmarketcapList() {
   // Call Coinmarketcap API
   try {
     // get only coins with market cap > 10M
-    const response = await axios.get(
+    const response = await needle(
+      "get",
       `https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=${totalCoins}&start=1&sort=market_cap_strict&market_cap_min=10000000`,
       {
         headers: {
@@ -140,7 +134,7 @@ async function updateCoinmarketcapList() {
         },
       }
     );
-    response.data.data.forEach((coin) => {
+    response.body.data.forEach((coin) => {
       coinsMarketCaps[coin.id] = coin.quote.USD.market_cap;
       coinsIds.push(coin.id);
     });
@@ -152,7 +146,8 @@ async function updateCoinmarketcapList() {
     try {
       for (subcallCoinsIds of subcallsCoinsIds) {
         await delay(2500);
-        const response = await axios.get(
+        const response = await needle(
+          "get",
           `https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?id=${subcallCoinsIds.join(
             ","
           )}`,
@@ -163,11 +158,11 @@ async function updateCoinmarketcapList() {
           }
         );
 
-        Object.keys(response.data.data).forEach((coinId) => {
+        Object.keys(response.body.data).forEach((coinId) => {
           coinsArray.push([
-            response.data.data[coinId].name,
+            response.body.data[coinId].name,
             coinsMarketCaps[coinId],
-            response.data.data[coinId].urls.website[0],
+            response.body.data[coinId].urls.website[0],
           ]);
         });
       }
