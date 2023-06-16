@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "walletsui.net",
     "ldo-lido.finance",
     "layerzero-wl.com",
     "claim-layerzero.news",
