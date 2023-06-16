@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-layerzero.news",
     "coinbaseweb.vip",
     "alrbitrum.com",
     "collabland.wiki",
