@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "https://zetachain.web3-requests-claimings.xyz/",
     "walletsui.net",
     "ldo-lido.finance",
     "layerzero-wl.com",
