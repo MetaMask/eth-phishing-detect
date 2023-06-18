@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gameplanmeta.com",
     "web3-requests-claimings.xyz",
     "walletsui.net",
     "ldo-lido.finance",
