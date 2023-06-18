@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "https://mantle.service-claimings.pro/",
     "alienfrens.app",
     "gameplanmeta.com",
     "web3-requests-claimings.xyz",
