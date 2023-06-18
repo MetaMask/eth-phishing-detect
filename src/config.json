@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "alienfrens.app",
     "web3-requests-claimings.xyz",
     "walletsui.net",
     "ldo-lido.finance",
