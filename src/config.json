@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido.drop-event.top",
     "claim-zksync.vip",
     "link-claimings.pro",
     "enter-syncswap.xyz",
