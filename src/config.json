@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "enter-syncswap.xyz",
+    "manage-claim.website",
+    "zkzync.org",
     "galxe.com.vc",
     "mantle.service-claimings.pro",
     "giveaway-ord.com",
