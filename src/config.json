@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-finaence.com",
     "lidonft.net",
     "lidonft.org",
     "lido.drop-event.top",
