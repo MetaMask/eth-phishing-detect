@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "link-claimings.pro",
     "enter-syncswap.xyz",
     "manage-claim.website",
     "zkzync.org",
