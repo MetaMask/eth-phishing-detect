@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "adidas.zone",
     "sswp.xyz",
     "claim-optimism.net",
     "opdrop.app",
