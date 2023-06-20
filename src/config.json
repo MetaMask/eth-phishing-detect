@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coin-eth.cc",
+    "linktoken.io",
+    "hkinu.network",
+    "erswk.vip",
+    "opdrop.app",
+    "similar-defi.com",
     "sswp.xyz",
     "claim-optimism.net",
     "opdrop.app",
