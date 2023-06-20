@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "adidas.zone",
     "coin-eth.cc",
     "linktoken.io",
     "hkinu.network",
