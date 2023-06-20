@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shib-claim.com",
+    "aavestake.us",
     "eco-meta.world",
     "adidas.zone",
     "coin-eth.cc",
