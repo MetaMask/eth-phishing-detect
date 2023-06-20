@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aavestake.us",
     "coin-eth.cc",
     "linktoken.io",
     "hkinu.network",
