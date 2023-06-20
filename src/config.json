@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coin-eth.cc",
+    "linktoken.io",
+    "hkinu.network",
+    "erswk.vip",
+    "similar-defi.com",
     "x7pads.top",
     "mutantapesxrp.xyz",
     "theboredapesaudis.xyz",
@@ -587,7 +592,6 @@
     "kingdatass.com",
     "luckysevendex.com",
     "stacksandbox.site",
-    "sw.erswk.vip",
     "sync.etherscapp.site",
     "uniexc.club",
     "usdtminings.me",
