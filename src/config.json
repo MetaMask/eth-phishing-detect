@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptogpt-token.net",
     "shib-claim.com",
     "aavestake.us",
     "eco-meta.world",
