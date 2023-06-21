@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "littlemutants.net",
     "aibitrum.app",
     "cryptogpt-token.net",
     "opensel.press",
