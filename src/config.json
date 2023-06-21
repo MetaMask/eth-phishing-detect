@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aibitrum.app",
     "shib-claim.com",
     "aavestake.us",
     "eco-meta.world",
