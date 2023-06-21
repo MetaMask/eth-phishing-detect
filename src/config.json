@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptogpt-token.net",
     "opensel.press",
     "digidagigaku.com",
     "updatehub.site",
