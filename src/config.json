@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-domains.xyz",
     "zksync-era.live",
     "novarbitnet.online",
     "optimism.sx",
