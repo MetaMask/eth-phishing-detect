@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "https://mantle.services-bonus.pro/",
     "littlemutants.net",
     "aibitrum.app",
     "cryptogpt-token.net",
