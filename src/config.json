@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridge-optimism.org",
     "glowconsultants.org",
     "uu12311.com",
     "cetcat.com",
