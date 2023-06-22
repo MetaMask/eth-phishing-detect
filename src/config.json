@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensia.io",
+    "accountvalidators.com",
+    "usdterc20.cc",
     "littlemutants.net",
     "aibitrum.app",
     "cryptogpt-token.net",
