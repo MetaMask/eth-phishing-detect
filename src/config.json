@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "novarbitnet.online",
     "optimism.sx",
     "bridge-optimism.org",
     "glowconsultants.org",
