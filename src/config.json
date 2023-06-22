@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidofiapp.com",
+    "lidoreward.org",
+    "mantle.services-bonus.pro",
     "opensia.io",
     "accountvalidators.com",
     "usdterc20.cc",
