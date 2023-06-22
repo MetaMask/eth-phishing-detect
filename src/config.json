@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncera.art",
+    "zksync.web3-connects.com",
     "zksync-domains.xyz",
     "zksync-era.live",
     "novarbitnet.online",
