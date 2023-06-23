@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sui.dropmaster.tech",
     "sui.skydrop.website",
     "sui.dropevent.live",
     "stakewise-protocol.app",
