@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "isrka.world",
     "collab-land.tech",
     "zksyncera.art",
     "zksync.web3-connects.com",
