@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezor-suite.digital",
     "sui.dropmaster.tech",
     "sui.skydrop.website",
     "sui.dropevent.live",
