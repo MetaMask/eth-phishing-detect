@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stakewise-protocol.app",
     "glowconsultants.org",
     "uu12311.com",
     "cetcat.com",
