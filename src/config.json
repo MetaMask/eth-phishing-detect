@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stakewise-protocol.app",
     "isrka.world",
     "collab-land.tech",
     "zksyncera.art",
