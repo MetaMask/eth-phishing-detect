@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero.dropevent.live",
     "airdrop.layerzeron.network",
     "layerzerogift.com",
     "erazk.top",
