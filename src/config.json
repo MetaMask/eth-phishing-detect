@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sui.trustcryptoz.top",
     "whitelist-optimism.org",
     "optimism.airdrops.website",
     "arbgold.org",
