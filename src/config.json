@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbasewallet.ltd",
     "nftlido.xyz",
     "dao-lido.finance",
     "avalanche.gold",
