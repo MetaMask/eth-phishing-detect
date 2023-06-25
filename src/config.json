@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbgold.org",
     "arbidrop.info",
     "ordinalsbubbles.world",
     "yoloerc.com",
