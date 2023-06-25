@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ordinalsbubbles.world",
     "yoloerc.com",
     "vvcheck.net",
     "unpacklibs.com",
