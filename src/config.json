@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dao-lido.finance",
     "avalanche.gold",
     "layerzero.dropevent.live",
     "airdrop.layerzeron.network",
