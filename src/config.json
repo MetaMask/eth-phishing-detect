@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptos.bigpads.top",
     "sui.trustcryptoz.top",
     "whitelist-optimism.org",
     "optimism.airdrops.website",
