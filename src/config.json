@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "uniswap-dao.org",
     "metamask.raffle-nft.online",
     "coinbasewallet.ltd",
     "nftlido.xyz",
