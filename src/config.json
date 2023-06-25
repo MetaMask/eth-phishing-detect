@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "erazk.top",
+    "zkdrop.org",
+    "zkgold.org",
+    "zklabs.network",
+    "zksync.solutions",
     "aptos.bigpads.top",
     "sui.trustcryptoz.top",
     "whitelist-optimism.org",
