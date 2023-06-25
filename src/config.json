@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yugacoins.com",
     "uniswap-dao.org",
     "metamask.raffle-nft.online",
     "coinbasewallet.ltd",
