@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "whitelist-optimism.org",
     "optimism.airdrops.website",
     "arbgold.org",
     "arbidrop.info",
