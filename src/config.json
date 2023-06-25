@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "avalanche.gold",
     "layerzero.dropevent.live",
     "airdrop.layerzeron.network",
     "layerzerogift.com",
