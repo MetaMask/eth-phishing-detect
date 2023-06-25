@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptopunks.tech.boredapevachtclub.com",
     "yugacoins.com",
     "uniswap-dao.org",
     "metamask.raffle-nft.online",
