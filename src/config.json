@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "loopring-protocol.org",
     "elementals-azuki.com",
     "azuki-elemental.com",
     "claim-psyop.org",
