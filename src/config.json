@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "argent-airdrop.com",
     "argentweb.xyz",
     "dao-argent.org",
     "loopring-protocol.org",
