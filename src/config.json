@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezor-suite.digital",
     "signup-layerzero.com",
     "zero-airdrop.com",
     "farm-layrzero.com",
