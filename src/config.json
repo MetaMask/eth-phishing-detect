@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "elementals-azuki.com",
+    "azuki-elemental.com",
+    "claim-psyop.org",
     "getlido.fi",
     "connect-uniswap.web.app",
     "layerzero.ventures",
