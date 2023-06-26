@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbase03.com",
     "zapper.club",
     "cryptopunks.tech.boredapevachtclub.com",
     "yugacoins.com",
