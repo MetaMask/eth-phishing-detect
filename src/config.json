@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "thelayerzero.com",
     "coinbase03.com",
     "zapper.club",
     "cryptopunks.tech.boredapevachtclub.com",
