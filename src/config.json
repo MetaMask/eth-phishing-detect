@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "elementals-azuki.com",
+    "azuki-elemental.com",
+    "claim-psyop.org",
     "yoloerc.com",
     "vvcheck.net",
     "unpacklibs.com",
