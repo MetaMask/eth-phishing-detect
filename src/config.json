@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "connect-uniswap.web.app",
     "layerzero.ventures",
     "layerzeroairdrop.xyz",
     "thelayerzero.com",
