@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rio.claims",
+    "loyalty.li",
+    "pepecoineths.com",
+    "psyops.site",
+    "azukiselementals.com",
+    "claimape.gg",
     "bestmix.pro",
     "bestmixer.me",
     "web3cmint.com",
