@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "enter-optimism.com",
     "metamasksupport.tteam.site",
     "drop-metamask.com",
     "lidotoken.org",
