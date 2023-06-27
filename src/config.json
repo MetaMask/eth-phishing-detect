@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "avaxtestnetbridge.xyz",
     "bestmix.pro",
     "bestmixer.me",
     "web3cmint.com",
