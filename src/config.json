@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappsprotocols.live",
     "km.ethincome.cc",
     "tigerbitcoinweb3.com",
     "launch-pads.net",
