@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "signup-syncswap.org",
     "gold-polygon.net",
     "gold-arbitrum.com",
     "aaker.fi",
