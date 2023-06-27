@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "signup-layrzero.com",
     "cowswap.net",
     "collab-land.pw",
     "arbgetting.com",
