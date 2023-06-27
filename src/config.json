@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "3xevent-sui.info",
     "enter-optimism.com",
     "metamasksupport.tteam.site",
     "drop-metamask.com",
