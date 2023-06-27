@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bestmix.pro",
+    "bestmixer.me",
     "a08.ethwo.net",
     "arbdoge-ai.pages.dev",
     "bitspro.co",
