@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3cmint.com",
     "aaker.fi",
     "alcoc.xyz",
     "alido.pro",
