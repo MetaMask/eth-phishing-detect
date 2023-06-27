@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gold-arbitrum.com",
     "aaker.fi",
     "alcoc.xyz",
     "alido.pro",
