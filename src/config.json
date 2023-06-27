@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidotoken.org",
     "get-layrzero.com",
     "signup-layrzero.com",
     "cowswap.net",
