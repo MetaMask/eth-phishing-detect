@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dao-argent.net",
     "airdrop-scroll.cc",
     "claim-scroll.org",
     "signup-syncswap.org",
