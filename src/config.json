@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bestmix.pro",
+    "bestmixer.me",
     "web3cmint.com",
     "dao-argent.net",
     "airdrop-scroll.cc",
