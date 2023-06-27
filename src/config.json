@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dao-argent.net",
+    "airdrop-scroll.cc",
+    "claim-scroll.org",
+    "signup-syncswap.org",
+    "gold-polygon.net",
+    "gold-arbitrum.com",
     "a08.ethwo.net",
     "arbdoge-ai.pages.dev",
     "bitspro.co",
