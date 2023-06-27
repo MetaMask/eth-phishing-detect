@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamasksupport.tteam.site",
     "drop-metamask.com",
     "lidotoken.org",
     "get-layrzero.com",
