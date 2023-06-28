@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumbridge.ch",
+    "gold-arbitrum.foundation",
     "zapperfi.net",
     "gold-polygon.finance",
     "zksync.claims",
