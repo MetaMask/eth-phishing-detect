@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.archpad.top",
+    "arbitrum.xr-drop.top",
+    "arbitrumbridge.ch",
+    "gold-arbitrum.foundation",
+    "zapperfi.net",
+    "gold-polygon.finance",
     "dappsprotocols.live",
     "km.ethincome.cc",
     "tigerbitcoinweb3.com",
