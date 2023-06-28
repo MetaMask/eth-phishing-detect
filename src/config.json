@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mint-guttermelo.com",
     "lidonft.info",
     "insuringjewelry.com",
     "lido.cryptoinc.top",
