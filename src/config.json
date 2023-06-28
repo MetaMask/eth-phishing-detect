@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zapperfi.net",
     "gold-polygon.finance",
     "zksync.claims",
     "www-apecoin.com",
