@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "insuringjewelry.com",
+    "lido.cryptoinc.top",
+    "lido.cryptpad.top",
     "lidoreward.net",
     "lido-us.site",
     "lido.works",
