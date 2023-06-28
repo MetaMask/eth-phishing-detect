@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido.works",
     "arbitrum.archpad.top",
     "arbitrum.xr-drop.top",
     "arbitrumbridge.ch",
