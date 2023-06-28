@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gold-polygon.finance",
     "zksync.claims",
     "www-apecoin.com",
     "trondz.xyz",
