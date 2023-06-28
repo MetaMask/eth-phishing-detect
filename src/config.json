@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidonft.info",
     "insuringjewelry.com",
     "lido.cryptoinc.top",
     "lido.cryptpad.top",
@@ -2358,7 +2359,6 @@
     "lidonft.fi",
     "lidonft.in",
     "stakelido.finance",
-    "6exchange.lidonft.info",
     "app.ledger-ledger.com",
     "airdrop-layerzero.vip",
     "airdrop-layerzero.win",
@@ -5566,7 +5566,6 @@
     "lido-staking-finance.com",
     "lido-fin.cloud",
     "lidofi-stake.com",
-    "2exchange.lidonft.info",
     "gaixe.ink",
     "airdrop-zetachains.com",
     "coinomize.la",
