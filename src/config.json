@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.claim-collect.pro",
     "whitelist-seapro.com",
     "megiceden.shop",
     "claim-worldcoin.com",
