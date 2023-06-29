@@ -19,7 +19,18 @@ function arrayTo2DArray1(arr, size) {
   return res;
 }
 
+const touchFile = path => {
+  const time = new Date();
+  try {
+    fs.utimesSync(path, time, time);
+  } catch (err) {
+    fs.closeSync(fs.openSync(path, 'w'));
+  }
+}
+
 async function updateTrancoList() {
+  const PATH_CSV = __dirname + "/trancoList.csv";
+
   // This is a list of "bad domains" (false positive) that we don't want to include in the final generated DB
   const excludeList = [
     "simdif.com",
@@ -49,17 +60,21 @@ async function updateTrancoList() {
     process.exit(1);
   }
 
-  try {
-    fs.unlinkSync("./tranco-temp.db");
-  } catch (err) {
-    console.error(err);
+  if(fs.existsSync("./tranco-temp.db")) {
+    try {
+      fs.unlinkSync("./tranco-temp.db");
+    } catch (err) {
+      console.error(err);
+    }
   }
+
+  await touchFile(PATH_CSV);
 
   // Create db and fill it with entries from Tranco csv file
   const db = new sqlite3.Database("./tranco-temp.db");
 
   const trancoDomainsCsv = fs.readFileSync(
-    __dirname + "/trancoList.csv",
+    PATH_CSV,
     "utf8"
   );
   const trancoDomains = parseCsv.parse(trancoDomainsCsv, {
