@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "whitelist-seapro.com",
     "megiceden.shop",
     "claim-worldcoin.com",
     "register-pudgypenguins.net",
