@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "signup-sui.net",
     "sui.2023cryptopad.top",
     "sui.cryptoinc.top",
     "sui.xr-drop.top",
