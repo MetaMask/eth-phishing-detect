@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.web3-bounty.pro",
     "https://dao-zetachain.com/",
     "register-veefriends.org",
     "uniswapv4.top",
