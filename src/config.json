@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero.su",
     "layerzero.global",
     "layerzzero.network",
     "layerzero.web3-requests-claims.network",
