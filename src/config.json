@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sui.2023cryptopad.top",
+    "sui.cryptoinc.top",
+    "sui.xr-drop.top",
     "governance-argent.com",
     "mantle.claim-collect.pro",
     "whitelist-seapro.com",
