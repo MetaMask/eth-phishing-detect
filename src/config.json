@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.zk-eth.com",
+    "zksync.bridge-bounty.pro",
+    "zksync.claimings-services.xyz",
+    "zksync.link-claim.network",
     "aptos.cryptoinc.top",
     "aptos.cryptpad.top",
     "aptos.tron-pad.top",
