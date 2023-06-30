@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "governence-argent.com",
     "claim.zk-eth.com",
     "zksync.bridge-bounty.pro",
     "zksync.claimings-services.xyz",
