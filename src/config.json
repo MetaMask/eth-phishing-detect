@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero.reward-meta.live",
     "layerzero.su",
     "layerzero.global",
     "layerzzero.network",
