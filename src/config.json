@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-dashboard.tech",
+    "arbitrumgive.com",
+    "welcome-arbitrum.site",
     "signup-sui.net",
     "sui.2023cryptopad.top",
     "sui.cryptoinc.top",
