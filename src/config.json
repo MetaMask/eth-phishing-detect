@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop.optimism.rs",
     "www1.othersideland.sale",
     "claim-layerzero.network",
     "crypto-alliance.life",
