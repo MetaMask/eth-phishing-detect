@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "register-veefriends.org",
     "uniswapv4.top",
     "uniswap-claims.org",
     "usdc-uniswap.org",
