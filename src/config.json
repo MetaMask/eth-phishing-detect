@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumbridge.top",
     "arbitrum.2023cryptopad.top",
     "arbitrum.cryptoinc.top",
     "arbitrum-dashboard.tech",
