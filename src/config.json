@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "https://dao-zetachain.com/",
     "register-veefriends.org",
     "uniswapv4.top",
     "uniswap-claims.org",
