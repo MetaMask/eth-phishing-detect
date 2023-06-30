@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "amm-coinvip.com",
+    "krakenfutureswto.com",
     "layerzero.reward-meta.live",
     "layerzero.su",
     "layerzero.global",
