@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-airnetwork.com",
     "governence-argent.com",
     "claim.zk-eth.com",
     "zksync.bridge-bounty.pro",
