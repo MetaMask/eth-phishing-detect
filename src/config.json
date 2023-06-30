@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-layerzero.network",
+    "crypto-alliance.life",
+    "layerzro.com",
+    "seedlfy.fund",
+    "layerzero.airdrops.website",
+    "layerzero.claim-service.website",
+    "layerzero.claimings-services.xyz",
     "layerzero-airnetwork.com",
     "governence-argent.com",
     "claim.zk-eth.com",
