@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksync.pro",
+    "era.zk-eth.com",
+    "zksyncera.claim.events",
     "zetachain.web3-bounty.pro",
     "https://dao-zetachain.com/",
     "register-veefriends.org",
