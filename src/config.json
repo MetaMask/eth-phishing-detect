@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero.global",
+    "layerzzero.network",
+    "layerzero.web3-requests-claims.network",
     "airdrop-zksync.pro",
     "era.zk-eth.com",
     "zksyncera.claim.events",
