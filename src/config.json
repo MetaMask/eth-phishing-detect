@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptos.cryptoinc.top",
+    "aptos.cryptpad.top",
+    "aptos.tron-pad.top",
+    "aptos.xr-drop.top",
     "arbitrumbridge.top",
     "arbitrum.2023cryptopad.top",
     "arbitrum.cryptoinc.top",
