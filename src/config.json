@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "enter-quai.net",
     "lido-v2.fi",
     "dao-degods.com",
     "lensl.xyz",
