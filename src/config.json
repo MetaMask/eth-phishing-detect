@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "https://claim-mantle.xyz/",
     "enter-quai.net",
     "lido-v2.fi",
     "dao-degods.com",
