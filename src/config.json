@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-v2.fi",
     "dao-degods.com",
     "lensl.xyz",
     "blur-nft.xyz",
