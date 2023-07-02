@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linea-build.net",
     "https://claim-mantle.xyz/",
     "enter-quai.net",
     "lido-v2.fi",
