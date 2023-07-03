@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curvefinance.systems",
     "kraken-staking.com",
     "dao-degods.com",
     "lensl.xyz",
