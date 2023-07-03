@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "maker-lending.co",
     "dao-degods.com",
     "lensl.xyz",
     "blur-nft.xyz",
