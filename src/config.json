@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linealayer.com",
     "https://mantle.web3-one.com/",
     "arbitrumgifts.com",
     "linea-build.net",
