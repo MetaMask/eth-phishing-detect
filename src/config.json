@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "kraken-staking.com",
     "dao-degods.com",
     "lensl.xyz",
     "blur-nft.xyz",
