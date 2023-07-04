@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "test.httpsxn--aptos-qfd.com",
     "aptofoundations.org",
     "aptos.drops-x.com",
     "aptosnft.web3pmint.com",
