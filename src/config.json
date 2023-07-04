@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.marketing",
+    "arbitrum.ooo",
+    "arbitrumchains.com",
     "wordpress.httpsxn--aptos-qfd.com",
     "test.httpsxn--aptos-qfd.com",
     "aptofoundations.org",
