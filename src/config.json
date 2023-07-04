@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptofoundations.org",
+    "aptos.drops-x.com",
+    "aptosnft.web3pmint.com",
     "lido.fyi",
     "lido.cryptoss.top",
     "enter-uniswap.net",
