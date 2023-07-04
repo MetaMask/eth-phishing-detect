@@ -514,7 +514,6 @@
   ],
   "blacklist": [
     "layer-zero.live",
-    "claim-mantle.xyz",
     "dao-mantle.com",
     "mantle.claim-link.online",
     "mantle.web3-unlimited.com",
@@ -541,7 +540,6 @@
     "mantle.web3-one.com",
     "arbitrumgifts.com",
     "linea-build.net",
-    "claim-mantle.xyz",
     "enter-quai.net",
     "lido-v2.fi",
     "dao-degods.com",
@@ -53913,6 +53911,7 @@
     "tacenswap.io",
     "arbshibsclaim.xyz",
     "uni-fi.pro",
-    "bridge-pudgypenguins.icu"
+    "bridge-pudgypenguins.icu",
+    "claim-mantle.xyz"
   ]
 }
