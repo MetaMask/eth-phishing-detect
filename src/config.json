@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "enter-uniswap.net",
     "linealayer.com",
     "https://mantle.web3-one.com/",
     "arbitrumgifts.com",
