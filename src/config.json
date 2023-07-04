@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzerochains.com",
     "arbclaim.co",
     "arbiclaim.net",
     "arb-check.claim-link.online",
