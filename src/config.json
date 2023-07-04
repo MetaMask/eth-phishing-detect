@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "wordpress.httpsxn--aptos-qfd.com",
     "test.httpsxn--aptos-qfd.com",
     "aptofoundations.org",
     "aptos.drops-x.com",
