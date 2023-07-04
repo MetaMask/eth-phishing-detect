@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbclaim.co",
+    "arbiclaim.net",
+    "arb-check.claim-link.online",
+    "arbitrum.l-coin.top",
+    "arbitrum.superdropx.top",
     "arbitrum.marketing",
     "arbitrum.ooo",
     "arbitrumchains.com",
