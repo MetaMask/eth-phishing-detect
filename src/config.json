@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncswap.portal-zksync.xyz",
     "tron.baby",
     "tronlink-pro-download-wallet.netlify.app",
     "connect-sui.network",
