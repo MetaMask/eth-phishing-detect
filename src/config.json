@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledger-started.com",
     "layerzero-airdrop.org",
     "layerzero.gg",
     "test.getlayerzero.com",
