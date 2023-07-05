@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tronlink-pro-download-wallet.netlify.app",
     "connect-sui.network",
     "rocketpool.to",
     "rewardlido.com",
