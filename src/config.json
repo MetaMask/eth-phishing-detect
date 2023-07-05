@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "waterfall.claims",
     "layer-zero.live",
     "dao-mantle.com",
     "mantle.claim-link.online",
