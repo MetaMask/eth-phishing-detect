@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "psydex.gg",
+    "elementalis-azuki.com",
+    "starknet-whitelists.com",
+    "azukishilumia.com",
+    "azukiselemental.com",
+    "magicroyal.org",
+    "azuki-elementals.io",
+    "dropusdc.com",
+    "earn-drop.io",
     "convex.systems",
     "curvefinance.systems",
     "kraken-staking.com",
