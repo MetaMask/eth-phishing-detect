@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dao-lido.network",
     "ledger-connect-setup.com",
     "ledger-started.com",
     "layerzero-airdrop.org",
