@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero.gg",
     "test.getlayerzero.com",
     "arrb1trumm-space.pro",
     "aptosbridge-app.com",
