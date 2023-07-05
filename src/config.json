@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "connect-sui.network",
     "rocketpool.to",
     "rewardlido.com",
     "dao-lido.network",
