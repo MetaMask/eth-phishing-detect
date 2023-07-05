@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "maker-lending.co",
     "psydex.gg",
     "elementalis-azuki.com",
     "starknet-whitelists.com",
