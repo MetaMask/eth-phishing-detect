@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rocketpool.to",
     "rewardlido.com",
     "dao-lido.network",
     "ledger-connect-setup.com",
