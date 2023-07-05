@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-airdrop.org",
     "layerzero.gg",
     "test.getlayerzero.com",
     "arrb1trumm-space.pro",
