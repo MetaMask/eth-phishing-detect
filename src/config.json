@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptosbridges.com",
     "waterfall.claims",
     "layer-zero.live",
     "dao-mantle.com",
