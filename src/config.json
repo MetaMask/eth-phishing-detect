@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "giveaway-chain.link",
     "arbitrumlayers.com",
     "linealayers.com",
     "1exchange.lidodaonft.com",
