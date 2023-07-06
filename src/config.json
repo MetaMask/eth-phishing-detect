@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptos-evm.com",
     "join-doodles.net",
     "doodlesnft.net",
     "suiwin.xyz",
