@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "1exchange.lidodaonft.com",
     "lido-stakes.xyz",
     "staked-lidofi.com",
     "lineatoken.live",
