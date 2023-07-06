@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "staked-lidofi.com",
     "lineatoken.live",
     "veefriendsseries3.com",
     "web3-airdrops.com",
