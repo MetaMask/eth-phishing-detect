@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumlayers.com",
     "linealayers.com",
     "1exchange.lidodaonft.com",
     "lido-stakes.xyz",
