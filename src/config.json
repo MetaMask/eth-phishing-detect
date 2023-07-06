@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rabbit.claims",
     "psydex.gg",
     "elementalis-azuki.com",
     "starknet-whitelists.com",
