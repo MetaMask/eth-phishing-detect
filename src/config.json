@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3-airdrops.com",
     "rabbit.claims",
     "psydex.gg",
     "elementalis-azuki.com",
