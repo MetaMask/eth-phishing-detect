@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zro-claim.com",
+    "layerzero.claiming-bridge.website",
+    "layerzero.claimings-link.pro",
     "web3-requests-claimings.pro",
     "arbitrum-fi.com",
     "arbitrum-home.com",
