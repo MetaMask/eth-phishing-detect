@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gold-aptoslabs.com",
     "giveaway-chain.link",
     "arbitrumlayers.com",
     "linealayers.com",
