@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.ink",
     "baseprotocols.com",
     "zksync-register.com",
     "enter-syncswap.net",
