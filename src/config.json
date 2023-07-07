@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3-requests-claimings.pro",
     "arbitrum-fi.com",
     "arbitrum-home.com",
     "arbitrum.clothing",
