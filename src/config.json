@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "enter-syncswap.net",
+    "zkstack-rewards.com",
+    "zksyncapps.com",
+    "zksynceras.tech",
+    "claim.zksynci.io",
+    "zk-eth.claim.events",
     "dao-optimism.com",
     "optimism-airdrop.claiming-bridge.website",
     "optimism-airdrop.claims-web3.xyz",
