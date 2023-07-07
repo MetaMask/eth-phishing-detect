@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "baseprotocols.com",
     "zksync-register.com",
     "enter-syncswap.net",
     "zkstack-rewards.com",
