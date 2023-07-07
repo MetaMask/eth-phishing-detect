@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-fi.com",
+    "arbitrum-home.com",
+    "arbitrum.clothing",
     "gold-aptoslabs.com",
     "giveaway-chain.link",
     "arbitrumlayers.com",
