@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "https://airdrops-mantle.xyz/",
     "zro-claim.com",
     "layerzero.claiming-bridge.website",
     "layerzero.claimings-link.pro",
