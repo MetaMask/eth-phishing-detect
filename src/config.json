@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "glxea.com",
     "airdrop-aptos.cc",
     "zetachain.ink",
     "baseprotocols.com",
