@@ -44,7 +44,7 @@ console.log(value)
 
 
 For understanding the lists, see [`doc/lists-ref.md`](doc/lists-ref.md).
-Contributors are encouraged to read [`CONTRIBUTING.md`](./CONTRIBUTING.md) to for tips, pointers, and guidelines before reporting or collaborating.
+Contributors are encouraged to read [`CONTRIBUTING.md`](./CONTRIBUTING.md) for tips, pointers, and guidelines before reporting or collaborating.
 
 To keep a tidy file, use the following CLI to make changes to the list:
 
