@@ -1,12 +1,12 @@
 # Blocklist vs Fuzzylist vs Allowlist
 The **blocklist** redirects MetaMask users to a red warning screen instead of the website in question.
-It was originally developed so that we had our own version of Chrome's "malicious website ahead!" page that we could update more quickly in response to our users. We primarily block sites that are actively attempting to phish our users, (i.e.,look-alike sites targeting those who hold crypto, DeFi degens, NFT lovers, etc.).
+It was originally developed so that we had our own version of Chrome's "malicious website ahead!" page that we could update more quickly in response to our users. We primarily block sites that are actively attempting to phish our users, (i.e., look-alike sites targeting those who hold crypto, DeFi degens, NFT lovers, etc.).
 
 We have the utmost respect for all those building products, experimenting with AI, and/or doing research around more robust ways to prevent all forms of cybercrime and fight back against scammers. However, the purpose of this specific repo is simply to collaborate and maintain a very long list of **active**, **malicious**, and **objectively harmful** websites targeting those in the cryptocurrency industry. We take a lot of pride in knowing that this list has prevented the theft of millions and millions of dollars over the past five years, and welcome those who wish to help us continue to do so.
 
 The **fuzzylist** uses the Levenshtein distance algorithm and similar measures to proactively block URLs that are very similar to legitimate, highly-targeted websites without needing to add each new url to the blocklist. Generally speaking, the rule of thumb is: **don't add anything to the fuzzylist!**
 
-The fuzzylist is really a relic from a time where the ecosystem was smaller and the products had longer, more unique names (e.g., MyEtherWallet, MetaMask). Adding `myetherwallet.com` to the fuzzylist will block `myetherwalllet.com` and `myethrwallet.com` and `myetherwa11et.com`.
+The fuzzylist is really a relic from a time when the ecosystem was smaller and the products had longer, more unique names (e.g., MyEtherWallet, MetaMask). Adding `myetherwallet.com` to the fuzzylist will block `myetherwalllet.com` and `myethrwallet.com` and `myetherwa11et.com`.
 
 Today, due to the ever-growing number of products in the space and the reality that tens of millions of people have MetaMask installed, **the risk of adding a website to the fuzzylist almost always outweighs the potential benefits of doing so.** Should one decide that it would be genuinely beneficial to add a new URL to the fuzzylist, they should be prepared to respond to all reports of legitimate websites suddenly being blocked by MetaMask and ensure these legitimate websites are added to the allowlist promptly. Additionally, if maintainers of this repo notice a consistent pattern of websites needing to be added to the allowlist, it may be worth removing the similarly-named URL from the fuzzylist instead of continuing to add websites to the allowlist.
 
@@ -23,7 +23,7 @@ Contributors may also call the `allowlist` object the *allowlist* for clarity.
 The only requirement for allowlist addition is that the domain or subdomain is *not* a *phishing scam*, as this repository's sole goal is to stop phishing scams.
 Adding additional goals can put unnecessary strain on contributors; other projects may indeed have broader objectives and helping with those as well is a great way to fight scammers.
 
-Generally the process of adding a allowlist entry is as follows:
+Generally the process of adding an allowlist entry is as follows:
 
 1. Add a properly-formatted line to the allowlist object in `src/config.json`.
 2. Commit your single addition with the message "`Allowlist [domain or subdomain] ([relevant filed issue, if applicable])`
