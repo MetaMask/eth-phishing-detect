@@ -514,6 +514,7 @@
   ],
   "blacklist": [
     "coumpound.finance",
+    "trezorsuite.netlify.app",
     "stellar.pm",
     "guttercatgang.app",
     "aptos-evm.com",
