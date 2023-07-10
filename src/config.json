@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidos.online",
     "https://zetachain.bounty-services.network/",
     "mail.claim-arbitrum.app",
     "one.arbltrum-bridge.cloud",
