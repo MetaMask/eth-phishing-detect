@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockchain-control.com",
+    "coumpound.finance",
+    "trezorsuite.netlify.app",
     "stoodio-doodies.app",
     "hv-mtl.gifts",
     "lil-pudgy.com",
