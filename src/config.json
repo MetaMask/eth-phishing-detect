@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mail.claim-arbitrum.app",
+    "one.arbltrum-bridge.cloud",
     "aztecnetwork.net",
     "lidoevents.fi",
     "glxea.com",
