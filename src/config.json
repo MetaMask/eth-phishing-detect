@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "events-lido.fi",
+    "claim.lido.army",
     "claimlayerzero.net",
     "layerrzero.network",
     "airdrop.layerzeroo.network",
