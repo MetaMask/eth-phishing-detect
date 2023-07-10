@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockchain-control.com",
     "coumpound.finance",
     "trezorsuite.netlify.app",
     "stellar.pm",
