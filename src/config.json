@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimlayerzero.net",
+    "layerrzero.network",
+    "airdrop.layerzeroo.network",
+    "layerzero.bonus-web3-request.network",
     "lidos.online",
     "https://zetachain.bounty-services.network/",
     "mail.claim-arbitrum.app",
