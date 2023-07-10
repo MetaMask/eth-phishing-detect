@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bananapenguin-mint.com",
     "airdrop-zksync.ws",
     "signup-zksync.com",
     "zk-syncprotocol.com",
