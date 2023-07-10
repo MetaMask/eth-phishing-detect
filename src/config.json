@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksync.ws",
+    "signup-zksync.com",
+    "zk-syncprotocol.com",
+    "zkstacks.in",
+    "zksyncevents.com",
+    "airdrop.zk-eth.org",
     "events-lido.fi",
     "claim.lido.army",
     "claimlayerzero.net",
