@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stake-polygon.space",
+    "lineamainnet.com",
     "suite-trezor-io.vivendadigital.com",
     "ape-coins.org",
     "apecoin.giving",
