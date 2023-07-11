@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksunc.pro",
+    "zksync-ceo.com",
     "aptos-app.bounty-meta.pro",
     "aptos-app.web3-request-reward.online",
     "lido.family",
