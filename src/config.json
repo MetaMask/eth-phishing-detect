@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero.plus",
+    "layerzero.rs",
     "scrolllayer.com",
     "claim-zetachain.com",
     "cowswapping.co.uk",
