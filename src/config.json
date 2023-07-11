@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scrolllayer.com",
     "claim-zetachain.com",
     "cowswapping.co.uk",
     "aztec-network.net",
