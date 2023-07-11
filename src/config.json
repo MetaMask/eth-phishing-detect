@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "suite-trezor-io.vivendadigital.com",
     "ape-coins.org",
     "apecoin.giving",
     "apecoins.online",
