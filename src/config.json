@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lineamainnet.com",
     "ape-coins.org",
     "apecoin.giving",
     "apecoins.online",
