@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lineadapps.com",
     "stake-polygon.space",
     "lineamainnet.com",
     "suite-trezor-io.vivendadigital.com",
