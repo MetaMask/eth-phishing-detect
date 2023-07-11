@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "suite-trezor-io.vivendadigital.com",
     "bananapenguin-mint.com",
     "airdrop-zksync.ws",
     "signup-zksync.com",
