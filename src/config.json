@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ape-coins.org",
+    "apecoin.giving",
+    "apecoins.online",
     "airdrop.optimisn.foundation",
     "register-mantle.xyz",
     "layerzero.plus",
