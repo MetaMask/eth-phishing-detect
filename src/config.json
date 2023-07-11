@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aztec-network.net",
     "zksunc.pro",
     "zksync-ceo.com",
     "aptos-app.bounty-meta.pro",
