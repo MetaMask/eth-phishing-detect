@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswapping.co.uk",
     "aztec-network.net",
     "zksunc.pro",
     "zksync-ceo.com",
