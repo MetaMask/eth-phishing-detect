@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptos-app.bounty-meta.pro",
     "aptos-app.web3-request-reward.online",
     "lido.family",
     "lido.top",
