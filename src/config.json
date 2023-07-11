@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptos-app.web3-request-reward.online",
     "lido.family",
     "lido.top",
     "bananapenguin-mint.com",
