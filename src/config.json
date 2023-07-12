@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidoapp.site",
     "lineadapps.com",
     "stake-polygon.space",
     "lineamainnet.com",
