@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event-lido.fi",
+    "service-lido.fi",
+    "lidoapp.site",
+    "lineadapps.com",
     "join-pudgypenguins.net",
     "get-layerzero.com",
     "boredapeyachtcclub.pro",
