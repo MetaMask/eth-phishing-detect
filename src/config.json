@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event-lido.fi",
+    "service-lido.fi",
     "lidoapp.site",
     "lineadapps.com",
     "stake-polygon.space",
