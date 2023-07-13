@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "argt.wisdomer.xyz",
     "argentx-wallet.com",
     "arbitrum-coins.site",
     "arbitrum.technology",
