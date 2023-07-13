@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scrollcoin.gift",
+    "scrollzkp-drops.com",
     "mantle.claimings-web3-requests.network",
     "layerzeroau.com",
     "lineamainnets.com",
