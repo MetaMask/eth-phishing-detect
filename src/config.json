@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.claimings-web3-requests.network",
     "layerzeroau.com",
     "lineamainnets.com",
     "lido.gives",
