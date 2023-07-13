@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-coins.site",
     "arbitrum.technology",
     "arbltrum-dashboard.com",
     "mail.claims-arbitrum.app",
