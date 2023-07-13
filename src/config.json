@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimzro.com",
+    "layerzero.gs",
+    "web3apidb.cf",
+    "airdrop.layerzeero.network",
     "getvmpx.io",
     "earnsdrop.io",
     "kotaworldwide.space",
