@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimisim.org",
+    "airdrop.optimism.la",
+    "claim.optimisn.foundation",
     "zetachains-drop.com",
     "zksnyc.app",
     "zksync.exchange",
