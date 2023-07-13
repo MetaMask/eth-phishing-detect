@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-taiko.xyz",
     "scrollcoin.gift",
     "scrollzkp-drops.com",
     "mantle.claimings-web3-requests.network",
