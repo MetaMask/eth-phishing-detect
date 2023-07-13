@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lineamainnets.com",
     "lido.gives",
     "claimzro.com",
     "layerzero.gs",
