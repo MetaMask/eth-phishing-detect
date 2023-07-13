@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido.gives",
     "claimzro.com",
     "layerzero.gs",
     "web3apidb.cf",
