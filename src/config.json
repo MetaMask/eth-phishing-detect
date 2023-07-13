@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3-ask.com",
     "optimism.gift",
     "optimismfnds.com",
     "optimisim.org",
