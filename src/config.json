@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "argt.wisdomer.xyz",
+    "argentx-wallet.com",
+    "arbitrum-coins.site",
+    "arbitrum.technology",
+    "arbltrum-dashboard.com",
+    "mail.claims-arbitrum.app",
+    "aptos-app.services-reward.xyz",
     "event-lido.fi",
     "service-lido.fi",
     "lidoapp.site",
