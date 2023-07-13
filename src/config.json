@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksnyc.app",
+    "zksync.exchange",
+    "zksyncbuild.vip",
     "airdrop-taiko.xyz",
     "scrollcoin.gift",
     "scrollzkp-drops.com",
