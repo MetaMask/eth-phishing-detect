@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism.gift",
     "optimismfnds.com",
     "optimisim.org",
     "airdrop.optimism.la",
