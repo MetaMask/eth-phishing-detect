@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachains-drop.com",
     "zksnyc.app",
     "zksync.exchange",
     "zksyncbuild.vip",
