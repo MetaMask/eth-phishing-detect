@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.technology",
+    "arbltrum-dashboard.com",
+    "mail.claims-arbitrum.app",
     "aptos-app.services-reward.xyz",
     "event-lido.fi",
     "service-lido.fi",
