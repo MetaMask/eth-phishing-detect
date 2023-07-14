@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle-airdrops.com",
     "register-mantle.com",
     "mantle-wl.xyz",
     "bigeyes.pw",
