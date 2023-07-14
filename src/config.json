@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle-wl.xyz",
     "bigeyes.pw",
     "bit-virgo.com",
     "decentralizedbridge.co",
@@ -527,7 +528,7 @@
     "suite-polygonbridge.com",
     "web3miningpool.com",
     "wmmfp.top",
-    "zksyne.com",    
+    "zksyne.com",
     "web3-ask.com",
     "optimism.gift",
     "optimismfnds.com",
