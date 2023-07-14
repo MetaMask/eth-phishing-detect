@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "register-mantle.com",
     "mantle-wl.xyz",
     "bigeyes.pw",
     "bit-virgo.com",
