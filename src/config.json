@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrun.co",
+    "arbltrum-bridge.net",
+    "arbltrum-gateway.com",
     "mantle-airdrops.com",
     "register-mantle.com",
     "mantle-wl.xyz",
