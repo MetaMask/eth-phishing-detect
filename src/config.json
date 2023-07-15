@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "icomarks.icu",
     "zkclaim-dashboard.com",
     "zksyncera.dev",
     "zksync.services-reward.xyz",
