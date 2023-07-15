@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "partnership-sui.io",
+    "suiclaims.com",
+    "sui.altcoindrop.top",
+    "sui.twtpad.top",
     "airdrops-taiko.xyz",
     "icomarks.icu",
     "zkclaim-dashboard.com",
