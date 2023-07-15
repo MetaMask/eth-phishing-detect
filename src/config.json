@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zkclaim-dashboard.com",
+    "zksyncera.dev",
+    "zksync.services-reward.xyz",
     "aave-aave.org",
     "arbitrun.co",
     "arbltrum-bridge.net",
