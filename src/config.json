@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrops-taiko.xyz",
     "icomarks.icu",
     "zkclaim-dashboard.com",
     "zksyncera.dev",
