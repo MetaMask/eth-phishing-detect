@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chronos.exchange.pe",
     "layer3-arbitirum.com",
     "partnership-sui.io",
     "suiclaims.com",
