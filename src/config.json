@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layer3-arbitirum.com",
     "partnership-sui.io",
     "suiclaims.com",
     "sui.altcoindrop.top",
