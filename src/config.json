@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzerochains.app",
+    "project-layerzero.com",
+    "get.layerzero-free.xyz",
+    "layerzero.bonus-link.live",
+    "layerzero.claims-manage.pro",
+    "layerzero.link-reward.xyz",
+    "layerzero.meta-reward.pro",
+    "layerzero.service-reward.network",
     "zksync.technology",
     "chronos.exchange.pe",
     "layer3-arbitirum.com",
