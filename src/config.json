@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    {
+      "celatis.net": {
+      "dateAdded": "2023-07-17",
+      "description": "Drainer, Clone of Celaits.io"
+      }
+    },
     "bigeyes.pw",
     "bit-virgo.com",
     "decentralizedbridge.co",
