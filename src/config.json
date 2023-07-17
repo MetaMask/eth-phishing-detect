@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "1chef.io",
+    "xen-crypto.xyz",
     "earn-drops.io",
     "earnsdrops.io",
     "0n1force.io",
