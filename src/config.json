@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lineanetwork.net",
     "scroll.web3-layer.com",
     "join-loopring.org",
     "lido-funds.fi",
