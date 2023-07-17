@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "earn-drops.io",
+    "earnsdrops.io",
     "0n1force.io",
     "arkhamintellilgence.com",
     "bsc-binance.com",
