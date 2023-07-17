@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-funds.fi",
+    "lido.land",
+    "lidofi.network",
+    "web3-lido.fi",
+    "exchange.lidonft.me",
+    "lidoo.netlify.app",
+    "stake.lido.ps",
     "layerzerochains.app",
     "project-layerzero.com",
     "get.layerzero-free.xyz",
