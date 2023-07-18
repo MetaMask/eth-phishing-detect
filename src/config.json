@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-mantle.com",
     "airdrop-taikos.xyz",
     "zksclaim-dashboard.com",
     "https://zetachain.bounty-web3.network/",
