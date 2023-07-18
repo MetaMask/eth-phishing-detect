@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezor-hardwares.tech",
+    "trezor-hardwares.digital",
     "layerzerolab.cloud",
     "claim-blur.bid",
     "blur.bet",
