@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "register-argentwallet.com",
     "arb-bridge.online",
     "arbappitrum.com",
     "bridge-arbiltum.com",
