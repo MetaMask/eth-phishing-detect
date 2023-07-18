@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbappitrum.com",
+    "bridge-arbiltum.com",
     "layerzerolab.cloud",
     "claim-blur.bid",
     "blur.bet",
