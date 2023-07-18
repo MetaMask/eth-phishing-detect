@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "genkai.xyz",
+    "genkai-mint.com",
     "1chef.io",
     "xen-crypto.xyz",
     "earn-drops.io",
