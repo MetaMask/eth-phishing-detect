@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "defi-lido.fi",
     "lido-claim.net",
     "claim-mantle.com",
     "airdrop-taikos.xyz",
