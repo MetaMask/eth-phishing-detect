@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop.layezrero.network",
     "web3-arbitrum.com",
     "lidoevent.com",
     "lidpool.fi",
