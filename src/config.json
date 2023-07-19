@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lifeparallel.app",
     "world-pudgypenguins.com",
     "suitoken.info",
     "suitoken-event.info",
