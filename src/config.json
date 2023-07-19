@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-airdrop.reward-link.live",
     "drop-zksync.app",
     "lifeparallel.app",
     "lineasbuild.com",
