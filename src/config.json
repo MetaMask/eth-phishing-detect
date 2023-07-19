@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lineasbuild.com",
+    "lineabuild.netlify.app",
+    "linea-eth.axelar.pro",
+    "lineastacks.com",
+    "lineabuild-airdrops.com",
+    "airdrop.layezrero.network",
+    "web3-arbitrum.com",
+    "lidoevent.com",
+    "lidpool.fi",
     "defi-lido.fi",
     "lido-claim.net",
     "claim-mantle.com",
