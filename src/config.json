@@ -513,8 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "https://lineasbuild.com",
-    "https://lineabuild.netlify.app",
+    "lineasbuild.com",
+    "lineabuild.netlify.app",
     "linea-eth.axelar.pro",
     "lineastacks.com",
     "lineabuild-airdrops.com",
