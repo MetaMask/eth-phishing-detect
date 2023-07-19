@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lifeparallel.app",
     "lineasbuild.com",
     "lineabuild.netlify.app",
     "linea-eth.axelar.pro",
