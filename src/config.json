@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lifeparallel.app",
     "layerzerolab.cloud",
     "claim-blur.bid",
     "blur.bet",
