@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3-arbitrum.com",
     "lidoevent.com",
     "lidpool.fi",
     "defi-lido.fi",
