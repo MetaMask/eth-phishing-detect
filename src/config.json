@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lineastacks.com",
     "lineabuild-airdrops.com",
     "airdrop.layezrero.network",
     "web3-arbitrum.com",
