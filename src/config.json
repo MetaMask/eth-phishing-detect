@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidoevent.com",
+    "lidpool.fi",
     "defi-lido.fi",
     "lido-claim.net",
     "claim-mantle.com",
