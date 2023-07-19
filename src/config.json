@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezor-hardwares.tech",
+    "trezor-hardwares.digital",
     "world-pudgypenguins.com",
     "suitoken.info",
     "suitoken-event.info",
