@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "uniswap-beta.org",
     "zetachain.claimings-manage.website",
     "get-zetachain.org",
     "ava-token.com",
