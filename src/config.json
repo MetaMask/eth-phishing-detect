@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linea.web3-support.com",
     "raffle.vin",
     "gealxe.com",
     "optimism-airdrop.reward-link.live",
