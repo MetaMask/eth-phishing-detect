@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "get-zetachain.org",
     "ava-token.com",
     "avaxnetwork-drop.com",
     "arbtlrum.foundation",
