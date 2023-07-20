@@ -514,7 +514,6 @@
   ],
   "blacklist": [
     "revoke-uniswap.org",
-    "revoke-uni.netlify.app",
     "creaturesclaims.com",
     "mevblocker.co",
     "event-arbitrum.org",    
@@ -542,6 +541,7 @@
     "blur.si",
     "enter-chainlink.net",
     "event-metamask.io",
+    "revoke-uni.netlify.app",    
     "rewards-uniswapx.org",
     "bounty-uniswap.com",
     "lifeparallel.app",
