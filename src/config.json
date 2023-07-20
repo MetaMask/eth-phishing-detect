@@ -12,6 +12,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "rango.exchange",
     "cryptocities.world",
     "metamax.exchange",
     "openmeta.network",
@@ -513,6 +514,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rangos-exchange.com",
     "lifeparallel.app",
     "lineasbuild.com",
     "lineabuild.netlify.app",
