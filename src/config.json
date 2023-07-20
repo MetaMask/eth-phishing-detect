@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "revoke-uniswap.org",
     "revoke-uni.netlify.app",
     "creaturesclaims.com",
     "mevblocker.co",
