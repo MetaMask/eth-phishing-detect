@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "avaxnetwork-drop.com",
     "arbtlrum.foundation",
     "event-arbitrum.org",
     "giveaway-arbitrum.foundation",
