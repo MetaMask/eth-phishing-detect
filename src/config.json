@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewards-uniswapx.org",
+    "bounty-uniswap.com",
     "lifeparallel.app",
     "lineasbuild.com",
     "lineabuild.netlify.app",
