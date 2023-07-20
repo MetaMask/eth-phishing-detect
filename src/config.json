@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "revoke-uniswap.org",
     "rewards-uniswapx.org",
     "bounty-uniswap.com",
     "lifeparallel.app",
