@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.claimings-web3-request.pro",
     "uniswap-beta.org",
     "zetachain.claimings-manage.website",
     "get-zetachain.org",
