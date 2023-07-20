@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbtlrum.foundation",
+    "event-arbitrum.org",
+    "giveaway-arbitrum.foundation",
+    "web3-arbitrurn.com",
     "linea.web3-support.com",
     "raffle.vin",
     "gealxe.com",
