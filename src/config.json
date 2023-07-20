@@ -13,8 +13,6 @@
   ],
   "whitelist": [
     "cryptocities.world",
-    "dashboard-metamask.io",
-    "event-arbitrum.org",
     "metamax.exchange",
     "openmeta.network",
     "open.esa.int",
@@ -517,6 +515,8 @@
   "blacklist": [
     "creaturesclaims.com",
     "mevblocker.co",
+    "dashboard-metamask.io",
+    "event-arbitrum.org",    
     "pepe2o.com",
     "ethercb.com",
     "lidoevent.store",
