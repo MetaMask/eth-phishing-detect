@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptopod-pro.org",
     "lineaconnectxyz.netlify.app",
     "event-layerzero.network",
     "layer-zero.finance",
