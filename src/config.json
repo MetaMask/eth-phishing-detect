@@ -513,8 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fucked.tech",
     "revoke-uniswap.org",
-    "revoke-uni.netlify.app",    
+    "revoke-uni.netlify.app",
     "rewards-uniswapx.org",
     "bounty-uniswap.com",
     "lifeparallel.app",
