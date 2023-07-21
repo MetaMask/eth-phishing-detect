@@ -34,14 +34,17 @@ const addHosts = (config, section, domains, dest) => {
 
   let didFilter = false;
 
+  const filteredHosts = [];
   for (const host of config[section]) {
     if (!validateHostRedundancy(detector, LISTNAME_KEYS[section], host)) {
       console.error(`existing entry '${host}' removed due to now covered by '${r.match}' in '${r.type}'.`);
       didFilter = true;
       continue;
     }
-    hosts.push(host);
+    filteredHosts.push(host);
   }
+  // make sure the new added domains are at end of list
+  hosts.unshift(...filteredHosts);
 
   const cfg = {
     ...config,
