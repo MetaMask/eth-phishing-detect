@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lineaconnectxyz.netlify.app",
     "event-layerzero.network",
     "layer-zero.finance",
     "zrotokensairdrop.xyz",
