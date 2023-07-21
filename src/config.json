@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidoevent.store",
+    "whitelist-lido.fi",
     "airdrop-taiko.co",
     "zksync.bridge-bounty.xyz",
     "masktoken.fi",
