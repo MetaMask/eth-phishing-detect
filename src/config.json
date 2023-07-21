@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "guardiansmeta.com",
     "app-mintable.app",
     "arkham.trade",
     "arkhamintelilgence.net",
