@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-taiko.co",
     "zksync.bridge-bounty.xyz",
     "masktoken.fi",
     "mantle.claimings-web3-request.pro",
