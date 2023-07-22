@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eligible-arbitrum.com",
     "guardiansmeta.com",
     "arkhaminletigence.com",
     "usdtevent.com",
@@ -562,7 +563,7 @@
     "revoke-uniswap.org",
     "creaturesclaims.com",
     "mevblocker.co",
-    "event-arbitrum.org",    
+    "event-arbitrum.org",
     "pepe2o.com",
     "ethercb.com",
     "giveaway50eth.com",
@@ -580,7 +581,7 @@
     "route.claims",
     "blur.si",
     "enter-chainlink.net",
-    "revoke-uni.netlify.app",    
+    "revoke-uni.netlify.app",
     "rewards-uniswapx.org",
     "bounty-uniswap.com",
     "lifeparallel.app",
