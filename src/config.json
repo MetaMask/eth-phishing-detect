@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "beta-lido.fi",
+    "lido-finance.online",
+    "lidodaoreward.org",
+    "lidofinance.fi",
+    "lidoland.com",
+    "1exchange.lindonft.us",
     "eligible-arbitrum.com",
     "guardiansmeta.com",
     "arkhaminletigence.com",
