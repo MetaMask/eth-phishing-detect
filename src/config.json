@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drainer.lovetok.xyz",
     "airdrop-taikos.co",
     "beta-lido.fi",
     "lido-finance.online",
