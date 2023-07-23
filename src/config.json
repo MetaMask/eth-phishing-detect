@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbipab.com",
     "app-coinlist.co",
     "drainer.lovetok.xyz",
     "airdrop-taikos.co",
