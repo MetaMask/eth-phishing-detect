@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bonus-lido.fi",
     "pudgypenguin.store",
     "faucet.quicknode.in",
     "mantle.bounty-web3-requests.website",
