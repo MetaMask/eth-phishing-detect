@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lekha.net",
+    "optimism-bridge.org",
+    "optimisms.co",
+    "optlmlsm.us",
+    "optimism-airdrop.services-claiming.network",
+    "optimism-airdrop.web3-request-bonus.online",
     "airdrop-layerzero.app",
     "layernetwork.app",
     "layerzero.bond",
