@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-gateway.com",
     "claim-zksyncs.com",
     "flipcoin.pro",
     "partners-zksync.io",
