@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pudgypenguin.store",
     "faucet.quicknode.in",
     "mantle.bounty-web3-requests.website",
     "mantle.requests-web3-claiming.website",
