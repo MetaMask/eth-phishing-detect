@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-layerzero.app",
+    "layernetwork.app",
+    "layerzero.bond",
+    "layerzero.pm",
+    "layerzero.software",
+    "layerzeroclaim.app",
     "claimlido.net",
     "app-lido.fi",
     "lido-us.com",
