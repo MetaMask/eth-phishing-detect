@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app-lido.fi",
+    "lido-us.com",
+    "us-lido.fi",
+    "web3-lido.com",
+    "lido.lightpads.top",
+    "lido.xxl-drops.top",
     "arbipab.com",
     "app-coinlist.co",
     "drainer.lovetok.xyz",
