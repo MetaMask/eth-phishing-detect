@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimlido.net",
     "app-lido.fi",
     "lido-us.com",
     "us-lido.fi",
