@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachains-drops.com",
     "zksync-era-genesis-nft.netlify.app",
     "syncswop.xyz",
     "zksync-gateway.com",
