@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "reutersbuild.com",
+    "ethereum-creditor.com",
+    "squid2.network",
+    "ethzab.com",
+    "finreserve.net",
+    "connect-crypto.com",
     "hellio.pw",
     "airdroptheheist.web.app",
     "bridge-claiming.live",
