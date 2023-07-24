@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-era-genesis-nft.netlify.app",
     "syncswop.xyz",
     "zksync-gateway.com",
     "claim-zksyncs.com",
