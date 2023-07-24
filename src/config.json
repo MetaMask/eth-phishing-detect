@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "events-arbitrum.com",
     "bonus-lido.fi",
     "pudgypenguin.store",
     "faucet.quicknode.in",
