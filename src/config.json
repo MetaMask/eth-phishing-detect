@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.bounty-web3-requests.website",
+    "mantle.requests-web3-claiming.website",
     "zetachains-drops.com",
     "zksync-era-genesis-nft.netlify.app",
     "syncswop.xyz",
