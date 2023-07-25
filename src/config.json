@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "argent-wallet.xyz",
+    "argentairdrops.com",
     "arbitrum.aidrop.pro",
     "finance-lido.fi",
     "enter-mantle.xyz",
