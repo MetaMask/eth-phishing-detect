@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "finance-lido.fi",
     "enter-mantle.xyz",
     "events-arbitrum.com",
     "bonus-lido.fi",
