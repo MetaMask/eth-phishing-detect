@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "enter-mantle.xyz",
     "events-arbitrum.com",
     "bonus-lido.fi",
     "pudgypenguin.store",
