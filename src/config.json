@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzerolabs.cloud",
     "argent-wallet.xyz",
     "argentairdrops.com",
     "arbitrum.aidrop.pro",
