@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ait-finance.pro",
+    "cryptofarm-usdt.com",
+    "dexsync.pro",
+    "minipepe.org",
+    "solanadex.photos",
+    "usdc-defi.org",
+    "virgo-eth.vip",
     "magiceden.se",
     "arkhamiintelliigencee.co",
     "arkhamfinance.pro",
@@ -557,7 +564,6 @@
     "enter-worldcoin.com",
     "distribution-worldcoin.org",
     "gitcoin-passe.site",
-    "worldcoin.si",
     "services-web3-bonus.online",
     "all-tokens.com",
     "claim-worldcoin.org",
@@ -55594,6 +55600,7 @@
     "claim-mantle.xyz",
     "maker-lending.co",
     "impostors.app",
-    "app-coinlist.co"
+    "app-coinlist.co",
+    "worldcoin.si"
   ]
 }
