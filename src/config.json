@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chronos.exchange-v1.app",
     "lido-app.pro",
     "staking-lido.finance",
     "lido.airdrops-x.com",
