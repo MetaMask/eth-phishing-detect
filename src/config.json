@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledger-sui.com",
     "zetachain.claiming-web3-request.xyz",
     "chronos.exchange-v1.app",
     "lido-app.pro",
