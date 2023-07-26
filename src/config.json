@@ -514,6 +514,7 @@
   ],
   "blacklist": [
     "arbfoundation.app",
+    "dydxevent.info",
     "ledger-sui.com",
     "zetachain.claiming-web3-request.xyz",
     "chronos.exchange-v1.app",
