@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cows.gift",
     "app-arbltrum.com",
     "arbltrum-cloud.com",
     "arbltrum-v2.org",
