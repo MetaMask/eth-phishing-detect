@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app-arbltrum.com",
+    "arbltrum-cloud.com",
+    "arbltrum-v2.org",
+    "arbltrumbrldge.com",
+    "mail.tokens-arbitrurn.net",
     "enter-optimism.xyz",
     "layerzerolabs.cloud",
     "argent-wallet.xyz",
