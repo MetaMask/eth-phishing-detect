@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metis.claims",
+    "ethercb.com",
+    "arbitrum-claims.xyz",
+    "arbitrum.pm",
+    "eralend-zksync.io",
+    "zks-nft.com",
+    "ledger-zksync.live",
     "linkweb-3.com",
     "arbfoundation.app",
     "dydxevent.info",
@@ -784,7 +791,6 @@
     "mevblocker.co",
     "event-arbitrum.org",
     "pepe2o.com",
-    "ethercb.com",
     "giveaway50eth.com",
     "whitelist-aptosfoundation.org",
     "evermoonerc.claims",
