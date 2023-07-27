@@ -93,10 +93,6 @@ Temporary Items
 
 # End of https://www.gitignore.io/api/osx,node
 
-tranco-temp.db
-dappradar-temp.db
-coinmarketcap-temp.db
-trancoTop1m.csv
-trancoList.csv
+test/db/*.csv
 .vscode/
 .update-lists.env
