@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-claims.xyz",
+    "arbitrum.pm",
     "eralend-zksync.io",
     "zks-nft.com",
     "ledger-zksync.live",
