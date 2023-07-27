@@ -3,7 +3,7 @@ const parseCsv = require("csv-parse/sync");
 const fs = require("fs");
 const needle = require("needle");
 const join = require("path").join;
-require("dotenv").config({ path: join(__dirname, ".update-lists.env") });
+require("dotenv").config({ path: join(__dirname, "/../.env") });
 
 const DB_PATH = join(__dirname) + "/db";
 
