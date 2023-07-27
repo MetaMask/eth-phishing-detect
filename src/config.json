@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eralend-zksync.io",
     "zks-nft.com",
     "ledger-zksync.live",
     "linkweb-3.com",
