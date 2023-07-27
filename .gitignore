@@ -94,5 +94,6 @@ Temporary Items
 # End of https://www.gitignore.io/api/osx,node
 
 test/db/*.csv
+test/db/*-temp.db
 .vscode/
 .update-lists.env
