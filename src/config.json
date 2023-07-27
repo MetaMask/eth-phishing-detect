@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linkweb-3.com",
     "arbfoundation.app",
     "dydxevent.info",
     "ledger-sui.com",
