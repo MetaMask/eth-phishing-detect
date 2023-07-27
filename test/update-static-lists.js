@@ -7,6 +7,12 @@ require("dotenv").config({ path: join(__dirname, "/../.env") });
 
 const DB_PATH = join(__dirname) + "/db";
 
+const ENDPOINTS = {
+  TRANCO_LIST: "https://tranco-list.eu/download/K25GW/100000",
+  COINMARKETCAP: "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=5000&start=1&sort=market_cap_strict&market_cap_min=10000000",
+  COINMARKETCAP_COIN_INFO: "https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?id="
+};
+
 function arrayTo2DArray1(arr, size) {
   const res = [];
   for (let i = 0; i < arr.length; i++) {
@@ -49,7 +55,7 @@ async function updateTrancoList() {
   const stream = fs.createWriteStream(PATH_CSV);
 
   try {
-    needle.get("https://tranco-list.eu/download/K25GW/100000").pipe(stream);
+    needle.get(ENDPOINTS.TRANCO_LIST).pipe(stream);
 
     await new Promise((resolve, reject) => {
       stream.on("finish", resolve);
@@ -129,7 +135,6 @@ async function updateCoinmarketcapList() {
   let coinsIds = [];
   let coinsMarketCaps = {};
   const coinsArray = [];
-  const totalCoins = 5000; // how many coins items to retrieve in total
   const coinsPerSubCall = 250; // how many coins (IDs) will be in the query string of coins metadata subcalls
 
   // Create db and fill it with entries from Dappradar API responses
@@ -144,7 +149,7 @@ async function updateCoinmarketcapList() {
     // get only coins with market cap > 10M
     const response = await needle(
       "get",
-      `https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=${totalCoins}&start=1&sort=market_cap_strict&market_cap_min=10000000`,
+      ENDPOINTS.COINMARKETCAP,
       {
         headers: {
           "X-CMC_PRO_API_KEY": apiKey,
@@ -165,7 +170,7 @@ async function updateCoinmarketcapList() {
         await delay(2500);
         const response = await needle(
           "get",
-          `https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?id=${subcallCoinsIds.join(
+          `${ENDPOINTS.COINMARKETCAP_COIN_INFO}${subcallCoinsIds.join(
             ","
           )}`,
           {
