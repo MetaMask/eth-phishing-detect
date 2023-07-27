@@ -5,6 +5,8 @@ const needle = require("needle");
 const join = require("path").join;
 require("dotenv").config({ path: join(__dirname, ".update-lists.env") });
 
+const DB_PATH = join(__dirname) + "/db";
+
 function arrayTo2DArray1(arr, size) {
   const res = [];
   for (let i = 0; i < arr.length; i++) {
@@ -29,7 +31,7 @@ const touchFile = path => {
 }
 
 async function updateTrancoList() {
-  const PATH_CSV = __dirname + "/trancoList.csv";
+  const PATH_CSV = DB_PATH + "/trancoList.csv";
 
   // This is a list of "bad domains" (false positive) that we don't want to include in the final generated DB
   const excludeList = [
@@ -44,7 +46,7 @@ async function updateTrancoList() {
     "test.com",
   ];
   // Download updated list
-  const stream = fs.createWriteStream("trancoList.csv");
+  const stream = fs.createWriteStream(PATH_CSV);
 
   try {
     needle.get("https://tranco-list.eu/download/K25GW/100000").pipe(stream);
@@ -60,9 +62,9 @@ async function updateTrancoList() {
     process.exit(1);
   }
 
-  if(fs.existsSync("./tranco-temp.db")) {
+  if(fs.existsSync(DB_PATH + "/tranco-temp.db")) {
     try {
-      fs.unlinkSync("./tranco-temp.db");
+      fs.unlinkSync(DB_PATH + "/tranco-temp.db");
     } catch (err) {
       console.error(err);
     }
@@ -71,7 +73,7 @@ async function updateTrancoList() {
   await touchFile(PATH_CSV);
 
   // Create db and fill it with entries from Tranco csv file
-  const db = new sqlite3.Database("./tranco-temp.db");
+  const db = new sqlite3.Database(DB_PATH + "/tranco-temp.db");
 
   const trancoDomainsCsv = fs.readFileSync(
     PATH_CSV,
@@ -110,7 +112,7 @@ async function updateTrancoList() {
     } else {
       // copy temp db file
       console.log("Copying: temp db file... ");
-      fs.copyFileSync("./tranco-temp.db", "./tranco.db");
+      fs.copyFileSync(DB_PATH + "/tranco-temp.db", DB_PATH + "/tranco.db");
       process.exit(0);
     }
   });
@@ -118,7 +120,7 @@ async function updateTrancoList() {
 
 async function updateCoinmarketcapList() {
   try {
-    fs.unlinkSync("./coinmarketcap-temp.db");
+    fs.unlinkSync(DB_PATH + "/coinmarketcap-temp.db");
   } catch (err) {
     console.error(err);
   }
@@ -131,7 +133,7 @@ async function updateCoinmarketcapList() {
   const coinsPerSubCall = 250; // how many coins (IDs) will be in the query string of coins metadata subcalls
 
   // Create db and fill it with entries from Dappradar API responses
-  const db = new sqlite3.Database("./coinmarketcap-temp.db");
+  const db = new sqlite3.Database(DB_PATH + "/coinmarketcap-temp.db");
 
   function delay(t) {
     return new Promise((resolve) => setTimeout(resolve, t));
@@ -238,7 +240,7 @@ async function updateCoinmarketcapList() {
     } else {
       // copy temp db file
       console.log("Copying: temp db file... ");
-      fs.copyFileSync("./coinmarketcap-temp.db", "./coinmarketcap.db");
+      fs.copyFileSync(DB_PATH + "/coinmarketcap-temp.db", DB_PATH + "/coinmarketcap.db");
       process.exit(0);
     }
   });
