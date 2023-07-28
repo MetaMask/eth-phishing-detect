@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "oxicap.com",
+    "protocol-layerzero.app",
+    "layerzero.connect-web3-bonus.xyz",
     "layerzero-whitelist.network",
     "mainnet-zetchain.org",
     "arbitrurn.gifts",
