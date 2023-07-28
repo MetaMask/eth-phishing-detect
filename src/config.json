@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trustspad.app",
     "app-lido.live",
     "lido.dex-trust.top",
     "news-lido.fi",
