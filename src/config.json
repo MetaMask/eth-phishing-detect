@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethactivity.info",
+    "investing-haven.com",
+    "defi3-eth.com",
+    "usdc-defi-org",
     "otherside-gucci.link-bonus.pro",
     "bored-mint.com",
     "defillama.web3-board.com",
