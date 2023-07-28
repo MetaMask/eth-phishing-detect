@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "quai.gift",
+    "quainetwork-drop.com",
     "airdrop-taiko.cc",
     "oxicap.com",
     "protocol-layerzero.app",
