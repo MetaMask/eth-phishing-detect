@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lthememecoin.org",
+    "metis.claims",
     "arbitrum-claims.xyz",
     "arbitrum.pm",
     "eralend-zksync.io",
