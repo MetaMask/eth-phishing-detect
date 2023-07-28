@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-taiko.cc",
     "oxicap.com",
     "protocol-layerzero.app",
     "layerzero.connect-web3-bonus.xyz",
