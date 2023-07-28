@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scroll.web3-fmint.com",
     "optimism-protocol.io",
     "airdrop-optimism.net",
     "optimism-airdrop.web3-connect-bonus.xyz",
