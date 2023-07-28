@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "news-lido.fi",
     "arbitrum-claims.xyz",
     "arbitrum.pm",
     "eralend-zksync.io",
