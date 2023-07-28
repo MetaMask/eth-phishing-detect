@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rocketpool.cash",
     "arbitrum-claims.xyz",
     "arbitrum.pm",
     "eralend-zksync.io",
