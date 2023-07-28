@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumfoundation.vip",
+    "arbitrumfoundations.org",
+    "beta-arbitrum.foundation",
     "trustspad.app",
     "app-lido.live",
     "lido.dex-trust.top",
