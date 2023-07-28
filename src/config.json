@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-optimism.net",
+    "optimism-airdrop.web3-connect-bonus.xyz",
     "quai.gift",
     "quainetwork-drop.com",
     "airdrop-taiko.cc",
