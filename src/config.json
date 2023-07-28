@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rocketpool.cash",
     "yuga.claims",
     "pudgyswap.app",
     "join-pudgypenguins.xyz",
