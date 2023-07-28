@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrurn.gifts",
     "arbitrumfoundation.vip",
     "arbitrumfoundations.org",
     "beta-arbitrum.foundation",
