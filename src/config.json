@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bored-mint.com",
     "defillama.web3-board.com",
     "scroll.web3-fmint.com",
     "optimism-protocol.io",
