@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "protocol-lido.fi",
     "otherside-gucci.link-bonus.pro",
     "bored-mint.com",
     "defillama.web3-board.com",
