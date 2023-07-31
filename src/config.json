@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncswap.gift",
     "mantle.claim-tokens.net",
     "multi-trustpad.so",
     "ledger-zksync.com",
@@ -25826,7 +25827,6 @@
     "pancakeswap-v3.com",
     "pancakeswaps.website",
     "perrigo-claims.info",
-    "pltlotto.com",
     "psydex.ws",
     "psyop.axelar.pro",
     "rtfktanimus2.com",
