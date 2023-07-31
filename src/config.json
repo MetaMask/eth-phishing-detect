@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncsera.tech",
     "arbitrum-reclaim.com",
     "protocol-lido.fi",
     "otherside-gucci.link-bonus.pro",
