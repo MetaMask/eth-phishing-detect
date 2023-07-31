@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle-airdrop.com",
+    "airdrop-mantles.cc",
+    "airdrops-zetachain.co",
+    "zksyncsera.tech",
+    "arbitrum-reclaim.com",
+    "protocol-lido.fi",
     "ethactivity.info",
     "investing-haven.com",
     "usdc-defi-org",
