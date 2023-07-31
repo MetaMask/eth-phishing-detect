@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrops-zetachain.co",
     "zksyncsera.tech",
     "arbitrum-reclaim.com",
     "protocol-lido.fi",
