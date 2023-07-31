@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledger-zksync.com",
     "mantle-airdrop.com",
     "airdrop-mantles.cc",
     "airdrops-zetachain.co",
