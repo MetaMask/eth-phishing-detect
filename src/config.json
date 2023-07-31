@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.claim-tokens.net",
+    "multi-trustpad.so",
+    "ledger-zksync.com",
     "3d.invisibiefriends.com",
     "aitchain.io",
     "app.serversync.pro",
