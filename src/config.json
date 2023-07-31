@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncswap.gift",
     "mantle.claim-tokens.net",
     "multi-trustpad.so",
     "ledger-zksync.com",
