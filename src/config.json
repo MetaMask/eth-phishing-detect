@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "earnsdrops.com",
+    "cryptocurrency-qr-code.com",
+    "earndrops.io",
+    "blocksystem-chain.com",
+    "coindex.uno",
+    "etherofficial.online",
     "syncswap.gift",
     "mantle.claim-tokens.net",
     "multi-trustpad.so",
