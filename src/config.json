@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apesdrop.org",
     "lidodrop.live",
     "synthetixreward.com",
     "solanacoin.online",
