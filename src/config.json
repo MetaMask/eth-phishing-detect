@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sui.airdrops-event.com",
+    "sui.starspad.top",
     "airdrop.seii.io",
     "eligibility-lido.fi",
     "lido.airdrops-event.com",
