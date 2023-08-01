@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eligibility-lido.fi",
+    "lido.airdrops-event.com",
     "whitelist-lidofinance.com",
     "arbitrumpro.foundation",
     "arbitrum.truustpaad.top",
