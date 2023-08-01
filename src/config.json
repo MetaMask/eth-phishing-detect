@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidodrop.live",
     "synthetixreward.com",
     "earnsdrops.com",
     "cryptocurrency-qr-code.com",
