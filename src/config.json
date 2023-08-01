@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumpro.foundation",
+    "arbitrum.truustpaad.top",
     "aptos.airdrops-event.com",
     "aptos.altcoin-drop.top",
     "aptos.xsa-drop.top",
