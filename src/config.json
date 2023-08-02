@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "jediiswap.xyz",
     "bondex.fi",
     "mantle.airmint.org",
     "airdrops-zksync.cc",
