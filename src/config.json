@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nftauction.vip",
+    "similarscsdefi.com",
     "decryptmedia.legal",
     "avadrop.org",
     "opensae-io.online",
