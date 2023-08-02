@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.airmint.org",
     "airdrops-zksync.cc",
     "zetachain.bonus-web3-requests.xyz",
     "sui.airdrops-event.com",
