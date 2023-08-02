@@ -35,7 +35,6 @@
     "needle": "^3.2.0",
     "punycode": "^2.3.0",
     "simple-git-hooks": "^2.8.1",
-    "sqlite3": "^5.1.6",
     "tap-summary": "^4.0.0",
     "tape": "^5.6.3"
   },
