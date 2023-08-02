@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "avadrop.org",
     "opensae-io.online",
     "io-assets.in",
     "www-connect-opensea-io.com",
