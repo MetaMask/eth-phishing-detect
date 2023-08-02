@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "avadrop.org",
     "apesdrop.org",
     "lidodrop.live",
     "synthetixreward.com",
