@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "decryptmedia.legal",
     "avadrop.org",
     "opensae-io.online",
     "io-assets.in",
