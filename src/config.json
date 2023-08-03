@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "join-scroll.io",
+    "scroll.airmint.org",
     "lido.qa",
     "lido.dexipad.top",
     "cowprotocol.fi",
