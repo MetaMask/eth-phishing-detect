@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linea-eth.com",
     "claimsync.io",
     "zksyncseras.tech",
     "airdrop-taikos.cc",
