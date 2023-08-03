@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-taikos.cc",
+    "taiko.airmint.org",
     "join-scroll.io",
     "scroll.airmint.org",
     "lido.qa",
