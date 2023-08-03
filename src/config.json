@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimsync.io",
+    "zksyncseras.tech",
     "airdrop-taikos.cc",
     "taiko.airmint.org",
     "join-scroll.io",
