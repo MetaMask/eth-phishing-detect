@@ -10,15 +10,16 @@ const coinmarketcapDb = new sqlite3.Database(DB_PATH + "/coinmarketcap.db");
 
 function runTests(config) {
   test("check config blocklist against Tranco domains", async (t) => {
-    let foundWhitelistedDomains = [];
+    let foundListedDomains = [];
     trancoDb.parallelize(() => {
-      config.blacklist.forEach((BlacklistDomain, index) => {
+      config.blacklist.forEach((blacklistDomain) => {
         trancoDb.get(
           "SELECT domain FROM tranco WHERE domain = ?",
-          BlacklistDomain,
+          blacklistDomain,
           function (err, row) {
+            t.error(err, 'Sqlite db error');
             if (row) {
-              foundWhitelistedDomains.push(row.domain);
+              foundListedDomains.push(row.domain);
             }
           }
         );
@@ -26,24 +27,25 @@ function runTests(config) {
     });
 
     trancoDb.close(function (err) {
-      if (foundWhitelistedDomains.length > 0) {
-        t.fail(
-          `Following domains found in tranco whitelist: "${foundWhitelistedDomains}" `
-        );
-      }
+      t.error(err, 'Sqlite db error');
+      t.equal(
+        foundListedDomains.length, 0,
+        `Following domains found in tranco list: "${foundListedDomains}" `
+      );
     });
   });
 
   test("check config blocklist against Coinmarketcap coins domains", async (t) => {
-    let foundWhitelistedDomains = [];
+    let foundListedDomains = [];
     coinmarketcapDb.parallelize(() => {
-      config.blacklist.forEach((BlacklistDomain, index) => {
+      config.blacklist.forEach((blacklistDomain) => {
         coinmarketcapDb.get(
           "SELECT domain FROM coinmarketcap WHERE domain = ?",
-          BlacklistDomain,
+          blacklistDomain,
           function (err, row) {
+            t.error(err, 'Sqlite db error');
             if (row) {
-              foundWhitelistedDomains.push(row.domain);
+              foundListedDomains.push(row.domain);
             }
           }
         );
@@ -51,11 +53,11 @@ function runTests(config) {
     });
 
     coinmarketcapDb.close(function (err) {
-      if (foundWhitelistedDomains.length > 0) {
-        t.fail(
-          `Following domains found in Coinmarketcap coins domains: "${foundWhitelistedDomains}" `
-        );
-      }
+      t.error(err, 'Sqlite db error');
+      t.equal(
+        foundListedDomains.length, 0,
+        `Following domains found in Coinmarketcap coins domains: "${foundListedDomains}" `
+      );
     });
   });
 }
