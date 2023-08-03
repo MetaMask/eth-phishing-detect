@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stax.show",
     "ankr-token.com",
     "dex-bigeyes.app",
     "digitalsupportdesk.info",
