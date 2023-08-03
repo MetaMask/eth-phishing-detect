@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stax.show",
     "linea-eth.com",
     "claimsync.io",
     "zksyncseras.tech",
