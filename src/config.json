@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowprotocol.fi",
     "bondex.bz",
     "arbitrumfund.com",
     "decryptmedia.legal",
