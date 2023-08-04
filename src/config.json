@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridgelineabuild.com",
     "stax.show",
     "ankr-token.com",
     "dex-bigeyes.app",
