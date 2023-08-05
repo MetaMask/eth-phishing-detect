@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-airdrop.bridge-reward.website",
+    "optimism-airdrop.claimings-web3-bridge.xyz",
     "xbet.cash",
     "spawnart.org",
     "tokenswaphub.online",
