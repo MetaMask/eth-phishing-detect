@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "op-timism.pw",
     "optimism-airdrop.bridge-reward.website",
     "optimism-airdrop.claimings-web3-bridge.xyz",
     "xbet.cash",
