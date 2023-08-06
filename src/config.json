@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "adrop.pro",
     "cowswap.io",
     "arbltrium.org",
     "altlayer.live",
