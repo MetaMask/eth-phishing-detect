@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbltrium.org",
     "altlayer.live",
     "op-timism.pw",
     "optimism-airdrop.bridge-reward.website",
