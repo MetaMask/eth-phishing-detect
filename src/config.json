@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-web.com",
     "lidopass.com",
     "arbitrumv3.live",
     "aribitrum.com",
