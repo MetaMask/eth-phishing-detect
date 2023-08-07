@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zsyncprotocol.com",
     "adrop.pro",
     "cowswap.io",
     "arbltrium.org",
