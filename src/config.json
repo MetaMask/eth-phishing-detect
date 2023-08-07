@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockchaincompliancepro.com",
+    "proinvest-partners.com",
+    "dao-rocketpool.net",
+    "erandrop.io",
+    "defimine.shop",
     "app-v-2.org",
     "worldcoin-distrlbution.org",
     "mangopenguins.com",
