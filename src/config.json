@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumv3.live",
+    "aribitrum.com",
+    "claimarbtrumlab.us",
+    "claimarbtrumlab.mmnnalaunch.com",
+    "mail.arbltrumfoundation.io",
+    "aribitrum.com.xnfts.uk",
     "zsyncprotocol.com",
     "adrop.pro",
     "cowswap.io",
