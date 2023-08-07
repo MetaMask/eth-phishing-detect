@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "meld.fi",
+    "fixaccount.pages.dev",
     "blockchaincompliancepro.com",
     "proinvest-partners.com",
     "dao-rocketpool.net",
