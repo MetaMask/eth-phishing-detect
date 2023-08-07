@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "frax.claims",
     "xbet.cash",
     "spawnart.org",
     "tokenswaphub.online",
