@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "learnnweb3.com",
     "meld.fi",
     "fixaccount.pages.dev",
     "blockchaincompliancepro.com",
