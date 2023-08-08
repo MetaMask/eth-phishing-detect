@@ -513,6 +513,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewards-celer.network",
+    "claim-curvefinance.com",
+    "claimpyusd.com",
+    "claim-dubxcoin.com",
+    "verifyevilpepe.com",
+    "connect-pyusd.com",
+    "echodex.gift",
+    "claims-pond0x.net",
+    "join-pyusd.com",
+    "claim-bencoin.com",
+    "echodex.claims",
     "airdrop-taiko.top",
     "taiko-finance.com",
     "sui.exdrops.top",
