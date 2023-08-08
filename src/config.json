@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "circleusdc.xyz",
     "airdrop-taiko.top",
     "taiko-finance.com",
     "sui.exdrops.top",
