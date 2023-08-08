@@ -513,6 +513,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mint-cryptopunksv2.com",
+    "neargo.app",
+    "pudgysigloos.com",
+    "bluroi.live",
+    "layer-zer0.network",
+    "layerzero-finance.com",
+    "claimsworldcoin.org",
+    "layerfoundation.com",
+    "events-worldcoin.com",
+    "worldcoin-id.org",
+    "nearpool.org",
+    "unirewards.net",
     "meld.fi",
     "fixaccount.pages.dev",
     "blockchaincompliancepro.com",
