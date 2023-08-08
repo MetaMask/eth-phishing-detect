@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sui.exdrops.top",
     "erazksync.pro",
     "zksync.reward-service-web3.live",
     "aptos-app.claimings-web3-services.online",
