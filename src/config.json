@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "connectlivedapps.xyz",
+    "migrate-ichi.org",
     "meld.fi",
     "fixaccount.pages.dev",
     "blockchaincompliancepro.com",
