@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptos-app.claimings-web3-services.online",
     "airdrop-mantle.top",
     "feedoy.org",
     "connectlivedapps.xyz",
