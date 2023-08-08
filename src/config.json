@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-mantle.top",
+    "feedoy.org",
+    "connectlivedapps.xyz",
+    "migrate-ichi.org",
     "mint-cryptopunksv2.com",
     "neargo.app",
     "pudgysigloos.com",
