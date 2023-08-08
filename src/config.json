@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eransdrop.io",
+    "mematrade.com",
+    "circledrop.net",
+    "usdtclaim.com",
     "airdrop-taiko.top",
     "taiko-finance.com",
     "sui.exdrops.top",
