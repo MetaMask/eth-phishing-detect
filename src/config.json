@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "frax.claims",
     "meld.fi",
     "fixaccount.pages.dev",
     "blockchaincompliancepro.com",
