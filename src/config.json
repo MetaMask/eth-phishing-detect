@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "echodex.claim",
     "eransdrop.io",
     "mematrade.com",
     "circledrop.net",
