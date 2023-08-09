@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aribitrum.us",
     "rewards-celer.network",
     "claim-curvefinance.com",
     "claimpyusd.com",
