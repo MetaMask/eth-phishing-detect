@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pond0x.lol",
+    "maticdrop.com",
     "aribitrum.us",
     "rewards-celer.network",
     "claim-curvefinance.com",
