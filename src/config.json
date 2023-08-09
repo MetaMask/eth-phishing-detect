@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arkham-intelligence.tech",
+    "arkhamintelligence.eu",
+    "arkhamintelligence.live",
+    "arkhamintelligence.online",
+    "arkhamintelligenceas.com",
     "pond0x.lol",
     "maticdrop.com",
     "aribitrum.us",
