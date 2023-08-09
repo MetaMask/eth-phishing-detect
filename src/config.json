@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidopass.org",
+    "blockchainncapital.com",
+    "circleusdc.xyz",
     "learnnweb3.com",
     "airdrop-taiko.top",
     "taiko-finance.com",
