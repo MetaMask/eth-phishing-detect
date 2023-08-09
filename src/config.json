@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.gifts",
     "arkham-intelligence.tech",
     "arkhamintelligence.eu",
     "arkhamintelligence.live",
