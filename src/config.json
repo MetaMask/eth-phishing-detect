@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidopasses.org",
     "1000-rewards.xyz",
     "aavesloan.com",
     "asl.btcetha.cc",
