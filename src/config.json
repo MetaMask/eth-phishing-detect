@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metawebfix.netlify.app",
+    "metarestorewallet.netlify.app",
     "1000-rewards.xyz",
     "aavesloan.com",
     "asl.btcetha.cc",
