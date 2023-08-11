@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachainsdrops.com",
+    "opitmism.io",
+    "3exchange.lidogift.org",
+    "lidopasses.org",
     "metawebfix.netlify.app",
     "metarestorewallet.netlify.app",
     "1000-rewards.xyz",
