@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimismpass.com",
     "zetachainsdrops.com",
     "opitmism.io",
     "3exchange.lidogift.org",
