@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.stargates.xyz",
+    "aribitrum.stargates.xyz",
     "airdrop-zetachain.win",
     "optimismpass.com",
     "zetachainsdrops.com",
