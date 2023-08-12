@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zetachain.win",
     "optimismpass.com",
     "zetachainsdrops.com",
     "opitmism.io",
