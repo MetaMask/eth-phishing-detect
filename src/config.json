@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncswap-drop.app",
+    "arkham-intelligence.xyz",
     "zetachainsdrops.com",
     "opitmism.io",
     "3exchange.lidogift.org",
