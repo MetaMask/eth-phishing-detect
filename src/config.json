@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "base-pass.com",
+    "optimismpass.org",
+    "aztecnetworks.web3fmint.com",
+    "arbitrum.stargates.xyz",
+    "aribitrum.stargates.xyz",
+    "airdrop-zetachain.win",
+    "optimismpass.com",
     "zetachainsdrops.com",
     "opitmism.io",
     "3exchange.lidogift.org",
