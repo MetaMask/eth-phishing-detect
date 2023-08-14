@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "base-pass.com",
     "optimismpass.org",
     "aztecnetworks.web3fmint.com",
     "arbitrum.stargates.xyz",
