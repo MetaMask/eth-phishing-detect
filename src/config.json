@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksyncs.cc",
+    "erazksync.xyz",
+    "zksync-ai.com",
+    "zksync-era.blog",
+    "zsyncprotocols.xyz",
     "quainetwork-drops.com",
     "optimistlabs.com",
     "rewards-optimism.org",
