@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "quainetwork-drops.com",
     "optimistlabs.com",
     "rewards-optimism.org",
     "lido-app.services-web3-bonus.pro",
