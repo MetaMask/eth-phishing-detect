@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewards-optimism.org",
     "lido-app.services-web3-bonus.pro",
     "unframedconnect.com",
     "aribitrumbridge.xyz",
