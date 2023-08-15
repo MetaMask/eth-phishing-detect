@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zsync-claim.com",
     "quai.fi",
     "adrop.gg",
     "asl.wqwkmyt.cc",
