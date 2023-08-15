@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimisim.io",
+    "optimismtokens-drop.com",
     "zsync-claim.com",
     "quai.fi",
     "adrop.gg",
