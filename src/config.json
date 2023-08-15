@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ceramic.money",
     "ceramic.gift",
     "arkhaminteiligence.com",
     "optimisim.io",
