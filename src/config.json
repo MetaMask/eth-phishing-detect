@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptos.xr-crypto.com",
     "arkhaminteiligence.com",
     "optimisim.io",
     "optimismtokens-drop.com",
