@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arkhaminteiligence.com",
+    "optimisim.io",
+    "optimismtokens-drop.com",
+    "zsync-claim.com",
+    "quai.fi",
     "coinbase.peakintegritybd.com",
     "coinbase-extension.com",
     "looksrare-web3.org",
