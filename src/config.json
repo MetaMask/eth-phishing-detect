@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "argentairdrop.com",
     "arbitrum.swapbridge.info",
     "base-member.xyz",
     "basebridge.network",
