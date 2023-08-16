@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswapped.fi",
     "coinbasechain.net",
     "ercpad.com",
     "dao-maker.in.net",
