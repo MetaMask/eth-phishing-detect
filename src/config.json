@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "taiko.airdmint.com",
     "lido-assets.com",
     "cowswapped.fi",
     "coinbasechain.net",
