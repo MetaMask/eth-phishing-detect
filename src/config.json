@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "earn-web3.com",
+    "eransdrops.io",
+    "eran-drop.io",
     "taiko.airdmint.com",
     "lido-assets.com",
     "cowswapped.fi",
