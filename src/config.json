@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbasechain.net",
     "ercpad.com",
     "dao-maker.in.net",
     "flngroup.online",
