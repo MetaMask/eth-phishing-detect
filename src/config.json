@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "taiko.airdmint.com",
+    "lido-assets.com",
+    "cowswapped.fi",
+    "coinbasechain.net",
+    "ercpad.com",
+    "dao-maker.in.net",
+    "flngroup.online",
+    "argentairdrop.com",
+    "arbitrum.swapbridge.info",
     "airspacetoons.com",
     "api-fixdapps.pages.dev",
     "arbiutrum.info",
