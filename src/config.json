@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ercpad.com",
+    "dao-maker.in.net",
     "flngroup.online",
     "argentairdrop.com",
     "arbitrum.swapbridge.info",
