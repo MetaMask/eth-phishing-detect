@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bankless-connects.com",
+    "emhh.xyz",
     "airdrop-zksyncs.cc",
     "erazksync.xyz",
     "zksync-ai.com",
