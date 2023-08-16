@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-assets.com",
     "cowswapped.fi",
     "coinbasechain.net",
     "ercpad.com",
