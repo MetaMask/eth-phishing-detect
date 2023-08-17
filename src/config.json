@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stargate.stakingweb3.com",
     "earn-web3.com",
     "eransdrops.io",
     "eran-drop.io",
