@@ -1,16 +1,16 @@
-const sqlite3 = require("sqlite3");
-const parseCsv = require("csv-parse/sync");
 const fs = require("fs");
 const needle = require("needle");
 const join = require("path").join;
-require("dotenv").config({ path: join(__dirname, "/../.env") });
+require("dotenv").config({ path: join(__dirname, "/.update-lists.env") });
 
 const DB_PATH = join(__dirname) + "/db";
 
 const ENDPOINTS = {
   TRANCO_LIST: "https://tranco-list.eu/download/K25GW/100000",
-  COINMARKETCAP: "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=5000&start=1&sort=market_cap_strict&market_cap_min=10000000",
-  COINMARKETCAP_COIN_INFO: "https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?id="
+  COINMARKETCAP:
+    "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=5000&start=1&sort=market_cap_strict&market_cap_min=10000000",
+  COINMARKETCAP_COIN_INFO:
+    "https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?id=",
 };
 
 function arrayTo2DArray1(arr, size) {
@@ -27,14 +27,14 @@ function arrayTo2DArray1(arr, size) {
   return res;
 }
 
-const touchFile = path => {
+const touchFile = (path) => {
   const time = new Date();
   try {
     fs.utimesSync(path, time, time);
   } catch (err) {
-    fs.closeSync(fs.openSync(path, 'w'));
+    fs.closeSync(fs.openSync(path, "w"));
   }
-}
+};
 
 async function updateTrancoList() {
   const PATH_CSV = DB_PATH + "/trancoList.csv";
@@ -68,9 +68,9 @@ async function updateTrancoList() {
     process.exit(1);
   }
 
-  if(fs.existsSync(DB_PATH + "/tranco-temp.db")) {
+  if (fs.existsSync(DB_PATH + "/trancos-temp")) {
     try {
-      fs.unlinkSync(DB_PATH + "/tranco-temp.db");
+      fs.unlinkSync(DB_PATH + "/trancos-temp");
     } catch (err) {
       console.error(err);
     }
@@ -78,55 +78,32 @@ async function updateTrancoList() {
 
   await touchFile(PATH_CSV);
 
-  // Create db and fill it with entries from Tranco csv file
-  const db = new sqlite3.Database(DB_PATH + "/tranco-temp.db");
+  const trancoDomainsCsv = fs.readFileSync(PATH_CSV, "utf8");
+  // Replace everything before a comma with empty string and convert line feeds to ln
+  let trancoDomains = trancoDomainsCsv.replace(/.*,/g, "");
+  trancoDomains = trancoDomains.replace(/\r\n/g, "\n");
 
-  const trancoDomainsCsv = fs.readFileSync(
-    PATH_CSV,
-    "utf8"
-  );
-  const trancoDomains = parseCsv.parse(trancoDomainsCsv, {
-    skip_empty_lines: true,
-  });
+  // Exclude false positive (bad domains) from tranco list
+  const re = new RegExp(`^(${excludeList.join("|")})$\n`, "gm");
 
-  db.on("trace", function (sqlString) {
-    console.log("SQL string: " + sqlString);
-  });
+  trancoDomains = trancoDomains.replace(re, "");
 
-  db.serialize(() => {
-    db.exec("CREATE TABLE tranco (ranking INTEGER, domain TEXT)");
-    db.exec("CREATE INDEX domain_index ON tranco(domain);");
+  try {
+    fs.writeFileSync(DB_PATH + "/trancos-temp", trancoDomains);
 
-    // Wrapping all insert statements in a single transaction is way faster as
-    // sqlite by default insert each row in a separate transaction
-    db.exec("BEGIN TRANSACTION;");
-
-    const stmt = db.prepare("INSERT INTO tranco VALUES (?,?)");
-    for (let i = 0; i < trancoDomains.length; i++) {
-      // check exclude list. If domain found, continue to next loop cycle
-      if (excludeList.includes(trancoDomains[i][1])) continue;
-      stmt.run(trancoDomains[i][0], trancoDomains[i][1]);
-    }
-    stmt.finalize();
-
-    db.exec("COMMIT;");
-  });
-
-  db.close(function (err) {
-    if (err) {
-      process.exit(1);
-    } else {
-      // copy temp db file
-      console.log("Copying: temp db file... ");
-      fs.copyFileSync(DB_PATH + "/tranco-temp.db", DB_PATH + "/tranco.db");
-      process.exit(0);
-    }
-  });
+    // copy temp list file
+    console.log("Copying: temp list file... ");
+    fs.copyFileSync(DB_PATH + "/trancos-temp", DB_PATH + "/trancos");
+    process.exit(0);
+  } catch (err) {
+    console.error(err);
+    process.exit(1);
+  }
 }
 
 async function updateCoinmarketcapList() {
   try {
-    fs.unlinkSync(DB_PATH + "/coinmarketcap-temp.db");
+    fs.unlinkSync(DB_PATH + "/coinmarketcaps-temp");
   } catch (err) {
     console.error(err);
   }
@@ -137,9 +114,6 @@ async function updateCoinmarketcapList() {
   const coinsArray = [];
   const coinsPerSubCall = 250; // how many coins (IDs) will be in the query string of coins metadata subcalls
 
-  // Create db and fill it with entries from Dappradar API responses
-  const db = new sqlite3.Database(DB_PATH + "/coinmarketcap-temp.db");
-
   function delay(t) {
     return new Promise((resolve) => setTimeout(resolve, t));
   }
@@ -147,15 +121,11 @@ async function updateCoinmarketcapList() {
   // Call Coinmarketcap API
   try {
     // get only coins with market cap > 10M
-    const response = await needle(
-      "get",
-      ENDPOINTS.COINMARKETCAP,
-      {
-        headers: {
-          "X-CMC_PRO_API_KEY": apiKey,
-        },
-      }
-    );
+    const response = await needle("get", ENDPOINTS.COINMARKETCAP, {
+      headers: {
+        "X-CMC_PRO_API_KEY": apiKey,
+      },
+    });
     response.body.data.forEach((coin) => {
       coinsMarketCaps[coin.id] = coin.quote.USD.market_cap;
       coinsIds.push(coin.id);
@@ -170,9 +140,7 @@ async function updateCoinmarketcapList() {
         await delay(2500);
         const response = await needle(
           "get",
-          `${ENDPOINTS.COINMARKETCAP_COIN_INFO}${subcallCoinsIds.join(
-            ","
-          )}`,
+          `${ENDPOINTS.COINMARKETCAP_COIN_INFO}${subcallCoinsIds.join(",")}`,
           {
             headers: {
               "X-CMC_PRO_API_KEY": apiKey,
@@ -202,53 +170,37 @@ async function updateCoinmarketcapList() {
     process.exit(1);
   }
 
-  db.on("trace", function (sqlString) {
-    console.log("SQL string: " + sqlString);
-  });
-
-  db.serialize(() => {
-    db.exec(
-      "CREATE TABLE coinmarketcap (name TEXT, marketcap INTEGER, domain TEXT)"
-    );
-    db.exec("CREATE INDEX domain_index ON coinmarketcap(domain);");
-
-    // Wrapping all insert statements in a single transaction is way faster as
-    // sqlite by default insert each row in a separate transaction
-    db.exec("BEGIN TRANSACTION;");
-
-    const stmt = db.prepare("INSERT INTO coinmarketcap VALUES (?,?,?)");
-
-    for (coin of coinsArray) {
-      try {
-        let coinDomainName = "";
-        if (coin[2]) {
-          const coinDomainSplit1 = coin[2].split(/(https:\/\/|http:\/\/)+/);
-          const coinDomainSplit2 =
-            coinDomainSplit1[coinDomainSplit1.length - 1].split(/(\/)+/);
-          coinDomainName = coinDomainSplit2[0].replace("www.", "");
-        }
-
-        stmt.run(coin[0], coin[1], coinDomainName);
-      } catch (err) {
-        console.error(err);
+  for (coin of coinsArray) {
+    try {
+      let coinDomainName = "";
+      if (coin[2]) {
+        const coinDomainSplit1 = coin[2].split(/(https:\/\/|http:\/\/)+/);
+        const coinDomainSplit2 =
+          coinDomainSplit1[coinDomainSplit1.length - 1].split(/(\/)+/);
+        coinDomainName = coinDomainSplit2[0].replace("www.", "");
       }
+
+      fs.appendFileSync(
+        DB_PATH + "/coinmarketcaps-temp",
+        coinDomainName + "\n"
+      );
+    } catch (err) {
+      console.error(err);
     }
+  }
 
-    stmt.finalize();
-
-    db.exec("COMMIT;");
-  });
-
-  db.close(function (err) {
-    if (err) {
-      process.exit(1);
-    } else {
-      // copy temp db file
-      console.log("Copying: temp db file... ");
-      fs.copyFileSync(DB_PATH + "/coinmarketcap-temp.db", DB_PATH + "/coinmarketcap.db");
-      process.exit(0);
-    }
-  });
+  try {
+    // copy temp list file
+    console.log("Copying: temp list file... ");
+    fs.copyFileSync(
+      DB_PATH + "/coinmarketcaps-temp",
+      DB_PATH + "/coinmarketcaps"
+    );
+    process.exit(0);
+  } catch (err) {
+    console.error(err);
+    process.exit(1);
+  }
 }
 
 const target = process.argv[2];
