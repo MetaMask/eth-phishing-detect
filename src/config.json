@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-mint.com",
+    "zsyncs.com",
     "zetachainspass.com",
     "cowswap-1.pages.dev",
     "arbdrop.com",
