@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido.brldge.io",
+    "lido.xsadrop.com",
     "zksync-mint.com",
     "zsyncs.com",
     "zetachainspass.com",
