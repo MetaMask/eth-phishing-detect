@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "games-pudgypenguins.com",
     "mee6auth.me",
     "boringpunk.legal",
     "matrixmeta.world",
