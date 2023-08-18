@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-stakingadvanced.com",
     "lido.brldge.io",
     "lido.xsadrop.com",
     "zksync-mint.com",
