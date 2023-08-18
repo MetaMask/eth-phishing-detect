@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cyberewards.org",
+    "sei-airdrop.com",
     "airdrops-taikos.xyz",
     "lido-stakingadvanced.com",
     "lido.brldge.io",
