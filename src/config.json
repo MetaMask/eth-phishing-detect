@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aribitrum.swapbridge.info",
     "stargate.stakingweb3.com",
     "collab.claims",
     "onchainsummer.vip",
