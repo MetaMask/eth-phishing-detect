@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumpass.com",
+    "arbitrum.xr-crypto.com",
     "aribitrum.swapbridge.info",
     "stargate.stakingweb3.com",
     "collab.claims",
