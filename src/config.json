@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrops-taikos.xyz",
     "lido-stakingadvanced.com",
     "lido.brldge.io",
     "lido.xsadrop.com",
