@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbdrop.com",
     "arbitrumpass.com",
     "arbitrum.xr-crypto.com",
     "aribitrum.swapbridge.info",
