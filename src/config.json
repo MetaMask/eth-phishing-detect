@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswap-1.pages.dev",
     "arbdrop.com",
     "arbitrumpass.com",
     "arbitrum.xr-crypto.com",
