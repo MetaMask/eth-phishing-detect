@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mee6auth.me",
+    "boringpunk.legal",
+    "matrixmeta.world",
+    "earndropz.io",
+    "qntportal.com",
     "airdropbob.vip",
     "app.dexsync.org",
     "barbiedreamworld.com",
