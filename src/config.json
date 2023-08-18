@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-host.com",
     "linea-app.bonus-bridge-web3.live",
     "mee6auth.me",
     "boringpunk.legal",
