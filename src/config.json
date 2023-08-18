@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scroll.airdmint.com",
     "cyberewards.org",
     "sei-airdrop.com",
     "airdrops-taikos.xyz",
