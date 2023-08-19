@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.claim-tokens.shop",
     "abitrum.network",
     "arbitrum-host.com",
     "linea-app.bonus-bridge-web3.live",
