@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "etherseumairdrop.org",
     "mantlenetwork.swap-mint.com",
     "mantle.claim-tokens.shop",
     "abitrum.network",
