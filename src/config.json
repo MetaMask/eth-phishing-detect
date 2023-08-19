@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims-optimism.org",
+    "optimismfnd-airdrop.com",
     "etherseumairdrop.org",
     "mantlenetwork.swap-mint.com",
     "mantle.claim-tokens.shop",
