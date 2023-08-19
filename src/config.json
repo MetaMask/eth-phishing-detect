@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantlenetwork.swap-mint.com",
     "mantle.claim-tokens.shop",
     "abitrum.network",
     "arbitrum-host.com",
