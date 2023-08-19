@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-taiko.one",
     "claim-optimism.org",
     "claims-optimism.org",
     "optimismfnd-airdrop.com",
