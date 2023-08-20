@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbpass.io",
     "lives-arbitrum.com",
     "rewards-abitrum.org",
     "airdrop-taiko.one",
