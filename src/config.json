@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "base-pass.co",
     "mee6auth.me",
     "boringpunk.legal",
     "matrixmeta.world",
