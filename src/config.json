@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "connect-arbdoge.com",
     "mee6auth.me",
     "boringpunk.legal",
     "matrixmeta.world",
