@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "daomaker.trade",
     "connects-bankless.app",
     "leniea.online",
     "cowswap.foo",
