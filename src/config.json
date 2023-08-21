@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "velodrome.gifts",
     "worldcoin.net.ar",
     "uniswrap.com",
     "layerzero-pool.com",
