@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "theopenseacenter.com",
     "mee6auth.me",
     "boringpunk.legal",
     "matrixmeta.world",
