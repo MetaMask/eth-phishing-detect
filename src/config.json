@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-lives.com",
+    "drop-arbitrum.website",
+    "join-arbitrum.org",
+    "xn--arbtrums-e2a.com",
     "argentpass.com",
     "zetachain.web3-join.ltd",
     "arbpass.io",
