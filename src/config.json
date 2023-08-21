@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "governance.sei-foundation.xyz",
     "linea-eth.net",
     "lineabuild-pass.com",
     "daomaker.trade",
