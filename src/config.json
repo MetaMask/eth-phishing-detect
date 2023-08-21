@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "connects-bankless.app",
     "leniea.online",
     "cowswap.foo",
     "base-pass.org",
