@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-tokens.com",
+    "lidoi.fi",
+    "lidofinance.web.app",
+    "lido.fi.coinstaker.app",
     "arbitrum-lives.com",
     "drop-arbitrum.website",
     "join-arbitrum.org",
