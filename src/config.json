@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "adropped.app",
     "lido-tokens.com",
     "lidoi.fi",
     "lidofinance.web.app",
