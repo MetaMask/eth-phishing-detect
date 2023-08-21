@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswap.foo",
     "base-pass.org",
     "adropped.app",
     "lido-tokens.com",
