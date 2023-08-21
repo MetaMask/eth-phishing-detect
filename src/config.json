@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "leniea.online",
     "cowswap.foo",
     "base-pass.org",
     "adropped.app",
