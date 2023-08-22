@@ -510,7 +510,8 @@
     "satoshilabs.com",
     "satoshilabs.design",
     "metarisk.com",
-    "launchpad.ethereum.org"
+    "launchpad.ethereum.org",
+    "cryptio.co"
   ],
   "blacklist": [
     "connect-arbdoge.com",
@@ -580,7 +581,6 @@
     "gala-tokens.com",
     "layer-zero.in",
     "layerfoundationclaim.com",
-    "cryptio.co",
     "pudgy-penguins.lol",
     "distribution-sandbox.xyz",
     "yugavotes.net",
