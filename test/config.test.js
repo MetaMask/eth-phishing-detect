@@ -388,8 +388,7 @@ function startTests ({ config }) {
 
   test('config does not contain redundant entries', (t) => {
     testListNoBlocklistRedundancies(t, config)
-    // FIXME: temporarily disabled due to config propagation inconsistency
-    // testListNoAllowlistRedundancies(t, config)
+    testListNoAllowlistRedundancies(t, config)
     t.end()
   })
 }

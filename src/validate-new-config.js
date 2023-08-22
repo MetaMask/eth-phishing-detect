@@ -62,10 +62,7 @@ try {
       for (const host of newHosts) {
         const cfg = {
           ...baseConfig,
-          // FIXME: Temporary workaround during list inconsistency.
-          // Can be reverted after 2023-05-14
-          tolerance: listName === 'blocklist' ? 0 : 2,
-          // tolerance: listName === 'blocklist' ? 0 : newConfig.tolerance,
+          tolerance: listName === 'blocklist' ? 0 : newConfig.tolerance,
           [section]: checkList,
         };
         const detector = new PhishingDetector(cfg);
@@ -78,10 +75,7 @@ try {
       // 4. Check in reverse direction to catch existing entries which are now made redundant
       const cfg = {
         ...baseConfig,
-        // FIXME: Temporary workaround during list inconsistency.
-        // Can be reverted after 2023-05-14
-        tolerance: listName === 'blocklist' ? 0 : 2,
-        // tolerance: listName === 'blocklist' ? 0 : newConfig.tolerance,
+        tolerance: listName === 'blocklist' ? 0 : newConfig.tolerance,
         [section]: Array.from(newHosts),
       };
       const detector = new PhishingDetector(cfg);
