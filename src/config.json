@@ -514,6 +514,7 @@
     "cryptio.co"
   ],
   "blacklist": [
+    "apollox-dex.app",
     "connect-arbdoge.com",
     "velodrome.gifts",
     "worldcoin.net.ar",
