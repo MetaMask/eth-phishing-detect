@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apollox-dex.app",
     "leyerzero.org",
     "join-degods.net",
     "moodo.org",
