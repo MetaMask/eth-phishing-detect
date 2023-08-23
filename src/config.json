@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksync.one",
     "thehelpopensea.com",
     "apollox-dex.app",
     "leyerzero.org",
