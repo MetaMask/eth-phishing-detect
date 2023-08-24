@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "debugsnode.live",
+    "radiantcapital.us",
+    "rewards-earndrop.io",
     "join-arbitrum.online",
     "arbitrum.extrusts.top",    
     "optimismdefi.com",
