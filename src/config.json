@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "join-arbitrum.online",
     "arbitrum.extrusts.top",
     "airdrop-zksync.one",
     "thehelpopensea.com",
