@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimismdefi.com",
     "airdrop-zksync.one",
     "thehelpopensea.com",
     "apollox-dex.app",
