@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswapping.com",
+    "now-cowswap.fi",
     "arkharnintelligence.org",
     "claim-arbltrum.xyz",
     "quainet.com",
