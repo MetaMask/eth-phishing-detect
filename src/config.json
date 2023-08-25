@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "icomarks.net",
+    "zetachain-pass.com",
     "cowswapping.com",
     "now-cowswap.fi",
     "arkharnintelligence.org",
