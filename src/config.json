@@ -513,8 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "quainet.com",
     "join-arbitrum.online",
-    "arbitrum.extrusts.top",    
+    "arbitrum.extrusts.top",
     "optimismdefi.com",
     "aavenetwork.com",
     "aaveportal.com",
