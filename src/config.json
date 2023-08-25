@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zcsync.io",
+    "zksync-mints.com",
+    "zksynceth.tech",
+    "zksyncpass.com",
+    "zksyrnc.io",
     "icomarks.net",
     "zetachain-pass.com",
     "cowswapping.com",
