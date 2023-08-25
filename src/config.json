@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claiming.zksnyc.co",
     "claimszksync.com",
     "staked-lido.finance",
     "zcsync.io",
