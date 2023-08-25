@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-arbltrum.xyz",
     "quainet.com",
     "join-arbitrum.online",
     "arbitrum.extrusts.top",
