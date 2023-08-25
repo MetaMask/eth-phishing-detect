@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimszksync.com",
     "staked-lido.finance",
     "zcsync.io",
     "zksync-mints.com",
