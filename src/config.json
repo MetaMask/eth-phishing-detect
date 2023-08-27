@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.me",
     "arbitrum.red",
     "arbitrum-airdrop.wilsonplau.dev",
     "event-linea.com",
