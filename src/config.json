@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-pass.com",
     "zetachain.me",
     "arbitrum.red",
     "arbitrum-airdrop.wilsonplau.dev",
