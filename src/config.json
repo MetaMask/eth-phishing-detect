@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event-linea.com",
     "getarbitrum.app",
     "giveway-arbitrum.com",
     "accessdefi.xyz",
