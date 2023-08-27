@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-airdrop.wilsonplau.dev",
     "event-linea.com",
     "getarbitrum.app",
     "giveway-arbitrum.com",
