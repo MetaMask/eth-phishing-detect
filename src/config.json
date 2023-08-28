@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "definlama.com",
+    "arbitrumr.io",
+    "arkharnintelligence.finance",
+    "claim-arbltrum.live",
     "claim.circlest.net",
     "dex-xf.com",
     "ethcoindapp.net",
