@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidodrop.network",
+    "lido-app.bonus-connect.online",
     "definlama.com",
     "arbitrumr.io",
     "arkharnintelligence.finance",
