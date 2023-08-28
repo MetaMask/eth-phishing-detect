@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims-arbitrum.org",
+    "arbitrum.openpads.top",
     "lidofi.pw",
     "lidodrop.network",
     "lido-app.bonus-connect.online",
