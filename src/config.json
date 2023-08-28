@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "velodrome-fi.io",
+    "velodromes.gift",
     "definlama.com",
     "arbitrumr.io",
     "arkharnintelligence.finance",
