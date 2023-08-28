@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridge-arbirtum.cloud",
+    "claims-arbitrum.org",
+    "arbitrum.openpads.top",
+    "lidofi.pw",
+    "lidodrop.network",
+    "lido-app.bonus-connect.online",
     "definlama.com",
     "arbitrumr.io",
     "arkharnintelligence.finance",
