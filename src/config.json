@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidofi.pw",
     "lidodrop.network",
     "lido-app.bonus-connect.online",
     "definlama.com",
