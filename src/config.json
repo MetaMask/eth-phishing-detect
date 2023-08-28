@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.circlest.net",
+    "dex-xf.com",
+    "ethcoindapp.net",
+    "mining1999.com",
+    "money-partners.org",
+    "reveeldrop.top",
+    "usdc.circle-live.com",
     "pudgypoints.com",
     "worldclassflies.com",
     "u66666n.com",
