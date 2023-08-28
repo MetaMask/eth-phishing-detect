@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-arbltrum.live",
     "pudgypoints.com",
     "worldclassflies.com",
     "u66666n.com",
