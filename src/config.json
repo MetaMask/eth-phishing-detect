@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linea-event.com",
     "airdrop-taikos.one",
     "arbitrum-pass.com",
     "zetachain.me",
