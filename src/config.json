@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "thecowswap.com",
     "chaiingpt.net",
     "galxe.comv.app",
     "connect-mantle.com",
