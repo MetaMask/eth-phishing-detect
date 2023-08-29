@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "galxe.comv.app",
     "connect-mantle.com",
     "event-mantle.xyz",
     "brige-arbitrum.com",
