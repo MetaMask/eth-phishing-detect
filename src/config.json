@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "basechainpass.com",
     "bridge-arbirtum.cloud",
     "claims-arbitrum.org",
     "arbitrum.openpads.top",
