@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mainnet-layerzero.network",
+    "layerzero.airfmint.com",
+    "receive.claim-layer-zero.sbs",
     "nfthunters.cent.co",
     "aptosapttoken.online",
     "airdrop-aptosbridge.xyz",
