@@ -513,6 +513,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "basechainpass.com",
+    "thecowswap.com",
+    "chaiingpt.net",
+    "galxe.comv.app",
+    "connect-mantle.com",
+    "event-mantle.xyz",
+    "brige-arbitrum.com",
+    "zkcodex-checker.netlify.app",
+    "bridge-arbiturm.online",
+    "claim-arbltrum.org",
+    "arbitrum-foundations.github.io",
     "velodrome-fi.io",
     "velodromes.gift",
     "bridge-arbirtum.cloud",
