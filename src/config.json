@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptos.gift",
     "arkhaminteligences.net",
     "arkhamintelligence.icu",
     "web3-requests-claims.website",
