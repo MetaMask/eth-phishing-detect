@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero.needonomics.com",
     "layerzerorewards.org",
     "mainnet-layerzero.network",
     "layerzero.airfmint.com",
