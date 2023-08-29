@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "community-arbitrum.org",
     "airdrop-zetachain.one",
     "circlestablec.com",
     "usdcircle.io",
