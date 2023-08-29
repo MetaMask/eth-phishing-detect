@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "velodrome-fi.io",
+    "velodromes.gift",
     "bridge-arbirtum.cloud",
     "claims-arbitrum.org",
     "arbitrum.openpads.top",
