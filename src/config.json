@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "connect-mantle.com",
     "event-mantle.xyz",
     "brige-arbitrum.com",
     "zkcodex-checker.netlify.app",
