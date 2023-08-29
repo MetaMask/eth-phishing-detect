@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scrollcoin.claims",
+    "scrollzpk.com",
+    "airdrop.scroll.si",
     "layerzero.needonomics.com",
     "layerzerorewards.org",
     "mainnet-layerzero.network",
