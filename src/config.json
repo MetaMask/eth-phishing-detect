@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-arbltrum.org",
     "arbitrum-foundations.github.io",
     "bridge-arbirtum.cloud",
     "claims-arbitrum.org",
