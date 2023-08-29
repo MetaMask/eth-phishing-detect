@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "basechainpass.com",
     "thecowswap.com",
     "chaiingpt.net",
     "galxe.comv.app",
