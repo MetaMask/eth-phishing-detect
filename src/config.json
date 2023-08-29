@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3-requests-claims.website",
+    "web3-services-claimings.live",
     "zero-claim.com",
     "zksync.netlify.app",
     "airdrops-taiko.one",
