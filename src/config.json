@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.netlify.app",
     "airdrops-taiko.one",
     "scrollcoin.claims",
     "scrollzpk.com",
