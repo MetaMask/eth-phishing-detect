@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arkham.zone",
+    "arkm.xr-coins.com",
     "airdrop-arbitrum.netlify.app",
     "bridge.arebitrum.com",
     "arbitrum.alterdrops.top",
