@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido.ixcoins.top",
+    "lido.openpads.top",
+    "lido.xr-coins.com",
     "arkham.zone",
     "arkm.xr-coins.com",
     "airdrop-arbitrum.netlify.app",
