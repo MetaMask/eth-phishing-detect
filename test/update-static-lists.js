@@ -39,18 +39,6 @@ const touchFile = (path) => {
 async function updateTrancoList() {
   const PATH_CSV = DB_PATH + "/trancoList.csv";
 
-  // This is a list of "bad domains" (false positive) that we don't want to include in the final generated DB
-  const excludeList = [
-    "simdif.com",
-    "gb.net",
-    "btcs.love",
-    "ferozo.com",
-    "im-creator.com",
-    "free-ethereum.io",
-    "890m.com",
-    "b5z.net",
-    "test.com",
-  ];
   // Download updated list
   const stream = fs.createWriteStream(PATH_CSV);
 
@@ -68,32 +56,15 @@ async function updateTrancoList() {
     process.exit(1);
   }
 
-  if (fs.existsSync(DB_PATH + "/trancos-temp")) {
-    try {
-      fs.unlinkSync(DB_PATH + "/trancos-temp");
-    } catch (err) {
-      console.error(err);
-    }
-  }
-
   await touchFile(PATH_CSV);
 
   const trancoDomainsCsv = fs.readFileSync(PATH_CSV, "utf8");
   // Replace everything before a comma with empty string and convert line feeds to ln
-  let trancoDomains = trancoDomainsCsv.replace(/.*,/g, "");
-  trancoDomains = trancoDomains.replace(/\r\n/g, "\n");
-
-  // Exclude false positive (bad domains) from tranco list
-  const re = new RegExp(`^(${excludeList.join("|")})$\n`, "gm");
-
-  trancoDomains = trancoDomains.replace(re, "");
+  let trancoDomains = trancoDomainsCsv.split(/.*,/).join("");
+  trancoDomains = trancoDomains.split(/\r\n/).join("\n");
 
   try {
-    fs.writeFileSync(DB_PATH + "/trancos-temp", trancoDomains);
-
-    // copy temp list file
-    console.log("Copying: temp list file... ");
-    fs.copyFileSync(DB_PATH + "/trancos-temp", DB_PATH + "/trancos");
+    fs.writeFileSync(DB_PATH + "/trancos", trancoDomains);
     process.exit(0);
   } catch (err) {
     console.error(err);
@@ -102,12 +73,6 @@ async function updateTrancoList() {
 }
 
 async function updateCoinmarketcapList() {
-  try {
-    fs.unlinkSync(DB_PATH + "/coinmarketcaps-temp");
-  } catch (err) {
-    console.error(err);
-  }
-
   const apiKey = process.env.COINMARKETCAP_API_KEY;
   let coinsIds = [];
   let coinsMarketCaps = {};
@@ -180,27 +145,13 @@ async function updateCoinmarketcapList() {
         coinDomainName = coinDomainSplit2[0].replace("www.", "");
       }
 
-      fs.appendFileSync(
-        DB_PATH + "/coinmarketcaps-temp",
-        coinDomainName + "\n"
-      );
+      fs.appendFileSync(DB_PATH + "/coinmarketcaps", coinDomainName + "\n");
     } catch (err) {
       console.error(err);
     }
   }
 
-  try {
-    // copy temp list file
-    console.log("Copying: temp list file... ");
-    fs.copyFileSync(
-      DB_PATH + "/coinmarketcaps-temp",
-      DB_PATH + "/coinmarketcaps"
-    );
-    process.exit(0);
-  } catch (err) {
-    console.error(err);
-    process.exit(1);
-  }
+  process.exit(0);
 }
 
 const target = process.argv[2];
