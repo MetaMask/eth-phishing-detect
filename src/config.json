@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-blog.com",
     "register-argent.xyz",
     "coindex.live",
     "okf444.net",
