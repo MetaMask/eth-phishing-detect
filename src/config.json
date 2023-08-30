@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncs-swaps.xyz",
+    "drop.zk-eth.world",
     "lido.ixcoins.top",
     "lido.openpads.top",
     "lido.xr-coins.com",
