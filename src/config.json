@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridge.arebitrum.com",
     "arbitrum.alterdrops.top",
     "arbitrum.ixcoins.top",
     "arbitrums.web3-airdrop.cc",
