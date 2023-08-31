@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zetachains.one",
     "register-aztec.network",
     "news-arbitrum.online",
     "pair-collab.land",
