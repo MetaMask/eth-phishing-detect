@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "register-aztec.network",
     "news-arbitrum.online",
     "pair-collab.land",
     "collab-asset.github.io",
