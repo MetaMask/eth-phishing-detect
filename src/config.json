@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "news-arbitrum.online",
     "pair-collab.land",
     "collab-asset.github.io",
     "community-optimism.org",
