@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grant-gitcoin.com",
     "earnifi.top",
     "earnifi.xyz",
     "connect-bankless.app",
