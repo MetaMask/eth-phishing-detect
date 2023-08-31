@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "collab-asset.github.io",
     "community-optimism.org",
     "zerionpass.io",
     "syncs-swaps.xyz",
