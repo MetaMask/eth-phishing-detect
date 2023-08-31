@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pair-collab.land",
     "collab-asset.github.io",
     "community-optimism.org",
     "zerionpass.io",
