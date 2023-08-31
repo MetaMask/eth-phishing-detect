@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "join-era.org",
     "airdrop-zetachains.one",
     "register-aztec.network",
     "news-arbitrum.online",
