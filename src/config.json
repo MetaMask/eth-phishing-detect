@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "circlest.org",
+    "lp-rewards.net",
+    "drop-usdt.xyz",
+    "basecb.com",
+    "usdccoin-claim.net",
+    "enardrop.io",
     "grant-gitcoin.com",
     "earnifi.top",
     "earnifi.xyz",
