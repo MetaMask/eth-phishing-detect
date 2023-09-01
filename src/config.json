@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zeta.gift",
     "register-scroll.org",
     "airdrops-taikos.one",
     "mantle.capital",
