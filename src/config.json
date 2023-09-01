@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yearns.finance",
     "zapper.claims",
     "circlest.org",
     "lp-rewards.net",
