@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims-optimism.net",
     "connect-optimism.org",
     "zeta.gift",
     "register-scroll.org",
