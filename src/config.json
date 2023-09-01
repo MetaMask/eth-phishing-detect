@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drops-rocketpool.net",
     "yearns.fi",
     "laeyrzero.network",
     "arkhamintellgence.xyz",
