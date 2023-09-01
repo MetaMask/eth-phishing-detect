@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewards-arbitrum.org",
+    "airdrop.arbitruma.foundation",
+    "arbitrum.xr-coins.com",
+    "web.arbitruimfoundation.io",
     "reward-uniswap.org",
     "yearns.finance",
     "zapper.claims",
