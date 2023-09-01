@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrops-zksync.one",
+    "zksync-mint.sumnon.one",
     "drops-rocketpool.net",
     "yearns.fi",
     "laeyrzero.network",
