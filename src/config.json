@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.capital",
     "mantle.generate-tokens.com",
     "airdrops-zksync.one",
     "zksync-mint.sumnon.one",
