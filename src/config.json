@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "connect-optimism.org",
     "zeta.gift",
     "register-scroll.org",
     "airdrops-taikos.one",
