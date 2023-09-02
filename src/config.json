@@ -513,6 +513,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims-optimism.com",
+    "drop-optimism.org",
+    "layerzero-optimism.org",
+    "optimism-adventure.com",
+    "optimism-exchange.com",
+    "optimism-lives.com",
+    "rewards-optimism.net",
+    "v2-optimism.com",
+    "web3-optimism.com",
+    "www-optimism.gift",
     "build-linea.xyz",
     "linea.gifts",
     "lineaxcoingeek.live",
