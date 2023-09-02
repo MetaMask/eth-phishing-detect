@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "build-linea.xyz",
+    "linea.gifts",
+    "lineaxcoingeek.live",
     "aave-event.com",
     "duneanalytics.io",
     "zapper.gift",
