@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zapper.gift",
     "community-optimism.com",
     "optimism.gallery",
     "claims-optimism.net",
