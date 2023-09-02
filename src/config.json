@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "duneanalytics.io",
     "zapper.gift",
     "community-optimism.com",
     "optimism.gallery",
