@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event-avax.org",
     "layerzero-foundation.network",
     "debankpass.com",
     "gateway-otherside.xyz",
