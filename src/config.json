@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "journey.mantle-network.com",
     "cyberchq.xyz",
     "pass-base.org",
     "event-avax.org",
