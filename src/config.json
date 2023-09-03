@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cyberchq.xyz",
     "pass-base.org",
     "event-avax.org",
     "layerzero-foundation.network",
