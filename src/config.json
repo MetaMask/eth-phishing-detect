@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yearn.fi",
     "yearn.finance",
     "circlest.org",
     "lp-rewards.net",
