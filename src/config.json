@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "debankpass.com",
     "gateway-otherside.xyz",
     "claims-optimism.com",
     "drop-optimism.org",
