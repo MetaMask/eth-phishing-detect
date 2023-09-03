@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-foundation.network",
     "debankpass.com",
     "gateway-otherside.xyz",
     "claims-optimism.com",
