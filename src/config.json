@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layer-0.net",
     "journey.mantle-network.com",
     "cyberchq.xyz",
     "pass-base.org",
