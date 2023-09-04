@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "invite-cyber.com",
     "connect-chainlink.com",
     "claimud.com",
     "dydx-event.net",
