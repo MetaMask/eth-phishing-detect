@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimud.com",
     "dydx-event.net",
     "claimgtc.com",
     "treasure.re",
