@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "treasure.re",
     "layer-0.net",
     "journey.mantle-network.com",
     "cyberchq.xyz",
