@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arkm.eclaims.top",
+    "arkm.ixchains.top",
+    "arkm.on-chains.top",
     "arkham20.com",
     "basenameairdrop.online",
     "xrp-fund.com",
