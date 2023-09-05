@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "api-collab-land.link",
+    "api16-collab.land",
+    "api48-collab.land",
+    "ds-collab-land.app",
+    "collab.land.lat",
     "pair-collab.land",
     "arkm.eclaims.top",
     "arkm.ixchains.top",
