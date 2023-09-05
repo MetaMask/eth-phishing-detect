@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimyearn.com",
     "martianwellat.com",
     "degodsnft.top",
     "opensea.ac.cn",
@@ -60389,7 +60390,6 @@
     "rewards-arbitrum.org",
     "yearns.finance",
     "zapper.claims",
-    "eernifi.org",
     "reward-uniswap.org",
     "connect-bankless.org",
     "pass-base.org",
@@ -60409,6 +60409,7 @@
     "nansens.net",
     "pass-frax.finance",
     "redirectsmees.net",
-    "rocketpool-events.io"
+    "rocketpool-events.io",
+    "eernifi.org"
   ]
 }
