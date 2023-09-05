@@ -513,7 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "eernifi.org",
+    "connect-bankless.org",
+    "join-aptos.com",
+    "boredaapeyacht-club.com",
+    "boreedaapeyacht-club.com",
+    "join-gitcoin.com",
+    "layerzeronetwork.ink",
+    "layerzero-promo.me",
+    "events-pudgypenguins.net",
+    "pudgypenguni.com",
     "coinbase-reportunsc.dynamic-dns.net",
     "open-sea.io",
     "getsupport-center.net",
@@ -600,7 +608,6 @@
     "cyberchq.xyz",
     "pass-base.org",
     "event-avax.org",
-    "layerzero-foundation.network",
     "debankpass.com",
     "gateway-otherside.xyz",
     "claims-optimism.com",
@@ -60272,8 +60279,10 @@
     "aavev3lp.com",
     "mysticia.io",
     "rewards-arbitrum.org",
-    "reward-uniswap.org",
     "yearns.finance",
-    "zapper.claims"
+    "zapper.claims",
+    "layerzero-foundation.network",
+    "eernifi.org",
+    "reward-uniswap.org"
   ]
 }
