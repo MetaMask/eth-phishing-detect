@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims-zksync.net",
     "arbitrumarb.org",
     "pass-mantle.xyz",
     "arbdropguide.xyz",
