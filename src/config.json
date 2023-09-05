@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-yearn.org",
     "claims-1nch.com",
     "code-friendtech.com",
     "lidodefi.net",
