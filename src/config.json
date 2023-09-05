@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event-graph.com",
     "api-collab-land.link",
     "api16-collab.land",
     "api48-collab.land",
