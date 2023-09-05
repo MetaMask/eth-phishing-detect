@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rocketpoolpass.com",
     "rocketpoolpass.net",
     "rocketpool-events.io",
     "drops-uniswap.org",
