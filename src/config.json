@@ -513,7 +513,19 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "connect-bankless.org",
+    "martianwellat.com",
+    "degodsnft.top",
+    "opensea.ac.cn",
+    "opensea-io-payment.info",
+    "layerzero-connect.com",
+    "webstargate.online",
+    "bigboredapeyc.com",
+    "boredapeyachtclubdrop.xyz",
+    "onelive.top",
+    "palmary.net",
+    "coindex.me",
+    "coindex.life",
+    "www-magic-eden.info",
     "join-aptos.com",
     "boredaapeyacht-club.com",
     "boreedaapeyacht-club.com",
@@ -606,7 +618,6 @@
     "layer-0.net",
     "journey.mantle-network.com",
     "cyberchq.xyz",
-    "pass-base.org",
     "event-avax.org",
     "debankpass.com",
     "gateway-otherside.xyz",
@@ -60283,6 +60294,8 @@
     "zapper.claims",
     "layerzero-foundation.network",
     "eernifi.org",
-    "reward-uniswap.org"
+    "reward-uniswap.org",
+    "connect-bankless.org",
+    "pass-base.org"
   ]
 }
