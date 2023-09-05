@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drops-uniswap.org",
     "evm-lido.com",
     "lido.en-us.io",
     "claim.layer-0.network",
