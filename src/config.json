@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimyearn.com",
     "eernifi.org",
     "coinbase-reportunsc.dynamic-dns.net",
     "open-sea.io",
