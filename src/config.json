@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pudgypenguins.web3fmint.com",
     "rocketpoolpass.com",
     "rocketpoolpass.net",
     "rocketpool-events.io",
