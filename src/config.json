@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "basenameairdrop.online",
     "xrp-fund.com",
     "pudgypenguins.web3fmint.com",
     "rocketpoolpass.com",
