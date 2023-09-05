@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledgerstax-server.com",
     "ledger.com-live.cc",
     "ledger.airfmint.com",
     "start.ledger-tool.com",
