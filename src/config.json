@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims-1nch.com",
     "code-friendtech.com",
     "lidodefi.net",
     "ledgerstax-server.com",
