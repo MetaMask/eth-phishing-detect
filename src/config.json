@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pair-collab.land",
     "arkm.eclaims.top",
     "arkm.ixchains.top",
     "arkm.on-chains.top",
