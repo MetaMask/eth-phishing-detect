@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumarb.org",
     "pass-mantle.xyz",
     "arbdropguide.xyz",
     "invite-cyber.com",
