@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrums-foundation.online",
+    "arbitrumspace.com",
     "claim-yearn.org",
     "claims-1nch.com",
     "code-friendtech.com",
