@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledger.airfmint.com",
+    "start.ledger-tool.com",
     "claim-ledger.com",
     "claims-zksync.net",
     "arbitrumarb.org",
