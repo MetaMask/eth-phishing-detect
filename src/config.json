@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zapper.gifts",
     "scroll-finance.com",
     "lido-claims.tech",
     "ethpad.exchange",
