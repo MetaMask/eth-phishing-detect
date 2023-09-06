@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "buildontrust.io",
     "bonus-gala.games",
     "pass-degods.com",
     "www-shibainu.com",
