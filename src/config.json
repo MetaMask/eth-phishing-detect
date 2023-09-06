@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zerion.co",
     "silo.gifts",
     "linea-network.xyz",
     "buildontrust.io",
