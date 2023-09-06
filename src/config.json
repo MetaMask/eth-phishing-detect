@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethpad.exchange",
     "kryptontie.app",
     "ledger-live.nl",
     "zerion.co",
