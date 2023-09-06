@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledger-live.nl",
     "zerion.co",
     "silo.gifts",
     "linea-network.xyz",
