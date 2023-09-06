@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimdune.com",
     "add.pzwk.cc",
     "airdropbob.site",
     "alienbase.claims",
