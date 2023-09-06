@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "silo.gifts",
     "linea-network.xyz",
     "buildontrust.io",
     "bonus-gala.games",
