@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-claims.tech",
     "ethpad.exchange",
     "kryptontie.app",
     "ledger-live.nl",
