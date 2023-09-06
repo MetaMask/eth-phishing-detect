@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-artblocks.com",
     "claimdune.com",
     "add.pzwk.cc",
     "airdropbob.site",
