@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswap-llc.com",
     "arkm.1-xdrop.com",
     "claimtabi.lol",
     "dcs-collab-land.app",
