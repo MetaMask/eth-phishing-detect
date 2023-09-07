@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumfound.io",
     "claims-arbitrum.net",
     "claimsdune.com",
     "zapper.gifts",
