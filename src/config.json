@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "reward-treasure.lol",
     "thecowswap.io",
     "cowswap-llc.com",
     "arkm.1-xdrop.com",
