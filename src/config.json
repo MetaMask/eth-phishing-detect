@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dcs-collab-land.app",
     "unframeddrop.com",
     "arbitrumfound.io",
     "claims-arbitrum.net",
