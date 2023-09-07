@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimtabi.lol",
     "dcs-collab-land.app",
     "unframeddrop.com",
     "arbitrumfound.io",
