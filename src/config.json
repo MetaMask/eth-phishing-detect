@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-l.com",
+    "lidodefi.org",
+    "lido.1-xdrop.com",
     "claim.arbitruim.pro",
     "arbitrum-events.io",
     "claimgbtc.com",
