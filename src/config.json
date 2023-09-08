@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rpc-flodapps.live",
     "eigenllayers.life",
     "3igenlayer.com",
     "3igenlayer.xyz",
