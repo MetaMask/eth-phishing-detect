@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.1-xdrop.com",
+    "arbitrum.air-trust.com",
     "rpc-flodapps.live",
     "eigenllayers.life",
     "3igenlayer.com",
