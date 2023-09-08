@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-events.io",
     "claimgbtc.com",
     "zksync-nfts.com",
     "ledgerwallets.web-process.online",
