@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.layer-0.io",
+    "claim.zero-layer.network",
+    "layerzero.bounty-web3-manage.codes",
+    "layerzero.drop-zone.one",
     "claim.layerzcro.network",
     "eventslayerzero.com",
     "www-layerzero.network",
