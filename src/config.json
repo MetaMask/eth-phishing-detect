@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-nfts.com",
     "ledgerwallets.web-process.online",
     "event-loopring.io",
     "claim.layer-0.io",
