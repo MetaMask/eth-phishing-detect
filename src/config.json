@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.layerzcro.network",
     "eventslayerzero.com",
     "www-layerzero.network",
     "arbitrum.1-xdrop.com",
