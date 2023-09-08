@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.arbitruim.pro",
     "arbitrum-events.io",
     "claimgbtc.com",
     "zksync-nfts.com",
