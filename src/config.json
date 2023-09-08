@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdrewards.net",
+    "claim-usdc.xyz",
+    "tokenldo.org",
+    "circlesc.net",
+    "circleevent.org",
+    "drophunter.pro",
     "2000-usdt.xyz",
     "buddyweb3.com",
     "busdtokens.com",
