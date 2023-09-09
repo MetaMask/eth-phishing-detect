@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "compensate-curve.finance",
     "arbtirum.app",
     "alchemy-event.net",
     "2000-usdt.xyz",
