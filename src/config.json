@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cosmoxsteth.tech",
     "consensys.fi",
     "zkbridge.finance",
     "lidofi-dao.com",
