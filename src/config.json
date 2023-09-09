@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "consensys.it",
     "consensyslab.io",
     "consensys.digital",
     "consensys.finance",
