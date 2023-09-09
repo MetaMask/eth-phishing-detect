@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbtirum.app",
     "alchemy-event.net",
     "2000-usdt.xyz",
     "buddyweb3.com",
