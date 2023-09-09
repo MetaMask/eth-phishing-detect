@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zkbridge.finance",
     "lidofi-dao.com",
     "defilido.org",
     "lidoawards.com",
