@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidofi-dao.com",
     "defilido.org",
     "lidoawards.com",
     "lidodefi.io",
