@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "defilido.org",
+    "lidoawards.com",
+    "lidodefi.io",
+    "lidoweekly.com",
+    "stakelidos.com",
     "compensate-curve.finance",
     "arbtirum.app",
     "alchemy-event.net",
