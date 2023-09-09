@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optism.foundation",
     "cosmoxsteth.tech",
     "consensys.fi",
     "zkbridge.finance",
