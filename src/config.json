@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bonus-uniswap.org",
     "optism.foundation",
     "cosmoxsteth.tech",
     "consensys.fi",
