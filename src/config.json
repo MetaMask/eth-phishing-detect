@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "consensys.fi",
     "2000-usdt.xyz",
     "buddyweb3.com",
     "busdtokens.com",
