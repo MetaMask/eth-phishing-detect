@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "consensys.fi",
     "zkbridge.finance",
     "lidofi-dao.com",
     "defilido.org",
