@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-network.pw",
+    "layerzero.space",
+    "layerzerofoundation.xyz",
     "arhamintelligence.pw",
     "arkamintelligence.us",
     "arkhamintelligence.space",
