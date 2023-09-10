@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimastar.net",
     "claim-aptosbridge.xyz",
     "theaptosbridge.com",
     "aptos.xr-coins.com",
