@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "enclaims.com",
     "layerzero-network.pw",
     "layerzero.space",
     "layerzerofoundation.xyz",
