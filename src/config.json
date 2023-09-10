@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "enjin-coin.org",
     "1claimeth.one",
     "enclaims.com",
     "layerzero-network.pw",
