@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledger-pass.com",
+    "start-web3-ledger.com",
     "cowswap.co",
     "arbitrum.egdrops.top",
     "arbitrum.exclaims.top",
