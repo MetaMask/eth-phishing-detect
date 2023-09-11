@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app.ordinate-protocol.com",
+    "bcgame.top",
+    "chainboost.app",
+    "decodfex.com",
+    "eth-pool.co",
+    "icomarks.vip",
+    "mainnetserver.site",
+    "metamask-support-team.webflow.io",
+    "smartoptions.live",
     "enjin-coin.org",
     "1claimeth.one",
     "enclaims.com",
