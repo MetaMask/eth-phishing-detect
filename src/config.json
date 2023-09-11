@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "secureinternalnetwork.net",
     "curvedistribution.net",
     "curveswap.systems",
     "apeawards.com",
