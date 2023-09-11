@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "1lido.com",
+    "airdrop-lidofinance.com",
+    "lido.promo",
+    "lidoair.com",
+    "lidodao.app",
+    "lidodao.net",
+    "trp-lido.fi",
+    "v2lido.com",
+    "lido2.pages.dev",
     "ledger-pass.com",
     "start-web3-ledger.com",
     "cowswap.co",
