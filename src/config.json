@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tt-optimism.site",
     "1lido.com",
     "airdrop-lidofinance.com",
     "lido.promo",
