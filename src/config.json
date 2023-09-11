@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "suite-management.online",
     "app.ordinate-protocol.com",
     "bcgame.top",
     "chainboost.app",
