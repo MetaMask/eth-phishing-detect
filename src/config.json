@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.layer2zero.net",
+    "layerzero.bridges-web3-claim.online",
+    "layerzero.reward-web3-manage.vip",
     "unievent.plus",
     "tt-optimism.site",
     "1lido.com",
