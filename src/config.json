@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswap.co",
     "arbitrum.egdrops.top",
     "arbitrum.exclaims.top",
     "arlbitrum.foundation",
