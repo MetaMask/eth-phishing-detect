@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curvedistribution.net",
+    "curveswap.systems",
     "apeawards.com",
     "basecbase.com",
     "bloxies-mint.com",
