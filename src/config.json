@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cyberconnectreward.com",
     "refunds-curve.finance",
     "secureinternalnetwork.net",
     "curvedistribution.net",
