@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bonus-manage.click",
     "decentraland-claims.com",
     "cyberconnectreward.com",
     "refunds-curve.finance",
