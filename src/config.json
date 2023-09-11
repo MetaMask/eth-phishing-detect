@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncswap.investments",
     "enjin-coin.org",
     "1claimeth.one",
     "enclaims.com",
