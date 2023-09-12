@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "uniswapdefi.org",
     "lidostake.one",
     "claimgift-z24.github.io",
     "ledgerlivehelp.com",
