@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbaseproo.com",
     "theaptosbridge.xyz",
     "bonus-manage.click",
     "decentraland-claims.com",
