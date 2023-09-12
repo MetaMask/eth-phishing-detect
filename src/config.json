@@ -513,6 +513,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tetherstable.com",
+    "tokenchainlink.org",
+    "daoclaimaave.com",
+    "cyberconnectreward.com",
+    "stablecircle.com",
+    "etherscanft.com",
+    "chainlinkcoin.link",
+    "rewardton.com",
+    "claim-usdt.com",
+    "drops-usdt.com",
+    "enardrops.io",
+    "smartsolutiondecent.xyz",
     "lidostake.one",
     "claimgift-z24.github.io",
     "ledgerlivehelp.com",
