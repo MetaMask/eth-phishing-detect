@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledgerlivehelp.com",
     "layerfi.markets",
     "claim.support-layerzero.network",
     "layerzero.claims-requests-web3.space",
