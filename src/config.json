@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curvefinance.co",
     "reward-optimism.net",
     "lido-fi.email",
     "trplido.fi",
