@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curvefinance.co",
+    "reward-optimism.net",
+    "lido-fi.email",
+    "trplido.fi",
+    "lidofi.co.uk",
+    "stakelidofi.pages.dev",
+    "arbitruam.io",
+    "arbitrum-x.top",
+    "arbiturm.co",
     "bep2030.com",
     "boneshibs.com",
     "celatis.tools",
