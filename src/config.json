@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "reward-optimism.net",
+    "opt.optimism-x.com",
     "lido-fi.email",
     "trplido.fi",
     "lidofi.co.uk",
