@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lido-fi.email",
+    "trplido.fi",
+    "lidofi.co.uk",
+    "stakelidofi.pages.dev",
     "arbitruam.io",
     "arbitrum-x.top",
     "arbiturm.co",
