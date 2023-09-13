@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitruam.io",
+    "arbitrum-x.top",
+    "arbiturm.co",
     "tetherstable.com",
     "tokenchainlink.org",
     "daoclaimaave.com",
