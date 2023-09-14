@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "basesync.onrender.com",
     "claim.basebase.net",
     "claim.basechain.app",
     "opbnb-layer.com",
