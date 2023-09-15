@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ubro.space",
     "zksync-airdrops.com",
     "zksync-swap.online",
     "scan-layerzero.org",
