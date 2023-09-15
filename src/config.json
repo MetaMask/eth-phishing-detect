@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mint-zksync.sumnon.one",
     "era-sync.org",
     "zkera.net",
     "ubro.space",
