@@ -512,10 +512,7 @@
     "metarisk.com",
     "launchpad.ethereum.org",
     "spotonchain.com",
-    "spotonchain.ai",
-    "platform.spotonchain.com",
-    "platform.spotonchain.ai",
-    "friendex.spotonchain.ai"
+    "spotonchain.ai"
   ],
   "blacklist": [
     "opbnb-layer.com",
