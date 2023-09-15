@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eigen-layer.net",
+    "eigenlayer.tech",
+    "event-eigenlayer.xyz",
     "mint-zksync.sumnon.one",
     "era-sync.org",
     "zkera.net",
