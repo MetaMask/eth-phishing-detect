@@ -510,7 +510,12 @@
     "satoshilabs.com",
     "satoshilabs.design",
     "metarisk.com",
-    "launchpad.ethereum.org"
+    "launchpad.ethereum.org",
+    "spotonchain.com",
+    "spotonchain.ai",
+    "platform.spotonchain.com",
+    "platform.spotonchain.ai",
+    "friendex.spotonchain.ai"
   ],
   "blacklist": [
     "opbnb-layer.com",
