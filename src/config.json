@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curverewards.org",
+    "airdrop-mantle.live",
+    "mantle.generate-tokens.pro",
+    "basesync.onrender.com",
+    "claim.basebase.net",
+    "claim.basechain.app",
     "opbnb-layer.com",
     "curvefinance.co",
     "reward-optimism.net",
