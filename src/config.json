@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mint-zksync.sumnon.one",
+    "era-sync.org",
+    "zkera.net",
+    "ubro.space",
+    "zksync-airdrops.com",
+    "zksync-swap.online",
+    "scan-layerzero.org",
     "btb77777.com",
     "bulleto.io",
     "cosmos-take.net",
