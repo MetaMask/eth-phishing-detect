@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scan-layerzero.org",
     "curverewards.org",
     "airdrop-mantle.live",
     "mantle.generate-tokens.pro",
