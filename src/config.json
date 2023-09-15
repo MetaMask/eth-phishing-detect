@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "era-sync.org",
+    "zkera.net",
     "ubro.space",
     "zksync-airdrops.com",
     "zksync-swap.online",
