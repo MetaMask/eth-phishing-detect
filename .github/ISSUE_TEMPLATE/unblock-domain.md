@@ -1,8 +1,8 @@
 ---
 name: Unblock Domain
 about: Choose this template if you want to report a domain being blocked by error
-title: "[Legitimate Site Unblocked]"
-labels: allowlist request
+title: "[Unblock Legitimate Site]"
+labels: blocklist removal
 assignees: 409H
 
 ---
