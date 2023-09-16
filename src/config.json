@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ficowfi.com",
     "cowswap-roi.com",
     "zetachain.website",
     "zetachain.generate-tokens.pro",
