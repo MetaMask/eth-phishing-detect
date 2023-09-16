@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "snxpool.com",
     "eigen-layer.net",
     "eigenlayer.tech",
     "event-eigenlayer.xyz",
