@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airddrop.com",
     "rocket.poolapi.xyz",
     "optimismx.website",
     "ficowfi.com",
