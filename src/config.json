@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimismx.website",
     "ficowfi.com",
     "cowswap-roi.com",
     "zetachain.website",
