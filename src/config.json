@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswap-roi.com",
     "zetachain.website",
     "zetachain.generate-tokens.pro",
     "zetachain-airdrop.one",
