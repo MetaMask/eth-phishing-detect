@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain-airdrop.one",
     "eigen-layer.net",
     "eigenlayer.tech",
     "event-eigenlayer.xyz",
