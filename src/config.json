@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drop.linea-build.world",
     "arbitrum-fundation.club",
     "airddrop.com",
     "rocket.poolapi.xyz",
