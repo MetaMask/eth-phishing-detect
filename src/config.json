@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-fundation.club",
     "airddrop.com",
     "rocket.poolapi.xyz",
     "optimismx.website",
