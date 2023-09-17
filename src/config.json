@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cards-veefriends.com",
     "quai-network.xyz",
     "drop.linea-build.world",
     "arbitrum-fundation.club",
