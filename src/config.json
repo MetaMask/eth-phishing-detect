@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimmism.io",
     "stargate-finance.org",
     "stargate-finance.co",
     "maxlocoin.com",
