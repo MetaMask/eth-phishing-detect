@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimmism.io",
     "extserum.bio",
     "fastauthewalletconnect.xyz",
     "fath-hub.com",
