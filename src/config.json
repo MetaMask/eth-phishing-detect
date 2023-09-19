@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbtrium.app",
     "optimmism.io",
     "stargate-finance.org",
     "stargate-finance.co",
