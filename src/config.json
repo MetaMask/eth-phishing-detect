@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.1-xdrop.com",
+    "mantle.kingspad.top",
+    "mantle.trust-funds.top",
     "multichainbridge.live",
     "arkm.kingspad.top",
     "arbitriumfoundation.info",
