@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero.bridges-web3-reward.xyz",
     "mantle.1-xdrop.com",
     "mantle.kingspad.top",
     "mantle.trust-funds.top",
