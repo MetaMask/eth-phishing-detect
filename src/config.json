@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ocketpool.net",
+    "rocketpools.net",
+    "xn--rocketpoo-3pb.net",
     "consensyssync.com",
     "1-ledger.com",
     "ledger-dapplive.com",
