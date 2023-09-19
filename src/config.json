@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "1-ledger.com",
+    "ledger-dapplive.com",
+    "ledger.live.com.im",
     "zr0.help-layerzero.network",
     "layerzero.bridges-web3-reward.xyz",
     "mantle.1-xdrop.com",
