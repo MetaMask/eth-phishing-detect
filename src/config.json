@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerex.network",
     "claim.zro-layerzero.network",
     "arbtrium.app",
     "optimmism.io",
