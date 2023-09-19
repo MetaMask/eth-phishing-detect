@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optemism.com",
+    "bridge-zksync.network",
+    "layerzero.reward-web3-requests.info",
+    "layerex.network",
+    "claim.zro-layerzero.network",
+    "arbtrium.app",
     "optimmism.io",
     "stargate-finance.org",
     "stargate-finance.co",
