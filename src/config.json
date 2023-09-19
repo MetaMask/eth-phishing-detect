@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "multichainbridge.live",
     "arkm.kingspad.top",
     "arbitriumfoundation.info",
     "arbitrume.net",
