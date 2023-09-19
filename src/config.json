@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "consensyssync.com",
     "1-ledger.com",
     "ledger-dapplive.com",
     "ledger.live.com.im",
