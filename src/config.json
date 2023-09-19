@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitriumfoundation.info",
+    "arbitrume.net",
     "bobcoin.loyalprogram.net",
     "case-stretto.com",
     "encoin.website",
