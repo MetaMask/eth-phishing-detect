@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinbase-gift.online",
+    "coinbasegift.online",
+    "delayed-coinbase.com",
     "ocketpool.net",
     "rocketpools.net",
     "xn--rocketpoo-3pb.net",
