@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridge.lienea.build",
     "layerzero-mint.generate-coin.world",
     "secureinternalnetwork.org",
     "inchjourney.com",
