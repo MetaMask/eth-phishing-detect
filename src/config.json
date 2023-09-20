@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "www-ledgersetup.live",
     "zapper-network.com",
     "claim-linea.com",
     "bridge.lienea.build",
