@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zapper-network.com",
     "claim-linea.com",
     "bridge.lienea.build",
     "layerzero-mint.generate-coin.world",
