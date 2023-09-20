@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "artbelleza.org",
+    "beb2050.com",
+    "bsco2o.cc",
+    "btc20web.site",
+    "dexnfts.io",
+    "enradrops.io",
+    "balancer.fi",
     "layeron.network",
     "layery.network",
     "layero.network",
@@ -585,7 +592,6 @@
     "graph.claims",
     "thegraph.band",
     "linea-app.bridges-web3-claim.online",
-    "web.balancer.fi",
     "bonus-requests-web3.online",
     "coinbase-gift.online",
     "coinbasegift.online",
