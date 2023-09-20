@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "balancer.fi",
     "bonus-requests-web3.online",
     "coinbase-gift.online",
     "coinbasegift.online",
