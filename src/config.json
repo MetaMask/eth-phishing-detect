@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-drop.eu",
     "thegraph.bond",
     "graph.claims",
     "thegraph.band",
