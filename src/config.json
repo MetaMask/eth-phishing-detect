@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "graph.claims",
     "thegraph.band",
     "linea-app.bridges-web3-claim.online",
     "balancer.fi",
