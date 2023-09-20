@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-mint.generate-coin.world",
     "secureinternalnetwork.org",
     "inchjourney.com",
     "arbitrum.7x-drop.top",
