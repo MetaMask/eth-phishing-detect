@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mint-defi.com",
     "optimism-token.com",
     "lay0.network",
     "ledgersecured.live",
