@@ -15,6 +15,7 @@ const excludeList = [
   "890m.com",
   "b5z.net",
   "test.com",
+  "multichain.org", //https://twitter.com/MultichainOrg/status/1677180114227056641
 ];
 
 function runTests(config) {
@@ -44,7 +45,7 @@ function runTests(config) {
         .split("\n")
     );
     const foundOverlapping = config.blacklist.filter((d) =>
-      coinmarketcaps.has(d)
+      coinmarketcaps.has(d) && !excludeList.includes(d)
     );
     t.equal(
       foundOverlapping.length,
