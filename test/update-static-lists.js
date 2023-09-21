@@ -64,7 +64,7 @@ async function updateTrancoList() {
   trancoDomains = trancoDomains.split(/\r\n/).join("\n");
 
   try {
-    fs.writeFileSync(DB_PATH + "/trancos", trancoDomains);
+    fs.writeFileSync(DB_PATH + "/trancos.txt", trancoDomains);
     process.exit(0);
   } catch (err) {
     console.error(err);
@@ -145,7 +145,7 @@ async function updateCoinmarketcapList() {
         coinDomainName = coinDomainSplit2[0].replace("www.", "");
       }
 
-      fs.appendFileSync(DB_PATH + "/coinmarketcaps", coinDomainName + "\n");
+      fs.appendFileSync(DB_PATH + "/coinmarketcaps.txt", coinDomainName + "\n");
     } catch (err) {
       console.error(err);
     }

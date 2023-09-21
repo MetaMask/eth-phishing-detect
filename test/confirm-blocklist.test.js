@@ -21,7 +21,7 @@ function runTests(config) {
   test("check config blocklist against Tranco domains", (t) => {
     const trancos = new Set(
       fs
-        .readFileSync(path.join(DB_PATH, "trancos"), { encoding: "utf-8" })
+        .readFileSync(path.join(DB_PATH, "trancos.txt"), { encoding: "utf-8" })
         .split("\n")
     );
     const foundOverlapping = config.blacklist.filter(
@@ -38,7 +38,7 @@ function runTests(config) {
   test("check config blocklist against Coinmarketcap coins domains", (t) => {
     const coinmarketcaps = new Set(
       fs
-        .readFileSync(path.join(DB_PATH, "coinmarketcaps"), {
+        .readFileSync(path.join(DB_PATH, "coinmarketcaps.txt"), {
           encoding: "utf-8",
         })
         .split("\n")
