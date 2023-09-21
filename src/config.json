@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "uniarbitrage.org",
     "opmainnetwork.io",
     "arbitrum.kingspad.top",
     "arbitrum.trust-exx.com",
