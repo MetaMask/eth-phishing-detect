@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aptos.7x-drop.top",
     "mint-defi.com",
     "optimism-token.com",
     "lay0.network",
