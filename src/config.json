@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-token.com",
     "lay0.network",
     "ledgersecured.live",
     "artbelleza.org",
