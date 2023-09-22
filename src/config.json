@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-mantles.one",
     "zetachain.free-claim.com",
     "zetachain.foundation",
     "ledgerlive3.com",
