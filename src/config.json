@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.foundation",
     "ledgerlive3.com",
     "ledgerwallet-app.com",
     "setupledger.online",
