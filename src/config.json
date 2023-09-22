@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzerofoundation.com",
     "curvedefi.org",
     "arbitrum.trustpiaid.top",
     "arb-arbitrum-xclaim.top",
