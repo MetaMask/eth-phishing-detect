@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "thetipcoin.us",
     "collect-optimism.com",
     "uniarbitrage.org",
     "opmainnetwork.io",
