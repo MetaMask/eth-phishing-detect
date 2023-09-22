@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curve-help.com",
     "airdrop-mantles.one",
     "zetachain.free-claim.com",
     "zetachain.foundation",
