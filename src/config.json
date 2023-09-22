@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "savegas.ai",
     "freend.xyz",
     "openeea.top",
     "uniswapstaking.com",
