@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb-arbitrum-xclaim.top",
     "defillaama.com",
     "thetipcoin.life",
     "thetip-coin.com",
