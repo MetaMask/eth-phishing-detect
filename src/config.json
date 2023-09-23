@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridgeaptos.net",
+    "aptos.kingspad.top",
+    "aptos.trust-exx.com",
     "arbigetx.com",
     "arbtum.com",
     "thetipcoin.us",
