@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-tether.net",
     "thetipcoin.us",
     "freend.xyz",
     "openeea.top",
