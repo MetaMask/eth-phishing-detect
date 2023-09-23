@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbigetx.com",
     "arbtum.com",
     "thetipcoin.us",
     "freend.xyz",
