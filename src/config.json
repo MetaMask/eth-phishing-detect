@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.7x-drop.top",
+    "mantle.trustpiaid.top",
     "layerzerosystems.com",
     "bridgeaptos.net",
     "aptos.kingspad.top",
