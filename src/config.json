@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzerosystems.com",
     "bridgeaptos.net",
     "aptos.kingspad.top",
     "aptos.trust-exx.com",
