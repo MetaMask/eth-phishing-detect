@@ -513,7 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "airdrop-zksynsc.one"
+    "airdrop-zksynsc.one",
     "claim-tether.net",
     "mantle.7x-drop.top",
     "mantle.trustpiaid.top",
