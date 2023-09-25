@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksych.io",
     "venom-airdrop.one",
     "airdrop-zksynsc.one",
     "claim-tether.net",
