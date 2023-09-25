@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airlmint.com",
     "zksych.io",
     "venom-airdrop.one",
     "airdrop-zksynsc.one",
