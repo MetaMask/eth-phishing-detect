@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "checkaml.net",
     "0xboost.finance",
     "ethminigg.com",
     "godtrx.club",
