@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bitinauts.top",
     "reward-sei.network",
     "sui-networkrs.com",
     "sui-networkrs.org",
