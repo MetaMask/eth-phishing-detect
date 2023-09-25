@@ -513,7 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "savegas.ai"
+    "savegas.ai",
     "crypteth.top",
     "cannier.bio",
     "coinnone.net",
