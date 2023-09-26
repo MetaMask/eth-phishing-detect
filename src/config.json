@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "forgedhv-mtl.com",
     "event.eg-drops.top",
     "aptosdrop.xyz",
     "1inch.pro-cryptopad.info",
