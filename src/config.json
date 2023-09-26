@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shibitoken.org",
+    "tether-rewards.site",
     "event.eg-drops.top",
     "aptosdrop.xyz",
     "1inch.pro-cryptopad.info",
