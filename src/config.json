@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zeta-chain.free-claim.com",
     "zetachain.digital",
     "zetachain.technology",
     "yearn.kingspad.top",
