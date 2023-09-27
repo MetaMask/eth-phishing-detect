@@ -513,6 +513,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "custodialweb.com",
+    "daap-resolver.vercel.app",
+    "connectbridge-tool.org",
+    "drip-network.io",
+    "eth.demidefi.com",
+    "graphwebtsimaxpro.com",
+    "hobopunks.biz",
+    "likefxice.top",
+    "tipcoinerc20.org",
+    "wallstmemes-validator.com",
     "shibitoken.org",
     "tether-rewards.site",
     "app-deform.cc",
