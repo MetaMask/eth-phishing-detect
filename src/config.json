@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dexcurve.net",
     "b-drop.top",
     "zeta-chain.free-claim.com",
     "zetachain.digital",
