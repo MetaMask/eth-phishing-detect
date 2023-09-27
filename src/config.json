@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drop-usd.me",
+    "tether-rewards.site",
     "app-deform.cc",
     "wisekeys.xyz",
     "event.eg-drops.top",
