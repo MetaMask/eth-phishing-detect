@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "genesis.celesita.org",
     "app-deform.cc",
     "wisekeys.xyz",
     "event.eg-drops.top",
