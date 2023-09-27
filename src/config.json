@@ -514,6 +514,17 @@
   ],
   "blacklist": [
     "drop-usd.me",
+    "custodialweb.com",
+    "daap-resolver.vercel.app",
+    "connectbridge-tool.org",
+    "drip-network.io",
+    "eth.demidefi.com",
+    "graphwebtsimaxpro.com",
+    "hobopunks.biz",
+    "likefxice.top",
+    "tipcoinerc20.org",
+    "wallstmemes-validator.com",
+    "shibitoken.org",
     "tether-rewards.site",
     "app-deform.cc",
     "wisekeys.xyz",
@@ -38661,7 +38672,6 @@
     "uniswap-v3.biz",
     "uniswap-v3.lt",
     "uniswap-v3.org.uk",
-    "uniswaphooks.com",
     "uniswapx.ch",
     "uniswapx.co.uk",
     "uniswapx.de",
@@ -62540,6 +62550,12 @@
     "tipcoin.reward-layer.network",
     "busdstable.org",
     "basechainbase.com",
-    "shibitoken.net"
+    "shibitoken.net",
+    "natured.io",
+    "magicalworld.xyz",
+    "dunetoken.com",
+    "claim-popsicle.org",
+    "claiming.optimisn.io",
+    "claiming.arbitrhm.foundation"
   ]
 }
