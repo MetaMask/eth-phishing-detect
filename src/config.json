@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drop-usd.me",
     "custodialweb.com",
     "daap-resolver.vercel.app",
     "connectbridge-tool.org",
