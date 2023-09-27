@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shibitoken.org",
+    "tether-rewards.site",
     "app-deform.cc",
     "wisekeys.xyz",
     "event.eg-drops.top",
