@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "journeymantle.xyz",
+    "dexcurve.net",
+    "b-drop.top",
+    "zeta-chain.free-claim.com",
+    "zetachain.digital",
+    "zetachain.technology",
+    "yearn.kingspad.top",
+    "yearn.7x-drop.top",
+    "genesis.celesita.org",
     "drop-usd.me",
     "custodialweb.com",
     "daap-resolver.vercel.app",
