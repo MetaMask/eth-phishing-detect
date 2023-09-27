@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.digital",
+    "zetachain.technology",
     "yearn.kingspad.top",
     "yearn.7x-drop.top",
     "genesis.celesita.org",
