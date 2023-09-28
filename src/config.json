@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitum-foundaton.cyou",
     "mantlejourney.xyz",
     "xs-mantle.site",
     "mantle.rtrustpad.top",
