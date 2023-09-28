@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewards-usdt.me",
+    "usdt-rewards.site",
     "journeymantle.xyz",
     "dexcurve.net",
     "b-drop.top",
