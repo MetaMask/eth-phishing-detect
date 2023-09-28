@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantlejourney.xyz",
     "xs-mantle.site",
     "mantle.rtrustpad.top",
     "journeymantle.xyz",
