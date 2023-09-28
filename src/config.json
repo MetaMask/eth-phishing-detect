@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "xs-mantle.site",
+    "mantle.rtrustpad.top",
     "journeymantle.xyz",
     "dexcurve.net",
     "b-drop.top",
