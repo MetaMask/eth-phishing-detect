@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3box.io",
+    "staker.vip",
+    "dldecred.top",
+    "ethmixer.io",
+    "eth-mixing.com",
+    "eanrdrops.io",
     "journeymantle.xyz",
     "dexcurve.net",
     "b-drop.top",
