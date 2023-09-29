@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shibnft.cc",
     "airdrop-optimism.io",
     "optimism-network.xyz",
     "optimisimairdrop.pages.dev",
