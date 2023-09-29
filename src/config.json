@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tether-rewards.org",
+    "usdtdrop.me",
     "rewards-usdt.me",
     "usdt-rewards.site",
     "layerzeroi.com",
