@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shibnft.cc",
     "tether-rewards.org",
     "usdtdrop.me",
     "am-s.pro",
