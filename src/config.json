@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tether-rewards.org",
+    "usdtdrop.me",
     "am-s.pro",
     "ascendexdeifi.vip",
     "fastprotrade.com",
