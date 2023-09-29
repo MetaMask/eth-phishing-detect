@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nomic.cash",
+    "bell.nomic.finance",
     "web3box.io",
     "staker.vip",
     "dldecred.top",
