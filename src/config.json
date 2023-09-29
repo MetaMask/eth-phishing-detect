@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-optimism.claims",
+    "optimism-whitelist.com",
     "optimism-op.claims",
     "arbitum-foundaton.cyou",
     "mantlejourney.xyz",
