@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arkham.airrmint.com",
     "trustpadi.top",
     "trustpaid.top",
     "aptos.rtrustpad.top",
