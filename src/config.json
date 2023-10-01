@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksych.co",
     "mantlenetwork.frmint-nft.com",
     "trustjpad.top",
     "arkham.airrmint.com",
