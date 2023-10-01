@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trustpadi.top",
+    "trustpaid.top",
+    "aptos.rtrustpad.top",
     "officialaptnft.com",
     "shibnft.cc",
     "tether-rewards.org",
