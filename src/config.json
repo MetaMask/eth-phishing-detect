@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop.syncsvvap.xyz",
     "syncswap.life",
     "zksych.co",
     "mantlenetwork.frmint-nft.com",
