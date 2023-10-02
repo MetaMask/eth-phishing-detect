@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eanrsdrop.io",
+    "binacy.market",
+    "crypto-mixers.com",
+    "anonymousmixer.eth.limo",
+    "coinspal.io",
+    "thebestbitcoinmixers.com",
     "drops-usd.xyz",
     "geteurc.com",
     "usd-drops.com",
