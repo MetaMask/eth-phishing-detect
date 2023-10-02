@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "news-arbitrum.org",
     "galxe.cam",
     "geneis-celestia.org",
     "rewards-optimism.io",
