@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-whitelistz.com",
     "optimismnetwork.xyz",
     "dashboard-optimism.claims",
     "optimism-claim.com",
