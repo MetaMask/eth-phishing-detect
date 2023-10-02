@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layers-arbitirum.com",
     "bridge.leinea.build",
     "news-arbitrum.org",
     "galxe.cam",
