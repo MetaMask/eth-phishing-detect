@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "geteurc.com",
+    "usd-drops.com",
+    "busd.vouchers.top",
     "shibnft.cc",
     "tether-rewards.org",
     "usdtdrop.me",
