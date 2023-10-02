@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dashboard-optimism.claims",
+    "optimism-claim.com",
+    "optimism-info.com",
+    "optimism-rewards.org",
+    "optimism-whitelists.com",
     "syncswapgifts.net",
     "airdrop.syncsvvap.xyz",
     "syncswap.life",
