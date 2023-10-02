@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drops-usd.xyz",
     "geteurc.com",
     "usd-drops.com",
     "busd.vouchers.top",
