@@ -513,6 +513,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "api-blockrectify.pages.dev",
+    "claims.wallstmeme.network",
+    "dapplivenodes.univer.se",
+    "galaxy-defi.com",
+    "metamask-deskdirect.webflow.io",
+    "net.meta0eth.net",
+    "spacenftda.com",
+    "trade.expro.world",
+    "shibnft.cc",
+    "tether-rewards.org",
+    "usdtdrop.me",
     "am-s.pro",
     "ascendexdeifi.vip",
     "fastprotrade.com",
