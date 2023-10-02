@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drops-usd.xyz",
+    "geteurc.com",
+    "usd-drops.com",
+    "busd.vouchers.top",
     "api-blockrectify.pages.dev",
     "claims.wallstmeme.network",
     "dapplivenodes.univer.se",
