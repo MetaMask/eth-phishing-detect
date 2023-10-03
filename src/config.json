@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "portal.zksyenc.com",
     "syncswap.shop",
     "get-zetachain.free-claim.com",
     "air-drop.app",
