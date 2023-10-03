@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3chain.pages.dev",
     "arbitrums.frmint-nft.com",
     "eanrsdrop.io",
     "binacy.market",
