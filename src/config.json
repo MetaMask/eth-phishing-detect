@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ecoinchanger.com",
+    "instantexchange.net",
+    "boomchange.com",
+    "binacy.com",
+    "ai-moveworks.info",
     "potrfoliometamosk.com",
     "portal.zksyenc.com",
     "syncswap.shop",
