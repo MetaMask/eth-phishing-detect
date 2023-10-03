@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "get-zetachain.free-claim.com",
     "air-drop.app",
     "web3chain.pages.dev",
     "arbitrums.frmint-nft.com",
