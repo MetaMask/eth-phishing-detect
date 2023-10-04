@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrurnfoundation.online",
     "claim-usdt.org",
     "usdtly.net",
     "circledrop.art",
