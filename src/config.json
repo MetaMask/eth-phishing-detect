@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-usdt.site",
+    "circle.coupons",
+    "redeem-blur.xyz",
     "mantle.foundation-claim.com",
     "drop.linea-eth.icu",
     "arbitrum.trustplad.top",
