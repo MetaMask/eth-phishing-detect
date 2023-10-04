@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drop.linea-eth.icu",
     "arbitrum.trustplad.top",
     "airdrop.arbitruem.foundation",
     "arbitrurnfoundation.online",
