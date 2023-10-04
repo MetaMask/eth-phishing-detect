@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-usdt.org",
+    "usdtly.net",
+    "circledrop.art",
+    "uniswap-bridge.com",
     "ecoinchanger.com",
     "instantexchange.net",
     "boomchange.com",
