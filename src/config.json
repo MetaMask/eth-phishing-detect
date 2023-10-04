@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-usdt.org",
+    "usdtly.net",
+    "circledrop.art",
+    "uniswap-bridge.com",
     "centreox.lol",
     "client.ibplatform.tech",
     "cousdt.com",
