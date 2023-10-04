@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle.foundation-claim.com",
+    "drop.linea-eth.icu",
+    "arbitrum.trustplad.top",
+    "airdrop.arbitruem.foundation",
+    "arbitrurnfoundation.online",
     "layerzeroresearch.com",
     "layerzerol.com",
     "sandbox.sld.do",
