@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewards-tether.org",
     "circle.diamonds",
     "lido.diamonds",
     "usdc-token.com",
