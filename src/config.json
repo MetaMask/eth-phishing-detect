@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "veefriendsmint.com",
     "claim-usdt.site",
     "circle.coupons",
     "redeem-blur.xyz",
