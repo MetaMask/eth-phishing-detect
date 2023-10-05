@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "convex.lol",
+    "curve.party",
+    "curvelayer.lol",
+    "zetachain.foundation-claim.com",
+    "arbitrumfoundation-airdrop.org",
     "circle.diamonds",
     "lido.diamonds",
     "usdc-token.com",
