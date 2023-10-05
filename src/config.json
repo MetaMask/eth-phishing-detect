@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shibatake.org",
     "rewards-tether.org",
     "circle.diamonds",
     "lido.diamonds",
