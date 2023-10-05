@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dexshib.com",
+    "dexshib.top",
+    "drop-usdc.me",
+    "get-usdt.org",
+    "usd-drop.com",
+    "layer-foundation.app",
     "veefriendsmint.com",
     "claim-usdt.site",
     "circle.coupons",
