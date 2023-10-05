@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "convex.lol",
     "curve.party",
     "curvelayer.lol",
     "zetachain.foundation-claim.com",
