@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shibatake.org",
+    "rewards-tether.org",
     "convex.lol",
     "curve.party",
     "curvelayer.lol",
