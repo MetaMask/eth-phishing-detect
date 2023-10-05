@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curve.party",
     "curvelayer.lol",
     "zetachain.foundation-claim.com",
     "arbitrumfoundation-airdrop.org",
