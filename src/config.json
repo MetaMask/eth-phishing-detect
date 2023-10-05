@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "circle.diamonds",
+    "lido.diamonds",
     "usdc-token.com",
     "drop-1000.me",
     "arb-reward.net",
