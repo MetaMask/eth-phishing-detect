@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dropusd.xyz",
+    "secureusdc.com",
+    "get-tether.net",
     "galxe.com",
     "aircash.cc",
     "bep2222.club",
