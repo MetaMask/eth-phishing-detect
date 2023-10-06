@@ -513,6 +513,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aircash.cc",
+    "bep2222.club",
+    "claim.wallstmeme.network",
+    "ebayalliance.vip",
+    "eth-zen.com",
+    "didsync.surge.sh",
+    "netra-dapps.vercel.app",
+    "mining1010.com",
+    "web3wallet-sync.web.app",
+    "miningplatforms.com",
+    "pro-cryptopad.app",
+    "main-net.cloud",
     "shibatake.org",
     "rewards-tether.org",
     "convex.lol",
