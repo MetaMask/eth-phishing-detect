@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dropusd.xyz",
+    "secureusdc.com",
+    "get-tether.net",
+    "link-event.live",
     "shibatake.org",
     "rewards-tether.org",
     "convex.lol",
