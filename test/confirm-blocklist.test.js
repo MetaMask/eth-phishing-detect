@@ -16,6 +16,7 @@ const excludeList = [
   "b5z.net",
   "test.com",
   "multichain.org", //https://twitter.com/MultichainOrg/status/1677180114227056641
+  "galxe.com", //temp, compromised
 ];
 
 function runTests(config) {
