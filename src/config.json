@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-distrib.com",
     "mantlerewards.com",
     "arbitrumairdrop.top",
     "get-usdt.biz",
