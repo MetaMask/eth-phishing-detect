@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "1000-usdt.xyz",
+    "tether-rewards.net",
+    "shibatake.org",
     "usdtdrop.xyz",
     "usdt-get.org",
     "usdc.distribution.limited",
