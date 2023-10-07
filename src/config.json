@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zeta-chain.foundation-claim.com",
     "syncswap.fun",
     "syscnwap.xyz",
     "zksync-distrib.com",
