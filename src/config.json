@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncswap.fun",
     "syscnwap.xyz",
     "zksync-distrib.com",
     "mantlerewards.com",
