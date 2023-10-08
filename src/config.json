@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "get-usdt.cash",
+    "wsmearn.com",
+    "tether.pm",
+    "voucheruniswap.org",
+    "uniswap.glfts-network-app.eu.org",
     "1000-usdt.xyz",
     "tether-rewards.net",
     "shibatake.org",
