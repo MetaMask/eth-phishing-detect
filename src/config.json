@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb.e.arbitrum.club",
     "claim-zks.lol",
     "yearn.trustplad.top",
     "zetachain.win",
