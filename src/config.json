@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yearn.trustplad.top",
     "zetachain.win",
     "free-mantle.foundation-claim.com",
     "arbitrum-eth.icu",
