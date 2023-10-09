@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-zks.lol",
     "yearn.trustplad.top",
     "zetachain.win",
     "free-mantle.foundation-claim.com",
