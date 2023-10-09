@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdt-get.org",
+    "xn--usds-73d5a0f.xn--m-0tbi",
+    "usdc-circle.pro",
+    "core-app.xyz",
     "binance.it",
     "layerzero-community-oat.co",
     "binance.pl",
