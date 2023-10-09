@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-eth.icu",
     "thegraph.online",
     "zeta-chain.foundation-claim.com",
     "syncswap.fun",
