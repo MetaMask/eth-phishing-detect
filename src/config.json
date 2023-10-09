@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "free-mantle.foundation-claim.com",
     "arbitrum-eth.icu",
     "thegraph.online",
     "zeta-chain.foundation-claim.com",
