@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.artrustpad.top",
     "eanrsdrops.io",
     "kryptomixer.io",
     "cryptomixer2.com",
