@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswap.cash",
     "cowswapper.com",
     "cowswapdex.fi",
     "arbitrum.artrustpad.top",
