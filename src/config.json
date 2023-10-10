@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswapper.com",
     "cowswapdex.fi",
     "arbitrum.artrustpad.top",
     "eanrsdrops.io",
