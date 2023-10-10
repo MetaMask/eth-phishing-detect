@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncswap.band",
     "cowswap.cash",
     "cowswapper.com",
     "cowswapdex.fi",
