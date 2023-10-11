@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apyeth.com",
+    "appauthrectification.pages.dev",
     "defillama-explore.top",
     "trade-defillama.com",
     "usd-claim.xyz",
