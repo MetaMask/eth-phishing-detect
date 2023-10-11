@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-build.com",
+    "syncswap.band",
+    "cowswap.cash",
+    "cowswapper.com",
+    "cowswapdex.fi",
+    "arbitrum.artrustpad.top",
     "eanrsdrops.io",
     "kryptomixer.io",
     "cryptomixer2.com",
