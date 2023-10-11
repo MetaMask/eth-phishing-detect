@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coincityglobal.com",
     "take-1inch.site",
     "apyeth.com",
     "appauthrectification.pages.dev",
