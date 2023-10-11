@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "take-1inch.site",
     "apyeth.com",
     "appauthrectification.pages.dev",
     "defillama-explore.top",
