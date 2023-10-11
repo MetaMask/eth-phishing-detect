@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "satoshilabsupdater.com",
     "eanrsdrops.io",
     "kryptomixer.io",
     "cryptomixer2.com",
