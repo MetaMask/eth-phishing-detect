@@ -513,6 +513,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usd-claim.xyz",
+    "usdtclaim.org",
+    "usdtclaim-org.pages.dev",
+    "reward-coinbase.com",
+    "usdt-claim.com",
+    "cs2-nfts.com",
+    "convexfinance.claims",
+    "betsplays.net",
+    "astrobot.finance",
+    "nakamigos-cloaks.net",
     "satoshilabsupdater.com",
     "optimism-build.com",
     "syncswap.band",
