@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "defillama-explore.top",
+    "trade-defillama.com",
     "satoshilabsupdater.com",
     "optimism-build.com",
     "syncswap.band",
