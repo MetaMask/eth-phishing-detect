@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "satoshilabsupdater.com",
     "optimism-build.com",
     "syncswap.band",
     "cowswap.cash",
