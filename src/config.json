@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apyeth.org",
     "bigwhales-data.pages.dev",
     "bitcoinbscs.pages.dev",
     "cyxw.btbethp.cc",
