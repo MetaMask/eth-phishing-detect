@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "quai.nftmint-eth.com",
+    "mantle.nftmint-eth.com",
+    "mantle-free.foundation-claim.com",
+    "linea.nftmint-eth.com",
+    "zklineavoyage-mainnet.xyz",
+    "cowswapcrypto-fi.com",
     "fairmintboredapeyacht.com",
     "coindoss-waiiet.com",
     "livedropp.com",
