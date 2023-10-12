@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdrewards.xyz",
+    "tether.vg",
+    "offers-opensea.io",
+    "ethairdrop.io",
+    "astrobot.money",
+    "shiboso.live",
+    "stake-lido.link",
     "quai.nftmint-eth.com",
     "mantle.nftmint-eth.com",
     "mantle-free.foundation-claim.com",
