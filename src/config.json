@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "quai.nftmint-eth.com",
     "mantle.nftmint-eth.com",
     "mantle-free.foundation-claim.com",
     "linea.nftmint-eth.com",
