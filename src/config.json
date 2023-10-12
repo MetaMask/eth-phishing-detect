@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop.arbihrum.foundation",
     "arbitrum-fouhdation.com",
     "arbitrum.nftmint-eth.com",
     "arbtrumweekly.com",
