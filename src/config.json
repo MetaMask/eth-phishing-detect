@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apyeth.org",
     "tether.yt",
     "zero-layer.org",
     "tether.wf",
