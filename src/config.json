@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bigwhales-data.pages.dev",
+    "bitcoinbscs.pages.dev",
+    "cyxw.btbethp.cc",
+    "dapchain.org",
+    "greenenergyfx.ltd",
+    "prophetbots.click",
     "tether.yt",
     "zero-layer.org",
     "tether.wf",
