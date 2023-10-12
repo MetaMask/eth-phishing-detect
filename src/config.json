@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linea.nftmint-eth.com",
     "zklineavoyage-mainnet.xyz",
     "cowswapcrypto-fi.com",
     "airdrop.arbihrum.foundation",
