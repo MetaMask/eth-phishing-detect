@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mantle-free.foundation-claim.com",
     "linea.nftmint-eth.com",
     "zklineavoyage-mainnet.xyz",
     "cowswapcrypto-fi.com",
