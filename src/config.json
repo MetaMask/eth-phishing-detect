@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metaprotx.com",
+    "eth-inxs.com",
+    "bitsgapmis.com",
     "usdrewards.xyz",
     "tether.vg",
     "offers-opensea.io",
