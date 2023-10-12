@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-fouhdation.com",
     "arbitrum.nftmint-eth.com",
     "arbtrumweekly.com",
     "tether.yt",
