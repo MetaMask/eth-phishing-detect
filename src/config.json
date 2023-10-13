@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.unitrust.top",
     "connect-arbitrum.foundation",
     "layers-arbitrium.com",
     "chainlinkcoin.org",
