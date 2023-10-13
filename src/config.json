@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimusdt.org",
+    "ethdrops.com",
+    "box-airdrop.com",
+    "airdorp-tokens.app",
+    "collabland.pro",
+    "etherclaim.online",
+    "claim-usd.org",
+    "usdt-claim.org",
     "nov.cash",
     "bitmix.su",
     "coinpal.ai",
@@ -13003,7 +13011,6 @@
     "mywallet-collab.land",
     "connectcollabland.cc",
     "activate-collab.land",
-    "connect.collabland.pro",
     "collab.land.captcha.bot-curlbackwebhook.v2fauth.online",
     "collablamd.cc",
     "collabland.ml",
