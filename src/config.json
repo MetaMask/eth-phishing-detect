@@ -513,7 +513,6 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "mixers.live",
     "bitmix.su",
     "coinpal.ai",
     "tornadoeth.cash",
