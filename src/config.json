@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado.nov.cash",
+    "nov.cash",
     "bitmix.su",
     "coinpal.ai",
     "tornadoeth.cash",
