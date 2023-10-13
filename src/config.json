@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nov.cash",
+    "bitmix.su",
+    "coinpal.ai",
+    "tornadocash.online",
+    "tronado.cash",
     "arbitrum.trustgad.top",
     "arbitrum.tr1onex.top",
     "arbitrum.unitrust.top",
