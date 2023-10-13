@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "connect-arbitrum.foundation",
+    "layers-arbitrium.com",
     "chainlinkcoin.org",
     "claim-usd.com",
     "takeyourusdc.site",
