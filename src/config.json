@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornadoeth.cash",
+    "tornadocash.eth.link",
+    "tornado.ws",
+    "tornadocash.online",
+    "tornadocash.vn",
+    "tronado.cash",
     "usdrewards.xyz",
     "tether.vg",
     "offers-opensea.io",
