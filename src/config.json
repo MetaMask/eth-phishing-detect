@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.trustgad.top",
     "arbitrum.tr1onex.top",
     "arbitrum.unitrust.top",
     "connect-arbitrum.foundation",
