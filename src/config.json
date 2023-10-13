@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chainlinkcoin.org",
+    "claim-usd.com",
+    "takeyourusdc.site",
+    "airdr0p.com",
+    "geneis-celastia.org",
     "usdrewards.xyz",
     "tether.vg",
     "offers-opensea.io",
