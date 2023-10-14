@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornadonova.cash",
+    "tornado.nov.cash",
     "claimusdt.org",
     "ethdrops.com",
     "box-airdrop.com",
