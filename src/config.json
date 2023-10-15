@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zkera.link",
     "cowswapcrypto.com",
     "zetachain.pw",
     "arbitrum.trustwalletdrop.top",
