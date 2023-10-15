@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.trustwalletdrop.top",
     "craftcoin.top",
     "arbitrum.dbrop.top",
     "build.arbitrum-arb.icu",
