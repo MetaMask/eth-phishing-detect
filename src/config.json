@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "delegate-arbitrum.foundation",
     "claimusdt.org",
     "ethdrops.com",
     "box-airdrop.com",
