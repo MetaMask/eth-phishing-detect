@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdtget.org",
+    "usdt1000.xyz",
+    "join-usdcoin.com",
     "usdt-1000.info",
     "usdtclaims.org",
     "link-reward.com",
