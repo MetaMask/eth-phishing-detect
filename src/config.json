@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezor.satoshiupdater.com",
     "claimusdt.org",
     "ethdrops.com",
     "box-airdrop.com",
