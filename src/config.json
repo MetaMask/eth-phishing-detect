@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.aitrustpads.top",
+    "arbltrum.cloud",
     "wallsstmeme.pages.dev",
     "apyeth.net",
     "bitsgapmis.net",
