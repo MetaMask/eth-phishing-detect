@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezor.satoshiupdater.com",
     "synchronizedex.com",
     "arkmdrop.com",
     "nftminter-eth.com",
