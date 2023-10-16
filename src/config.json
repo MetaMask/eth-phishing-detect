@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethereummixer.org",
     "claimusdt.org",
     "ethdrops.com",
     "box-airdrop.com",
