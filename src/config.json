@@ -513,11 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "zetachain.nftminter-eth.com",
-    "taiko.nftminter-eth.com",
-    "quai.nftminter-eth.com",
-    "linea.nftminter-eth.com",
-    "arbitrum.nftminter-eth.com",
+    "nftminter-eth.com",
+    "trustwalletdrop.top",
     "arbitrum-support.online",
     "arbitrum-rewards.website",
     "ecosystem-arbitrum.foundation",
@@ -527,7 +524,6 @@
     "zkera.link",
     "cowswapcrypto.com",
     "zetachain.pw",
-    "arbitrum.trustwalletdrop.top",
     "craftcoin.top",
     "arbitrum.dbrop.top",
     "build.arbitrum-arb.icu",
