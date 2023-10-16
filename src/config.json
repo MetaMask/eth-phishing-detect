@@ -12,7 +12,6 @@
     "satoshilabs.com"
   ],
   "whitelist": [
-    "stabletether.net",
     "cryptocities.world",
     "metamax.exchange",
     "openmeta.network",
@@ -514,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stabletether.net",
     "usdtget.net",
     "finanrce.org",
     "keshu-inu.com",
