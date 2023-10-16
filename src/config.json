@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "wallsstmeme.pages.dev",
+    "apyeth.net",
+    "bitsgapmis.net",
     "claim-zetachain.online",
     "ethereummixer.org",
     "shibarm.com",
