@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arkmdrop.com",
     "nftminter-eth.com",
     "trustwalletdrop.top",
     "arbitrum-support.online",
