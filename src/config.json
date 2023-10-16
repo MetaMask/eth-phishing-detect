@@ -514,6 +514,7 @@
   ],
   "blacklist": [
     "tornadonova.cash",
+    "trezor.satoshiupdater.com",
     "synchronizedex.com",
     "arkmdrop.com",
     "nftminter-eth.com",
