@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "synchronizedex.com",
     "arkmdrop.com",
     "nftminter-eth.com",
     "trustwalletdrop.top",
