@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornadonova.cash",
     "trezor.satoshiupdater.com",
     "synchronizedex.com",
     "arkmdrop.com",
