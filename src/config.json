@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.nftminter-eth.com",
     "taiko.nftminter-eth.com",
     "quai.nftminter-eth.com",
     "linea.nftminter-eth.com",
