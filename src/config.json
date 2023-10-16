@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linea.nftminter-eth.com",
     "arbitrum.nftminter-eth.com",
     "arbitrum-support.online",
     "arbitrum-rewards.website",
