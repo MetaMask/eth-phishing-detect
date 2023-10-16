@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-rewards.website",
+    "ecosystem-arbitrum.foundation",
     "arbltrum.click",
     "zkgive.com",
     "arbitrumfoundatiion.com",
