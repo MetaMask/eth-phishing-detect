@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-zetachain.online",
     "1000-usdt.info",
     "floki.rs",
     "v2-de.fi",
