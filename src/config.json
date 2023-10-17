@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "weekly.circleinc.net",
+    "1000usdt.xyz",
     "tokenshib.com",
     "getbusd.org",
     "usdtly.co",
