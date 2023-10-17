@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-zksyncid.pro",
+    "rewards-zkera.tech",
+    "zksyncclam.org",
     "zetachain.eth-air20.com",
     "linea.eth-air20.com",
     "arbitrum.eth-air20.com",
