@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "suavv.com",
+    "trezor.satoshilabsfirmware.com",
     "claim-usdt.info",
     "claimdcpt.com",
     "offers-oppensea.com",
