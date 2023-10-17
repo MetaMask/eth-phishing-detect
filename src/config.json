@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.strustpad.top",
     "suavv.com",
     "trezor.satoshilabsfirmware.com",
     "bestcgi.life",
