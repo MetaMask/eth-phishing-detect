@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.eth-air20.com",
     "linea.eth-air20.com",
     "arbitrum.eth-air20.com",
     "arbitrum.walletdrop.top",
