@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.walletdrop.top",
     "arbitrum.strustpad.top",
     "suavv.com",
     "trezor.satoshilabsfirmware.com",
