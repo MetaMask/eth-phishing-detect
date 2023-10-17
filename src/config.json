@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tether-mixer-anonymous.net",
+    "hrmix.com",
     "acruxdigitalassets.com",
     "aistrategyoption.com",
     "appsnode-server.pages.dev",
