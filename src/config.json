@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "suavv.com",
+    "trezor.satoshilabsfirmware.com",
     "bestcgi.life",
     "defi9898.xyz",
     "nika.tw",
