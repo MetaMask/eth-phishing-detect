@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.eth-air20.com",
     "arbitrum.walletdrop.top",
     "arbitrum.strustpad.top",
     "suavv.com",
