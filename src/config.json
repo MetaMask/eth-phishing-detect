@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eigenx.ai",
+    "eigen.io",
+    "eigenlayer.foundation-claim.net",
+    "eigenlayer.foundation-claim.com",
     "claim-zksyncid.pro",
     "rewards-zkera.tech",
     "zksyncclam.org",
