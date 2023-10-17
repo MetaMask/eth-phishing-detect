@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tokenshib.com",
+    "getbusd.org",
+    "usdtly.co",
     "eigenx.ai",
     "eigen.io",
     "eigenlayer.foundation-claim.net",
