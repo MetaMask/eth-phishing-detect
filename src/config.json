@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.coins-drop.top",
     "arbitrumbridge.live",
     "arbitrumfnd.xyz",
     "weekly.circleinc.net",
