@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "garbagefriends.club",
+    "squareform.io",
+    "authnodefix.pages.dev",
+    "arbltrum.store",
     "foundation-claim.com",
     "foundation-claim.net",
     "claimusdt.net",
