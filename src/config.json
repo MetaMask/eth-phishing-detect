@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "free-claiming.com",
+    "free-claiming.net",
+    "free-claiming.online",
     "tether-get.com",
     "usdt-rewards.info",
     "hvmtl-play.com",
