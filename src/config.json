@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "network-claim.com",
+    "network-claim.net",
     "usdt-drop.info",
     "garbagefriends.club",
     "squareform.io",
