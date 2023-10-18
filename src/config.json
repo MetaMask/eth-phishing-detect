@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tether-get.com",
+    "usdt-rewards.info",
+    "hvmtl-play.com",
+    "nft-box.live",
     "network-claim.com",
     "network-claim.net",
     "cosmonet2.at",
