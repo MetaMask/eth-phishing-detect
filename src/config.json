@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbltrum.store",
     "claimusdt.net",
     "usdt-reward.info",
     "claimusdc.netlify.app",
