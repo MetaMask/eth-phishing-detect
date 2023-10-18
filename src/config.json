@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdt-drop.info",
     "garbagefriends.club",
     "squareform.io",
     "authnodefix.pages.dev",
