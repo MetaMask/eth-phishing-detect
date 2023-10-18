@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumbridge.live",
+    "arbitrumfnd.xyz",
     "weekly.circleinc.net",
     "1000usdt.xyz",
     "tokenshib.com",
