@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scamsniffer.dev",
     "weekly.circleinc.net",
     "1000usdt.xyz",
     "tokenshib.com",
