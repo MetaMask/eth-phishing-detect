@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claimusdt.net",
+    "usdt-reward.info",
+    "claimusdc.netlify.app",
+    "walletguard.tech",
     "drop-usdt.info",
     "mintdao.org",
     "chainlink-claims.io",
