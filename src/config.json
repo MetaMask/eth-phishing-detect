@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "network-claim.com",
+    "network-claim.net",
     "cosmonet2.at",
     "synchronizerzone.com",
     "tradeprofitsconnect.com",
