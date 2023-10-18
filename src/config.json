@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "authnodefix.pages.dev",
     "arbltrum.store",
     "claimusdt.net",
     "usdt-reward.info",
