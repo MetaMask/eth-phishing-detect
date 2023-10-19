@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shibainu.sbs",
+    "get-busd.com",
+    "tokenservice.net",
+    "usdt-awards.org",
     "app-token.com",
     "app-token.net",
     "app-token.world",
