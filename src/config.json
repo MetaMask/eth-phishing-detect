@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app-token.com",
+    "app-token.net",
+    "app-token.world",
     "free-claiming.com",
     "free-claiming.net",
     "free-claiming.online",
