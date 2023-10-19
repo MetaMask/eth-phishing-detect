@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dropsusdt.info",
+    "usdt-awards.org",
+    "optimism-v2.io",
+    "air-drop.at",
+    "claimrewards.cc",
+    "opensea.distrib-os.com",
+    "plenafinance.net",
     "app-token.com",
     "app-token.net",
     "app-token.world",
