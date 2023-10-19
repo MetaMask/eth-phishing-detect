@@ -513,7 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "SNXPool.com",
+    "shibasite.com",
+    "snxpool.com",
     "usdt-claims.com",
     "drop-usdt.org",
     "synthetix.cc",
