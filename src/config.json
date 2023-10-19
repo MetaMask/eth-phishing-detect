@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dropsusdt.info",
+    "optimism-v2.io",
+    "air-drop.at",
+    "claimrewards.cc",
+    "opensea.distrib-os.com",
+    "plenafinance.net",
     "free-eigenlayer.com",
     "free-eigenlayer.net",
     "free-eigenlayer.online",
