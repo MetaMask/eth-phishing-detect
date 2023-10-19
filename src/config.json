@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbltrum.website",
     "arbltrum2.cloud",
     "arbitrum.community-web3.online",
     "app-token.com",
