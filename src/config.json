@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "get-busd.com",
+    "tokenservice.net",
+    "usdt-awards.org",
     "tetherr.com",
     "lidodao.cfd",
     "babydogeb.com",
