@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "free-eigenlayer.com",
+    "free-eigenlayer.net",
+    "free-eigenlayer.online",
+    "free-eigenlayer.xyz",
     "arbfoundation.site",
     "arbltrum2.site",
     "arbltrum.website",
