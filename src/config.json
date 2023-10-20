@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bonus-token.com",
+    "bonus-token.net",
+    "bonus-token.shop",
+    "bonus-token.xyz",
     "web3firmware.pages.dev",
     "curvedao.lol",
     "transpaysecure.com",
