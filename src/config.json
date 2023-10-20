@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "exrpex.com",
     "ankrtoken.com",
     "okcoin.pw",
     "celeslia.store",
