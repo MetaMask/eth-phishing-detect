@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "client-ftx.com",
+    "cases-blockfi.com",
+    "peancakfiance.com",
+    "airdrop-gysr.live",
+    "reward-tlpcoln.com",
+    "dextswap.com",
+    "safereum.in",
+    "usdt-reward.me",
     "drops-usdt.info",
     "usdt-awards.net",
     "1000-usd.xyz",
