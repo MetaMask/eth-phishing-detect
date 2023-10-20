@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linkchaincoin.net",
     "client-ftx.com",
     "cases-blockfi.com",
     "peancakfiance.com",
