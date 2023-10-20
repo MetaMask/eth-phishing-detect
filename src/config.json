@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pandra.io",
     "ankrtoken.com",
     "okcoin.pw",
     "celeslia.store",
