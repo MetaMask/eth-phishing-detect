@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop.icu",
+    "aave-v3.vip",
+    "playquest3.xyz",
+    "coinlistpro.org",
     "ankrtoken.com",
     "okcoin.pw",
     "celeslia.store",
