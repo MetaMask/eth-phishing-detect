@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curvedao.lol",
     "transpaysecure.com",
     "ankrtoken.com",
     "okcoin.pw",
