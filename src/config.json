@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffits.com",
+    "fluff.icu",
     "ankrtoken.com",
     "okcoin.pw",
     "celeslia.store",
