@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drops-usdt.info",
+    "usdt-awards.net",
     "1000-usd.xyz",
     "exrpex.com",
     "ankrtoken.com",
