@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3firmware.pages.dev",
     "curvedao.lol",
     "transpaysecure.com",
     "ankrtoken.com",
