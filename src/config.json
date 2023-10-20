@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3firmware.pages.dev",
+    "curvedao.lol",
+    "transpaysecure.com",
     "linkedweb3.com",
     "tokenarb.org",
     "linkchaincoin.net",
