@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linkedweb3.com",
     "tokenarb.org",
     "linkchaincoin.net",
     "client-ftx.com",
