@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "1000-usd.xyz",
     "exrpex.com",
     "ankrtoken.com",
     "okcoin.pw",
