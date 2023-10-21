@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "uses.app",
+    "login-uses.app",
     "fluffits.com",
     "fluff.icu",
     "pandra.io",
