@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-usdt.app",
+    "ethcity.net",
+    "ethcity.top",
     "tetheer.com",
     "shibainu.tel",
     "nftpngapi.top",
