@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pandra.io",
     "airdrop.icu",
     "aave-v3.vip",
     "playquest3.xyz",
