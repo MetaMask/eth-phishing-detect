@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.superdrot.top",
     "arbitrumfoundationdrop.xyz",
     "arbitrum.x-altcolns.top",
     "fluffits.com",
