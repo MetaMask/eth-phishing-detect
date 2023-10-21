@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop.icu",
+    "aave-v3.vip",
+    "playquest3.xyz",
+    "coinlistpro.org",
     "bonus-token.com",
     "bonus-token.net",
     "bonus-token.shop",
