@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.x-altcolns.top",
     "fluffits.com",
     "fluff.icu",
     "pandra.io",
