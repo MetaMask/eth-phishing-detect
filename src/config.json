@@ -514,6 +514,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffits.com",
+    "fluff.icu",
     "pandra.io",
     "airdrop.icu",
     "aave-v3.vip",
