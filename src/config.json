@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dropsusdt.xyz",
+    "2000usdt.com",
     "uses.app",
     "login-uses.app",
     "fluffits.com",
