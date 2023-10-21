@@ -1,7 +1,15 @@
 const PhishingDetector = require('../src/detector')
-let phishing = require('../src/config.json')
 
-const detector = new PhishingDetector(phishing)
+let phishing;
+let detector;
+
+fetch('https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/main/src/config.json')
+  .then(response => response.json())
+  .then(data => {
+    phishing = data;
+    detector = new PhishingDetector(phishing);
+  })
+  .catch(error => console.error('Error:', error));
 
 function why (domain) {
   if (!detector) {
@@ -26,4 +34,3 @@ function why (domain) {
 }
 
 module.exports = why
-
