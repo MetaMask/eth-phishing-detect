@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tetheer.com",
+    "shibainu.tel",
+    "nftpngapi.top",
+    "shibsite.com",
     "synthetix.cc",
     "pool.synthetix.group",
     "dropsusdt.xyz",
