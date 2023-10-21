@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "synthetix.cc",
+    "pool.synthetix.group",
     "dropsusdt.xyz",
     "2000usdt.com",
     "uses.app",
