@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewards.arbitrum-arb.icu",
     "free.claim-zetachain.tech",
     "webmobilepage.net",
     "arbitrum.altairdrop.top",
