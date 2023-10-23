@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optmismchain.io",
     "retropgf-optimism.link",
     "optimismpt.com",
     "optimiism.web-hmint.com",
