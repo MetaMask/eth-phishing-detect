@@ -514,6 +514,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tabinfts.com",
     "fluffits.com",
     "fluff.icu",
     "pandra.io",
