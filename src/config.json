@@ -514,6 +514,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eigen-layer.life",
+    "eigen-layer.site",
+    "eigen-layer.us",
+    "eigen-layer.co",
+    "eigen-layer.info",
+    "eigen-layer.online",
+    "eigen-layer.org",
+    "eigen-layer.store",
+    "eigen-layer.io",
+    "eigen-layer.shop",
     "fluffits.com",
     "fluff.icu",
     "pandra.io",
