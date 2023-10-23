@@ -514,6 +514,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eth-mixing-eth.com",
+    "ethmixer.net",
+    "ethereum-mixer.net",
+    "yomixer.io",
+    "topbitcointumblers.io",
+    "topbitcoinmixers.io",
     "fluffits.com",
     "fluff.icu",
     "pandra.io",
