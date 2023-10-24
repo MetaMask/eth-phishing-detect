@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "synthetix.to",
+    "pool.synthetix.to",
+    "memcoin.app",
     "unimevbot.info",
     "corsaircontrol.pro",
     "btbethm.org",
