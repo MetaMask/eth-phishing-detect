@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eth-mixing-eth.com",
+    "ethmixer.net",
+    "ethereum-mixer.net",
+    "yomixer.io",
+    "topbitcointumblers.io",
+    "topbitcoinmixers.io",
     "eigen-layer.life",
     "eigen-layer.site",
     "eigen-layer.us",
