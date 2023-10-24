@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdtdrop.info",
     "memcoin.app",
     "unimevbot.info",
     "corsaircontrol.pro",
