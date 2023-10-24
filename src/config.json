@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.x-altc0ins.top",
     "novaarbitrum.xyz",
     "optmismchain.io",
     "retropgf-optimism.link",
