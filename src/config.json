@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "argent.claims",
     "starkqwest.site",
     "unimevbot.info",
     "corsaircontrol.pro",
