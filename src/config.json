@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinsquaren.com",
     "resolevedapps.live",
     "mhgrate-xx.org",
     "cowswapcrypto-roi.com",
