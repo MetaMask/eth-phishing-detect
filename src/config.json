@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "resolevedapps.live",
+    "mhgrate-xx.org",
+    "cowswapcrypto-roi.com",
+    "arbitrum.x-altc0ins.top",
+    "novaarbitrum.xyz",
     "amlbinance.org",
     "allnodechain.pages.dev",
     "chaett.com",
