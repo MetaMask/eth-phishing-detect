@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tabinfts.com",
     "eth-mixing-eth.com",
     "ethmixer.net",
     "ethereum-mixer.net",
