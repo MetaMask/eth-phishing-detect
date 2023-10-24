@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "networkquant.net",
     "2000usdt.com",
     "tether-claim.net",
     "claim-usdt.app",
