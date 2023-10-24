@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pandras.io",
     "fluffos.xyz",
     "networkquant.net",
     "tether-claim.net",
