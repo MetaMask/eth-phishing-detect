@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinsmartt.com",
+    "coinsquaren.com",
     "shibainut.com",
     "usdt.toolsh.com",
     "claim-tether.app",
