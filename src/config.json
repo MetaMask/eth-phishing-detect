@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bitcoinbsc.io",
     "argent.claims",
     "starkqwest.site",
     "unimevbot.info",
