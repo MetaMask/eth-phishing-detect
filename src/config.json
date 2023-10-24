@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffos.xyz",
     "networkquant.net",
     "tether-claim.net",
     "claim-usdt.app",
