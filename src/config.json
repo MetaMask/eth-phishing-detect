@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrops-sui.one",
     "celestiantia.com",
     "app.claims-celestia.org",
     "celestia.genesiss.info",
