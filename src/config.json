@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zetachain.claim-tokens.live",
     "a.arbitrum.express",
     "claim.arbitrum-arb.icu",
     "trustpad-promo.top",
