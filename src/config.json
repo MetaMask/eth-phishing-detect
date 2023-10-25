@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trustpad-promo.top",
     "arbitrum.quickpads.top",
     "usdtdrop.info",
     "memcoin.app",
