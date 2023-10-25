@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stethlido.com",
     "apyeth.io",
     "zxpool.net",
     "etoroclaim.com",
