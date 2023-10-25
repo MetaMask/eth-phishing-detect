@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdtdrop.info",
+    "memcoin.app",
     "domains-ens.info",
     "bitcoinbsc.io",
     "argent.claims",
