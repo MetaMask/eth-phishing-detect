@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "a.arbitrum.express",
     "claim.arbitrum-arb.icu",
     "trustpad-promo.top",
     "arbitrum.quickpads.top",
