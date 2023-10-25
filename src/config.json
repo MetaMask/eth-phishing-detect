@@ -513,11 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "arbstrategy.info",
-    "eth-arbitrage.info",
-    "ethereum-arbitrages.com",
-    "ethereum-arbitrages.info",
-    "ethereum-arbitrages.net",
+    "layerzero.networkx.dev",
     "mevstrategy.info",
     "ethstrategy.info",
     "arbstrategy.info",
