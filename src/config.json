@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "genesiscelestia-claim.com",
     "celestgroup.pro",
     "celestiamint.top",
     "celestiamint.xyz",
