@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pandra.org",
     "usdtdrop.info",
     "memcoin.app",
     "domains-ens.info",
