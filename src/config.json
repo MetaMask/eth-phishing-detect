@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "celestiamint.top",
+    "celestiamint.xyz",
+    "eligbility-celestia.com",
     "celestia.web-hmint.com",
     "celestiatia.top",
     "celestia.frcksa.com",
