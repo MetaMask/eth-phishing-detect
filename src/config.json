@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.quickpads.top",
     "usdtdrop.info",
     "memcoin.app",
     "domains-ens.info",
