@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "domains-ens.info",
     "bitcoinbsc.io",
     "argent.claims",
     "starkqwest.site",
