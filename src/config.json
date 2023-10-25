@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "celestia.frcksa.com",
     "zetachain.claim-tokens.live",
     "a.arbitrum.express",
     "claim.arbitrum-arb.icu",
