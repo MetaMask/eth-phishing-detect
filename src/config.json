@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pandra.org",
     "berachaln.com",
     "unimevbot.info",
     "corsaircontrol.pro",
