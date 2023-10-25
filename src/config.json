@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "liveboxnft.com",
     "layerzero.networkx.dev",
     "mevstrategy.info",
     "ethstrategy.info",
