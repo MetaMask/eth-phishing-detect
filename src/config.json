@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "domains-ens.info",
+    "bitcoinbsc.io",
+    "argent.claims",
+    "starkqwest.site",
     "paradigmcrowd.xyz",
     "berachaln.com",
     "unimevbot.info",
