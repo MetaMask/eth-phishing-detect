@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffies.io",
     "celestiantia.com",
     "app.claims-celestia.org",
     "celestia.genesiss.info",
