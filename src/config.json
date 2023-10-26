@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nova-arbitrum.foundation",
     "btcxplosion.com",
     "3000usdt.com",
     "stethlido.com",
