@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tether-usd.net",
+    "usdt.dgwlyq.com",
+    "2000usdt.org",
+    "tether.nu",
     "celestia-genesis.org",
     "app-celestia.com",
     "ceiestia.tech",
