@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "celertia.org",
     "celesrtia.org",
     "defillama-audit.top",
     "celestia-genesis.org",
