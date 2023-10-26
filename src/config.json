@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffies.io",
     "airdrop.arbitruinm.foundation",
     "celestiantia.com",
     "app.claims-celestia.org",
