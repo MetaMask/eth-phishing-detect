@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "celestia-genesis.org",
     "app-celestia.com",
     "ceiestia.tech",
     "celestia-eth.net",
