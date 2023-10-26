@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zeta-blockchain.claim-tokens.live",
     "arbitrum.qulckpad.top",
     "celestia.wiavip.org",
     "nova-arbitrum.foundation",
