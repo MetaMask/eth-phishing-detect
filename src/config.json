@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "3000usdt.com",
     "stethlido.com",
     "apyeth.io",
     "zxpool.net",
