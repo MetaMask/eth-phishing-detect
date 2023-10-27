@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ardiltrum.xyz",
     "promo.blockchainwallet.top",
     "celistgroup.com",
     "invite-celestia.com",
