@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "elephantmoney.org",
+    "babydogevc.com",
     "usdc.kyc-promotion.com",
     "optimism-v3.org",
     "pool.synthetix.to",
