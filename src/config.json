@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "celestia-org-95s.pages.dev",
     "updater-suite.app",
     "celistz.com",
     "airdrop.icomarks.biz",
