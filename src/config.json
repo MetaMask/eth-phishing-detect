@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apyeth.us",
     "get-usd.org",
     "tether-usd.net",
     "usdt.dgwlyq.com",
