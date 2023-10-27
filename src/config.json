@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado.cat"
     "celestia-genesis.org",
     "app-celestia.com",
     "ceiestia.tech",
