@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "abcmeta.io",
+    "airdrop-vaults.com",
+    "apyeth.fi",
+    "doorwaydapp.pages.dev",
+    "en.restoreoptions.com",
+    "ethoih.com",
+    "rendigl.cloud",
     "celestia-genesis.org",
     "app-celestia.com",
     "ceiestia.tech",
