@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "btc2day.net",
     "celestia-genesis.org",
     "app-celestia.com",
     "ceiestia.tech",
