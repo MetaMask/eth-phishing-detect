@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chaineyes.tools",
     "celestia-genesis.org",
     "app-celestia.com",
     "ceiestia.tech",
