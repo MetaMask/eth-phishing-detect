@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "updater-suite.app",
     "celistz.com",
     "airdrop.icomarks.biz",
     "celezt.com",
