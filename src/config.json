@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "myusdc-claim.com",
     "usdswap.org",
     "elephantmoney.org",
     "babydogevc.com",
