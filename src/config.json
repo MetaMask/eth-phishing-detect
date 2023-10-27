@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdc.kyc-promotion.com",
+    "optimism-v3.org",
     "pool.synthetix.to",
     "getmyton.com",
     "coinlinkchain.org",
