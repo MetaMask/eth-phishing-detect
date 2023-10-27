@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "promo.blockchainwallet.top",
     "celistgroup.com",
     "invite-celestia.com",
     "celestia-org-95s.pages.dev",
