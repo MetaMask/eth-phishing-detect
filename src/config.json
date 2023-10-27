@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "celistgroup.com",
     "invite-celestia.com",
     "celestia-org-95s.pages.dev",
     "updater-suite.app",
