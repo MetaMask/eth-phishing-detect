@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "getmyton.com",
     "coinlinkchain.org",
     "apyeth.us",
     "get-usd.org",
