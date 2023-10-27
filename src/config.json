@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pool.synthetix.to",
     "getmyton.com",
     "coinlinkchain.org",
     "apyeth.us",
