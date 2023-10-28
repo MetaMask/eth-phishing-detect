@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linea-claims.com",
     "coinfct.com",
     "trust-wallet.promogift.top",
     "celestia-claim.com",
