@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tetherusd.net",
     "usdt-gifts.app",
     "myusdc-claim.com",
     "usdswap.org",
