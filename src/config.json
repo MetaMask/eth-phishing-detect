@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledgeer.live",
+    "ledger.vikalpn.com",
     "usdcoin.events",
     "usdt-award.net",
     "usdt.mynetworktech.com",
