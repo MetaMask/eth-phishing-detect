@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eth-network.com",
     "arbitrum-airdrop-checker.netlify.app",
     "ardiltrum.xyz",
     "promo.blockchainwallet.top",
