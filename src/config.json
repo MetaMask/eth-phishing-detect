@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "celestia-claim.com",
+    "celestiairdrop.top",
+    "celestiairdrop.xyz",
     "eth-network.com",
     "arbitrum-airdrop-checker.netlify.app",
     "ardiltrum.xyz",
