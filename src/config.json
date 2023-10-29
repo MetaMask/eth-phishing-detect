@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "celistz.xyz",
     "zetablockchain.claim-tokens.live",
     "linea-claims.com",
     "coinfct.com",
