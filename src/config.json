@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "celestia-drop.online",
     "celestia-eth.com",
     "claim.celestia.re",
     "celistz.xyz",
