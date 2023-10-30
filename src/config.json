@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arkhamtoken.net",
     "smartreviseconnects.pages.dev",
     "celestia-drop.online",
     "celestia-eth.com",
