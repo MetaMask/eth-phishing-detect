@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-evm.io",
     "bridge.zksiync.io",
     "airdrop-zksync.icu",
     "arbiturm-foundation.com",
