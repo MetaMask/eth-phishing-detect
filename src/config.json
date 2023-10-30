@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb-distribution.foundation",
     "ens-domain-info.com",
     "ens-domains.biz",
     "ens-domains.live",
