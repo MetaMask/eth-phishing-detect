@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "smartreviseconnects.pages.dev",
     "celestia-drop.online",
     "celestia-eth.com",
     "claim.celestia.re",
