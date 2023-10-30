@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "giveways-arb.com",
     "liveconnectionapp.com",
     "zksync-evm.io",
     "bridge.zksiync.io",
