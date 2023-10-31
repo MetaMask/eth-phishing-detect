@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewards.zk-eth.dev",
     "arbitrumfoundetion.com",
     "arbitrum-foundation.pages.dev",
     "clique-linea.xyz",
