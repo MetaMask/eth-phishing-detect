@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado.cat",
     "chaineyes.tools",
     "abcmeta.io",
     "airdrop-vaults.com",
