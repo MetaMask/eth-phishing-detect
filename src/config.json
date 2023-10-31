@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "walletdappapp.pages.dev",
     "chaineyes.tools",
     "abcmeta.io",
     "airdrop-vaults.com",
@@ -42733,7 +42734,7 @@
     "metmskcrm.com",
     "migrate-beefy.finance",
     "ptpn4.id",
-     "redirectuhqfreshtech.com",
+    "redirectuhqfreshtech.com",
     "redirectuhqfreshteche.com",
     "request-web3-claims.click",
     "request-web3-reward.network",
