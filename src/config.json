@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado.cat",
     "fluffis.io",
     "btc2day.net",
     "chaineyes.tools",
