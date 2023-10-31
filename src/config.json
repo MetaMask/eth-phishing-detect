@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswapltd.com",
     "claims-arb.xyz",
     "dual-arbitrum.quest",
     "arbitrum.x-edrops.top",
