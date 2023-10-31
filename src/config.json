@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "abcmeta.io",
+    "airdrop-vaults.com",
+    "doorwaydapp.pages.dev",
+    "restoreoptions.com",
+    "ethoih.com",
+    "rendigl.cloud",
     "app-aave.cl",
     "networkxweb.com",
     "playquests.xyz",
@@ -42726,7 +42732,7 @@
     "metmskcrm.com",
     "migrate-beefy.finance",
     "ptpn4.id",
-    "redirectuhqfreshtech.com",
+     "redirectuhqfreshtech.com",
     "redirectuhqfreshteche.com",
     "request-web3-claims.click",
     "request-web3-reward.network",
