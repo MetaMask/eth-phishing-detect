@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chaineyes.tools",
     "abcmeta.io",
     "airdrop-vaults.com",
     "doorwaydapp.pages.dev",
