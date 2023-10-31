@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumfoundetion.com",
+    "arbitrum-foundation.pages.dev",
     "clique-linea.xyz",
     "cowswapltd.com",
     "claims-arb.xyz",
