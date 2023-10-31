@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dual-arbitrum.quest",
     "arbitrum.x-edrops.top",
     "giveways-arb.com",
     "liveconnectionapp.com",
