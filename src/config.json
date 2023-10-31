@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffis.io",
     "btc2day.net",
     "chaineyes.tools",
     "abcmeta.io",
