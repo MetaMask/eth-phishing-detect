@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffus.com",
     "ledgeer.live",
     "ledger.vikalpn.com",
     "usdcoin.events",
