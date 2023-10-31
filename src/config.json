@@ -514,6 +514,8 @@
   ],
   "blacklist": [
     "tornado.cat",
+    "fluffis.io",
+    "btc2day.net",
     "chaineyes.tools",
     "abcmeta.io",
     "airdrop-vaults.com",
