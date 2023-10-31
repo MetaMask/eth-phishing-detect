@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "goldstonevip.online",
+    "eth-coinsee.org",
     "walletdappapp.pages.dev",
     "tornado.cat",
     "fluffis.io",
