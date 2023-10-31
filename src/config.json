@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "clique-linea.xyz",
     "cowswapltd.com",
     "claims-arb.xyz",
     "dual-arbitrum.quest",
