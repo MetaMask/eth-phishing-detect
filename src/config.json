@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "btc2day.net",
     "chaineyes.tools",
     "abcmeta.io",
     "airdrop-vaults.com",
