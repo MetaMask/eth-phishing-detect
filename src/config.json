@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims-arb.xyz",
     "dual-arbitrum.quest",
     "arbitrum.x-edrops.top",
     "giveways-arb.com",
