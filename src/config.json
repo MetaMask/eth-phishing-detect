@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "walletdappapp.pages.dev",
     "tornado.cat",
     "fluffis.io",
     "btc2day.net",
@@ -42736,7 +42737,7 @@
     "metmskcrm.com",
     "migrate-beefy.finance",
     "ptpn4.id",
-     "redirectuhqfreshtech.com",
+    "redirectuhqfreshtech.com",
     "redirectuhqfreshteche.com",
     "request-web3-claims.click",
     "request-web3-reward.network",
