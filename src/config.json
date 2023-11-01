@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "resolver-protocol.com",
     "zeta-chain.claim-tokens.live",
     "cowswapping.co",
     "cowswapplc.com",
