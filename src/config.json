@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mev-arbitrages.info",
     "dubzb.net",
     "wbtcreward.com",
     "bonetoken.app",
