@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bids-openssea.com",
     "find-earndrop.io",
     "eansrdrop.io",
     "atomichubpro.com",
