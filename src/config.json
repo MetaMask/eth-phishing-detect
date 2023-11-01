@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.qulckpad.top",
+    "grt.quickdrops.top",
+    "grt.x-edrops.top",
+    "grt.ewalletpads.top",
+    "syncswap.work",
+    "stake-curvefi.com",
     "resolver-protocol.com",
     "2000usdt.cc",
     "apyeth.finance",
