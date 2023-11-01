@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "find-earndrop.io",
+    "eansrdrop.io",
+    "atomichubpro.com",
+    "zandexfx.com",
+    "martianhelper.xyz",
+    "kfbnf.com",
+    "bitkeepservice.com",
     "usdtdroplab.com",
     "drop-rewards.org",
     "usdt.fadhol.com",
@@ -534,7 +541,6 @@
     "gift.lingus.fun",
     "graphwebtsiplus.com",
     "kavabot.xyz",
-    "kf.kfbnf.com",
     "metarectify.vercel.app",
     "mycabinet.cap-group.co",
     "profitalgo.net",
