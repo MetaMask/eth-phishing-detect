@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bonetoken.app",
     "reward-usdt.com",
     "grt.qulckpad.top",
     "grt.quickdrops.top",
