@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.quickdrops.top",
     "grt.x-edrops.top",
     "grt.ewalletpads.top",
     "syncswap.work",
