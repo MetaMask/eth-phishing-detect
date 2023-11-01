@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswapping.co",
+    "cowswapplc.com",
     "giveway-arb.com",
     "arbitrum.ewalletpads.top",
     "find-earndrop.io",
