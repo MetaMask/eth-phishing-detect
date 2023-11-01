@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tabis.lol",
     "starknet-ecosystme.com",
     "srakreco.space",
     "finance.stargates.app",
