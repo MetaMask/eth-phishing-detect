@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zeta-chain.claim-tokens.live",
     "cowswapping.co",
     "cowswapplc.com",
     "giveway-arb.com",
