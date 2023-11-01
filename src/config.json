@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "resolver-protocol.com",
     "2000usdt.cc",
     "apyeth.finance",
     "apyether.com",
