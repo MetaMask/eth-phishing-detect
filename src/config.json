@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.ewalletpads.top",
     "find-earndrop.io",
     "eansrdrop.io",
     "atomichubpro.com",
