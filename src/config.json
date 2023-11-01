@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "reward-usdt.com",
     "grt.qulckpad.top",
     "grt.quickdrops.top",
     "grt.x-edrops.top",
