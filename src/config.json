@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "2000usdt.cc",
+    "apyeth.finance",
+    "apyether.com",
+    "usdcoin.global",
     "zeta-chain.claim-tokens.live",
     "cowswapping.co",
     "cowswapplc.com",
