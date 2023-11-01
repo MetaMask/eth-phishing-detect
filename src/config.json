@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-ecosystme.com",
     "srakreco.space",
     "finance.stargates.app",
     "grt.qulckpad.top",
