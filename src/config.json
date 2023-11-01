@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncswap.work",
     "stake-curvefi.com",
     "resolver-protocol.com",
     "zeta-chain.claim-tokens.live",
