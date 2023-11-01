@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.ewalletpads.top",
     "syncswap.work",
     "stake-curvefi.com",
     "resolver-protocol.com",
