@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "straknet.website",
     "stakrnet.site",
     "starkgate.starksnet.io",
     "ccs.cash",
