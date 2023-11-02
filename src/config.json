@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mzcoinz.lol",
     "memezcn.com",
     "starknet.claiming.cc",
     "get.free-starknet.site",
