@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trust-rewards.xyz",
+    "usdt-airdrop.org",
+    "memecoin.yt",
+    "tether.lc",
     "mzcoinz.lol",
     "memezcn.com",
     "starknet.claiming.cc",
