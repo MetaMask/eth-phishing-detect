@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "invite-starknet.com",
     "starknet.l2zkevm.xyz",
     "starknettairdrop.pw",
     "straknet.website",
