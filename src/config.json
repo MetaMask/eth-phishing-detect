@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet.claiming.cc",
     "get.free-starknet.site",
     "invite-starknet.com",
     "starknet.l2zkevm.xyz",
