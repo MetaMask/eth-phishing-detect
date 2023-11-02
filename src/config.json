@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shibainue.com",
+    "rewards-usdt.xyz",
+    "tether-airdrop.org",
+    "usdt.jysrhs.com",
     "mev-arbitrages.info",
     "dubzb.net",
     "wbtcreward.com",
