@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starkgate.starksnet.io",
     "ccs.cash",
     "bitcoinlaundry.cash",
     "bestcryptomixer.io",
