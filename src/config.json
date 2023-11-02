@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mev-arbitrages.info",
+    "dubzb.net",
+    "wbtcreward.com",
+    "bonetoken.app",
+    "reward-usdt.com",
     "opensea.newoffer.io",
     "grt.qulckpad.top",
     "grt.quickdrops.top",
