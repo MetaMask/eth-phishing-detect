@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ccs.cash",
+    "bitcoinlaundry.cash",
+    "bestcryptomixer.io",
+    "blennder.net",
+    "bitcoinmixer1.com",
     "mev-arbitrages.info",
     "dubzb.net",
     "wbtcreward.com",
