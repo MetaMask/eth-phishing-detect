@@ -513,6 +513,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ccs.cash",
+    "bitcoinlaundry.cash",
+    "bestcryptomixer.io",
+    "blennder.net",
+    "bitcoinmixer1.com",
+    "cowswap-markets.com",
+    "wallet500.promogift.top",
+    "tabis.lol",
+    "starknet-ecosystme.com",
+    "srakreco.space",
+    "finance.stargates.app",
     "mev-arbitrages.info",
     "dubzb.net",
     "wbtcreward.com",
