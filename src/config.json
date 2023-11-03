@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "extended-ens.com",
     "fundropbob.eu",
     "mzcoinz.lol",
     "memezcn.com",
