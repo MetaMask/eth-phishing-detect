@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornadov2.cash",
     "tellor.claims",
     "tellor-claim.com",
     "tellor.app",
