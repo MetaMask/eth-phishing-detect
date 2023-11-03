@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tellor.co",
+    "extended-ens.com",
+    "fundropbob.eu",
     "mzcoinz.lol",
     "memezcn.com",
     "starknet.claiming.cc",
