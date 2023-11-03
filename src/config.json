@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinmixer1.com ",
+    "bitcoinmixer.io",
+    "unijoin.plus",
     "mzcoinz.lol",
     "memezcn.com",
     "starknet.claiming.cc",
