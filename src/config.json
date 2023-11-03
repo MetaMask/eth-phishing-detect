@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tellor.gift",
     "arbitrum.bitcontinuity.com",
     "coinmixer1.com",
     "bitcoinmixer.io",
