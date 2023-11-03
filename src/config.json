@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinmixer1.com",
+    "bitcoinmixer.io",
+    "unijoin.plus",
     "9212.bnb3099.top",
     "app-3commas.io",
     "bootsdorm.net",
