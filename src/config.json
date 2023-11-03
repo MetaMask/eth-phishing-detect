@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdc-voucher.org",
     "usdcaward.com",
     "usesapp.com",
     "sign-uses.app",
