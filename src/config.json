@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tellor-claim.com",
+    "tellor.app",
+    "tellor.gift",
     "arbitrum.bitcontinuity.com",
     "coinmixer1.com",
     "bitcoinmixer.io",
