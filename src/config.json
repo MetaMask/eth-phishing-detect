@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.expads.top",
     "tokenarbitrum.net",
     "teiior.io",
     "telllor.io",
