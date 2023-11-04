@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "taikoswap.fi",
+    "cowswapexc.com",
+    "gifts.blockchainwallet.top",
+    "arbitrum.expads.top",
+    "tokenarbitrum.net",
     "teiior.io",
     "telllor.io",
     "tellor.finance",
