@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffdrop.com",
     "usdc-voucher.org",
     "usdcaward.com",
     "usesapp.com",
