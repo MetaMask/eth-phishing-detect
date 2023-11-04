@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "teiior.io",
+    "telllor.io",
     "tellor.finance",
     "tellor.claims",
     "tellor-claim.com",
