@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sinbadgo.com",
+    "bitcoin-tumblers.com",
+    "bitcoinlaundry.org",
+    "bestmixer.app",
+    "tornado.exchange",
     "tornadov2.cash",
     "usdc-voucher.org",
     "usdcaward.com",
