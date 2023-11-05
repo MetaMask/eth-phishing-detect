@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "teiior.xyz",
     "tornadov2.cash",
     "usdc-voucher.org",
     "usdcaward.com",
