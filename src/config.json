@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknct.biz",
     "starkgate.starknete.io",
     "sinbadgo.com",
     "bitcoin-tumblers.com",
