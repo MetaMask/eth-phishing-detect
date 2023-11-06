@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "get-link.io",
+    "usdt-airdrop.work",
     "injective.events",
     "clink.gift",
     "paxos.gift",
