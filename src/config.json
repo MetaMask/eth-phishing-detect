@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app-balancer.pages.dev",
+    "balancer-fi.pages.dev",
+    "beta-app-v2-7l8fzv2el-balancer.vercel.app",
     "web3app-connect.com",
     "ultimateactivemate.xyz",
     "synceddapp.netlify.app",
