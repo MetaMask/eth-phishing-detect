@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "clink.gift",
     "paxos.gift",
     "paxosreward.org",
     "getmyusdt.com",
