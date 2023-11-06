@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "synceddapp.netlify.app",
     "starknct.biz",
     "starkgate.starknete.io",
     "sinbadgo.com",
