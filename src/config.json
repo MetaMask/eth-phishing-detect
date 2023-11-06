@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffdrop.com",
     "sinbadgo.com",
     "bitcoin-tumblers.com",
     "bitcoinlaundry.org",
