@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "staking-arbitrun.icu",
     "app-balancer.pages.dev",
     "balancer-fi.pages.dev",
     "beta-app-v2-7l8fzv2el-balancer.vercel.app",
