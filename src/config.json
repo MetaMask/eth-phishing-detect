@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3app-connect.com",
     "ultimateactivemate.xyz",
     "synceddapp.netlify.app",
     "starknct.biz",
