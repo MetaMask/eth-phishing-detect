@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "teiior.com",
+    "teilor.xyz",
     "arbtestnet.eth",
     "staking-arbitrun.icu",
     "app-balancer.pages.dev",
