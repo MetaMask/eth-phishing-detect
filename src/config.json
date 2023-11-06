@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "injective.events",
     "clink.gift",
     "paxos.gift",
     "paxosreward.org",
