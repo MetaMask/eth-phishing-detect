@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3app-connect.com",
     "get-link.io",
     "usdt-airdrop.work",
     "injective.events",
