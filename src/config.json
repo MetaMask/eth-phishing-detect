@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "paxos.gift",
+    "paxosreward.org",
     "getmyusdt.com",
     "usdt-airdrop.xyz",
     "zksyncs.club",
