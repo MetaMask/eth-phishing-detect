@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.etructpad.top",
     "thegraph.fi",
     "boredapekennelclubmigrate.online",
     "gitcoin.money",
