@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet.claim-tokens.live",
     "authresolvefix.pages.dev",
     "starknet.cryptoshares.online",
     "grt.etructpad.top",
