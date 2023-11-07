@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "laydefi.biz",
+    "originalcoin.bio",
+    "migration-cuminu.xyz",
     "apyeth.me",
     "usdt-web3.uk",
     "get-rewards.xyz",
