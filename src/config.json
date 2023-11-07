@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curve-rewards.claims",
+    "xn--balancr-ws4c.com",
+    "curvefinance-airdrops.com",
+    "curvefinanceinfo.com",
+    "arkm.x-edrops.top",
+    "arkm.ewalletpads.top",
+    "arkm.expads.top",
+    "starknet.claim-tokens.live",
+    "authresolvefix.pages.dev",
     "web3-usdt.vip",
     "starknet.cryptoshares.online",
     "grt.etructpad.top",
