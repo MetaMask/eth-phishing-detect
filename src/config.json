@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arkm.x-edrops.top",
     "arkm.ewalletpads.top",
     "arkm.expads.top",
     "starknet.claim-tokens.live",
