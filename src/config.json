@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdt-web3.uk",
+    "get-rewards.xyz",
     "curve-rewards.claims",
     "xn--balancr-ws4c.com",
     "curvefinance-airdrops.com",
