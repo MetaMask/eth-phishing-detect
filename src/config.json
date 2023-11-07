@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curvefinance-airdrops.com",
+    "curvefinanceinfo.com",
     "arkm.x-edrops.top",
     "arkm.ewalletpads.top",
     "arkm.expads.top",
