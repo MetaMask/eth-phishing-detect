@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "xn--balancr-ws4c.com",
     "curvefinance-airdrops.com",
     "curvefinanceinfo.com",
     "arkm.x-edrops.top",
