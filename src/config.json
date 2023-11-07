@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3-usdt.vip",
     "starknet.cryptoshares.online",
     "grt.etructpad.top",
     "thegraph.fi",
