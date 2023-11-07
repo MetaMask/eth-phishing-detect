@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "authresolvefix.pages.dev",
     "starknet.cryptoshares.online",
     "grt.etructpad.top",
     "thegraph.fi",
