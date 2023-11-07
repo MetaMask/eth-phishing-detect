@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apyeth.me",
     "usdt-web3.uk",
     "get-rewards.xyz",
     "curve-rewards.claims",
