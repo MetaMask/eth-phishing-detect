@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mlxer.money",
+    "tornado2.com",
     "laydefi.biz",
     "originalcoin.bio",
     "migration-cuminu.xyz",
