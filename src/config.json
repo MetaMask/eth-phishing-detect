@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknct.website",
     "stargate-zero.com",
     "seizcommunity.xyz",
     "layerzerolabsnet.xyz",
