@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "get-usdc.net",
+    "usd-coin.org",
     "quantvoucher.net",
     "bonus-optimism.net",
     "usdt.airdrop1.org",
