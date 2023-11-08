@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metawin.to",
+    "raffle.metawin.group",
     "get-usdc.net",
     "usd-coin.org",
     "quantvoucher.net",
