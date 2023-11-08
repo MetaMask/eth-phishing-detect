@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptamixer.org",
+    "blendor.net",
+    "mlxer.money",
+    "tornado2.com",
     "web3.airdrop1.org",
     "shibainuw.com",
     "babydogec.com",
