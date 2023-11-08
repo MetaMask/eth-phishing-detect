@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptamixer.org",
+    "blendor.net",
     "mlxer.money",
     "tornado2.com",
     "laydefi.biz",
