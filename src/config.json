@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linae-build.com",
     "tokenarbitrum.org",
     "arbitrum.etrstpad.top",
     "laydefi.biz",
