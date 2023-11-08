@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.etrstpad.top",
     "laydefi.biz",
     "originalcoin.bio",
     "migration-cuminu.xyz",
