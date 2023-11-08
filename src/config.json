@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usd-reward.xyz",
     "getmyusdc.com",
     "metawin.to",
     "raffle.metawin.group",
