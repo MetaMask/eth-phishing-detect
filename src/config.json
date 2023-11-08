@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shibainun.com",
     "starknet.starksgate.io",
     "starknct.website",
     "stargate-zero.com",
