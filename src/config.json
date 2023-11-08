@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tokenarbitrum.org",
     "arbitrum.etrstpad.top",
     "laydefi.biz",
     "originalcoin.bio",
