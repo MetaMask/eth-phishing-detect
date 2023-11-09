@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "flufy.io",
     "layerzero-system.network",
     "apreth.net",
     "linkchaintoken.com",
