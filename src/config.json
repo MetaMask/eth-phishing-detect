@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-system.network",
     "starknet.starksgate.io",
     "starknct.website",
     "stargate-zero.com",
