@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lineabuild.org",
+    "bridgearbitrum.xyz",
+    "arbitrum.itrstpad.top",
+    "500.cryptopromo.top",
     "flufy.io",
     "layerzero-system.network",
     "apreth.net",
