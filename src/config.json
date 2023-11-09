@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tokenarbitrum.org",
+    "linkchaintoken.com",
+    "drop-usd.com",
+    "usdc-check.com",
     "shibainun.com",
     "starknet.starksgate.io",
     "starknct.website",
