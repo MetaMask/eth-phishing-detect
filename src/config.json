@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.itrstpad.top",
     "500.cryptopromo.top",
     "apreth.net",
     "linkchaintoken.com",
