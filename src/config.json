@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bnbminer.finance",
+    "gmxechange.com",
+    "xn--niswap-9lb.org",
+    "blog-celestia.org",
+    "www-blur.tech",
+    "layerzero-network.co",
+    "helps-layerzero.network",
+    "layerzerodrop.cfd",
+    "layerzerofnd.us",
     "starknet.starksgate.io",
     "starknct.website",
     "stargate-zero.com",
