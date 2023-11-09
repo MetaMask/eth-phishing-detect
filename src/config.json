@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero-system.network",
     "apreth.net",
     "linkchaintoken.com",
     "drop-usd.com",
