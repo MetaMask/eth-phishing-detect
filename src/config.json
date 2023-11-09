@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "btsemarket.cc",
+    "otcexchange.io",
     "lineabuild.org",
     "bridgearbitrum.xyz",
     "arbitrum.itrstpad.top",
