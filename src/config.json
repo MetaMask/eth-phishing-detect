@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apreth.net",
+    "usdcoin.global",
     "linkchaintoken.com",
     "drop-usd.com",
     "usdc-check.com",
