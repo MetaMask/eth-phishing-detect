@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "busdvoucher.com",
+    "pooledweb.com",
+    "web.airdrop1.org",
+    "claim-usdt.top",
     "curvef.online",
     "curve.pages.dev",
     "airdropped.vercel.app",
