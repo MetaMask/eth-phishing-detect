@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado.black",
     "btsemarket.cc",
     "otcexchange.io",
     "lineabuild.org",
