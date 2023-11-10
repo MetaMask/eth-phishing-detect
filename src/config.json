@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curvef.online",
+    "curve.pages.dev",
     "airdropped.vercel.app",
     "app-meta-restore.webflow.io",
     "bittrex.omniagent-solution.com",
