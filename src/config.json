@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "0x1c8f1fbc49f6e3af925d7e.com",
+    "ngstruart.org",
     "curvef.online",
     "curve.pages.dev",
     "airdropped.vercel.app",
