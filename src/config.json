@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curves-fi.org",
     "0x1c8f1fbc49f6e3af925d7e.com",
     "ngstruart.org",
     "curvef.online",
