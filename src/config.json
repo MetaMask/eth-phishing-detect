@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdc.sadw.top",
+    "case-usdc.com",
     "busdvoucher.com",
     "pooledweb.com",
     "web.airdrop1.org",
