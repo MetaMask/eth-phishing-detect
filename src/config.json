@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curve.pages.dev",
     "tokentether.net",
     "erc.airdrop1.org",
     "get-usd.xyz",
