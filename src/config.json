@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrym.pics",
     "curves-fi.org",
     "usdc.sadw.top",
     "case-usdc.com",
