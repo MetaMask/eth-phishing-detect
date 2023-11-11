@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbi.gift",
     "stake-abritrum.in",
     "arbitrym.pics",
     "curves-fi.org",
