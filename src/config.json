@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curve-fl.xyz",
     "xn--dfilama-t8a.com",
     "arbi.gift",
     "stake-abritrum.in",
