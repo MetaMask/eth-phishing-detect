@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "adrp.webusdt.org",
+    "aeth.global",
+    "apyeth.ai",
+    "eth-apy.eu",
     "curves-fi.org",
     "usdc.sadw.top",
     "case-usdc.com",
