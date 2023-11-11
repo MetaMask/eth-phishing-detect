@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzerolabs.network",
+    "celesetia.com",
+    "celestiaportal.vip",
+    "celestiadapps.com",
+    "stargatefinance.dev",
+    "layerzero-network.quest",
+    "gitcoin.foundation",
+    "stargate-financial.com",
     "curves-fi.org",
     "usdc.sadw.top",
     "case-usdc.com",
