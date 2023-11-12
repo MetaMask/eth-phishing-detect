@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-finance.com",
     "intractlinea.com",
     "bridgearbitrum.airdropapp.io",
     "deskdbmainnet.com",
