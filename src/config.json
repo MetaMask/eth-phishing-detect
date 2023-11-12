@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "adrp.webusdt.org",
+    "aeth.global",
+    "apyeth.ai",
+    "eth-apy.eu",
     "layerzero.com.co",
     "sandboxclaim.org",
     "okcoindexchange.asia",
