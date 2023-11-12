@@ -44,7 +44,7 @@ console.log(value)
 
 
 For understanding the lists, see [`doc/lists-ref.md`](doc/lists-ref.md).
-Contributors are encouraged to read [`CONTRIBUTING.md`](./CONTRIBUTING.md) to for tips, pointers, and guidelines before reporting or collaborating.
+Contributors are encouraged to read [`CONTRIBUTING.md`](./CONTRIBUTING.md) for tips, pointers, and guidelines before reporting or collaborating.
 
 To keep a tidy file, use the following CLI to make changes to the list:
 
@@ -59,3 +59,18 @@ yarn add:blocklist crypto-phishing-site.tld
 ```
 yarn add:allowlist crypto-phishing-site.tld
 ```
+
+## Databases
+
+We have added sqlite databases in `test/db` directory. These will be committed to the working tree periodically to try reduce the amount of false positives being blocklisted. We will pull in domains from various third party sources - right now: CoinMarketCap and Tranco. 
+
+Update the database files:
+
+```terminal
+yarn update:db
+
+yarn update:db:tranco
+yarn update:db:coinmarketcap
+```
+
+These sqlite databases will be checked against in `yarn run test` to ensure nothing is on the blocklist that is also in these databases.
