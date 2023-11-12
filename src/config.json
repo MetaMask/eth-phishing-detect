@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "deskdbmainnet.com",
     "coins.cryptopromo.top",
     "arbitrum.trvstpad.top",
     "aptzgroup.com",
