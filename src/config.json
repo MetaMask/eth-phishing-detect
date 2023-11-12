@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.trvstpad.top",
     "aptzgroup.com",
     "uniswapnetwork.com",
     "airdrop-layerzero.work",
