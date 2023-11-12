@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridgearbitrum.airdropapp.io",
     "deskdbmainnet.com",
     "coins.cryptopromo.top",
     "arbitrum.trvstpad.top",
