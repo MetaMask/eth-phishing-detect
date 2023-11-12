@@ -513,6 +513,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzero.com.co",
+    "sandboxclaim.org",
+    "okcoindexchange.asia",
+    "celestiaportal.vip",
+    "okx-b.com",
+    "layerzerodrop.fun",
+    "okcoindex.xyz",
+    "okx.markets",
+    "blurmagicsedenlooksrareinu.com",
+    "chalkbored.xyz",
+    "layerzerowebnetwork.com",
     "curves-fi.org",
     "usdc.sadw.top",
     "case-usdc.com",
@@ -68274,6 +68285,7 @@
     "my.dropz.xyz",
     "patak.me",
     "apyeth.eu",
-    "revokecash.app"
+    "revokecash.app",
+    "nftelamentals.com"
   ]
 }
