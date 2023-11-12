@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamasuk.io",
     "curves-fi.org",
     "usdc.sadw.top",
     "case-usdc.com",
