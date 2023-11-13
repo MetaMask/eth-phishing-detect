@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "distribute-thegraph.xyz",
     "metamasuk.io",
     "paxosgold.net",
     "usdrewards.me",
