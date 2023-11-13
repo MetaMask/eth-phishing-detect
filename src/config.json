@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.trvstpad.top",
     "claiming-thegraph.xyz",
     "distribute-thegraph.xyz",
     "metamasuk.io",
