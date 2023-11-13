@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamasuk.io",
     "paxosgold.net",
     "usdrewards.me",
     "hub-injective.net",
