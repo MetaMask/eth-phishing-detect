@@ -515,6 +515,10 @@
   "blacklist": [
     "bittrex-omniagentsolutions.com",
     "riscorp.de",
+    "revokemycash.org",
+    "revokemycash.xyz",
+    "revokecash.wtf",
+    "revokecash.one",
     "revokecash.services",
     "revokecash.it",
     "synkswallet.square.site",
@@ -68529,6 +68533,7 @@
     "revokecash.app",
     "nftelamentals.com",
     "makerdaopro.info",
-    "playstakebet.com"
+    "playstakebet.com",
+    "docs-opensea.io"
   ]
 }
