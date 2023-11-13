@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starkgate.starsnet.io",
     "starknet.pre-ico.org",
     "grt.trvstpad.top",
     "claiming-thegraph.xyz",
