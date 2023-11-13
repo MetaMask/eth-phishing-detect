@@ -513,7 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "metamasuk.io",
+    "paxosgold.net",
+    "usdrewards.me",
+    "hub-injective.net",
+    "apy-eth.us",
+    "apyether.us",
     "raffle.metawin.ltd",
     "starknet-claim.com",
     "starknet-finance.com",
