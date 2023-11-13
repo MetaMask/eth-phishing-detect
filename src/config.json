@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "docs-opensea.io",
     "revokecash.services",
     "revokecash.it",
     "synkswallet.square.site",
