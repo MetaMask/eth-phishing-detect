@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-trade.com",
     "500usd.promogift.top",
     "curve-finance.org",
     "ultimateactives.site",
