@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "raffle.metawin.ltd",
     "starknet-claim.com",
     "starknet-finance.com",
     "intractlinea.com",
