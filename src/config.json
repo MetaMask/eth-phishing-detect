@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "revokecash.dev",
     "metamasuk.io",
     "paxosgold.net",
     "usdrewards.me",
