@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curve-finance.org",
     "ultimateactives.site",
     "starkgate.starsnet.io",
     "starknet.pre-ico.org",
