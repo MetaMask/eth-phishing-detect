@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "revokecash.services",
+    "revokecash.it",
+    "synkswallet.square.site",
+    "idlabsinternational.space",
     "zksync-trade.com",
     "500usd.promogift.top",
     "curve-finance.org",
