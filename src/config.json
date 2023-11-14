@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aregnt.xyz",
+    "grt.egpads.top",
+    "arbitrum.egpads.top",
+    "drop.cryptopromo.top",
     "layerzero.fo",
     "gmxexchange.io",
     "app-gala-games-plataform-0qah7.com",
