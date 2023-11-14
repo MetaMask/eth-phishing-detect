@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "drop.cryptopromo.top",
     "revokemycash.org",
     "revokemycash.xyz",
     "revokecash.wtf",
