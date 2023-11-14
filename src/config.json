@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aeth.app",
     "usdc.stoorage.com",
     "usdccheck.org",
     "event-apyeth.com",
