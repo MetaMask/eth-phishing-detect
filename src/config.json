@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdc-claim.xyz",
     "watchlist-earndrop.io",
     "mysterybox-live.net",
     "boxnfts-web3.online",
