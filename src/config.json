@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event-apyeth.com",
     "revokemycash.org",
     "revokemycash.xyz",
     "revokecash.wtf",
