@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "myartchain.com",
+    "foundation-meta.io",
     "curves-finance.org",
     "usdc-claim.xyz",
     "celiastia.org",
