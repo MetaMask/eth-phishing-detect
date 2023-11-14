@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdc.stoorage.com",
+    "usdccheck.org",
     "event-apyeth.com",
     "revokemycash.org",
     "revokemycash.xyz",
