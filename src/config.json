@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "join-renga.racing",
+    "renga.events",
     "curves-finance.org",
     "usdc-claim.xyz",
     "celiastia.org",
