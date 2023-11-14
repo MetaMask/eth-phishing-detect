@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "raffle.metawin.la",
     "aeth.app",
     "usdc.stoorage.com",
     "usdccheck.org",
