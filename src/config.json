@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdc.stoorage.com",
+    "usdccheck.org",
+    "event-apyeth.com",
+    "aregnt.xyz",
+    "grt.egpads.top",
+    "arbitrum.egpads.top",
+    "drop.cryptopromo.top",
     "layerzero.fo",
     "gmxexchange.io",
     "app-gala-games-plataform-0qah7.com",
