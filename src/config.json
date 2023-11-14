@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.egpads.top",
     "arbitrum.egpads.top",
     "drop.cryptopromo.top",
     "revokemycash.org",
