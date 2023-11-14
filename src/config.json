@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curves-finance.org",
     "usdc-claim.xyz",
     "celiastia.org",
     "chain-bridge-pulse.com",
