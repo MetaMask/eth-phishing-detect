@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "myartchain.com",
+    "foundation-meta.io",
     "join-renga.racing",
     "renga.events",
     "curves-finance.org",
