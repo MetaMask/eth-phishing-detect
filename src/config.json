@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bittrex-omniagentsolutions.com",
+    "riscorp.de",
     "revokemycash.org",
     "revokemycash.xyz",
     "revokecash.wtf",
