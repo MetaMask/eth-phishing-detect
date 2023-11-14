@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdc-claim.xyz",
     "celiastia.org",
     "chain-bridge-pulse.com",
     "cosmos-swaps.io",
