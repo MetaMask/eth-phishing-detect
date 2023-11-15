@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzro.net",
+    "llamanodes.io",
+    "distribute-ankr.com",
+    "arkham.gift",
+    "e-project.click",
+    "pepe-vip.claims",
     "metawin.farm",
     "raffle.metawin.im",
     "memecoin-finance.online",
