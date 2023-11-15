@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffie.io",
     "syncappauth.pages.dev",
     "layerzro.net",
     "distribute-ankr.com",
