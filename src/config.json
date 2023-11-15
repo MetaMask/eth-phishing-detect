@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado7.cash",
     "myartchain.com",
     "foundation-meta.io",
     "join-renga.racing",
