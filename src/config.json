@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apreth.app",
     "myartchain.com",
     "foundation-meta.io",
     "join-renga.racing",
