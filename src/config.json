@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "raffle.metawin.im",
     "memecoin-finance.online",
     "apreth.app",
     "myartchain.com",
