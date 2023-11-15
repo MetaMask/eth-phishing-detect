@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdcgem.org",
+    "usdc.baifengwei.com",
+    "tetherw.com",
+    "babydoged.com",
+    "shibainuk.com",
     "revoketokens.io",
     "zksnyc-erra.org",
     "yestokens.xyz",
