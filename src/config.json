@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado7.cash",
     "boredapeyach.com",
     "adidascryptopunks.com",
     "looksrareretry.pages.dev",
