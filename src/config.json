@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswap-finance.com",
+    "cowswapfinance.com",
     "cowswappiing.com",
     "advancetmfx.com",
     "app.7staroptions.ltd",
