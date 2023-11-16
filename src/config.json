@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "crustpad.top",
     "arbitrum-1qf.pages.dev",
     "arbitrum.ecrustpad.top",
     "syncappauth.pages.dev",
