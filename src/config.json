@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event-optimism.net",
     "register-optimism.com",
     "optimims.net",
     "optsimim.io",
