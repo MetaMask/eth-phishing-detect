@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "register-optimism.com",
     "optimims.net",
     "optsimim.io",
     "arbitrum-bridge.me",
