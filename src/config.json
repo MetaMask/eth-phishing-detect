@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewards-apyeth.com",
     "aeth.money",
     "advancetmfx.com",
     "app.7staroptions.ltd",
