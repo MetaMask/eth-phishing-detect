@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event-optimism.net",
+    "register-optimism.com",
+    "optimims.net",
+    "optsimim.io",
+    "arbitrum-bridge.me",
+    "crustpad.top",
+    "arbitrum-1qf.pages.dev",
+    "arbitrum.ecrustpad.top",
     "tornado-app.org",
     "tornado3.cash",
     "bestmix.ltd",
