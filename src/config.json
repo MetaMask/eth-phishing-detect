@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.ecrustpad.top",
     "syncappauth.pages.dev",
     "layerzro.net",
     "distribute-ankr.com",
