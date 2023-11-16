@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blenderbtc.pro",
+    "chipbitmixer.com",
+    "bitcoin-laundry.online",
+    "smartcoinmix.com",
     "syncappauth.pages.dev",
     "layerzro.net",
     "distribute-ankr.com",
