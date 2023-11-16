@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado-app.org",
     "tornado3.cash",
     "blenderbtc.pro",
     "chipbitmixer.com",
