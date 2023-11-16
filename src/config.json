@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimims.net",
     "optsimim.io",
     "arbitrum-bridge.me",
     "crustpad.top",
