@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "paxosgold.org",
     "get-link.gift",
     "mail.treasury.claims",
     "tether-usdt.org",
