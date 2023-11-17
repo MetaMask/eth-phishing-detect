@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "get-link.gift",
+    "mail.treasury.claims",
+    "tether-usdt.org",
+    "pyth-network.org",
+    "app-injective.com",
+    "rewards-apyeth.org",
+    "hub-apyeth.com",
+    "getusdc.net",
     "extrustpad.com",
     "uniswap.fi",
     "questsmisten.pw",
