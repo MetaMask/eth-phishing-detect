@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethereummixer.net",
+    "bestmixer.ink",
     "advancetmfx.com",
     "app.7staroptions.ltd",
     "binance-bnb-usdt.com",
