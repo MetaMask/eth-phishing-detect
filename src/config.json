@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornadomirror.com",
     "ethereummixer.net",
     "bestmixer.ink",
     "advancetmfx.com",
