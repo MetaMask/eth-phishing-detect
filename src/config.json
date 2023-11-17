@@ -513,6 +513,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "get-link.gift",
+    "mail.treasury.claims",
+    "tether-usdt.org",
+    "join-velodrome.xyz",
+    "mong.money",
+    "pyth-network.org",
+    "gmbot.gift",
+    "app-injective.com",
+    "rewards-apyeth.com",
+    "rewards-apyeth.org",
+    "hub-apyeth.com",
+    "getusdc.net",
     "xn--dfllama-bya1b.com",
     "xn--dfillama-4db.com",
     "cowswap-finance.com",
