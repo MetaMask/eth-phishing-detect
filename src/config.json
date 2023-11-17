@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdc-claims.org",
+    "usdc.01tx.com",
     "rewards-apyeth.com",
     "aeth.money",
     "advancetmfx.com",
