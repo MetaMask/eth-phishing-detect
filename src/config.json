@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-link.io",
+    "hub-link.net",
     "metawin.land",
     "enter.play-metawin.com",
     "aeth.lu",
