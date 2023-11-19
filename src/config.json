@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethereummixer.top",
+    "eth-mixers.com",
+    "ethereum-mixers.com",
     "metawin.land",
     "enter.play-metawin.com",
     "aeth.lu",
