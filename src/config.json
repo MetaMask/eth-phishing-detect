@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-link.io",
+    "hub-link.net",
     "fluffmania.com",
     "ethereummixer.top",
     "eth-mixers.com",
