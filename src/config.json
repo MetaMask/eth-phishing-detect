@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "survey-arbirtrum.com",
     "arbitrum.iltrustpad.top",
     "arbitrum.trustdpad.top",
     "claim-link.io",
