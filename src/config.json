@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumblockchainnews.com",
     "coindrop.cryptopromo.top",
     "survey-arbirtrum.com",
     "arbitrum.iltrustpad.top",
