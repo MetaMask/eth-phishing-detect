@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.trustdpad.top",
     "claim-link.io",
     "hub-link.net",
     "fluffmania.com",
