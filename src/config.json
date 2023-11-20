@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.live",
     "integratefusionapp.pro",
     "join-curve.xyz",
     "arbitrumblockchainnews.com",
