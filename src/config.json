@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "join-curve.xyz",
     "arbitrumblockchainnews.com",
     "coindrop.cryptopromo.top",
     "survey-arbirtrum.com",
