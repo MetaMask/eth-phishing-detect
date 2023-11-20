@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado3.com",
+    "bitcoinlaundry.net",
     "layerzerozro.network",
     "boredapedrop.com",
     "aptzcommunity.xyz",
