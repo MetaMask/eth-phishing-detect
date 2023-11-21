@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdt.game5.co",
+    "usdt-claim.net",
+    "reward-usdt.xyz",
     "raffle.metawin.fund",
     "metawin.fund",
     "defiwebconnect.com",
