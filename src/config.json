@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usd-rewards.com",
     "syntax-defi.pages.dev",
     "apexs9miningcloud.com",
     "tradingviewtoken.com",
@@ -520,7 +521,7 @@
     "mannaz.pro",
     "dapps-claim.ive",
     "app-cyberpoints.xyz",
-    "britbexxtradingltd.com",    
+    "britbexxtradingltd.com",
     "metawin.events",
     "enter.play-metawin.net",
     "app-injective.org",
