@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornadomir.com",
+    "tornado9.com",
     "syntax-defi.pages.dev",
     "apexs9miningcloud.com",
     "tradingviewtoken.com",
