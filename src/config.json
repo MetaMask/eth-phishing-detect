@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.ecrustpad.top",
     "grt.trustdpad.top",
     "yearn.gift",
     "yearn.yethfi.app",
