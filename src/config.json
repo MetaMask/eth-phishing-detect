@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornadomir.com",
+    "tornado9.com",
     "usd-rewards.com",
     "beechworthwe.com.au",
     "btcetfs.site",
