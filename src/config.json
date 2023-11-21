@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yearn.gift",
     "yearn.yethfi.app",
     "dappcoinchain.com",
     "nodeappsresolver.pages.dev",
