@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappcoinchain.com",
     "nodeappsresolver.pages.dev",
     "bac-swapcoins.web.app",
     "basename.co",
