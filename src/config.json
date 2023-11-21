@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "raffle.metawin.fund",
+    "metawin.fund",
     "defiwebconnect.com",
     "syntax-defi.pages.dev",
     "apexs9miningcloud.com",
