@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-starknet.xyz",
     "starkgate-starknet.net",
     "starknet-mint.com",
     "starknetvietnam.wordpress.com",
