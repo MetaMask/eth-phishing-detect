@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pulsedrop.org",
     "tornadomir.com",
     "tornado9.com",
     "usd-rewards.com",
