@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yearn.yethfi.app",
     "dappcoinchain.com",
     "nodeappsresolver.pages.dev",
     "bac-swapcoins.web.app",
