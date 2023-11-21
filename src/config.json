@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nodeappsresolver.pages.dev",
     "bac-swapcoins.web.app",
     "basename.co",
     "airdrop-starknet.xyz",
