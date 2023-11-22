@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "raffle.xn--metwin-rta.com",
     "usdt.game5.co",
     "usdt-claim.net",
     "reward-usdt.xyz",
