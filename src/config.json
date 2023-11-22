@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-claim.tech",
     "brldge-arbitrum.io",
     "arbitrum-foundations.org",
     "grt.iltrustpad.top",
