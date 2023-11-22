@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pulsedrop.org",
     "zksyncnetwork.xyz",
     "zksync-claim.tech",
     "brldge-arbitrum.io",
