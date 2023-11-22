@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado.cash.earn.li",
     "usdt-qr.com",
     "ltc-qr-code.su",
     "xmr-qr-code.com",
