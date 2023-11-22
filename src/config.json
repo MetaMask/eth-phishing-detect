@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdt-qr.com",
+    "ltc-qr-code.su",
     "xmr-qr-code.com",
     "cryptomixers-reviews.com",
     "ethereum-mixer.online",
