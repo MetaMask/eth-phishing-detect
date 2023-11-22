@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-foundations.org",
     "grt.iltrustpad.top",
     "grt.ecrustpad.top",
     "grt.trustdpad.top",
