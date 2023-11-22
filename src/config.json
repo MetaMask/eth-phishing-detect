@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rewards-apyeth.net",
     "app-injective.net",
     "raffle.xn--metwin-rta.com",
     "usdt.game5.co",
