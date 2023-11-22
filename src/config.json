@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdt.game5.co",
+    "usdt-claim.net",
+    "reward-usdt.xyz",
+    "metawin.fund",
     "ethereummixer.xyz",
     "tornado.cash.earn.li",
     "usdt-qr.com",
