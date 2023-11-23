@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdt-qr-code.com",
     "usdt.game5.co",
     "usdt-claim.net",
     "reward-usdt.xyz",
