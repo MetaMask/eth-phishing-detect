@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumclaims.net",
     "usdt.game5.co",
     "usdt-claim.net",
     "reward-usdt.xyz",
