@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswapexchangefi.com",
     "defillama.oiklk.com",
     "arbitrumclaims.net",
     "usdt.game5.co",
