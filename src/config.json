@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknetdrop.space",
     "zksync.airdrop-moment.xyz",
     "cowswapexchangefi.com",
     "defillama.oiklk.com",
