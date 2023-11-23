@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet.service-claim.codes",
     "starknetdrop.space",
     "zksync.airdrop-moment.xyz",
     "cowswapexchangefi.com",
