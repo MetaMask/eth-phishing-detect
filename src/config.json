@@ -12,9 +12,6 @@
     "satoshilabs.com"
   ],
   "whitelist": [
-    "usdt-case.net",
-    "usdt.ixueo.net",
-    "ixueo.net",
     "cryptocities.world",
     "metamax.exchange",
     "openmeta.network",
@@ -516,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdt-case.net",
+    "usdt.ixueo.net",
+    "ixueo.net",
     "rewards-apyeth.net",
     "app-injective.net",
     "raffle.xn--metwin-rta.com",
