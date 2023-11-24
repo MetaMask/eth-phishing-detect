@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "swap-zksync.io",
+    "starknetco.com",
     "bac-swapscoin.web.app",
     "air.alt-coinsdrop.top",
     "bonus-stark.net",
