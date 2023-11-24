@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezortoken.com",
     "basenames.fi",
     "basens.io",
     "swap-zksync.io",
