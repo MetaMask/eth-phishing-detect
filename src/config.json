@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "basenames.fi",
+    "basens.io",
     "swap-zksync.io",
     "starknetco.com",
     "bac-swapscoin.web.app",
