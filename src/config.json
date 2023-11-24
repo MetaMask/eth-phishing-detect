@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "realio.events",
+    "wooprotocol.com",
     "scroll-source.network",
     "blurdrop.tech",
     "xrpstakingripple.com",
