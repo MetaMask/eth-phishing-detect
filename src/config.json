@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknetco.com",
     "bac-swapscoin.web.app",
     "air.alt-coinsdrop.top",
     "bonus-stark.net",
