@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "illuvium.gift",
+    "sidus.gift",
+    "golem.gift",
+    "tsuka.gift",
+    "grok-erc.co",
     "realio.events",
     "wooprotocol.com",
     "scroll-source.network",
