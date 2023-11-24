@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "air.alt-coinsdrop.top",
     "bonus-stark.net",
     "starknet.service-claim.codes",
     "starknetdrop.space",
