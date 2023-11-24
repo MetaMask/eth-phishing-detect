@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdt-qr-code.com",
     "liquity.gift",
     "usdt-case.net",
     "ixueo.net",
