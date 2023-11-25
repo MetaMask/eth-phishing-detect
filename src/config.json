@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffu.io",
     "ethapy.org",
     "apyether.eu",
     "apyprotocol.org",
