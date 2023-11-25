@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fetchprotocol.com",
     "illuvium.gift",
     "sidus.gift",
     "golem.gift",
