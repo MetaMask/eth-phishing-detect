@@ -513,6 +513,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethapy.org",
+    "apyether.eu",
+    "apyprotocol.org",
+    "ethopt.io",
+    "apyether.app",
+    "aeth.gifts",
+    "app-apyeth.com",
     "fetchprotocol.com",
     "illuvium.gift",
     "sidus.gift",
