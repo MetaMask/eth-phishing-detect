@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fluffu.io",
     "scroll-source.network",
     "blurdrop.tech",
     "xrpstakingripple.com",
