@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswapllc.com",
     "alerts-earndrop.io",
     "earndrop.eu",
     "earnsdrop.eu",
