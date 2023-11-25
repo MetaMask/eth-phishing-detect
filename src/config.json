@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scmodular.network",
     "alerts-earndrop.io",
     "earndrop.eu",
     "earnsdrop.eu",
