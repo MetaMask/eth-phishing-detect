@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app-apyeth.org",
+    "app-apyeth.net",
     "enter.xn--metwin-rta.org",
     "alerts-earndrop.io",
     "earndrop.eu",
