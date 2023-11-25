@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "hopprotocol.app",
     "alerts-earndrop.io",
     "earndrop.eu",
     "earnsdrop.eu",
