@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-era.sbs",
     "cowswapllc.com",
     "alerts-earndrop.io",
     "earndrop.eu",
