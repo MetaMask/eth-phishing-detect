@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.free-zetachain.online",
     "starkniet.space",
     "starkrnet.org",
     "zksync-era.sbs",
