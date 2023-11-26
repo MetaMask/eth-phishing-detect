@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3fixsite.com",
     "airdrop-fuel.cc",
     "fundropbob.online",
     "claim.free-zetachain.online",
