@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starkniet.space",
     "starkrnet.org",
     "zksync-era.sbs",
     "cowswapllc.com",
