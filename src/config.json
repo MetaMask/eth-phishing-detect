@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fundropbob.online",
     "claim.free-zetachain.online",
     "starkniet.space",
     "starkrnet.org",
