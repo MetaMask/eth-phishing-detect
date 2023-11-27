@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cealtis.io",
     "beaconsync.org",
     "scmodular.network",
     "hopprotocol.app",
