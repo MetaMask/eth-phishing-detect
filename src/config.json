@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blast-paradigm.network",
     "cealtis.io",
     "beaconsync.org",
     "scmodular.network",
