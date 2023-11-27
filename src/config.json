@@ -513,8 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "starknet.claiming-tokens.link",
-    "starknet.claiming-manage.run",
+    "starknet-ecosystem.com",
+    "starknet.claims",
+    "starknet.gold",
+    "starknetairdrop.shop",
+    "claiming-manage.run",
+    "claiming-tokens.link",
     "airdrop.starksnet.net",
     "beaconsync.org",
     "scmodular.network",
