@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-build.network",
+    "starknetl.space",
     "starknetsale.com",
     "free-starknet.online",
     "starknet-multisig.vercel.app",
