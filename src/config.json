@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet.claiming-tokens.link",
     "starknet.claiming-manage.run",
     "airdrop.starksnet.net",
     "beaconsync.org",
