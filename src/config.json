@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "btc-qr-code.su",
+    "eth-qr-code.su",
     "app-apyeth.org",
     "app-apyeth.net",
     "enter.xn--metwin-rta.org",
