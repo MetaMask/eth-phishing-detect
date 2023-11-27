@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop.starksnet.net",
     "beaconsync.org",
     "scmodular.network",
     "hopprotocol.app",
