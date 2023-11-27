@@ -513,6 +513,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3fixsite.com",
+    "airdrop-fuel.cc",
+    "fundropbob.online",
+    "claim.free-zetachain.online",
+    "starkniet.space",
+    "starkrnet.org",
+    "zksync-era.sbs",
+    "cowswapllc.com",
     "alerts-earndrop.io",
     "earndrop.eu",
     "earnsdrop.eu",
