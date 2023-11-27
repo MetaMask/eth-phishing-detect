@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apy-protocol.com",
+    "aethprotocol.com",
     "cealtis.io",
     "beaconsync.org",
     "scmodular.network",
