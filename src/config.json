@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scmodular.network",
     "hopprotocol.app",
     "btc-qr-code.su",
     "eth-qr-code.su",
