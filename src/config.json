@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb-bakery.org",
     "arbitreum.io",
     "arbitrum-token.top",
     "arbitrumbridge.org",
