@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "elrustpad.top",
+    "linea-eth.dev",
+    "cowswap.ph",
+    "starknets.io",
+    "starknetwork.events",
+    "starkcgate.com",
     "starknet-build.network",
     "starknetl.space",
     "starknetsale.com",
