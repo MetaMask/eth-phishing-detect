@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncswapv1.netlify.app",
+    "zksync.era-claim.com",
+    "defi-protocol.com",
     "metawin.link",
     "synthetix.events",
     "swell.gift",
