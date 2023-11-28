@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.era-claim.com",
     "defi-protocol.com",
     "metawin.link",
     "synthetix.events",
