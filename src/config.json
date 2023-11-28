@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blast-paradigm.network",
     "code4re2a.com",
     "cealtis.io",
     "beaconsync.org",
