@@ -513,6 +513,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metawin.link",
+    "synthetix.events",
+    "swell.gift",
+    "rocketx.gift",
+    "creso.gift",
+    "swell.gifts",
+    "rocketx.gifts",
+    "creso.gifts",
+    "apy-protocol.com",
+    "aethprotocol.com",
     "defillama3.llamao.fi",
     "get.free-zetachain.online",
     "airdrop-zksync.biz",
