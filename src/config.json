@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metawin.team",
+    "xn--metawi-neb.com",
+    "claim-singularity.net",
+    "apy-network.org",
     "zksyncswapv1.netlify.app",
     "zksync.era-claim.com",
     "defi-protocol.com",
