@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksync.biz",
     "arb-bakery.org",
     "arbitreum.io",
     "arbitrum-token.top",
