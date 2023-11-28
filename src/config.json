@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "defi-protocol.com",
     "defillama3.llamao.fi",
     "get.free-zetachain.online",
     "airdrop-zksync.biz",
