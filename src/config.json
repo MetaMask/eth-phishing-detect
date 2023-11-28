@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezor.ecofashionistasjewelry.com",
     "zksyncswapv1.netlify.app",
     "zksync.era-claim.com",
     "defi-protocol.com",
