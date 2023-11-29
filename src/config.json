@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.trust-dpad.top",
     "arbitrum-claim.one",
     "arbitrum.trust-tpad.top",
     "aerodrome.finance",
