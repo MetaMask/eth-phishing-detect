@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "smartcoin-meter.tech",
     "arbitrum.trust-dpad.top",
     "arbitrum-claim.one",
     "arbitrum.trust-tpad.top",
