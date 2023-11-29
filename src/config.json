@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "velodrome.finance",
     "stakeflip.fi",
     "worldcoinv2.com",
     "distribute-aave.com",
