@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "hub-graphtoken.com",
     "swapusdt.org",
     "celestialgroup.lol",
     "layerzroxapp.network",
