@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "doge-qr-code.su",
+    "ltc-qr-code.ru",
     "usdrewards.io",
     "hub-apyeth.net",
     "hub-apyeth.org",
