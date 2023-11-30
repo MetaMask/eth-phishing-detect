@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app.free-zetachain.online",
     "smartcoinmoon.tech",
     "cowswaponline.net",
     "valuebetic.wixsite.com",
