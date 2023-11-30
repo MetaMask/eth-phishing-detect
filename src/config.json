@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "b1ast.solutions",
     "grt.trust1pad.top",
     "app.free-zetachain.online",
     "smartcoinmoon.tech",
