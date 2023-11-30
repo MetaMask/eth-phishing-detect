@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gravixguard.github.io",
     "celestialgroup.lol",
     "layerzroxapp.network",
     "celesti.tech",
