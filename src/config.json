@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bitrock.gift",
+    "gamee.gift",
     "hub-graphtoken.com",
     "swapusdt.org",
     "celestialgroup.lol",
