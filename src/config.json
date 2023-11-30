@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet.team",
     "defillama.finance",
     "arbitrum.trust1pad.top",
     "arbitrum.one-tpad.top",
