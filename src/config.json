@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "defillama.finance",
     "arbitrum.trust1pad.top",
     "arbitrum.one-tpad.top",
     "celestialgroup.lol",
