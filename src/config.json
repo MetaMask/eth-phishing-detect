@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gravixguard.github.io",
     "doge-qr-code.su",
     "ltc-qr-code.ru",
     "usdrewards.io",
