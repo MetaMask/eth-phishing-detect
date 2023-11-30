@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdrewards.io",
+    "hub-apyeth.net",
+    "hub-apyeth.org",
     "bitrock.gift",
     "gamee.gift",
     "hub-graphtoken.com",
