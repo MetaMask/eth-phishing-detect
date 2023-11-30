@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdrewards.io",
+    "hub-apyeth.net",
+    "hub-apyeth.org",
     "b1ast.solutions",
     "grt.trust1pad.top",
     "app.free-zetachain.online",
