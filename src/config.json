@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknetwork-io.events",
+    "starknet-quest.eu",
+    "starkgate.su",
+    "zks-participate.com",
+    "zksync.pl",
     "starknet.team",
     "defillama.finance",
     "arbitrum.trust1pad.top",
