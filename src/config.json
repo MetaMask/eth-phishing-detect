@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "doge-qr-code.su",
     "ltc-qr-code.ru",
     "bitrock.gift",
     "gamee.gift",
