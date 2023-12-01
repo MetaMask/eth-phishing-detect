@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aave-nft.com",
+    "aave-token.com",
     "metawin-casino.net",
     "apyether.finance",
     "apyprotocol.net",
