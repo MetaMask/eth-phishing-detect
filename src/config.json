@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metawin-casino.net",
+    "apyether.finance",
+    "apyprotocol.net",
     "chainlist-connectsync.pages.dev",
     "citycoin.pro",
     "coinmetrosvip.com",
