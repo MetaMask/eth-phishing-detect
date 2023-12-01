@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "synthetix-network.com",
+    "rvf.gifts",
+    "aave-nft.com",
+    "aave-token.com",
     "metawin-casino.net",
     "apyether.finance",
     "apyprotocol.net",
