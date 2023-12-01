@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apyether.finance",
+    "apyprotocol.net",
     "impt-tokens.info",
     "gearbox.money",
     "neo-tokyo.codes",
