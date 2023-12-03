@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starkneteco.online",
+    "starkneteco.site",
+    "starknets.space",
     "apecoin-drop.web.app",
     "debank.badge-12.com",
     "debank.la",
