@@ -2,15 +2,27 @@
 <html>
   <head>
     <title>Why Blocked?</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <script src="./example/bundle.js"></script>
   </head>
-  <body>
-    <h1>Why Was This Site Blocked?</h1>
-    <form>
-      <input id="input"></input>
-      <button class="why" type="submit">Check</button>
-    </form>
-    <br>
-    <p id="result"></p>
-  </body>
+  <body class="min-h-screen bg-gradient-to-b from-[#292756] to-[#0F0E17] text-white font-body">
+    <nav class="flex justify-between items-center p-4">
+        <h1 class="text-2xl font-bold">EPD</h1>
+        <div class="flex items-center space-x-4">
+          <a href="https://github.com/MetaMask/eth-phishing-detect">
+            <span class="cursor-pointer">Github</span>
+          </a>
+        </div>
+    </nav>
+    <div class="min-h-screen flex flex-col items-center justify-center">
+        <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight leading-none text-center mb-6">Ethereum Phishing Detection</h1>
+        <p class="text-center text-lg">Utility for detecting phishing domains targeting Web3 users.</p>
+        <form class="flex flex-col gap-4 mt-8">
+            <input id="input" class="p-4 w-full bg-transparent border-b-2 border-white focus:outline-none" placeholder="Enter domain to check"/>
+            <button class="w-full p-3 bg-gradient-to-br from-indigo-500 to-indigo-900 rounded hover:from-indigo-600 hover:to-indigo-800 focus:outline-none" type="submit">Check</button>
+        </form>
+        <div class="mt-4" id="result"></div>
+    </div>
+</body>
+
 </html>
