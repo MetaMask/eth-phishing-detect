@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.plus",
     "gravixguard.web.app",
     "apecoin-drop.web.app",
     "debank.badge-12.com",
