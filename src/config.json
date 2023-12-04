@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.strk.pm",
+    "starkneteco.online",
+    "starkneteco.site",
+    "starknets.space",
     "dappradar.plus",
     "gravixguard.web.app",
     "apecoin-drop.web.app",
