@@ -513,6 +513,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curve-finance.xyz",
+    "curvefipro.com",
+    "curves-fi.com",
+    "smartcoin-netlify.online",
+    "smartdebugactive.online",
+    "curves.pages.dev",
     "zksync-airdrop.one",
     "sltarksnet.online",
     "starknetnft.online",
