@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknetclaim.net",
     "claim.strk.pm",
     "starkneteco.online",
     "starkneteco.site",
