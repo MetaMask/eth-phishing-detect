@@ -513,6 +513,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "box-aave.com",
+    "arc.gift",
+    "dinolfg.gift",
+    "radix.gift",
+    "apybal.com",
+    "quant.gift",
+    "pndc.gift",
+    "realio.gift",
+    "maker.gift",
+    "dojo.gift",
+    "router.gifts",
+    "virtua.gift",
     "get-matic.org",
     "metawin-official.com",
     "app-graphtoken.com",
