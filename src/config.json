@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.zza.pl",
     "zksync-lab.vercel.app",
     "zksyncdrop.org",
     "arbetrum.foundation",
