@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sltarksnet.online",
+    "starknetnft.online",
+    "starksnets.pw",
+    "starknetnft.in.net",
     "appstarknet-claim.xyz",
     "claims-web3-bridge.link",
     "claimstarknet.live",
