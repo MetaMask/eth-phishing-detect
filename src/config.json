@@ -513,6 +513,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aave-nft.gift",
+    "saitama.gift",
+    "wojak.gifts",
+    "ator-nft.com",
+    "olas-nft.com",
+    "nft-illuvium.com",
+    "echelon.gift",
+    "nft-paal.com",
+    "apyethprotocol.com",
+    "awards-chain.link",
     "claim.strk.pm",
     "starkneteco.online",
     "starkneteco.site",
