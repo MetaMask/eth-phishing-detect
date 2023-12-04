@@ -513,6 +513,27 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "get-matic.org",
+    "metawin-official.com",
+    "app-graphtoken.com",
+    "fetchprotocol.org",
+    "singularitytoken.net",
+    "wooprotocol.org",
+    "realio.app",
+    "getshiba.org",
+    "paxos-gold.com",
+    "claim-injective.com",
+    "get-usd.net",
+    "aave-nft.gift",
+    "saitama.gift",
+    "wojak.gifts",
+    "ator-nft.com",
+    "olas-nft.com",
+    "nft-illuvium.com",
+    "echelon.gift",
+    "nft-paal.com",
+    "apyethprotocol.com",
+    "awards-chain.link",
     "web3-open.com",
     "layerzer0.club",
     "blurcollections.com",
@@ -35424,6 +35445,7 @@
     "crystbit.com",
     "dai-defi.com",
     "dai-web3.com",
+    "dai-swap.club",
     "dajdjasodasd.one",
     "damblex.com",
     "damexcoin.com",
@@ -70922,6 +70944,7 @@
     "car-cra.sh",
     "techblock.pro",
     "inyectosalud.com",
-    "sistemarastreador.com"
+    "sistemarastreador.com",
+    "swaplab.io"
   ]
 }
