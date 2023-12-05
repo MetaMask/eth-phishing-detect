@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "wsm.gift",
+    "nft-derace.com",
     "quant.gift",
     "hub-synthetix.io",
     "singularitytoken.org",
