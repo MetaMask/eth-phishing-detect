@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornadocash.pro",
     "cryptomixer.club",
     "crypto-mixer.co",
     "wsm.gift",
