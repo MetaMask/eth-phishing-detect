@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ticket.app-metawin.com",
+    "app-metawin.com",
     "wsm.gift",
     "nft-derace.com",
     "hub-synthetix.io",
