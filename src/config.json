@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncair.space",
     "starknet-airdrop.pro",
     "starknet-claim.icu",
     "claiming-tokens.pro",
