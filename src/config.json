@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "urmentloetclaim.icu",
+    "curvefi.cfd",
     "zksyncair.space",
     "starknet-airdrop.pro",
     "starknet-claim.icu",
