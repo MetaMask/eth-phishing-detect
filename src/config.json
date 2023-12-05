@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "quant.gift",
     "hub-synthetix.io",
     "singularitytoken.org",
     "app-graphtoken.net",
