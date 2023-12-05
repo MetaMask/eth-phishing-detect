@@ -513,6 +513,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "hub-synthetix.io",
+    "singularitytoken.org",
+    "app-graphtoken.net",
+    "fetchtoken.net",
+    "woonetwork.org",
+    "event-realio.com",
+    "prize-chain.link",
+    "get-link.io",
+    "paxos-gold.org",
+    "injectivetoken.org",
+    "usdcoin.today",
+    "aethprotocol.org",
     "otc-blur.io",
     "swap.us.org",
     "layerzer0.info",
