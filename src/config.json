@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-airdrop.biz",
     "urmentloetclaim.icu",
     "curvefi.cfd",
     "zksyncair.space",
