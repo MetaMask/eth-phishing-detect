@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-airdrop.pro",
+    "starknet-claim.icu",
+    "claiming-tokens.pro",
     "otc-blur.io",
     "swap.us.org",
     "layerzer0.info",
