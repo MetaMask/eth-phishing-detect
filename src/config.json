@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptomixer.club",
+    "crypto-mixer.co",
     "wsm.gift",
     "nft-derace.com",
     "hub-synthetix.io",
