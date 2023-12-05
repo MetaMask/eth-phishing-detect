@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starkneteco.space",
+    "starkneteco.tech",
+    "starkneteco.website",
     "arbitrum-airdrop.biz",
     "urmentloetclaim.icu",
     "curvefi.cfd",
