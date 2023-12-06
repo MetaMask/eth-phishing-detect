@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apyeth.systems",
     "tornado-v3.org",
     "air.cryptoddrop.top",
     "revoke-antiaccess.vercel.app",
