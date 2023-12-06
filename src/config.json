@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-thegraph.com",
     "autovanarchain.pages.dev",
     "becents.com",
     "bonantt.pics",
