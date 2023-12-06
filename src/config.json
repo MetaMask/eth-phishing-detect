@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-thegraph.com",
     "arbxcoin.com",
     "dappradar.biz",
     "trustpado.top",
