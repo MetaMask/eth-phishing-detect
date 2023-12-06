@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado-v3.org",
     "arbxcoin.com",
     "dappradar.biz",
     "trustpado.top",
