@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "revoke-antiaccess.vercel.app",
     "arbxcoin.com",
     "dappradar.biz",
     "trustpado.top",
