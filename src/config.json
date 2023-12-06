@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdroper.app",
+    "fuelnetwork.app",
     "cowswap.finance",
     "cryptocowswap.com",
     "swap-cowswap.fi",
