@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "free-starknet.website",
+    "join-starknet.xyz",
+    "loyalty.cool",
+    "starknet.gives",
+    "starknet-1pa.pages.dev",
     "wsm.gift",
     "nft-derace.com",
     "hub-synthetix.io",
