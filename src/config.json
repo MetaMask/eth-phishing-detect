@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app-metawin.com",
     "arbxcoin.com",
     "dappradar.biz",
     "trustpado.top",
