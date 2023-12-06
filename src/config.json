@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswap.finance",
+    "cryptocowswap.com",
+    "swap-cowswap.fi",
     "zetlabz.xyz",
     "zksyncpepes.xyz",
     "zksyncspepe.top",
