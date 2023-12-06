@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optsmism.io",
     "wsm.gift",
     "nft-derace.com",
     "hub-synthetix.io",
