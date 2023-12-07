@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknets.site",
     "claiming-web3.one",
     "claim-tokens.website",
     "tokenmeme.net",
