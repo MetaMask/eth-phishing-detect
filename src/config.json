@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "smartmixer.me",
+    "bitcoin-mix.me",
     "anonymix.io",
     "network-whitelist.info",
     "sui-dashboard.com",
