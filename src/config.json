@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tokenmeme.net",
     "digital-usd.net",
     "injectivenetwork.com",
     "gold-paxos.com",
