@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claiming-web3.one",
     "claim-tokens.website",
     "tokenmeme.net",
     "digital-usd.net",
