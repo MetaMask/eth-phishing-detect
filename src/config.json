@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "deepweblinks.live",
     "bitcoin-mixers.co",
     "bestbitcointumbler.net",
     "blog.tezro.com",
