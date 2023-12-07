@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "notionwin.com",
+    "the-sandbox.games",
+    "the-notion-app.com",
+    "notion-win.com",
+    "hv-mtl-backup-website.pages.dev",
     "network-whitelist.info",
     "sui-dashboard.com",
     "bankless.store",
