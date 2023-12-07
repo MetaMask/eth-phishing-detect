@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "redeem.ticket-metawin.com",
+    "ticket-metawin.com",
     "notionwin.com",
     "the-sandbox.games",
     "the-notion-app.com",
