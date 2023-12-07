@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bitcoin-mixers.co",
+    "bestbitcointumbler.net",
+    "blog.tezro.com",
     "smartmixer.me",
     "bitcoin-mix.me",
     "anonymix.io",
