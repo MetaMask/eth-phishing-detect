@@ -513,6 +513,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "taiko-bridge.com",
+    "taiko.zone",
+    "zksync-io.network",
+    "zksyncpepe.io",
+    "zksyncpepes.app",
+    "zksyncpepes.org",
+    "zksyncpepes.top",
+    "free-starknet.tech",
+    "free-starknet.xyz",
+    "strk.website",
+    "strkaward.com",
+    "linea-build.dev",
     "arbdrop.network",
     "survey-arbitrum.info",
     "arblrtrum-airdrop.online",
