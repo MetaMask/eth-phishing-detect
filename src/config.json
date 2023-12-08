@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet.deals",
     "ark-defi.pro",
     "starknets.site",
     "claiming-web3.one",
