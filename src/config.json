@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "official-metawin.com",
     "taiko-bridge.com",
     "taiko.zone",
     "zksync-io.network",
