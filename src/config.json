@@ -513,6 +513,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "free-starknet.tech",
+    "free-starknet.xyz",
+    "strk.website",
+    "strkaward.com",
     "linea-build.dev",
     "arbdrop.network",
     "survey-arbitrum.info",
