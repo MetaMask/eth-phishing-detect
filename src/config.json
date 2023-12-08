@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "taiko.zone",
     "zksync-io.network",
     "zksyncpepe.io",
     "zksyncpepes.app",
