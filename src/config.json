@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "survey-arbitrum.info",
     "arblrtrum-airdrop.online",
     "starknet.deals",
     "ark-defi.pro",
