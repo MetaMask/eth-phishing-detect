@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apyeth.online",
+    "hub-chainlink.com",
     "official-metawin.com",
     "taiko-bridge.com",
     "taiko.zone",
