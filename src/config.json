@@ -513,6 +513,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-io.network",
+    "zksyncpepe.io",
+    "zksyncpepes.app",
+    "zksyncpepes.org",
+    "zksyncpepes.top",
     "free-starknet.tech",
     "free-starknet.xyz",
     "strk.website",
