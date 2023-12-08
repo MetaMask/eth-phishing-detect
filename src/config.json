@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linea-build.dev",
     "arbdrop.network",
     "survey-arbitrum.info",
     "arblrtrum-airdrop.online",
