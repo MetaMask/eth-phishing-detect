@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "raffle.app-metawin.org",
     "ethersat.io",
     "lzero-labs.world",
     "rewards.strk.pm",
