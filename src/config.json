@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethersat.io",
     "lzero-labs.world",
     "rewards.strk.pm",
     "apyeth.today",
