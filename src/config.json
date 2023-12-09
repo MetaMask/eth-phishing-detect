@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "signup-starknet.events",
     "bnb9918.top",
     "alchimix.app",
     "de-fii.fi",
