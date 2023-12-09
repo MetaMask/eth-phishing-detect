@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet.strk-now.site",
     "free.claim-starknet.website",
     "claimalllabtokens.eu",
     "coins.tr1onex.top",
