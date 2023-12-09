@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.io-scaling.com",
     "starknet.strk-now.site",
     "free.claim-starknet.website",
     "claimalllabtokens.eu",
