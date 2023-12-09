@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coins.tr1onex.top",
     "org-community-referral.tech",
     "154374-coinbase.com",
     "layerzerorewardfundr.net",
