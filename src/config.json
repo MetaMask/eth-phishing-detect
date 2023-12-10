@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "signup-pudgypenguin.com",
     "strk-glveaway.website",
     "strk-glveaway.com",
     "signup-starknet.events",
