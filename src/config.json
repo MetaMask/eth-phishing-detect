@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-tokens.xyz",
     "signup-stark-io.com",
     "enter-starknet.claims",
     "starkdrop.net",
