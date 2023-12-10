@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starkdrop.net",
     "survey-arbitrum.me",
     "arbitrum.trustpadeo.top",
     "shoppudgypenguins.com",
