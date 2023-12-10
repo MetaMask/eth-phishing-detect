@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb-eth.com",
     "lawbankless.com",
     "bnb9918.top",
     "alchimix.app",
