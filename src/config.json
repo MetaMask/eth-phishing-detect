@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswapping.fi",
     "whitelist-starknet.com",
     "get-verso.com",
     "arbitrumdrop.wtf",
