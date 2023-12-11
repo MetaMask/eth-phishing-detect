@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "whitelist-starknet.com",
     "get-verso.com",
     "arbitrumdrop.wtf",
     "etherkan.com",
