@@ -513,6 +513,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "etherkan.com",
+    "rewards.arb-eth.com",
     "nft-dai.com",
     "a7capitaldrainer.top",
     "nft-rendernetwork.com",
