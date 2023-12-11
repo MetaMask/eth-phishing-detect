@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "celestia.run",
+    "signup-pudgypenguin.com",
+    "bankless-nation.com",
     "lawbankless.com",
     "bnb9918.top",
     "alchimix.app",
