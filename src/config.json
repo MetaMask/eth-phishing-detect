@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "multi-trustepads.com",
     "uniburgterminalfixed.net",
     "starknet-tokens.xyz",
     "signup-stark-io.com",
