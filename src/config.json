@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3cryp.sbs",
+    "w3air.lol",
+    "web3apizp.gq",
+    "web3apima.cf",
+    "arb-eth.com",
+    "syncswap.name",
+    "ico-drop.com",
+    "dropsand.to",
+    "distribution-topia.art",
     "join-gitcoin.xyz",
     "stargatedefi.org",
     "www-layerzero.com",
@@ -535,7 +544,6 @@
     "get-verso.com",
     "arbitrumdrop.wtf",
     "etherkan.com",
-    "rewards.arb-eth.com",
     "multi-trustepads.com",
     "uniburgterminalfixed.net",
     "starknet-tokens.xyz",
