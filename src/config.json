@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "strk-network.org",
+    "registration-stark.com",
+    "strk-whitelist.org",
     "layerzerolab.pro",
     "claimstargate.com",
     "layerzero-finance.space",
