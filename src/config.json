@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzerolab.pro",
+    "claimstargate.com",
+    "layerzero-finance.space",
     "layerzer0.cloud",
     "cowswapping.fi",
     "whitelist-starknet.com",
