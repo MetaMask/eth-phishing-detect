@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncairdrop.pages.dev",
     "networkconnectivitysolutions.net",
     "curvefi.cx",
     "arb.trastpad-air.top",
