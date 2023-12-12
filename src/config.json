@@ -513,6 +513,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "worldcoin-event.org",
+    "worldcoin-d42.pages.dev",
+    "register-worldcoin.com",
+    "worldcoin-events.org",
+    "pudgyspenguins.events",
+    "the-currencyv2.com",
+    "othersidemara.xyz",
+    "borediepeyachtclub.com",
+    "uniswap-ru.pages.dev",
+    "celestia.run",
+    "bankless-nation.com",
     "stargate-finances.pages.dev",
     "pumpkinspicebirds.xyz",
     "aave-rewards.pages.dev",
