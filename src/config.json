@@ -513,6 +513,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stargate-finances.pages.dev",
+    "pumpkinspicebirds.xyz",
+    "aave-rewards.pages.dev",
+    "blur.farm",
+    "layerzeroweb.com",
+    "aave-governance.pages.dev",
+    "aave-token.net",
+    "register-layerzero.events",
+    "stargate-finanse.pages.dev",
     "sinbad.vip",
     "wasabimixer.com",
     "whsir.io",
