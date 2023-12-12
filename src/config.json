@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curvefi.cx",
     "arb.trastpad-air.top",
     "pudgy-igloos.com",
     "pdugyworld.com",
