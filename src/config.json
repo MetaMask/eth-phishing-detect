@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sinbad.vip",
     "wasabimixer.com",
     "whsir.io",
     "web3cryp.sbs",
