@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nft-memecoin.com",
     "liquideth.net",
     "liquideth.app",
     "synthetixhub.org",
