@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nft-rollbit.com",
+    "nft-swellnetwork.io",
+    "nft-steth.com",
     "nft-memecoin.com",
     "liquideth.net",
     "liquideth.app",
