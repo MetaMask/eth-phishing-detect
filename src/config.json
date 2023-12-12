@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metawin-official.org",
     "nft-rollbit.com",
     "nft-swellnetwork.io",
     "nft-steth.com",
