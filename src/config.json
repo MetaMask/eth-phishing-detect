@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-foundation.io",
     "starknet-ecosystem.dev",
     "arnget.xyz",
     "zksync.marketing",
