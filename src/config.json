@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-claim.website",
     "foundation.starknet-ecosystem.xyz",
     "starknet-foundation.io",
     "starknet-ecosystem.dev",
