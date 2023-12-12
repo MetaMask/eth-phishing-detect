@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arnget.xyz",
     "zksync.marketing",
     "zksyncairdrop.pages.dev",
     "networkconnectivitysolutions.net",
