@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "galagame.io",
     "worldcoin-event.org",
     "worldcoin-d42.pages.dev",
     "register-worldcoin.com",
