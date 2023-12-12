@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "wallets-analyzer.web.app",
+    "openseaproject-nfts.vercel.app",
+    "holders-tools.web.app",
     "pudgy-igloos.com",
     "pdugyworld.com",
     "pudgyworld.net",
