@@ -513,6 +513,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-claim.website",
+    "foundation.starknet-ecosystem.xyz",
+    "starknet-foundation.io",
+    "starknet-ecosystem.dev",
+    "arnget.xyz",
+    "zksync.marketing",
+    "zksyncairdrop.pages.dev",
+    "networkconnectivitysolutions.net",
+    "curvefi.cx",
+    "arb.trastpad-air.top",
     "ankr-claims.com",
     "grok.gifts",
     "mybinancecashback.com",
