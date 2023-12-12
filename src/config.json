@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "strk-whitelist.org",
     "layerzer0.cloud",
     "cowswapping.fi",
     "whitelist-starknet.com",
