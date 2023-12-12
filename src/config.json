@@ -513,6 +513,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzerolab.pro",
+    "claimstargate.com",
+    "layerzero-finance.space",
     "galagame.io",
     "worldcoin-event.org",
     "worldcoin-d42.pages.dev",
