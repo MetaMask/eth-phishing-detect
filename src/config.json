@@ -511,6 +511,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb.trustpadg.top",
+    "novatx.foundation",
+    "starknet-airdrop.org",
+    "whinelist-strk.org",
+    "registration-starknet.app",
+    "claim.starknet-tokens.online",
     "blur-nft.com.ru",
     "claim-pudgy.com",
     "laye0zero.com",
