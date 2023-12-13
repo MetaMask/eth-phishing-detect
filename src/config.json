@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apyeth.digital",
+    "apyindustries.com",
     "arb.trustpadg.top",
     "novatx.foundation",
     "starknet-airdrop.org",
