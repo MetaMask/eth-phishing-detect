@@ -511,6 +511,26 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "solanadrop.net",
+    "rollb1t.com",
+    "web-connectrc.gq",
+    "roll-bit.pro",
+    "discor5d.com",
+    "plexus24.com",
+    "dappradar.guru",
+    "trustgiveaways.com",
+    "buildonbase-org.events",
+    "arbitrum.devilinu.com",
+    "rewards-taskon.xyz",
+    "nft-swellnetwork.com",
+    "walletwars-io.events",
+    "skybornlegacy.com",
+    "metamask.balances.cfd",
+    "jupag.pages.dev",
+    "apps-bittrex.com",
+    "botverify-kava.web.app",
+    "trust.w3conn.monster",
+    "opensea-openclaim.vercel.app",
     "pllnksale.finance",
     "bitbuybit.net",
     "nft-ens.com",
@@ -72117,6 +72137,7 @@
     "inyectosalud.com",
     "sistemarastreador.com",
     "swaplab.io",
-    "new-giveaway.com"
+    "new-giveaway.com",
+    "zerion-io.claims"
   ]
 }
