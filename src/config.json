@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzrofunding.network",
+    "app.layerzero-free.pro",
+    "app-metawin.net",
     "arb.trustpadg.top",
     "novatx.foundation",
     "starknet-airdrop.org",
