@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apyeth.digital",
+    "apyindustries.com",
     "layerzrofunding.network",
     "app.layerzero-free.pro",
     "app-metawin.net",
