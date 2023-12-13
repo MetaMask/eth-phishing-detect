@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "layerzrofunding.network",
+    "app.layerzero-free.pro",
     "app-metawin.net",
     "pllnksale.finance",
     "bitbuybit.net",
