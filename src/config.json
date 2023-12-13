@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "novatx.foundation",
     "starknet-airdrop.org",
     "whinelist-strk.org",
     "registration-starknet.app",
