@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "registration-starknet.app",
     "claim.starknet-tokens.online",
     "pllnksale.finance",
     "bitbuybit.net",
