@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "superdreadi.com",
     "apyeth.digital",
     "apyindustries.com",
     "layerzrofunding.network",
