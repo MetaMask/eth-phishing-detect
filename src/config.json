@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aeth.solutions",
+    "memecoin.page",
     "metatank.app",
     "zro.layer0.in",
     "snapshots-zero.com",
