@@ -511,6 +511,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledgerlive-app.online",
+    "ledgerlivechat.com",
+    "refund-ledger.net",
+    "yearn.myxpad.top",
+    "yearn.trustpadeo.top",
+    "yearn.xbits.top",
+    "yearn.trastpad-airs.top",
+    "coinsbasewallets.com",
+    "starknet-claim.io",
+    "register-starknet-io.com",
+    "strk-whitelists.space",
     "surveyarbitrum.com",
     "superdreadi.com",
     "apyeth.digital",
