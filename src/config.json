@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metatank.app",
+    "zro.layer0.in",
     "snapshots-zero.com",
     "art-drop.io",
     "coinbase.com.pl",
