@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yearn.myxpad.top",
     "yearn.trustpadeo.top",
     "yearn.xbits.top",
     "yearn.trastpad-airs.top",
