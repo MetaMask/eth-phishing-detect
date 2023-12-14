@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinsbasewallets.com",
     "starknet-claim.io",
     "register-starknet-io.com",
     "strk-whitelists.space",
