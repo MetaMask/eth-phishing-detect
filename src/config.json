@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "register-starknet-io.com",
     "strk-whitelists.space",
     "surveyarbitrum.com",
     "superdreadi.com",
