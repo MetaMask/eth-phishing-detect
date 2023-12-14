@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ledgerlive-app.online",
+    "ledgerlivechat.com",
     "refund-ledger.net",
     "yearn.myxpad.top",
     "yearn.trustpadeo.top",
