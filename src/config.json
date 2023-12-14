@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metatank.app",
+    "zro.layer0.in",
     "surveyarbitrum.com",
     "superdreadi.com",
     "apyeth.digital",
