@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "survey-zksync.com",
     "sltarkdrop.website",
     "novaarbitrum.pages.dev",
     "network-starknet.com",
