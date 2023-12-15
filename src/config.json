@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknetwork.net",
     "guild-zksync.io",
     "defillamaa.xyz",
     "arbitrumnova.pages.dev",
