@@ -511,6 +511,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "allocation-optimism.com",
+    "optimism-io.tech",
+    "blur-io.network",
+    "optimismpool.io",
+    "optimismodex.world",
     "xtap.pro",
     "voyagewave.net",
     "intracts.xyz",
