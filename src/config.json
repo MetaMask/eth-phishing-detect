@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "guild-zksync.io",
     "defillamaa.xyz",
     "arbitrumnova.pages.dev",
     "aeth.solutions",
