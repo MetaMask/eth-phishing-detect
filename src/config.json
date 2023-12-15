@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "novaarbitrum.pages.dev",
     "network-starknet.com",
     "network-starknet.org",
     "sltarkdrop.fun",
