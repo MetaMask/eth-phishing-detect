@@ -11,6 +11,7 @@ const ENDPOINTS = {
     "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=5000&start=1&sort=market_cap_strict&market_cap_min=10000000",
   COINMARKETCAP_COIN_INFO:
     "https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?id=",
+  SNAPS_REGISTRY_LIST: "https://raw.githubusercontent.com/MetaMask/snaps-registry/main/src/registry.json"
 };
 
 function arrayTo2DArray1(arr, size) {
@@ -154,6 +155,56 @@ async function updateCoinmarketcapList() {
   process.exit(0);
 }
 
+async function updateSnapsRegistryList() {
+  const PATH_JSON = DB_PATH + "/snapsRegistryList.json";
+
+  // Download updated list
+  const stream = fs.createWriteStream(PATH_JSON);
+
+  try {
+    needle.get(ENDPOINTS.SNAPS_REGISTRY_LIST).pipe(stream);
+
+    await new Promise((resolve, reject) => {
+      stream.on("finish", resolve);
+      stream.on("error", reject);
+    });
+  } catch (error) {
+    console.error(
+      "Problems while downloading the latest list. Error: " + error
+    );
+    process.exit(1);
+  }
+
+  await touchFile(PATH_JSON);
+
+  const snapsRegistryJson = JSON.parse(fs.readFileSync(PATH_JSON, "utf8"));
+  
+  function extractHostname(snap, path) {
+    const url = path.reduce((obj, key) => (obj && obj[key] !== 'undefined') ? obj[key] : null, snap);
+    return url ? new URL(url).hostname.replace('www.', '') : null;
+  }
+  
+  const websites = Object.values(snapsRegistryJson.verifiedSnaps).reduce((acc, snap) => {
+    const website = extractHostname(snap, ['metadata', 'website']);
+    const authorWebsite = extractHostname(snap, ['metadata', 'author', 'website']);
+  
+    if (website) acc.push(website);
+    if (authorWebsite) acc.push(authorWebsite);
+  
+    return acc;
+  }, []);
+
+  const uniqWebsites = [...new Set(websites)];
+
+  try {
+    fs.writeFileSync(DB_PATH + "/snapsregistry.txt", uniqWebsites.join("\n"));
+    process.exit(0);
+  } catch (err) {
+    console.error(err);
+    process.exit(1);
+  }
+}
+
 const target = process.argv[2];
 
 switch (target) {
@@ -162,6 +213,9 @@ switch (target) {
     break;
   case "coinmarketcap":
     updateCoinmarketcapList();
+    break;
+  case "snapsregistry":
+    updateSnapsRegistryList();
     break;
   default:
     console.log('You need to specify either: "tranco" OR "coinmarketcap"');

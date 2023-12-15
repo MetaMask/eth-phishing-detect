@@ -54,6 +54,25 @@ function runTests(config) {
     );
     t.end();
   });
+
+  test("check config blocklist against snaps registry domains", (t) => {
+    const coinmarketcaps = new Set(
+      fs
+        .readFileSync(path.join(DB_PATH, "snapsregistry.txt"), {
+          encoding: "utf-8",
+        })
+        .split("\n")
+    );
+    const foundOverlapping = config.blacklist.filter((d) =>
+      coinmarketcaps.has(d) && !excludeList.includes(d)
+    );
+    t.equal(
+      foundOverlapping.length,
+      0,
+      `Following domains found in snaps registry domains: "${foundOverlapping}"`
+    );
+    t.end();
+  });
 }
 
 module.exports = {

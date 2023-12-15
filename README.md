@@ -71,6 +71,7 @@ yarn update:db
 
 yarn update:db:tranco
 yarn update:db:coinmarketcap
+yarn update:db:snapsregistry
 ```
 
 These sqlite databases will be checked against in `yarn run test` to ensure nothing is on the blocklist that is also in these databases.
