@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.tel",
     "aeth.solutions",
     "memecoin.page",
     "metatank.app",
