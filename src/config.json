@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensea-christmas.com",
     "holiday-opensea.com",
     "opensea-event.com",
     "openseaevents.com",
