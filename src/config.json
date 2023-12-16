@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "holiday-opensea.com",
+    "opensea-event.com",
+    "openseaevents.com",
     "allocation-optimism.com",
     "optimism-io.tech",
     "blur-io.network",
