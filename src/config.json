@@ -511,6 +511,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "registrations-optimism.com",
+    "signup-lens.xyz",
+    "wemix.fund",
+    "wrappedbtc.events",
+    "meritcircle-io.gift",
+    "opbnb.friend3.online",
     "allocation-optimism.com",
     "optimism-io.tech",
     "blur-io.network",
