@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "spatial-claim.net",
     "bankless-claimable.net",
     "allocation-optimism.com",
     "optimism-io.tech",
