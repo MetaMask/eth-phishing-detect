@@ -511,6 +511,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "premínt.xyz",
+    "lilpudgys-erc.com",
+    "xn--celesti-cxa.org",
+    "celestiadev.com",
+    "celestia-genesis.site",
+    "snapshot-zero.com",
+    "layerzero0.xyz",
+    "layerzerotoken.xyz",
+    "register-zero.claims",
+    "dexlayerzero.org",  
     "celestia.farm",
     "unisatapp.digital",
     "svvap.us",
