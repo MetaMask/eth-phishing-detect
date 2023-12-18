@@ -511,6 +511,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "debank.gdn",
+    "debank.eco",
+    "debank-claimable.net",
+    "debank-claimable.com",
     "spatial-claim.net",
     "bankless-claimable.net",
     "allocation-optimism.com",
