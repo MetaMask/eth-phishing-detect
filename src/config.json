@@ -177,7 +177,6 @@
     "gensea.io",
     "openseed.co",
     "metaosk.com",
-    "metatank.app",
     "opensay.co",
     "opensay.xyz",
     "metavas.io",
@@ -511,6 +510,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "get.layer0.in",
     "multi-trustepads.org",
     "registration-stark-io.com",
     "networks-strk.com",
