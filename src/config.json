@@ -12,6 +12,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "revoke.cash",
     "cryptocities.world",
     "metamax.exchange",
     "openmeta.network",
@@ -72748,7 +72749,6 @@
     "portal-presale.web.app",
     "crystaldash.live",
     "collabverification.land",
-    "revoke.cash",
     "art.stonzgroup.icu",
     "www.owange.tech",
     "pyth.systems",
