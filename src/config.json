@@ -510,6 +510,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbiteum.foundation",
     "registrations-optimism.com",
     "signup-lens.xyz",
     "wemix.fund",
