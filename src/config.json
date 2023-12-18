@@ -512,7 +512,6 @@
   ],
   "blacklist": [
     "ycoinbase.com",
-    "premínt.xyz",
     "lilpudgys-erc.com",
     "xn--celesti-cxa.org",
     "celestiadev.com",
@@ -521,7 +520,7 @@
     "layerzero0.xyz",
     "layerzerotoken.xyz",
     "register-zero.claims",
-    "dexlayerzero.org",  
+    "dexlayerzero.org",
     "celestia.farm",
     "unisatapp.digital",
     "svvap.us",
@@ -532,11 +531,14 @@
     "earnifi.co",
     "cheetahdns.host",
     "artblocks.community",
-    "opensea-event.com",
     "earnifi.icu",
     "earnifi.store",
     "seiznet.com",
-    "holiday-opensea.com",
+    "opensea-christmas.com",
+    "grt.trustpjad.top",
+    "launchnetwork.dev",
+    "arbltrium.pro",
+    "arbiteum.foundation",
     "sandbox-game.co",
     "uni8swap.org",
     "blurrnft.tech",
@@ -44522,7 +44524,6 @@
     "xn--lunu-oqa.crypptocomlogin.com",
     "xn--olmpusdao-19a.finance",
     "xn--olmpusdao-h5a.com",
-    "xn--premnt-6va.xyz",
     "xn--rbinhdlgin-49aeac.crypptocomlogin.com",
     "yearn-financej.us",
     "yearn-financek.us",
@@ -74195,6 +74196,9 @@
     "cloudweb3-api.com",
     "browsersjsfiles.com",
     "nft.monz-group.club",
-    "pepz-group.cc"
+    "pepz-group.cc",
+    "xn--premnt-6va.xyz",
+    "opensea-event.com",
+    "holiday-opensea.com"
   ]
 }
