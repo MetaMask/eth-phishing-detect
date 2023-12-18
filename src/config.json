@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eth-mixer.io",
     "skipprotocol.com",
     "skip.finance",
     "allocation-optimism.com",
