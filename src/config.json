@@ -511,6 +511,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.trustpjad.top",
+    "launchnetwork.dev",
+    "arbltrium.pro",
+    "arbiteum.foundation",
     "sandbox-game.co",
     "uni8swap.org",
     "blurrnft.tech",
