@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "multi-trustepads.org",
     "registration-stark-io.com",
     "networks-strk.com",
     "curveclaims.org",
