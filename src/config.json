@@ -510,6 +510,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbltrium.pro",
     "arbiteum.foundation",
     "registrations-optimism.com",
     "signup-lens.xyz",
