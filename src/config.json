@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.life",
+    "airdrop-portalgaming.com",
+    "dappradar.tel",
     "ycoinbase.com",
     "lilpudgys-erc.com",
     "xn--celesti-cxa.org",
@@ -46069,7 +46072,6 @@
     "ator-io.gift",
     "ba-2zm.pages.dev",
     "bankless-claimable.com",
-    "bankless-claimable.net",
     "bfwrgg.pages.dev",
     "blockchaininvestmentz.cryptotradebit.com",
     "bulkxcoin.com",
@@ -74199,6 +74201,7 @@
     "pepz-group.cc",
     "xn--premnt-6va.xyz",
     "opensea-event.com",
-    "holiday-opensea.com"
+    "holiday-opensea.com",
+    "bankless-claimable.net"
   ]
 }
