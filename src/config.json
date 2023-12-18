@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinchanger.io"
     "eth-mixer.io",
     "skipprotocol.com",
     "skip.finance",
