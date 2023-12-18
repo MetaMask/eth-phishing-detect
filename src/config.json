@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "signups-starknet.com",
     "binance166.bep666.top",
     "bnbinseme.club",
     "claimverti.netlify.app",
