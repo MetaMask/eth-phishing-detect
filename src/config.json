@@ -510,6 +510,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknetwork.foundation",
     "get.layer0.in",
     "multi-trustepads.org",
     "registration-stark-io.com",
