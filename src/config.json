@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensea-christmas.com",
+    "holiday-opensea.com",
+    "opensea-event.com",
     "grt.trustpjad.top",
     "launchnetwork.dev",
     "arbltrium.pro",
@@ -72709,7 +72712,6 @@
     "supportpalestine.xyz",
     "collabverified.land",
     "uni.swap.com.pl",
-    "uni.svvap.us",
     "connects-collabland.vercel.app",
     "mi.pepz-group.art",
     "sushi.svvap.com.se",
