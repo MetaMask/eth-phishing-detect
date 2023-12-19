@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.wtf",
+    "dappradar.gg",
     "binance166.bep666.top",
     "bnbinseme.club",
     "claimverti.netlify.app",
