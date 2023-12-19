@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinchanger.io",
+    "eth-mixer.io",
     "artblocks-io.com",
     "binance166.bep666.top",
     "bnbinseme.club",
