@@ -511,6 +511,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "constellationnetx.b4a.app",
+    "starknet-web3.network",
+    "arbitrum-survey.com",
+    "izumiswap.com",
+    "zksync-survey.com",
+    "cowexchange.io",
+    "cowswapsonline.com",
+    "coins.trastpud-air.top",
+    "starknet-airdrop.site",
+    "starknetclaims.com",
+    "signups-starknet.com",
     "coinchanger.io",
     "eth-mixer.io",
     "artblocks-io.com",
