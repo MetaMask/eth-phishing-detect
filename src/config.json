@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "constellationnetx.b4a.app",
     "starknet-web3.network",
     "arbitrum-survey.com",
     "izumiswap.com",
