@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "signup-hop.exchange",
     "bridge-blast.io",
     "opensea-claim.de",
     "v4uniswap.pages.dev",
