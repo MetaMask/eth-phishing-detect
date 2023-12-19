@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "signup-hop.exchange",
     "dappradar.wtf",
     "dappradar.gg",
     "bridge-blast.io",
