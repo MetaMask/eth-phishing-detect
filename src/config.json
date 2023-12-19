@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.wtf",
+    "dappradar.gg",
     "bridge-blast.io",
     "opensea-claim.de",
     "v4uniswap.pages.dev",
