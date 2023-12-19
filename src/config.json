@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "izumiswap.com",
     "zksync-survey.com",
     "cowexchange.io",
     "cowswapsonline.com",
