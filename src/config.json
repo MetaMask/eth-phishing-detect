@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-survey.com",
     "cowexchange.io",
     "cowswapsonline.com",
     "coins.trastpud-air.top",
