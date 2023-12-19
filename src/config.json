@@ -512,6 +512,8 @@
   ],
   "blacklist": [
     "signup-hop.exchange",
+    "dappradar.wtf",
+    "dappradar.gg",
     "bridge-blast.io",
     "opensea-claim.de",
     "v4uniswap.pages.dev",
