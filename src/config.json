@@ -511,6 +511,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-survey.net",
+    "era-zskync.com",
+    "starknet.international",
+    "free.claiming-tokens.website",
+    "hytopiagg.com",
+    "coinexp.com",
+    "signup-nakamoto.games",
+    "netfinancetrade.com",
+    "trustpad-cd.com",
     "kelpdao.org",
     "signup-hop.exchange",
     "dappradar.wtf",
@@ -6661,7 +6670,6 @@
     "zappers-fi.net",
     "zappers-app.com",
     "worldcoin.gl",
-    "claims.com",
     "blur-protocol.org",
     "stardust-degods.com",
     "blurseason.io",
