@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "free.claiming-tokens.website",
     "hytopiagg.com",
     "kelpdao.org",
     "signup-hop.exchange",
