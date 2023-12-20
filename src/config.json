@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet.international",
     "free.claiming-tokens.website",
     "hytopiagg.com",
     "kelpdao.org",
