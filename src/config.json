@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "smartmix.club",
     "signup-hop.exchange",
     "dappradar.wtf",
     "dappradar.gg",
