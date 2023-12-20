@@ -511,6 +511,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-survey.net",
+    "era-zskync.com",
+    "starknet.international",
+    "free.claiming-tokens.website",
+    "hytopiagg.com",
     "coinexp.com",
     "signup-nakamoto.games",
     "netfinancetrade.com",
