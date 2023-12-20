@@ -511,6 +511,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "crypto-blender.com",
+    "sinbad.bio",
+    "mycoinchange.ai",
+    "mycoinchange.co",
+    "sinbady.com",
+    "smartmix.club",
     "hub-synthetix.com",
     "hub-singularity.net",
     "graph-token.com",
