@@ -511,7 +511,6 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "arbitrum-survey.net",
     "era-zskync.com",
     "starknet.international",
     "free.claiming-tokens.website",
@@ -50388,7 +50387,6 @@
     "appuniswaporg.com",
     "apuniswap.org",
     "apygate-rpc.vercel.app",
-    "arbitrum-survey.net",
     "atlasbitfx.com",
     "bestglobmineinvest.com",
     "bintrexglobes.com",
@@ -74484,6 +74482,7 @@
     "xn--premnt-6va.xyz",
     "opensea-event.com",
     "holiday-opensea.com",
-    "bankless-claimable.net"
+    "bankless-claimable.net",
+    "arbitrum-survey.net"
   ]
 }
