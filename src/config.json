@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bip32.net",
     "signup-symbiosis.finance",
     "arkcapitalfinance.com",
     "swap.com.pl",
