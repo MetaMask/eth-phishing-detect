@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sinbad.bio",
     "mycoinchange.ai",
     "mycoinchange.co",
     "sinbady.com",
