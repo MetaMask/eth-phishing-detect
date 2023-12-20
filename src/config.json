@@ -511,6 +511,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinexp.com",
+    "signup-nakamoto.games",
+    "netfinancetrade.com",
+    "trustpad-cd.com",
+    "kelpdao.org",
     "signup-hop.exchange",
     "dappradar.wtf",
     "dappradar.gg",
