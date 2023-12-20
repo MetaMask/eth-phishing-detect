@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "reg-layerzero.network",
     "signup-symbiosis.finance",
     "arkcapitalfinance.com",
     "swap.com.pl",
