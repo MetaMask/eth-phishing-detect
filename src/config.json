@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bip32.net",
     "hub-synthetix.com",
     "hub-singularity.net",
     "graph-token.com",
