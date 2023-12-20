@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-survey.net",
     "era-zskync.com",
     "starknet.international",
     "free.claiming-tokens.website",
