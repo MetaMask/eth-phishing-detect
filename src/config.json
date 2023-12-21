@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "www-curve.com",
     "arbitrum-survey.org",
     "zksync.net",
     "dappradar.zone",
