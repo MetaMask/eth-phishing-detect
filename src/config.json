@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-survey.org",
     "zksync.net",
     "dappradar.zone",
     "claim.free-starknet.live",
