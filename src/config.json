@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "overtor.com",
+    "silk-road.io",
     "bip32.net",
     "signup-symbiosis.finance",
     "arkcapitalfinance.com",
