@@ -511,6 +511,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "www-curve.com",
+    "arbitrum-survey.org",
+    "zksync.net",
+    "dappradar.zone",
+    "claim.free-starknet.live",
+    "ape.bestcoins.top",
+    "aptos.bestcoins.top",
+    "xrp.bestcoins.top",
+    "arbitrum.bestcoins.top",
+    "reg-layerzero.network",
     "bip32.net",
     "signup-symbiosis.finance",
     "arkcapitalfinance.com",
