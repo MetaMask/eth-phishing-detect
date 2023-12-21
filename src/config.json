@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.net",
     "dappradar.zone",
     "claim.free-starknet.live",
     "ape.bestcoins.top",
