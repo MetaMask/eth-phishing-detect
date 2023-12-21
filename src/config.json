@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ape.bestcoins.top",
     "aptos.bestcoins.top",
     "xrp.bestcoins.top",
     "arbitrum.bestcoins.top",
