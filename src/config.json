@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.zone",
+    "dappradar.click",
     "bayc.team",
     "ticket20312-coinbase.com",
     "layer-zero0.pro",
