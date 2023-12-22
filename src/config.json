@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arkhaminteligence.app",
+    "thecryptomerchant.org",
     "bayc.team",
     "ticket20312-coinbase.com",
     "layer-zero0.pro",
