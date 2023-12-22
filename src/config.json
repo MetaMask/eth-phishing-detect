@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.click",
     "coinblender.org",
     "arkhaminteligence.app",
     "thecryptomerchant.org",
