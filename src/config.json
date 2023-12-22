@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinblender.org",
     "arkhaminteligence.app",
     "thecryptomerchant.org",
     "bayc.team",
