@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starkonline.space",
     "bayc.team",
     "ticket20312-coinbase.com",
     "layer-zero0.pro",
