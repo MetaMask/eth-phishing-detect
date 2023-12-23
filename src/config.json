@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "artblocks-official.com",
+    "art-drop.co",
     "layerzro.world",
     "artblocks.es",
     "hashflow.click",
