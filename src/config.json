@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "altcoinsairdrop.top",
     "arbitrum-survey.me",
     "arbitrumfoundation.fun",
     "zksync-mint.pages.dev",
