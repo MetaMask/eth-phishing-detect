@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "liquideth.world",
     "layerzro.world",
     "artblocks.es",
     "hashflow.click",
