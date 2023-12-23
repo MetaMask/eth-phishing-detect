@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optoken.org",
     "layerzro.world",
     "artblocks.es",
     "hashflow.click",
