@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumfoundation.fun",
     "zksync-mint.pages.dev",
     "layerzro.world",
     "artblocks.es",
