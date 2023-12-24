@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curve-lido.org.aimbot.pro",
     "curve-lido.org",
     "bridge-arbetrum.online",
     "strk-info.org",
