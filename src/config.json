@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bridge-arbetrum.online",
     "strk-info.org",
     "arbitrum-survey.info",
     "collect-stark.net",
