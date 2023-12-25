@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamasklogin.glitch.me",
     "consensys.web3-inft.com",
     "graphsurvey.org",
     "zks-era.com",
