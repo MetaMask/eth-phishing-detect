@@ -511,6 +511,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "graphsurvey.org",
+    "zks-era.com",
+    "curve-lido.org.aimbot.pro",
+    "curve-lido.org",
+    "bridge-arbetrum.online",
+    "strk-info.org",
+    "arbitrum-survey.info",
+    "collect-stark.net",
+    "altcoinsairdrop.top",
+    "arbitrum-survey.me",
+    "arbitrumfoundation.fun",
+    "zksync-mint.pages.dev",
     "layerzro.world",
     "artblocks.es",
     "hashflow.click",
