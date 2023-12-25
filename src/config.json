@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "consensys.web3-inft.com",
     "graphsurvey.org",
     "zks-era.com",
     "curve-lido.org.aimbot.pro",
