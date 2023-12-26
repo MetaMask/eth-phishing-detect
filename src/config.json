@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "whitelist-zkfair.io",
     "arbtrium.technology",
     "arb-orbit.com",
     "tokensets.fi",
