@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bitcoinlaundry.co",
+    "cryptocurrency-qr-code.online",
     "liquideth.world",
     "graphsurvey.org",
     "zks-era.com",
