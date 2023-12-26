@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknetlab.com",
     "survey-zksync.org",
     "whitelist-zkfair.io",
     "arbtrium.technology",
