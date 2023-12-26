@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.xdroppad.top",
     "starknetlab.com",
     "survey-zksync.org",
     "whitelist-zkfair.io",
