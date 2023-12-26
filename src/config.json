@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezor-satoshilabs.com",
+    "update-trezorwallet.com",
     "token-celestia.com",
     "signups-degods.com",
     "magiceden.ac",
