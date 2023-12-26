@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "artblocks-official.com",
+    "art-drop.co",
     "bitcoinlaundry.co",
     "cryptocurrency-qr-code.online",
     "liquideth.world",
