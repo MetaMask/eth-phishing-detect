@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "survey-zksync.org",
     "whitelist-zkfair.io",
     "arbtrium.technology",
     "arb-orbit.com",
