@@ -511,6 +511,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.xdroppad.top",
+    "starknetlab.com",
+    "whitelist-zkfair.io",
+    "arbtrium.technology",
+    "arb-orbit.com",
+    "tokensets.fi",
+    "lineapepe.com",
+    "dappradar.services",
+    "metamasklogin.glitch.me",
+    "consensys.web3-inft.com",
     "trezor-satoshilabs.com",
     "update-trezorwallet.com",
     "token-celestia.com",
