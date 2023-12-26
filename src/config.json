@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optoken.org",
     "illivium-techsupport.com",
     "artblocks-official.com",
     "art-drop.co",
