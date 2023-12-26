@@ -511,6 +511,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "oceantoken.net",
+    "galatoken.net",
+    "get-synthetix.com",
+    "singularity-token.org",
+    "graph-token.org",
+    "app-fetch.com",
+    "wootrade.us",
+    "realio.group",
+    "shiba-token.org",
+    "application-chain.link",
+    "paxos.gifts",
+    "apyeth.space",
     "liquid-eth.com",
     "trezor-satoshilabs.com",
     "update-trezorwallet.com",
