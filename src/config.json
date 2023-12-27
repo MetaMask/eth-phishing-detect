@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-manta.network",
     "forward-coinbase.com",
     "mb-aave.com",
     "nft-looksrare.net",
