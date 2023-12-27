@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.expcoins.top",
     "forward-coinbase.com",
     "mb-aave.com",
     "nft-looksrare.net",
