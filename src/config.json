@@ -511,6 +511,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "forward-coinbase.com",
+    "mb-aave.com",
+    "nft-looksrare.net",
+    "pudgymythics.xyz",
+    "wrevoke.cash",
+    "holders.fi",
+    "nft-stargate.com",
+    "appgmx.xyz",
+    "pudgypenguins.pages.dev",
+    "revoke-security.com",
+    "mintdegods.com",
     "oceantoken.net",
     "galatoken.net",
     "get-synthetix.com",
