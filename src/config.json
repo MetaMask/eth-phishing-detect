@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknetv.com",
     "starklabsrewards.net",
     "participate-stark.com",
     "basnaming.xyz",
