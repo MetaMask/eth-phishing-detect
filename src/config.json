@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bitcoinxcash.com",
     "forward-coinbase.com",
     "mb-aave.com",
     "nft-looksrare.net",
