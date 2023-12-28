@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "participate-stark.com",
     "basnaming.xyz",
     "chain-zksync.com",
     "arbitrum.expcoins.top",
