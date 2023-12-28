@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.exxcoins.top",
     "starknetv.com",
     "starklabsrewards.net",
     "participate-stark.com",
