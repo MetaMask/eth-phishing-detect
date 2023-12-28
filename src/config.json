@@ -511,6 +511,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "basenames.cc",
+    "maskcoin.claims",
+    "arbitrum.exxcoins.top",
+    "starknetv.com",
+    "starklabsrewards.net",
+    "participate-stark.com",
+    "basnaming.xyz",
+    "chain-zksync.com",
+    "arbitrum.expcoins.top",
+    "grt.expcoins.top",
     "forward-coinbase.com",
     "mb-aave.com",
     "nft-looksrare.net",
