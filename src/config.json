@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "basenames.cc",
     "maskcoin.claims",
     "arbitrum.exxcoins.top",
     "starknetv.com",
