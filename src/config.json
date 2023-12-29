@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado.ws",
+    "tornadocash.vn",
+    "tornado.foundation",
     "coinchanges.net",
     "ethereummixer.tech",
     "btc-laundry.net",
