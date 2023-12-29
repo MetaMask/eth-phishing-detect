@@ -511,6 +511,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinchanges.net",
+    "ethereummixer.tech",
+    "btc-laundry.net",
+    "cryptomixer.nl",
+    "monero-mixer.net",
+    "bitmixing.xyz ",
     "bitcoinxcash.com",
     "forward-coinbase.com",
     "mb-aave.com",
