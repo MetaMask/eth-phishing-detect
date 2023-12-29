@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "snlper.xyz",
     "coinchanges.net",
     "ethereummixer.tech",
     "btc-laundry.net",
