@@ -511,6 +511,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinchanges.net",
+    "ethereummixer.tech",
+    "btc-laundry.net",
+    "cryptomixer.nl",
+    "monero-mixer.net",
+    "bitmixing.xyz",
+    "bitcoinxcash.com",
     "openseagifts.vercel.app",
     "ocean-token.io",
     "synthetixtoken.net",
