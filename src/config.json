@@ -511,7 +511,6 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "metamask.github.io",
     "try.zparkgroup.com",
     "info-zksync.com",
     "liquideth.finance",
