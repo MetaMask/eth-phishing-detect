@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "solana-pro.web.app",
     "airdrop-manta.network",
     "compound-labs.xyz",
     "try.zparkgroup.com",
