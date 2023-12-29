@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornado.ws",
+    "tornadocash.vn",
+    "tornado.foundation",
     "openseagifts.vercel.app",
     "ocean-token.io",
     "synthetixtoken.net",
