@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "try.zparkgroup.com",
     "info-zksync.com",
     "liquideth.finance",
     "ocean-network.org",
