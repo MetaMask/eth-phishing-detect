@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "compound-labs.xyz",
     "onchainrevoke.com",
     "liquideth.finance",
     "ocean-network.org",
