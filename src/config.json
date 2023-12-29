@@ -511,6 +511,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "compound-labs.xyz",
+    "try.zparkgroup.com",
+    "info-zksync.com",
+    "onchainrevoke.com",
     "liquideth.finance",
     "ocean-network.org",
     "galatoken.org",
