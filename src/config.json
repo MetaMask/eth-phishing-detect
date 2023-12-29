@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.ai",
     "liquideth.finance",
     "ocean-network.org",
     "galatoken.org",
