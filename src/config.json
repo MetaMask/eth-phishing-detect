@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sniper.gift",
     "snlper.xyz",
     "coinchanges.net",
     "ethereummixer.tech",
