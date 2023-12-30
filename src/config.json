@@ -511,6 +511,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pepenewyear.com",
+    "zeronewyear.com",
+    "groknewyear.com",
+    "multibit.xyz",
+    "syncpool.xyz",
     "sniper.gift",
     "dappradar.ai",
     "arbitrumfix.pages.dev",
