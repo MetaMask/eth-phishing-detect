@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sniper.gift",
+    "dappradar.ai",
     "arbitrumfix.pages.dev",
     "cowswaponline.xyz",
     "dappsprotocolconnect.com",
