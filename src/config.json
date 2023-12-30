@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumfix.pages.dev",
+    "cowswaponline.xyz",
     "dappsprotocolconnect.com",
     "liquidether.app",
     "ocean-protocol.io",
