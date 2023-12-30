@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumfix.pages.dev",
     "cowswaponline.xyz",
     "snlper.xyz",
     "coinchanges.net",
