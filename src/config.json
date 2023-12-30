@@ -511,6 +511,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "liquidether.app",
+    "ocean-protocol.io",
+    "agixtoken.net",
+    "graph-token.io",
+    "realioprotocol.org",
+    "hub-apyeth.io",
+    "render-token.net",
     "snlper.xyz",
     "coinchanges.net",
     "ethereummixer.tech",
