@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockworks.mobi",
+    "etherscan.tokenapproval.app",
     "link-2024.com",
     "app-liquideth.com",
     "oceantoken.app",
