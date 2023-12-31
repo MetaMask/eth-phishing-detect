@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "artblocks.events",
     "blockworks.mobi",
     "etherscan.tokenapproval.app",
     "link-2024.com",
