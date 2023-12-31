@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "token-ru.ru",
     "maskairdrop.org",
     "revokedapp.com",
     "sniper.gift",
