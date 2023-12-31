@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "artblocks.events",
     "distribution-opensea.com",
     "dappfix.vercel.app",
     "cjqe.com",
