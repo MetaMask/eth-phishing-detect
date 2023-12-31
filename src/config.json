@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockworks.mobi",
+    "etherscan.tokenapproval.app",
     "aidecentralizedapp.live",
     "airdropchainslink.com",
     "dapps-auth.live",
