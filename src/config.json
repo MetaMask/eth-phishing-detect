@@ -511,6 +511,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.altcoinspads.top",
+    "learned_eth.nfts2.me",
+    "arbitrum.checkterms.com",
+    "arbitrum-quiz.com",
+    "starknet-foundation.org",
+    "token-ru.ru",
     "restructuring.ro-kroll.com",
     "distribution-opensea.com",
     "dappfix.vercel.app",
