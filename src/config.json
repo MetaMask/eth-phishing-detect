@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "restructuring.ro-kroll.com",
     "revokedapp.com",
     "sniper.gift",
     "dappradar.ai",
