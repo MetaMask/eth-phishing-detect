@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "restructuring.ro-kroll.com",
     "distribution-opensea.com",
     "dappfix.vercel.app",
     "cjqe.com",
