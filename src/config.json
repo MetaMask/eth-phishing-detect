@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-quiz.com",
     "starknet-foundation.org",
     "token-ru.ru",
     "maskairdrop.org",
