@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.xtrustpad-events.top",
     "artblocks.events",
     "blockworks.mobi",
     "etherscan.tokenapproval.app",
