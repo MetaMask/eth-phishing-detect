@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trezor-hardwares.com",
     "abict.net",
     "airdrop-reward.vercel.app",
     "bnb-3333.club",
