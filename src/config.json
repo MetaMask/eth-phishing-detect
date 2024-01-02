@@ -511,6 +511,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "authwalletsolutionetherdapp.app",
+    "authwalletsolutionetherdapp.com",
+    "dappspacex.info",
+    "refundprotocol.com",
+    "resolverdapps.com",
+    "revokewallets.cash",
     "metamasktoken.io",
     "arbi-gifts.com",
     "multidapps.app",
