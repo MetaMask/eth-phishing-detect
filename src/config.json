@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockchainrepairtools.com",
+    "mainnetvalidation.live",
+    "upgrd-mywalletmeta.com",
     "restructuring.re-kroll.com",
     "community-cryptos.org",
     "uniclaim.org",
