@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "restructuring.re-kroll.com",
     "bitcoinqr.io",
     "artblocks.events",
     "blockworks.mobi",
