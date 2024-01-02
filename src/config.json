@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curve.wales",
     "claimmask.com",
     "arbitrum-tasks.com",
     "restructuring.re-kroll.com",
