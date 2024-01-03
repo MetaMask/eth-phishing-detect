@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "td-btc.com",
+    "schw.cc",
     "lidoethpartake.web.app",
     "blast-web.pages.dev",
     "connect-blast-io.com",
