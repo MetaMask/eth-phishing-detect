@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.support",
     "lidoethpartake.web.app",
     "blast-web.pages.dev",
     "connect-blast-io.com",
