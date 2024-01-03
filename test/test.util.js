@@ -99,6 +99,17 @@ function testListIsContained (t, needles, stack) {
   });
 }
 
+function testListNoConflictingEntries (t, config) {
+  const allowlistSet = new Set(config['whitelist']);
+  const blocklistSet = new Set(config['blacklist']);
+
+  const intersection = Array.from(allowlistSet).filter(v => blocklistSet.has(v));
+
+  for (const item of intersection) {
+    t.fail(`domain ${item} appears on both the allowlist and blocklist`);
+  }
+}
+
 function testListNoBlocklistRedundancies (t, config) {
   const cleanConfig = cleanBlocklist(config)
   t.ok(cleanConfig.blacklist.length === config.blacklist.length, `blocklist contains ${config.blacklist.length-cleanConfig.blacklist.length} redundant entries. run 'yarn clean:blocklist'.`)
@@ -181,6 +192,7 @@ module.exports = {
   testListDoesntContainRepeats,
   testListIsContained,
   testListIsPunycode,
+  testListNoConflictingEntries,
   testListNoAllowlistRedundancies,
   testListNoBlocklistRedundancies,
   testListOnlyIncludesDomains,

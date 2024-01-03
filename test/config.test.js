@@ -13,6 +13,7 @@ const {
   testListDoesntContainRepeats,
   testListIsContained,
   testListIsPunycode,
+  testListNoConflictingEntries,
   testListNoAllowlistRedundancies,
   testListNoBlocklistRedundancies,
   testListOnlyIncludesDomains,
@@ -383,6 +384,11 @@ function startTests ({ config }) {
     testListOnlyIncludesDomains(t, config.whitelist)
     testListOnlyIncludesDomains(t, config.fuzzylist)
     testListOnlyIncludesDomains(t, config.blacklist)
+    t.end()
+  })
+
+  test('config does not include conflicting allowlist and blocklist entries', (t) => {
+    testListNoConflictingEntries(t, config)
     t.end()
   })
 
