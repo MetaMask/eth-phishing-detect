@@ -511,6 +511,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockchainrepairprotocols.com",
+    "dappsresolver.com",
+    "dappswebe3.com",
+    "koanprotocol.xyz",
+    "mainnetecosystem.net",
+    "validator-solscan.org",
+    "apisynchronizer.live",
+    "illuviumprotocol.com",
+    "multichain-web.live",
+    "sandboxprotocol.com",
+    "solrefundprotocol.com",
     "dappradar.support",
     "td-btc.com",
     "schw.cc",
