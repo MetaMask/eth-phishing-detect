@@ -511,6 +511,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pepenewyear.com",
+    "zeronewyear.com",
+    "groknewyear.com",
+    "multibit.xyz",
+    "syncpool.xyz",
     "openseapro-claimz.vercel.app",
     "unis2wap.org",
     "registrar-layerzero.network",
