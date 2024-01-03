@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.support",
     "td-btc.com",
     "schw.cc",
     "lidoethpartake.web.app",
