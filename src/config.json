@@ -511,6 +511,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aave-survey.net",
+    "unisatnode.io",
+    "aavevault.com",
+    "blur-airdop.com",
+    "revokecash.rf.gd",
+    "securemnemonicgenerate.nl",
+    "lending-aave.com",
+    "aaveprize.com",
+    "galxe.pw",
+    "gift-jto.com",
     "blockchainrepairtools.com",
     "mainnetvalidation.live",
     "upgrd-mywalletmeta.com",
