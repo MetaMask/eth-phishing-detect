@@ -512,6 +512,8 @@
   ],
   "blacklist": [
     "dappradar.support",
+    "td-btc.com",
+    "schw.cc",
     "lidoethpartake.web.app",
     "blast-web.pages.dev",
     "connect-blast-io.com",
