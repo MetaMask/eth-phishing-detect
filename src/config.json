@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pancakefiance.org",
     "liquidether.online",
     "airdrop.tonasset.com",
     "dyno.cat",
