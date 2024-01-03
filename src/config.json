@@ -511,6 +511,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop.tonasset.com",
+    "dyno.cat",
+    "captchabot-complete.com",
+    "pyth.systems",
     "liquideth.space",
     "ocean-network.io",
     "gala-token.com",
