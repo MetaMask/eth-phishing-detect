@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockchainrepairtools.com",
+    "mainnetvalidation.live",
+    "upgrd-mywalletmeta.com",
     "changenow.trade",
     "galaxyex.info",
     "zksync-finance.com",
