@@ -170,6 +170,13 @@ function matchPartsAgainstList(source, list) {
   return list.find((target) => {
     // target domain has more parts than source, fail
     if (target.length > source.length) return false
+
+    // optimization!
+    // it's very likely for the first component (the tld) to match
+    // but it's rather unlikely for the last component (the domain) to match
+    // check it first and abort if it doesn't match
+    if (target[target.length-1] !== source[target.length-1]) return false
+
     // source matches target or (is deeper subdomain)
     return target.every((part, index) => source[index] === part)
   })

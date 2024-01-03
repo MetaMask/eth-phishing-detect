@@ -18,34 +18,40 @@ function loadMetamaskGaq () {
 }
 
 function testBlocklist (t, domains, options) {
+  const detector = new PhishingDetector(options);
+
   domains.forEach((domain) => {
-    testDomain(t, {
+    testDomainWithDetector(t, {
       domain: domain,
       type: options && Array.isArray(options) ? 'blocklist' : 'blacklist',
       expected: true,
-      options,
+      detector,
     })
   })
 }
 
 function testAllowlist (t, domains, options) {
+  const detector = new PhishingDetector(options);
+
   domains.forEach((domain) => {
-    testDomain(t, {
+    testDomainWithDetector(t, {
       domain: domain,
       type: options && Array.isArray(options) ? 'allowlist' : 'whitelist',
       expected: false,
-      options,
+      detector,
     })
   })
 }
 
 function testFuzzylist (t, domains, options) {
+  const detector = new PhishingDetector(options);
+
   domains.forEach((domain) => {
-    testDomain(t, {
+    testDomainWithDetector(t, {
       domain: domain,
       type: 'fuzzy',
       expected: true,
-      options,
+      detector,
     })
   })
 }
@@ -71,10 +77,11 @@ function testListIsPunycode (t, list) {
 }
 
 function testListDoesntContainRepeats (t, list) {
-  list.forEach((domain) => {
-    const count = list.filter(item => item === domain).length
-    t.ok(count === 1, `domain '${domain}' is duplicated. Domains can only appear in list once`)
-  })
+  const clone = [...list];
+  clone.sort();
+  for (let i = 0; i < clone.length - 1; i++) {
+    if (clone[i] === clone[i + 1]) t.fail(`domain ${clone[i]} is duplicated. Domains can only appear in the list once`)
+  }
 }
 
 function testListIsContained (t, needles, stack) {
@@ -96,28 +103,36 @@ function testListNoAllowlistRedundancies (t, config) {
 }
 
 function testNoMatch (t, domains, options) {
+  const detector = new PhishingDetector(options);
+
   domains.forEach((domain) => {
-    testDomain(t, {
+    testDomainWithDetector(t, {
       domain: domain,
       type: 'all',
       expected: false,
-      options,
+      detector,
     })
   })
 }
 
 function testAnyType (t, expected, domains, options) {
+  const detector = new PhishingDetector(options);
+
   domains.forEach((domain) => {
-    testDomain(t, {
+    testDomainWithDetector(t, {
       domain: domain,
       expected,
-      options,
+      detector,
     })
   })
 }
 
 function testDomain (t, { domain, name, type, expected, options, version }) {
   const detector = new PhishingDetector(options)
+  testDomainWithDetector(t, { domain, name, type, expected, detector, version })
+}
+
+function testDomainWithDetector (t, { domain, name, type, expected, detector, version }) {
   const value = detector.check(domain)
   // log fuzzy match for debugging
   // if (value.type === 'fuzzy') {

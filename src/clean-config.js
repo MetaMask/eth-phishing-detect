@@ -28,6 +28,8 @@ const cleanConfig = (config, listName) => {
   const detector = new PhishingDetector(newConfig);
   const baseList = detector.configs[0][listName];
 
+  const ignoredValue = ['\u0000'];
+
   const isResultRedundant = listName === 'blocklist'
     ? r => r.result && r.type !== 'fuzzy'
     : r => !r.result;
@@ -36,8 +38,12 @@ const cleanConfig = (config, listName) => {
     const host = config[section][i];
 
     // omit current domain from current list to see if results differ without
-    detector.configs[0][listName] = baseList.slice(0,i).concat(baseList.slice(i+1));
+    const oldValue = baseList[i];
+    baseList[i] = ignoredValue;
+
     const result = detector.check(host);
+
+    baseList[i] = oldValue;
 
     if (!isResultRedundant(result)) {
       finalEntries.add(host);
