@@ -511,6 +511,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-finance.com",
+    "zksync-task.com",
+    "grt.xtrustpad-events.top",
+    "curve.wales",
+    "claimmask.com",
+    "arbitrum-tasks.com",
     "pepenewyear.com",
     "zeronewyear.com",
     "groknewyear.com",
