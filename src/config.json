@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "changenow.trade",
     "galaxyex.info",
     "zksync-finance.com",
     "zksync-task.com",
