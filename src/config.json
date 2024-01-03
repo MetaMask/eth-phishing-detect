@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "td-btc.com",
+    "schw.cc",
     "aave-survey.net",
     "unisatnode.io",
     "aavevault.com",
