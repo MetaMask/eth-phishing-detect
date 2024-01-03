@@ -511,6 +511,27 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pancakefiance.org",
+    "liquidether.online",
+    "airdrop.tonasset.com",
+    "dyno.cat",
+    "captchabot-complete.com",
+    "liquideth.space",
+    "ocean-network.io",
+    "gala-token.com",
+    "app-synthetix.net",
+    "agix-token.com",
+    "graph-protocol.net",
+    "claim-fetch.com",
+    "woo-token.net",
+    "realio.cash",
+    "get-shiba.net",
+    "foundation-chain.link",
+    "app-paxosgold.com",
+    "hub-injective.trade",
+    "hub-apyeth.us",
+    "render-network.io",
+    "hexprotocol.net",
     "aave-survey.net",
     "unisatnode.io",
     "aavevault.com",
@@ -74112,7 +74133,6 @@
     "collabverification.land",
     "art.stonzgroup.icu",
     "www.owange.tech",
-    "pyth.systems",
     "wvw.raczgroups.lol",
     "cardmetalist.com",
     "magpie-xyz.gift",
@@ -75537,6 +75557,7 @@
     "basenamesxservice.org",
     "lit-zksyncs.cloud",
     "zks-claim.net",
-    "dymension.events"
+    "dymension.events",
+    "pyth.systems"
   ]
 }
