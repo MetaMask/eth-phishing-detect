@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockscape.org",
     "blockchainrepairprotocols.com",
     "dappsresolver.com",
     "dappswebe3.com",
