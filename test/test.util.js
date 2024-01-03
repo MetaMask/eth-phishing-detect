@@ -77,10 +77,17 @@ function testListIsPunycode (t, list) {
 }
 
 function testListDoesntContainRepeats (t, list) {
-  const clone = [...list];
-  clone.sort();
-  for (let i = 0; i < clone.length - 1; i++) {
-    if (clone[i] === clone[i + 1]) t.fail(`domain ${clone[i]} is duplicated. Domains can only appear in the list once`)
+  const clone = new Set(list);
+  if (clone.size === list.length) {
+    return;
+  }
+  
+  for (const item of list) {
+    if (clone.has(item)) {
+      clone.delete(item);
+    } else {
+      t.fail(`domain ${item} is duplicated. Domains can only appear in the list once`);
+    }
   }
 }
 
