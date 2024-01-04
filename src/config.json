@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "whitelist-meritcircle.io",
+    "paralleltcg.life",
     "blender.pw",
     "blockscape.org",
     "blockchainrepairprotocols.com",
