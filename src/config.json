@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-1.com",
     "consenys.io",
     "blurioasset0x524cab2ec69124574082676e6f654a18df49a0482265.pages.dev",
     "blast-giveaway.pages.dev",
