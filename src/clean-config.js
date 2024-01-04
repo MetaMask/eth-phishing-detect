@@ -23,9 +23,9 @@ const cleanConfig = (config, listName) => {
 };
 
 const cleanAllowlist = config => {
-  // when cleaning the allowlist, we want to:
-  // - remove any domains which are subdomains of entries in the blocklist
-  // - remove any domains which do not need to be excluded from the fuzzylist
+  // when cleaning the allowlist, we want to remove domains that are not:
+  // - subdomains of entries in the blocklist
+  // - otherwise detected via the fuzzylist
 
   const fuzzyDetector = new PhishingDetector({
     ...config,
@@ -58,8 +58,8 @@ const cleanAllowlist = config => {
 }
 
 const cleanBlocklist = config => {
-  // when cleaning the blocklist, we want to:
-  // - remove any domain such that another entry exists which is equally or less specific
+  // when cleaning the blocklist, we want to remove domains that are:
+  // - already present on the blocklist through a less specific match
 
   const blocklistSet = new Set(config[SECTION_KEYS['blocklist']]);
 
