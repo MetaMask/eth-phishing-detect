@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "corn-live.site",
     "io-suite.de",
     "blockworks.group",
     "blurioasset0x524cab2ec69124574082676e6f654a18df49a0482265.pages.dev",
