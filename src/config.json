@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "whitelist-meritcircle.io",
+    "paralleltcg.life",
     "arbitrum-surveys.com",
     "bingx-pro.cc",
     "bitrise.airscointrustpad.top",
