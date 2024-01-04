@@ -511,6 +511,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trustwalletrestore.com",
+    "solflarewalletext.com",
+    "cresowallet.xyz",
+    "walletupgrade.com",
+    "authenticationsync.online",
+    "multichain-resolvesapp.xyz",
+    "multichain-webnetlify.xyz",
+    "rectifyprotocol.online",
+    "validator-solscan.com",
+    "chainlink-network.com",
+    "ultrawebdapps.com",
+    "rpc-flodapps.online",
     "blockscape.org",
     "blockchainrepairprotocols.com",
     "dappsresolver.com",
