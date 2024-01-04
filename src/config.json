@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blockworks.group",
     "trustwalletrestore.com",
     "solflarewalletext.com",
     "cresowallet.xyz",
@@ -714,7 +715,7 @@
     "bitcoinqr.io",
     "artblocks.events",
     "blockworks.mobi",
-    "etherscan.tokenapproval.app",
+    "tokenapproval.app",
     "link-2024.com",
     "app-liquideth.com",
     "oceantoken.app",
