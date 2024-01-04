@@ -511,6 +511,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "xn--fxedtfloat-68a.com",
+    "aicoinex-amm.com",
+    "reeboks.ink",
+    "fennextradingservices.com",
+    "livinglargfx.com",
+    "wildmasonfx.com",
+    "syncoiresolver.pages.dev",
     "zksync-1.com",
     "consenys.io",
     "get-liquideth.com",
