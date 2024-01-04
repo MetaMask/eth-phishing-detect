@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "corn-live.site",
+    "io-suite.de",
+    "blockworks.group",
     "blurioasset0x524cab2ec69124574082676e6f654a18df49a0482265.pages.dev",
     "blast-giveaway.pages.dev",
     "lidofins.com",
@@ -729,7 +732,7 @@
     "bitcoinqr.io",
     "artblocks.events",
     "blockworks.mobi",
-    "etherscan.tokenapproval.app",
+    "tokenapproval.app",
     "link-2024.com",
     "app-liquideth.com",
     "oceantoken.app",
