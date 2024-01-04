@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-1.com",
+    "consenys.io",
     "get-liquideth.com",
     "app-ocean.com",
     "gala-games.io",
