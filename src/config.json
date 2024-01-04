@@ -511,6 +511,21 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blurioasset0x524cab2ec69124574082676e6f654a18df49a0482265.pages.dev",
+    "blast-giveaway.pages.dev",
+    "lidofins.com",
+    "coinbase-live-chat.com",
+    "lidofinance-revshare.pages.dev",
+    "blastl2.co",
+    "sei-faucet.nima.enterprises",
+    "blast-invite.xyz",
+    "magiceden.network",
+    "blastgiveaway.pages.dev",
+    "eth-lido.pages.dev",
+    "claiming.fun",
+    "aptosfundation.com",
+    "lido-stake-5km.pages.dev",
+    "looksrare-drop.org",
     "trustwalletrestore.com",
     "solflarewalletext.com",
     "cresowallet.xyz",
@@ -75853,6 +75868,14 @@
     "redeem-sleeplessai.net",
     "jup.whitelist-defi.app",
     "signup-zkfair.io",
-    "optlmisim.io"
+    "optlmisim.io",
+    "basesdomains.org",
+    "arbitrum-1.xyz",
+    "tellor-trb.net",
+    "claim-tellor.xyz",
+    "claim-injective.net",
+    "claims-injective.com",
+    "zksfoundation.net",
+    "diamondhands.tech"
   ]
 }
