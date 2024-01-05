@@ -503,6 +503,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "calendly.fi",
     "dymensionfinance.com",
     "xn--fixedflaot-f0b.com",
     "xn--fxedtfloat-68a.com",
@@ -75892,6 +75893,11 @@
     "collect-arkham.com",
     "airdrop-jup.org",
     "geneslsdymenslon.xyz",
-    "polychain.finance"
+    "polychain.finance",
+    "polychain.events",
+    "bakeryswap.gifts",
+    "get-usdctoken.com",
+    "usdcv2.com",
+    "extension-revoke.cash"
   ]
 }
