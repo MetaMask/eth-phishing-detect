@@ -511,6 +511,24 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "blast-drop.fun",
+    "xn--blst-roa.org",
+    "connects-magiceden.io",
+    "magiceden-trumpcollection.store",
+    "rewards-gmx.io",
+    "opensea-rtf.com",
+    "aptosfoundation.info",
+    "blast-glveaway.pages.dev",
+    "aptos-7eo.pages.dev",
+    "revise.cash",
+    "lblast.com",
+    "aptos-r0e.pages.dev",
+    "m-solana.com",
+    "claim-gmx.io",
+    "tiadrop.me",
+    "blastreward-blur.io",
+    "openseadrop.io",
+    "calendly.fi",
     "dymensionfinance.com",
     "xn--fixedflaot-f0b.com",
     "xn--fxedtfloat-68a.com",
@@ -547,7 +565,6 @@
     "coinbase-live-chat.com",
     "lidofinance-revshare.pages.dev",
     "blastl2.co",
-    "sei-faucet.nima.enterprises",
     "blast-invite.xyz",
     "magiceden.network",
     "blastgiveaway.pages.dev",
@@ -75915,5 +75932,9 @@
     "usdcv2.com",
     "extension-revoke.cash",
     "gift-jito.com"
+    "whitelist-saga.xyz",
+    "distribution-saga.com",
+    "saga.trading",
+    "l2-manta.network"
   ]
 }
