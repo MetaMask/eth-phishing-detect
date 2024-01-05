@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ezksync.github.io",
     "synks.shop",
     "blast-drop.fun",
     "xn--blst-roa.org",
