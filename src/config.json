@@ -511,6 +511,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "portal-defi.web.app",
+    "porshe-taycan.nfts2.me",
+    "zksync-era-zktv.nfts2.me",
+    "planet-zksync.nfts2.me",
     "ezksync.github.io",
     "synks.shop",
     "blast-drop.fun",
