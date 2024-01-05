@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-era-zktv.nfts2.me",
     "planet-zksync.nfts2.me",
     "ezksync.github.io",
     "synks.shop",
