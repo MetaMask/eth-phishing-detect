@@ -76035,6 +76035,7 @@
     "drop-manta.network",
     "mantanetwork.app",
     "joins-manta.network",
-    "reg-mantanetwork.app"
+    "reg-mantanetwork.app",
+    "lessfeesandgas.events"
   ]
 }
