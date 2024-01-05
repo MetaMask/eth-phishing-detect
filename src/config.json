@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "synks.shop",
     "blast-drop.fun",
     "xn--blst-roa.org",
     "connects-magiceden.io",
@@ -565,7 +566,6 @@
     "coinbase-live-chat.com",
     "lidofinance-revshare.pages.dev",
     "blastl2.co",
-    "sei-faucet.nima.enterprises",
     "blast-invite.xyz",
     "magiceden.network",
     "blastgiveaway.pages.dev",
@@ -76021,6 +76021,11 @@
     "bakeryswap.gifts",
     "get-usdctoken.com",
     "usdcv2.com",
-    "extension-revoke.cash"
+    "extension-revoke.cash",
+    "gift-jito.com",
+    "whitelist-saga.xyz",
+    "distribution-saga.com",
+    "saga.trading",
+    "l2-manta.network"
   ]
 }
