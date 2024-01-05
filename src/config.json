@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncprotcol.com",
     "linea-build.app",
     "starknet-zealy.quest",
     "portal-defi.web.app",
