@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.free-nft.org",
     "zksyncprotcol.com",
     "linea-build.app",
     "starknet-zealy.quest",
