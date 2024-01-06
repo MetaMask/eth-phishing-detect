@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tokenmask.io",
     "consensys.free-nft.org",
     "arbitrum.free-nft.org",
     "zksyncprotcol.com",
