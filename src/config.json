@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-pro.com",
     "explore-sync.com",
     "taikoclaim.click",
     "zksync.free-nft.org",
