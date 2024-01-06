@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-arkham.com",
     "hub-apyether.net",
     "claim-liquideth.com",
     "hub-ocean.com",
