@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "taikoclaim.click",
     "zksync.free-nft.org",
     "tokenmask.io",
     "consensys.free-nft.org",
