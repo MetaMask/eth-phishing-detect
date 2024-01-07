@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zurmarket-v1vercel.app",
     "reg-manta.network",
     "claim.starknet-token.xyz",
     "starknet-pro.com",
