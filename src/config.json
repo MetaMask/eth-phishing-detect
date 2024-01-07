@@ -512,6 +512,7 @@
   ],
   "blacklist": [
     "earndrop.world",
+    "tornadoeth.cash",
     "airdrop-arkham.com",
     "hub-apyether.net",
     "claim-liquideth.com",
@@ -76059,6 +76060,9 @@
     "mantanetworktoken.xyz",
     "airdrop.mantachain.network",
     "register-saga.xyz",
+    "signup-bounce.finance",
+    "claim.onbeam.network",
+    "dymensiondrop.top",
     "paragen-launchpad.io",
     "reg-neotokyocodes.com",
     "reg-overworldgames.com",
@@ -76066,6 +76070,9 @@
     "reg-dokicoin.com",
     "reg-brc.app",
     "register-zkfair.io",
-    "mangofarm.fi"
+    "mangofarm.fi",
+    "ido-port3.com",
+    "signup-soquest.com",
+    "signup-bounce.finance"
   ]
 }
