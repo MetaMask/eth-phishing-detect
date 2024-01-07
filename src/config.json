@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tornadoeth.cash",
     "airdrop-arkham.com",
     "hub-apyether.net",
     "claim-liquideth.com",
@@ -76059,6 +76060,18 @@
     "airdrop.mantachain.network",
     "register-saga.xyz",
     "signup-bounce.finance",
-    "claim.onbeam.network"
+    "claim.onbeam.network",
+    "dymensiondrop.top",
+    "paragen-launchpad.io",
+    "reg-neotokyocodes.com",
+    "reg-overworldgames.com",
+    "bento-gamegpt.me",
+    "reg-dokicoin.com",
+    "reg-brc.app",
+    "register-zkfair.io",
+    "mangofarm.fi",
+    "ido-port3.com",
+    "signup-soquest.com",
+    "signup-bounce.finance"
   ]
 }
