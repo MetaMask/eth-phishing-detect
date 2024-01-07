@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "earndrop.world",
     "tornadoeth.cash",
     "airdrop-arkham.com",
     "hub-apyether.net",
@@ -76059,7 +76060,6 @@
     "mantanetworktoken.xyz",
     "airdrop.mantachain.network",
     "register-saga.xyz",
-    "signup-bounce.finance",
     "claim.onbeam.network",
     "dymensiondrop.top",
     "paragen-launchpad.io",
