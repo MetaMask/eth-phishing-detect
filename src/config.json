@@ -511,6 +511,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidostaking-4cp.pages.dev",
+    "coinuppool.com",
+    "scrollau.com",
+    "mint-madlad.com",
+    "twm-box.com",
     "earndrop.world",
     "tornadoeth.cash",
     "airdrop-arkham.com",
