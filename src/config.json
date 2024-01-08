@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.center",
     "inu-coq.com",
     "xn--fxedfloadt-k8a.com",
     "xn--fixedfoat-vub.net",
