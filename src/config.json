@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "portfolio-verification.com",
     "metacoin.page",
     "earndrop.world",
     "tornadoeth.cash",
