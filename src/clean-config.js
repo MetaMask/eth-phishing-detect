@@ -14,66 +14,72 @@ const SECTION_KEYS = {
   * @returns {PhishingDetectorConfiguration} Cleaned config
   */
 const cleanConfig = (config, listName) => {
-  const section = SECTION_KEYS[listName];
-  const newConfig = {
-    version: config.version,
-    tolerance: listName === 'blocklist' ? 0 : config.tolerance, // disable fuzzychecking for performance
-    fuzzylist: [...config.fuzzylist],
-    [SECTION_KEYS.allowlist] : [...config[SECTION_KEYS.allowlist]],
-    [SECTION_KEYS.blocklist] : [...config[SECTION_KEYS.blocklist]],
-  };
-
-  const finalEntries = new Set();
-  const excludedEntries = new Set();
-  const detector = new PhishingDetector(newConfig);
-  const baseList = detector.configs[0][listName];
-
-  const isResultRedundant = listName === 'blocklist'
-    ? r => r.result && r.type !== 'fuzzy'
-    : r => !r.result;
-
-  for (let i = 0; i < config[section].length; i++) {
-    const host = config[section][i];
-
-    // omit current domain from current list to see if results differ without
-    detector.configs[0][listName] = baseList.slice(0,i).concat(baseList.slice(i+1));
-    const result = detector.check(host);
-
-    if (!isResultRedundant(result)) {
-      finalEntries.add(host);
-    } else {
-      if (!excludedEntries.has(host)) {
-        excludedEntries.add(host);
-        if (listName === 'allowlist') {
-          console.error(`removing redundant ${JSON.stringify({entry: host, result: result.result, tolerance: config.tolerance})}`);
-        } else {
-          console.error(`removing redundant ${JSON.stringify({entry: host, match: result.match, matchList: result.type})}`);
-        }
-      }
-    }
+  switch (listName) {
+    case 'allowlist':
+      return cleanAllowlist(config);
+    case 'blocklist':
+      return cleanBlocklist(config);
   }
-
-  // attempt to add back excluded entries ensuring consistency
-  for (const host of excludedEntries) {
-    newConfig[section] = Array.from(finalEntries);
-    const detector = new PhishingDetector(newConfig);
-    const result = detector.check(host);
-    if (!isResultRedundant(result)) {
-      console.error(`adding back ${JSON.stringify({host})}`);
-      finalEntries.add(host);
-    }
-  }
-
-  newConfig[section] = Array.from(finalEntries);
-  newConfig.tolerance = config.tolerance;
-  return newConfig;
 };
 
-const cleanAllowlist = config =>
-  cleanConfig(config, 'allowlist');
+const cleanAllowlist = config => {
+  // when cleaning the allowlist, we want to remove domains that are not:
+  // - subdomains of entries in the blocklist
+  // - otherwise detected via the fuzzylist
 
-const cleanBlocklist = config =>
-  cleanConfig(config, 'blocklist');
+  const fuzzyDetector = new PhishingDetector({
+    ...config,
+    [SECTION_KEYS['blocklist']]: [],
+    [SECTION_KEYS['allowlist']]: [],
+  });
+
+  const blocklistSet = new Set(config[SECTION_KEYS['blocklist']]);
+  const allowlistSet = new Set(config[SECTION_KEYS['allowlist']]);
+
+  const newAllowlist = Array.from(allowlistSet).filter(domain => {
+    const parts = domain.split(".");
+    for (let i = 1; i < parts.length - 1; i++) {
+      if (blocklistSet.has(parts.slice(i).join("."))) {
+        return true;
+      }
+    }
+
+    if (fuzzyDetector.check(domain).result) {
+      return true;
+    }
+
+    console.log("cleaning redundant allowlist entry", domain);
+  });
+
+  return {
+    ...config,
+    [SECTION_KEYS['allowlist']]: newAllowlist,
+  };
+}
+
+const cleanBlocklist = config => {
+  // when cleaning the blocklist, we want to remove domains that are:
+  // - already present on the blocklist through a less specific match
+
+  const blocklistSet = new Set(config[SECTION_KEYS['blocklist']]);
+
+  const newBlocklist = Array.from(blocklistSet).filter(domain => {
+    const parts = domain.split(".");
+    for (let i = 1; i < parts.length - 1; i++) {
+      if (blocklistSet.has(parts.slice(i).join("."))) {
+        console.log("cleaning redundant blocklist entry", domain);
+        return false;
+      }
+    }
+
+    return true;
+  });
+
+  return {
+    ...config,
+    [SECTION_KEYS['blocklist']]: newBlocklist,
+  };
+}
 
 module.exports = {
   cleanAllowlist,
