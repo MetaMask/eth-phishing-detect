@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lineabuiid.com",
     "claim-zksync-io.com",
     "bak-eryswap.web.app",
     "zksfund.net",
