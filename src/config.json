@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bak-eryswap.web.app",
     "zksfund.net",
     "basename.site",
     "dappradar.center",
