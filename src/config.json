@@ -511,6 +511,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lndry.xyz",
+    "btcmixer.grabgame.cash",
     "metacoin.page",
     "earndrop.world",
     "tornadoeth.cash",
