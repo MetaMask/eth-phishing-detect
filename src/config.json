@@ -511,6 +511,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lessfeeandgas.org",
+    "hashpackmrsd.top",
+    "abracapitals.com",
+    "vulcanblokchain.com",
+    "compound-defi.com",
+    "bridge.pulsechain.fi",
+    "verify.land",
     "zksync-protocols.com",
     "defillamaswap.org",
     "thegraphairdrop.net",
