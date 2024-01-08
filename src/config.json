@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "inu-coq.com",
+    "xn--fxedfloadt-k8a.com",
+    "xn--fixedfoat-vub.net",
+    "web3-om.com",
     "sysmadbd.xyz",
     "altspads.top",
     "trastpad-event.top",
