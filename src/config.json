@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "thegraphairdrop.net",
     "multichain-webinchpd.com",
     "zurmarket-v1vercel.app",
     "reg-manta.network",
