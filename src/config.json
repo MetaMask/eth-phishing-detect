@@ -503,6 +503,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lidostaking-4cp.pages.dev",
+    "coinuppool.com",
+    "scrollau.com",
+    "mint-madlad.com",
+    "twm-box.com",
     "jito-app.network",
     "openseapro-nftj.vercel.app",
     "blast-drops.com",
