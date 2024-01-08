@@ -502,6 +502,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksfund.net",
+    "basename.site",
+    "dappradar.center",
     "inu-coq.com",
     "xn--fxedfloadt-k8a.com",
     "xn--fixedfoat-vub.net",
