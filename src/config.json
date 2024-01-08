@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "basename.site",
     "dappradar.center",
     "inu-coq.com",
     "xn--fxedfloadt-k8a.com",
