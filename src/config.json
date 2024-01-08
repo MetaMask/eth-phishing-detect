@@ -511,6 +511,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "multichain-webinchpd.com",
     "zurmarket-v1vercel.app",
     "reg-manta.network",
     "claim.starknet-token.xyz",
