@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "join-grok.org",
+    "syncswap.works",
     "pknvv.top",
     "verification-kyc.io",
     "assetbloomaxis.com",
