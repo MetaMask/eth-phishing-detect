@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cruize.top",
     "bak-eryswap.web.app",
     "zksfund.net",
     "basename.site",
