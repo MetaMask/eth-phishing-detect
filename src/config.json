@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "resolutiondex.live",
+    "daosystemapps.web.app",
     "cruize.top",
     "bak-eryswap.web.app",
     "zksfund.net",
