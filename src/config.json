@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop.arbitrumodyssey.buzz",
     "clmtaiko.xyz",
     "airdrop-starknet.live",
     "zksync-distribution.app",
