@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "injective.systems",
     "join-grok.org",
     "syncswap.works",
     "drop-xrp.net",
