@@ -112,7 +112,6 @@
     "makedafoundation.org",
     "metawash.me",
     "openmse.com",
-    "proofpass.xyz",
     "openrpa.dk",
     "opensfs.org",
     "thescan.io",
@@ -503,6 +502,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pknvv.top",
+    "verification-kyc.io",
+    "assetbloomaxis.com",
+    "tophedgefinance.ltd",
+    "web3mwy.com",    
     "resolutiondex.live",
     "daosystemapps.web.app",
     "cruize.top",
@@ -3334,7 +3338,6 @@
     "arkm.x-edrops.top",
     "arkm.ewalletpads.top",
     "arkm.expads.top",
-    "starknet.claim-tokens.live",
     "authresolvefix.pages.dev",
     "web3-usdt.vip",
     "starknet.cryptoshares.online",
@@ -3623,7 +3626,6 @@
     "apyeth.finance",
     "apyether.com",
     "usdcoin.global",
-    "zeta-chain.claim-tokens.live",
     "cowswapping.co",
     "cowswapplc.com",
     "giveway-arb.com",
@@ -3873,7 +3875,6 @@
     "celestia-eth.com",
     "claim.celestia.re",
     "celistz.xyz",
-    "zetablockchain.claim-tokens.live",
     "linea-claims.com",
     "coinfct.com",
     "celestia-claim.com",
@@ -3917,7 +3918,6 @@
     "genesis-celestia1-9np38u2v3-glebmartynov-tutanotacom.vercel.app",
     "platformsync.pages.dev",
     "zksyncairdrop.xyz",
-    "zeta-blockchain.claim-tokens.live",
     "arbitrum.qulckpad.top",
     "celestia.wiavip.org",
     "nova-arbitrum.foundation",
@@ -3991,7 +3991,7 @@
     "celestia.web-hmint.com",
     "celestiatia.top",
     "celestia.frcksa.com",
-    "zetachain.claim-tokens.live",
+    "claim-tokens.live",
     "a.arbitrum.express",
     "claim.arbitrum-arb.icu",
     "trustpad-promo.top",
@@ -76460,6 +76460,7 @@
     "mantatreasuries.com",
     "registrar-bakeryswap.com",
     "launchpad-bakeryswap.org",
-    "rewards-xai.games"
+    "rewards-xai.games",
+    "reg-bakeryswap.org"
   ]
 }
