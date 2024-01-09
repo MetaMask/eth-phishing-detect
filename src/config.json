@@ -502,6 +502,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "resolutiondex.live",
+    "daosystemapps.web.app",
+    "cruize.top",
     "get-usdcoin.com",
     "galacticsgecko.com",
     "claim-liquideth.org",
