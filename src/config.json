@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-wallet.weebly.com",
     "participate-zksync.net",
     "airdrop.arbitrumodyssey.buzz",
     "clmtaiko.xyz",
