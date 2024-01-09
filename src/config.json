@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "join-grok.org",
+    "syncswap.works",
     "drop-xrp.net",
     "okx-drops.io",
     "magiceden.lol",
