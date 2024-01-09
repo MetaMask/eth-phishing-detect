@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-starknet.live",
     "zksync-distribution.app",
     "lineabuiid.com",
     "claim-zksync-io.com",
