@@ -502,6 +502,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sleeplessailab.net",
+    "manta-networks.org",
+    "clestia.org",
+    "tornado.foundation",
+    "alphadrop.org",
     "xn--fxedfoat-c2a.com",
     "kavahub.site",
     "etf-grayscale.com",
