@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gcko.org",
     "xn--fxedfoat-c2a.com",
     "kavahub.site",
     "etf-grayscale.com",
