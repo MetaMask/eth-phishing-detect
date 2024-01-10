@@ -13,13 +13,14 @@ jobs:
       matrix:
         node-version: [16.x, 18.x, 19.x]
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         fetch-depth: 500
     - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v4
       with:
         node-version: ${{ matrix.node-version }}
+        cache: 'yarn'
     - run: yarn --frozen-lockfile
     - run: yarn buildSample
     - run: |
