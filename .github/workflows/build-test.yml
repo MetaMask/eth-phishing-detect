@@ -11,11 +11,10 @@ jobs:
     runs-on: ubuntu-20.04
     strategy:
       matrix:
-        node-version: [16.x, 18.x, 19.x]
+        node-version: [16.x, 18.x, 20.x]
     steps:
     - uses: actions/checkout@v4
-      with:
-        fetch-depth: 500
+    - run: git fetch origin "${{ github.event.pull_request.base.sha }}" --depth 1 && git fetch origin "${{ github.event.pull_request.head.sha }}" --depth 1
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v4
       with:
