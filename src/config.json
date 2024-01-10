@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "xn--fxedfoat-c2a.com",
+    "kavahub.site",
+    "etf-grayscale.com",
+    "kavas-api18.web.app",
     "injective.systems",
     "join-grok.org",
     "syncswap.works",
