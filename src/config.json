@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "secure-trezor-updates.com",
     "derecalliance.org",
     "claim-aptos.org",
     "otherside-xyz.events",
