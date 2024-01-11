@@ -502,6 +502,14 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensae-claim.web.app",
+    "mint-openseapro.web.app",
+    "solana-hold.web.app",
+    "paperhands-solana.web.app",
+    "portal-coin.web.app",
+    "openseanftmint.web.app",
+    "connect-collabs.land",
+    "earsndrop.org",
     "sleeplessailab.net",
     "manta-networks.org",
     "clestia.org",
