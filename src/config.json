@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "derecalliance.org",
     "claim-aptos.org",
     "otherside-xyz.events",
     "coinzgroup.org",
