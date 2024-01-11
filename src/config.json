@@ -502,6 +502,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "sleeplessailab.net",
+    "manta-networks.org",
+    "clestia.org",
+    "tornado.foundation",
+    "alphadrop.org",
     "coinbase3105.zendesk.com",
     "coinbase8489.zendesk.com",
     "brad-xrp.com",
