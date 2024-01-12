@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "community-dappradar.com",
     "secure-trezor-updates.com",
     "derecalliance.org",
     "claim-aptos.org",
