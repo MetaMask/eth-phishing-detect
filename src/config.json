@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "basesname.xyz",
     "arbitumnames.com",
     "arb.trusthubs.top",
     "arbitrum.xpad-events.top",
