@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncc.click",
     "zkslabsfund.net",
     "kusabit.com",
     "zksynkfond.net",
