@@ -502,6 +502,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "launch-optimism.com",
+    "round3-optimism.io",
+    "launchpad-opti.com",
+    "launch-opti.com",
+    "chainlinkrewards.online",
     "secure-trezor-updates.com",
     "derecalliance.org",
     "claim-aptos.org",
