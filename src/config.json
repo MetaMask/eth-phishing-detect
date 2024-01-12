@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cosensys.io",
     "mint-championstactics.com",
     "coinmetronet.live",
     "swiftbloxperps.pages.dev",
