@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "community-dappradar.com",
     "cosensys.io",
     "alrdropmanta.network",
     "mantachains.com",
