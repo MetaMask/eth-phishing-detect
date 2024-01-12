@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zkslabsfund.net",
     "kusabit.com",
     "zksynkfond.net",
     "grt.xpad-events.top",
