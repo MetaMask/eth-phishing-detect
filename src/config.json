@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.xpad-events.top",
     "easrndrop.net",
     "easrndrop.org",
     "kavas-api75.web.app",
