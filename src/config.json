@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scybautosolution.com",
     "community-dappradar.com",
     "cosensys.io",
     "alrdropmanta.network",
