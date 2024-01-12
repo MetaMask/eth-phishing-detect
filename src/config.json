@@ -502,6 +502,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "easrndrop.net",
+    "easrndrop.org",
+    "kavas-api75.web.app",
+    "kava-gate.live",
+    "v2nfa-ai.vercel.app",
+    "hheckboxclicknft.vercel.app",
+    "ethdrop.vercel.app",
+    "defendkava.me",
+    "altdentifir.com",
+    "verify-connection.com",
+    "sentinel-kava.pw",
+    "validation-connects-verifys.vercel.app",
     "noncoin-events.com",
     "rewards.tonasset.net",
     "liquideth-claim.net",
