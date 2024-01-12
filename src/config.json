@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-governance.com",
     "defillama.top",
     "cryptocowswap.io",
     "consensysnft.in",
