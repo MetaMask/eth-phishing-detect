@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb.trusthubs.top",
     "arbitrum.xpad-events.top",
     "easrndrop.net",
     "easrndrop.org",
