@@ -502,7 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "http://scybautosolution.com/",
+    "scybautosolution.com",
     "mint-championstactics.com",
     "coinmetronet.live",
     "swiftbloxperps.pages.dev",
