@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ldodex.org",
     "scybautosolution.com",
     "community-dappradar.com",
     "cosensys.io",
