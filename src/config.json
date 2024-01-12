@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism.web3-nft.link",
     "zksyncc.click",
     "zkslabsfund.net",
     "kusabit.com",
