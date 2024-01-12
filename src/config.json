@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cosensys.io",
     "alrdropmanta.network",
     "mantachains.com",
     "sentry-xal.games",
