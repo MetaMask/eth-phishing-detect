@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "defillama.top",
     "cryptocowswap.io",
     "consensysnft.in",
     "basesname.xyz",
