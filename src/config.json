@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ldodex.org",
     "alrdropmanta.network",
     "mantachains.com",
     "sentry-xal.games",
