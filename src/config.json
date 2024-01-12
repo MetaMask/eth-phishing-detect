@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.xpad-events.top",
     "taikochains.com",
     "starknet-governance.com",
     "defillama.top",
