@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism.claim-token.codes",
     "leesfeeandgas.com",
     "optimism-claim.io",
     "zksyncsera.net",
