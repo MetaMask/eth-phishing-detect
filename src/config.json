@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-fondation.com",
     "grt.xbestpad.top",
     "dappradar.media",
     "event.trasthubs.top",
