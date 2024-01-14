@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.media",
     "event.trasthubs.top",
     "arbitrumone.txchecker.net",
     "linea-app.space",
