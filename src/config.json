@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linea-app.space",
     "emblem-azuki.com",
     "zk-skalling.net",
     "optimism.claim-token.codes",
