@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumone.txchecker.net",
     "linea-app.space",
     "emblem-azuki.com",
     "zk-skalling.net",
