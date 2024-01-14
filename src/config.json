@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event.trasthubs.top",
     "arbitrumone.txchecker.net",
     "linea-app.space",
     "emblem-azuki.com",
