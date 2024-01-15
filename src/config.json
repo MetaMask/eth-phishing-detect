@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bitcloak.io",
     "zksyncsera.net",
     "optimism.web3-nft.link",
     "zksyncc.click",
