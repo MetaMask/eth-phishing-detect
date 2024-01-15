@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-zksync.network",
     "yearn.xbestpad.top",
     "sale-starknet.io",
     "starknets.claims",
