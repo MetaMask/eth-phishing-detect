@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nft-rocketpool.net",
     "ripplexx.com",
     "wldcoin.live",
     "magiceden-1xe.pages.dev",
