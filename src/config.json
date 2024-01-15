@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknets.claims",
     "arbitrumm.app",
     "namesbases.com",
     "arbitrumsurveyi.com",
