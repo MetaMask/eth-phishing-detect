@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "namesbases.com",
     "arbitrumsurveyi.com",
     "metamask.verify-location.com",
     "metamask-verse.pages.dev",
