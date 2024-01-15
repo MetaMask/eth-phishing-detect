@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "prompt-0x182.com",
+    "jupuary-airdrop.com",
     "ripplexx.com",
     "wldcoin.live",
     "magiceden-1xe.pages.dev",
