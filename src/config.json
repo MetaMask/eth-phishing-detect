@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-tool.pages.dev",
+    "redeem-arbitrum.foundation",
+    "zklabsclaim.net",
+    "nft-rocketpool.net",
     "orbitix.xyz",
     "azybate.xyz",
     "wormgems.xyz",
