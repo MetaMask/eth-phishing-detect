@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "prompt-0x182.com",
+    "jupuary-airdrop.com",
     "aleoguard.com",
     "aleoguard.live",
     "aleoguard.net",
