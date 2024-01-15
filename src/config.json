@@ -502,6 +502,28 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "visit-frame.xyz",
+    "zksycn.net",
+    "claim-zksync.network",
+    "yearn.xbestpad.top",
+    "sale-starknet.io",
+    "starknets.claims",
+    "arbitrumm.app",
+    "namesbases.com",
+    "arbitrumsurveyi.com",
+    "metamask.verify-location.com",
+    "metamask-verse.pages.dev",
+    "zksync-fondation.com",
+    "grt.xbestpad.top",
+    "dappradar.media",
+    "event.trasthubs.top",
+    "arbitrumone.txchecker.net",
+    "linea-app.space",
+    "emblem-azuki.com",
+    "zk-skalling.net",
+    "optimism.claim-token.codes",
+    "leesfeeandgas.com",
+    "optimism-claim.io",
     "reward-optimism.io",
     "registrar-optimsm.com",
     "zksyncsera.net",
@@ -76876,7 +76898,6 @@
     "chainlink.net",
     "meta-neotokyo.codes",
     "coreappz.xyz",
-    "emblem-azuki.com",
     "babydoge.events",
     "satoshlvm.io",
     "signup-satoshivm.io",
@@ -76894,7 +76915,6 @@
     "claim.xal.games",
     "artio-berachain.com",
     "token-metis.io",
-    "token-satoshivm.io",
-    "visit-frame.xyz"
+    "token-satoshivm.io"
   ]
 }
