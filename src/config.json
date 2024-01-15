@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "visit-frame.xyz",
     "zksycn.net",
     "claim-zksync.network",
     "yearn.xbestpad.top",
