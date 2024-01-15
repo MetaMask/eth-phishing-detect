@@ -502,6 +502,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bestbitcointumblers.site",
+    "btc-mixer.org",
+    "bitcoinmix.online",
+    "bitcoinblender.online",
+    "blenderio.ai",
+    "chipmixer.best",
+    "smartmix.host",
+    "cryptomixer.cx",
+    "mixtum.app",
+    "anonymix.me",
     "bitcloak.io",
     "zksyncsera.net",
     "optimism.web3-nft.link",
