@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "syncchains.netfy.app",
     "ttbentle.com",
     "algorhythmvip.site",
     "ilvclaim.com",
