@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-verse.pages.dev",
     "zksync-fondation.com",
     "grt.xbestpad.top",
     "dappradar.media",
