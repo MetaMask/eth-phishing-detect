@@ -502,6 +502,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-tool.pages.dev",
+    "redeem-arbitrum.foundation",
+    "zklabsclaim.net",
+    "nft-rocketpool.net",
+    "orbitix.xyz",
+    "azybate.xyz",
+    "wormgems.xyz",
+    "montique.club",
+    "tornadocashcommunity.eth.link",
+    "jucrina.club",
+    "grabix.club",
+    "merchantmoe.network",
     "ripplexx.com",
     "wldcoin.live",
     "magiceden-1xe.pages.dev",
@@ -77033,6 +77045,16 @@
     "manzta.network",
     "boredopeyachtclub.com",
     "token-satoshivm.io",
-    "allocation-satoshivm.io"
+    "allocation-satoshivm.io",
+    "sea-manta.network",
+    "registry-dymension.xyz",
+    "registry-polynomial.com",
+    "stake-zkfair.io",
+    "signup-metis.io",
+    "universe-neotokyo.codes",
+    "enroll-soquest.xyz",
+    "tokensquest.co",
+    "reg-dioneprotocol.com",
+    "reg-berachain.com"
   ]
 }
