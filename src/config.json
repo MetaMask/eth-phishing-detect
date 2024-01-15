@@ -502,6 +502,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aleoguard.com",
+    "aleoguard.live",
+    "aleoguard.net",
+    "coinlist.ws",
+    "worldcoin-airdrop.com",
+    "lido-drop.site",
+    "layerzchain.net",
     "metamask-tool.pages.dev",
     "redeem-arbitrum.foundation",
     "zklabsclaim.net",
