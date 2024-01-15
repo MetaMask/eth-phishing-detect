@@ -503,6 +503,7 @@
   ],
   "blacklist": [
     "reward-optimism.io",
+    "registrar-optimsm.com",
     "zksyncsera.net",
     "optimism.web3-nft.link",
     "zksyncc.click",
@@ -76893,6 +76894,7 @@
     "claim.xal.games",
     "artio-berachain.com",
     "token-metis.io",
-    "token-satoshivm.io"
+    "token-satoshivm.io",
+    "visit-frame.xyz"
   ]
 }
