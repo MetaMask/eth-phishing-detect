@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zklabsclaim.net",
     "nft-rocketpool.net",
     "ripplexx.com",
     "wldcoin.live",
