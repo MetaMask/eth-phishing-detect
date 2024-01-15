@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yearn.xbestpad.top",
     "sale-starknet.io",
     "starknets.claims",
     "arbitrumm.app",
