@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "reward-optimism.io",
     "registrar-optimsm.com",
     "zksyncsera.net",
     "optimism.web3-nft.link",
