@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "clicksopenboxnft.vercel.app",
     "syncchains.netfy.app",
     "ttbentle.com",
     "algorhythmvip.site",
