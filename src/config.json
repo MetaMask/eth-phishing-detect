@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.land",
     "rocketpool.liquidityus.net",
     "migrating-rocketpool.net",
     "funairdrop.com",
