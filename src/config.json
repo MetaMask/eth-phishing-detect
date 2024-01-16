@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "reg-blast.io",
     "newtreasures-manta.network",
     "dappradar.land",
     "rocketpool.liquidityus.net",
