@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-claims.io",
     "zkclaimlabs.net",
     "zksync.claiming-token.run",
     "mon-pixelmon.com",
