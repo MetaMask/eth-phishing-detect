@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "swiftrectify.pages.dev",
     "starknet-labs.com",
     "airdrop-zksync.network",
     "atlantic-manta.network",
