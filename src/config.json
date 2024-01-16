@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stark-claim.net",
+    "dllbet.com",
+    "unimevbot.top",
+    "drop-mantas.xyz",
     "crypto-mixer.net",
     "cryptomixer.to",
     "anonymixer.biz",
