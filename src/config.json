@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-zksync.network",
     "atlantic-manta.network",
     "arbitrrum-bridge.com",
     "chaingpt.cx",
