@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrrum-bridge.com",
     "chaingpt.cx",
     "gasfees.wtf",
     "mevnow-bot.com",
