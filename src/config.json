@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-labs.com",
     "airdrop-zksync.network",
     "atlantic-manta.network",
     "arbitrrum-bridge.com",
