@@ -502,6 +502,17 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rocketpool.liquidityus.net",
+    "migrating-rocketpool.net",
+    "funairdrop.com",
+    "zksync.fr",
+    "starknet-tokenbound.com",
+    "metmetamasklogin.gitbook.io",
+    "swiftrectify.pages.dev",
+    "starknet-labs.com",
+    "airdrop-zksync.network",
+    "atlantic-manta.network",
+    "arbitrrum-bridge.com",
     "chaingpt.cx",
     "gasfees.wtf",
     "mevnow-bot.com",
