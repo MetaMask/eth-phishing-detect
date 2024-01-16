@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "funairdrop.com",
     "zksync.fr",
     "starknet-tokenbound.com",
     "metmetamasklogin.gitbook.io",
