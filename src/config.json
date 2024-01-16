@@ -502,6 +502,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "easrndrop.net",
+    "stark-claim.net",
+    "dllbet.com",
+    "unimevbot.top",
+    "drop-mantas.xyz",
     "dappradar.land",
     "rocketpool.liquidityus.net",
     "migrating-rocketpool.net",
