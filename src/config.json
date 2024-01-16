@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "atlantic-manta.network",
     "arbitrrum-bridge.com",
     "chaingpt.cx",
     "gasfees.wtf",
