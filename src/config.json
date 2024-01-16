@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-tokenbound.com",
     "metmetamasklogin.gitbook.io",
     "swiftrectify.pages.dev",
     "starknet-labs.com",
