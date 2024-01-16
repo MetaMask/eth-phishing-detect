@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.land",
     "chaingpt.cx",
     "gasfees.wtf",
     "mevnow-bot.com",
