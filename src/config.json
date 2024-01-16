@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "anonymixer.biz",
     "bestbitcointumblers.site",
     "btc-mixer.org",
     "bitcoinmix.online",
