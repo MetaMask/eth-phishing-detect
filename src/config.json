@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rocketpool.liquidityus.net",
     "migrating-rocketpool.net",
     "funairdrop.com",
     "zksync.fr",
