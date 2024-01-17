@@ -502,6 +502,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-web-restore-portal.webflow.io",
+    "airdrop-magic.icu",
+    "collection-neotokyo.codes",
+    "extserum.site",
+    "drop-altlayer.io",
     "earns-drop.org",
     "drop-altlayer.io",
     "claim-altlayer.io",
