@@ -502,6 +502,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-fixweb.pages.dev",
+    "starknet-rewards.net",
+    "zksync-claims.io",
+    "zkclaimlabs.net",
+    "zksync.claiming-token.run",
     "stark-claim.net",
     "dllbet.com",
     "unimevbot.top",
