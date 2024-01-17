@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.is",
     "migrator-rocketpool.net",
     "opensea.icu",
     "xn--etamak-2s7bvk.com",
