@@ -503,6 +503,8 @@
   ],
   "blacklist": [
     "snapshot-defi.com",
+    "dappradar.is",
+    "migrator-rocketpool.net",
     "opensea.icu",
     "xn--etamak-2s7bvk.com",
     "airdrop-stake.vercel.app",
@@ -77474,6 +77476,7 @@
     "enlist-jupp.app",
     "enlist-manta.network",
     "visit-injective.com",
-    "dive-manta.network"
+    "dive-manta.network",
+    "nftbonus-manta.network"
   ]
 }
