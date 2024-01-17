@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "listing-manta.network",
     "xn--etamak-2s7bvk.com",
     "airdrop-stake.vercel.app",
     "claim.farcana.network",
