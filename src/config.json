@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "earns-drop.org",
+    "drop-altlayer.io",
+    "claim-altlayer.io",
+    "aitiayer.io",
     "snapshot-defi.com",
     "dappradar.is",
     "migrator-rocketpool.net",
