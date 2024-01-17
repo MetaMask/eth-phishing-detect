@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rocket-pool.link",
     "mainnetdapp.pages.dev",
     "rocketpol.xyz",
     "rocketpool-migration.net",
