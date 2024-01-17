@@ -504,6 +504,10 @@
   "blacklist": [
     "share-portal.pages.dev",
     "synapseprotocol.pages.dev",
+    "metamask-web-restore-portal.webflow.io",
+    "airdrop-magic.icu",
+    "collection-neotokyo.codes",
+    "extserum.site",
     "earns-drop.org",
     "drop-altlayer.io",
     "claim-altlayer.io",
@@ -77487,6 +77491,13 @@
     "stake-manta.network",
     "events-altlayer.io",
     "quest-arkhamintelligence.com",
-    "rocketpool-migrating.net"
+    "rocketpool-migrating.net",
+    "app-getgrass.io",
+    "my-grass.xyz",
+    "tokens-manta.network",
+    "pgf3-optimism.io",
+    "events-injective.com",
+    "claim-ether.fi",
+    "tokens-rocketpool.net"
   ]
 }
