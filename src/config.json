@@ -502,7 +502,6 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "listing-manta.network",
     "earns-drop.org",
     "drop-altlayer.io",
     "claim-altlayer.io",
