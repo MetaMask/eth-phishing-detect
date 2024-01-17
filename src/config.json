@@ -502,10 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "vsco-api.jxke.me",
     "play-pudgypenguins.com",
     "mail.mail-coinbase.biz",
     "colnbase-verify.com",
-    "accointing.com/en-us/integrations/coinbasewallet",
     "claim-saga.xyz",
     "solanalive.com",
     "unisatstaking.io",
