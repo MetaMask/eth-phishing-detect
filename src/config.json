@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "share-portal.pages.dev",
+    "synapseprotocol.pages.dev",
     "earns-drop.org",
     "drop-altlayer.io",
     "claim-altlayer.io",
