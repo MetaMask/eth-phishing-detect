@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "earns-drop.org",
+    "drop-altlayer.io",
+    "claim-altlayer.io",
+    "aitiayer.io",
     "xn--etamak-2s7bvk.com",
     "airdrop-stake.vercel.app",
     "claim.farcana.network",
