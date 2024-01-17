@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensea.icu",
     "xn--etamak-2s7bvk.com",
     "airdrop-stake.vercel.app",
     "claim.farcana.network",
@@ -77379,6 +77380,8 @@
     "eng-pepe.com",
     "alrdrop-chain.link",
     "compensation-socket.com",
+    "listing-manta.network",
+    "opti.mism.io",
     "hypenliquid.org",
     "mankta.network",
     "zkfairi.io",
