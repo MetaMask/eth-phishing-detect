@@ -503,6 +503,7 @@
   ],
   "blacklist": [
     "snapshot-defi.com",
+    "opensea.icu",
     "xn--etamak-2s7bvk.com",
     "airdrop-stake.vercel.app",
     "claim.farcana.network",
@@ -77461,6 +77462,18 @@
     "x-revoke.cash",
     "eng-pepe.com",
     "alrdrop-chain.link",
-    "compensation-socket.com"
+    "compensation-socket.com",
+    "listing-manta.network",
+    "opti.mism.io",
+    "hypenliquid.org",
+    "mankta.network",
+    "zkfairi.io",
+    "enlist-blast.io",
+    "swap-jup.app",
+    "gamegpt-bento.com",
+    "enlist-jupp.app",
+    "enlist-manta.network",
+    "visit-injective.com",
+    "dive-manta.network"
   ]
 }
