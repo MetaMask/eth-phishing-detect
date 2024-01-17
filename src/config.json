@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rocketpol.xyz",
     "rocketpool-migration.net",
     "metamask-web-restore-portal.webflow.io",
     "airdrop-magic.icu",
