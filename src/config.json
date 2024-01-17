@@ -503,6 +503,7 @@
   ],
   "blacklist": [
     "airdrop-stake.vercel.app",
+    "claim.farcana.network",
     "apygate.rpctool.net",
     "bnb-2222.club",
     "coinswiftapp.web.app",
