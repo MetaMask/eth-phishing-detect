@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "share-portal.pages.dev",
+    "synapseprotocol.pages.dev",
     "metamask-web-restore-portal.webflow.io",
     "airdrop-magic.icu",
     "collection-neotokyo.codes",
