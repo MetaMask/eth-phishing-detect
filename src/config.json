@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "snapshot-defi.com",
     "vsco-api.jxke.me",
     "play-pudgypenguins.com",
     "mail.mail-coinbase.biz",
