@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-claim.network",
     "zksyncswapx.com",
     "ethereumfoundation.link",
     "blue-manta.network",
