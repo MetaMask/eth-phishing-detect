@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethereumfoundation.link",
     "blue-manta.network",
     "grt.trusthubs.top",
     "eng-optimism.net",
