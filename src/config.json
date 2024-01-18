@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncswapx.com",
     "ethereumfoundation.link",
     "blue-manta.network",
     "grt.trusthubs.top",
