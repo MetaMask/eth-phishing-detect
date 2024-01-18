@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.ac",
     "illivium.world",
     "starknets-airworld.com",
     "suifrens.app",
