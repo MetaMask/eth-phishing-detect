@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zrofondclaim.net",
     "zksync-claim.network",
     "zksyncswapx.com",
     "ethereumfoundation.link",
