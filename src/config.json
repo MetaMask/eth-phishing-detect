@@ -502,6 +502,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zrofondclaim.net",
+    "zksync-claim.network",
+    "zksyncswapx.com",
+    "ethereumfoundation.link",
+    "blue-manta.network",
+    "grt.trusthubs.top",
     "eng-optimism.net",
     "arbitrum.exxpertpad.top",
     "reth-claims.tech",
@@ -77524,7 +77530,6 @@
     "event-altlayer.io",
     "nft-manta.network",
     "goldtier-manta.network",
-    "blue-manta.network",
     "drop-apeterminal.com",
     "allocation-swellnetwork.io",
     "enrol-manta.network",
