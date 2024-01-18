@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.trusthubs.top",
     "eng-optimism.net",
     "arbitrum.exxpertpad.top",
     "reth-claims.tech",
