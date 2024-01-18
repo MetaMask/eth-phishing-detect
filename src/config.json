@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "erc-wintermute.org",
+    "ethereumfoundation.io",
     "dappradar.ac",
     "illivium.world",
     "starknets-airworld.com",
