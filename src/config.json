@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "signup-cow.fi",
     "erc-wintermute.org",
     "ethereumfoundation.io",
     "dappradar.ac",
