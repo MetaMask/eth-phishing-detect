@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.exxpertpad.top",
     "reth-claims.tech",
     "rocketpool.help",
     "rocketpool.it",
