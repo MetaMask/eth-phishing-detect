@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-legacy.com",
     "signup-cow.fi",
     "erc-wintermute.org",
     "ethereumfoundation.io",
