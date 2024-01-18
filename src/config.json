@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "docs.events-taiko.xyz",
     "rocket-pool.link",
     "mainnetdapp.pages.dev",
     "rocketpol.xyz",
