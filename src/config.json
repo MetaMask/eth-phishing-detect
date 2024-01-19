@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.expertspad.top",
+    "metamask-activationupdate.com",
+    "metamask-legacy.com",
+    "signup-cow.fi",
     "erc-wintermute.org",
     "ethereumfoundation.io",
     "dappradar.ac",
@@ -77559,6 +77563,12 @@
     "selection-satoshivm.io",
     "bridges-manta.network",
     "join-satoshivm.com",
-    "app-hypenliquid.org"
+    "app-hypenliquid.org",
+    "eng-pepe.org",
+    "dash-pepe.com",
+    "zksync-drop.network",
+    "apply-manta.network",
+    "official-manta.network",
+    "claim-satoshivm.com"
   ]
 }
