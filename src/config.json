@@ -502,6 +502,30 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metisdao.fi",
+    "rampals.com",
+    "ethereums.foundation",
+    "etharbitragebot.com",
+    "mantaofficials.com",
+    "portal-pepe.com",
+    "eng-pepe.net",
+    "dash-pepe.com",
+    "syncswap.gold",
+    "mev-now.com",
+    "airworld-metacooin.com",
+    "tornado.ws",
+    "rewards.mantathink.xyz",
+    "airdropchecker.io",
+    "ducklosk.xyz",
+    "dropdirect.xyz",
+    "fairlow.xyz",
+    "uniguide.pro",
+    "jitocoin-air.com",
+    "argen-t.xyz",
+    "eth-gas.org",
+    "erc-wintermute.org",
+    "ethereumfoundation.io",
+    "dappradar.ac",
     "illivium.world",
     "starknets-airworld.com",
     "suifrens.app",
@@ -77551,6 +77575,10 @@
     "pacificchain-manta.network",
     "claim-cryptoundeads.com",
     "phase2-manta.network",
-    "join-cryptoundeads.com"
+    "join-cryptoundeads.com",
+    "app-hypenliquid.com",
+    "selection-satoshivm.io",
+    "bridges-manta.network",
+    "join-satoshivm.com"
   ]
 }
