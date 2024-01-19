@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.expertspad.top",
+    "metamask-activationupdate.com",
+    "metamask-legacy.com",
+    "signup-cow.fi",
     "erc-wintermute.org",
     "ethereumfoundation.io",
     "dappradar.ac",
