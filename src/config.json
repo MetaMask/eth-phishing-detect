@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fuelcoin.click",
     "bigbang-blast.io",
     "aavelb.com",
     "magic-eden.online",
