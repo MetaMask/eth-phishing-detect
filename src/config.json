@@ -77588,6 +77588,7 @@
     "zksync-drop.network",
     "apply-manta.network",
     "official-manta.network",
-    "claim-satoshivm.com"
+    "claim-satoshivm.com",
+    "mainnets-manta.network"
   ]
 }
