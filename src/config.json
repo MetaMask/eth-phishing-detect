@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coins-rocketpool.net",
     "fuelcoin.click",
     "bigbang-blast.io",
     "aavelb.com",
