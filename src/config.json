@@ -502,6 +502,25 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metisdao.fi",
+    "rampals.com",
+    "ethereums.foundation",
+    "etharbitragebot.com",
+    "mantaofficials.com",
+    "portal-pepe.com",
+    "eng-pepe.net",
+    "syncswap.gold",
+    "mev-now.com",
+    "airworld-metacooin.com",
+    "rewards.mantathink.xyz",
+    "airdropchecker.io",
+    "ducklosk.xyz",
+    "dropdirect.xyz",
+    "fairlow.xyz",
+    "uniguide.pro",
+    "jitocoin-air.com",
+    "argen-t.xyz",
+    "eth-gas.org",
     "grt.expertspad.top",
     "metamask-activationupdate.com",
     "metamask-legacy.com",
@@ -77569,6 +77588,11 @@
     "zksync-drop.network",
     "apply-manta.network",
     "official-manta.network",
-    "claim-satoshivm.com"
+    "claim-satoshivm.com",
+    "mainnets-manta.network",
+    "satoshivm-launchpad.com",
+    "satoshivm-claim.xyz",
+    "plunge-manta.network",
+    "intoblue-manta.network"
   ]
 }
