@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "waves-opensea.com",
     "coins-rocketpool.net",
     "fuelcoin.click",
     "bigbang-blast.io",
