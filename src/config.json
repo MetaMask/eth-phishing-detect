@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "paradigm-manta.com",
     "metisdao.fi",
     "rampals.com",
     "ethereums.foundation",
