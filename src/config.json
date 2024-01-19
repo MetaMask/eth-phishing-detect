@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.expertspad.top",
     "metisdao.fi",
     "rampals.com",
     "ethereums.foundation",
