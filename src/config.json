@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "waves-opensea.com",
     "coins-rocketpool.net",
     "fuelcoin.click",
     "bigbang-blast.io",
@@ -77790,6 +77791,7 @@
     "list-satoshivm.io",
     "l1-neotokyo.codes",
     "artyfact-qame.com",
-    "drop-satoshivm.io"
+    "drop-satoshivm.io",
+    "signup-seedify.fund"
   ]
 }
