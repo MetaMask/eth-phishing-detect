@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bigbang-blast.io",
     "aavelb.com",
     "magic-eden.online",
     "tias-events.net",
