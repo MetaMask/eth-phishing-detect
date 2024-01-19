@@ -509,7 +509,6 @@
     "mantaofficials.com",
     "portal-pepe.com",
     "eng-pepe.net",
-    "dash-pepe.com",
     "syncswap.gold",
     "mev-now.com",
     "airworld-metacooin.com",
@@ -523,6 +522,10 @@
     "jitocoin-air.com",
     "argen-t.xyz",
     "eth-gas.org",
+    "grt.expertspad.top",
+    "metamask-activationupdate.com",
+    "metamask-legacy.com",
+    "signup-cow.fi",
     "erc-wintermute.org",
     "ethereumfoundation.io",
     "dappradar.ac",
@@ -77579,6 +77582,13 @@
     "app-hypenliquid.com",
     "selection-satoshivm.io",
     "bridges-manta.network",
-    "join-satoshivm.com"
+    "join-satoshivm.com",
+    "app-hypenliquid.org",
+    "eng-pepe.org",
+    "dash-pepe.com",
+    "zksync-drop.network",
+    "apply-manta.network",
+    "official-manta.network",
+    "claim-satoshivm.com"
   ]
 }
