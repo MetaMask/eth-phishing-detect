@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethereumgastoken.com",
     "starknet-claims.xyz",
     "langchain.fi",
     "waves-opensea.com",
