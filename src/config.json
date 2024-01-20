@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-bridge.lumoz.org",
     "ethereumgastoken.com",
     "starknet-claims.xyz",
     "langchain.fi",
