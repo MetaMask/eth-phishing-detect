@@ -502,6 +502,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bonus-manta.network",
+    "multiplier-manta.network",
+    "airbnplus.com",
     "synchconnects.com",
     "langchain.fi",
     "waves-opensea.com",
