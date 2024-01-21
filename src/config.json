@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "synchconnects.com",
     "langchain.fi",
     "waves-opensea.com",
     "coins-rocketpool.net",
