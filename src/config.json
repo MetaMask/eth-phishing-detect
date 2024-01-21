@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethereumgastoken.com",
+    "starknet-claims.xyz",
     "bonus-manta.network",
     "multiplier-manta.network",
     "airbnplus.com",
