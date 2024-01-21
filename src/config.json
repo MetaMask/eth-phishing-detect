@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "paperhands-holders.web.app",
     "synchconnects.com",
     "langchain.fi",
     "waves-opensea.com",
