@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "paperhands-holders.web.app",
     "ethereum-mixer-anonymous.net",
     "ethereumgastoken.com",
     "starknet-claims.xyz",
