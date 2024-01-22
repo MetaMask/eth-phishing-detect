@@ -502,6 +502,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "satoshisvm.network",
+    "satoshivm.trade",
+    "easnrdrop.net",
+    "pincksale.finance",
+    "pinksale.financial",
+    "pinksavle.finance",
+    "pinksalce.finance",
     "dappradar.ltd",
     "dappsradar.io",
     "dappradar.tools",
