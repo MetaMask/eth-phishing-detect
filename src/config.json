@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.claim-moment.xyz",
     "arbitriumsurvey.com",
     "stakewises.fi",
     "metamckklogoncc.webflow.io",
