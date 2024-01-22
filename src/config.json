@@ -502,6 +502,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.ltd",
+    "dappsradar.io",
+    "dappradar.tools",
     "claim-zksycn.network",
     "survey-arbitrium.com",
     "manta-live.network",
