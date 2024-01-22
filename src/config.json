@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "manta-live.network",
     "financeapp.yearnfinance.live",
     "communities-manta.com",
     "airdrop-bonkcoin.communltiy.com",
