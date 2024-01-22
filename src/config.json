@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitriumsurvey.com",
     "stakewises.fi",
     "metamckklogoncc.webflow.io",
     "metaweb.life",
