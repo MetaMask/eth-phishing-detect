@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "xs-s5gn.cloud",
     "communities-manta.com",
     "airdrop-bonkcoin.communltiy.com",
     "mifonsol.com",
