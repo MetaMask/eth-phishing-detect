@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethereum-mixer-anonymous.net",
     "ethereumgastoken.com",
     "starknet-claims.xyz",
     "bonus-manta.network",
