@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim-zksycn.network",
+    "survey-arbitrium.com",
+    "manta-live.network",
+    "financeapp.yearnfinance.live",
     "xs-s5gn.cloud",
     "communities-manta.com",
     "airdrop-bonkcoin.communltiy.com",
@@ -42540,7 +42544,6 @@
     "events-multibit.tech",
     "treasury-trias.one",
     "redeem-satoshivm.io",
-    "xrplive-event.net",
     "vmsatoshi.net",
     "celestia-manta.network",
     "comunity-neotokyo.codes",
