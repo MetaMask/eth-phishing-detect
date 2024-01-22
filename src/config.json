@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitruimsurvey.com",
+    "manta-live.com",
     "satoshisvm.network",
     "satoshivm.trade",
     "easnrdrop.net",
