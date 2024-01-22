@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.uno",
     "liquideth.global",
     "swift-wallet.pages.dev",
     "arbitruimsurvey.com",
