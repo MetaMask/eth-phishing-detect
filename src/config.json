@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metaweb.life",
     "tkiam02.com",
     "dappradar.uno",
     "liquideth.global",
