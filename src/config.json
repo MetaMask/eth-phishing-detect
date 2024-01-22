@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "evil-kongs.com",
     "swift-wallet.pages.dev",
     "arbitruimsurvey.com",
     "manta-live.com",
