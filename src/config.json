@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tkiam02.com",
     "dappradar.uno",
     "liquideth.global",
     "swift-wallet.pages.dev",
