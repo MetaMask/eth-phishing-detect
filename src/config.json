@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.claim-moment.xyz",
+    "arbitriumsurvey.com",
     "arkhamcoin.net",
     "amoslimited.co",
     "coinstoreup.com",
