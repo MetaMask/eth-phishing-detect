@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "swift-wallet.pages.dev",
     "arbitruimsurvey.com",
     "manta-live.com",
     "satoshisvm.network",
