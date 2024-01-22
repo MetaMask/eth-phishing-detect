@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "survey-arbitrium.com",
     "manta-live.network",
     "financeapp.yearnfinance.live",
     "communities-manta.com",
