@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamckklogoncc.webflow.io",
+    "metaweb.life",
     "tkiam02.com",
     "dappradar.uno",
     "liquideth.global",
