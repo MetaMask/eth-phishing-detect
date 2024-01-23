@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dev-pgpclaim.pantheonsite.io",
+    "pgpclaim.com",
     "usdtevent.ac",
     "shibatokens.re",
     "usdtevent.net",
