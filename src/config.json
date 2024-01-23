@@ -502,6 +502,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stargateapp.co",
+    "openseaio0x95724798d703e87196375be5f8fhf136d862f033collect.pages.dev",
+    "aptosgiveaway.com",
+    "lido-defi.online",
+    "rewards-gmx.claims",
+    "pudgypenguinsv2.com",
     "xn--chin-6na.link",
     "fi-launchpad.io",
     "coiauthapp.pages.dev",
