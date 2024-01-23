@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fi-launchpad.io",
     "coiauthapp.pages.dev",
     "taiko.claim-moment.xyz",
     "arbitrum.airxpool.top",
