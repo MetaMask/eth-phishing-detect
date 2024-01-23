@@ -502,6 +502,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shibatokens.re",
+    "usdtevent.net",
+    "usdcevent.net",
+    "liquid-tether.com",
+    "my.link.gallery",
+    "liquid-tether.online",
     "zksync.token-claim.cc",
     "claims-usdt.org",
     "babydogec.site",
