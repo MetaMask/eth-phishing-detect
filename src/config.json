@@ -502,6 +502,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "xn--chin-6na.link",
+    "fi-launchpad.io",
+    "coiauthapp.pages.dev",
+    "taiko.claim-moment.xyz",
+    "arbitrum.airxpool.top",
+    "yearnfi.network",
     "zksync.claim-moment.xyz",
     "arbitriumsurvey.com",
     "arkhamcoin.net",
@@ -43826,7 +43832,6 @@
     "free-ethereum.com",
     "freethereum.info",
     "hiiveeoos-login.javalionline.online",
-    "de.fi-launchpad.io",
     "hiiveeos-login.javalionline.online",
     "hiiveeos-online-login.javalionline.online",
     "hiiveos-online-login.cf",
