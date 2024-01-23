@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar-notification.com",
     "stargateapp.co",
     "openseaio0x95724798d703e87196375be5f8fhf136d862f033collect.pages.dev",
     "aptosgiveaway.com",
