@@ -502,6 +502,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.team",
+    "dappradar.website",
+    "dappradar-notification.com",
     "xn--chin-6na.link",
     "fi-launchpad.io",
     "coiauthapp.pages.dev",
