@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdtevent.ac",
     "shibatokens.re",
     "usdtevent.net",
     "usdcevent.net",
