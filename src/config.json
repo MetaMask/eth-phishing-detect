@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "xn--chin-6na.link",
     "fi-launchpad.io",
     "coiauthapp.pages.dev",
     "taiko.claim-moment.xyz",
