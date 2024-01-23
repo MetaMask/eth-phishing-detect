@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "yearnfi.network",
     "zksync.claim-moment.xyz",
     "arbitriumsurvey.com",
     "arkhamcoin.net",
