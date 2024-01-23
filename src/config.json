@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims-usdt.org",
     "babydogec.site",
     "shibde.site",
     "ethevents.co",
