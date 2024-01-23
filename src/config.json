@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync.token-claim.cc",
     "claims-usdt.org",
     "babydogec.site",
     "shibde.site",
