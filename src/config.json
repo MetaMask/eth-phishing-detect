@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "freetaiko.claim-moment.xyz",
     "coinsquarelogin.com",
     "arbitrum.mainnetworkchain.com",
     "starknet-app.io",
