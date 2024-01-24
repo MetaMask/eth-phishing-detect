@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "skaling-zk.app",
     "wwww.bnb-chainexchaing.online",
     "listing-item.io",
     "cowfidao.org",
