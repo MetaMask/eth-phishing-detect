@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-app.io",
     "sitemaps.events-zksync.io",
     "zksync.token-claim.cc",
     "claims-usdt.org",
