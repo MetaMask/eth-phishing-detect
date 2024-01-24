@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-app.io",
+    "sitemaps.events-zksync.io",
     "abict.us",
     "1000usdc.top",
     "usdc.web3adrp.com",
