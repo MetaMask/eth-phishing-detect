@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.mainnetworkchain.com",
     "starknet-app.io",
     "sitemaps.events-zksync.io",
     "abict.us",
