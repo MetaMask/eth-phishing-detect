@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "suite-app-trezor.com",
     "dailychoice.in",
     "io-suite.store",
     "dws-team-vs.de",
