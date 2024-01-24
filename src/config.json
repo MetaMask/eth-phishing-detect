@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "steth-drop.xyz",
+    "steth-drop.site",
     "usdcevent.com",
     "3000usdt.cc",
     "usdt.web3adrp.com",
