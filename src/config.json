@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "io-suite.store",
     "dws-team-vs.de",
     "radar-dapp.org",
     "bbsyncs.pages.dev",
