@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "signup-zksync.io",
     "skaling-zk.app",
     "wwww.bnb-chainexchaing.online",
     "listing-item.io",
