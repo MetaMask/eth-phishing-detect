@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "staking.app-bitrock.net",
     "steth-drop.xyz",
     "steth-drop.site",
     "usdcevent.com",
