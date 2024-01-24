@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinsquarelogin.com",
     "arbitrum.mainnetworkchain.com",
     "starknet-app.io",
     "sitemaps.events-zksync.io",
