@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "listing-item.io",
     "cowfidao.org",
     "freetaiko.claim-moment.xyz",
     "coinsquarelogin.com",
