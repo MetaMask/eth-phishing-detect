@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dailychoice.in",
+    "io-suite.store",
+    "bbsyncs.pages.dev",
+    "decentralisedsync.onrender.com",
     "bitcoin2.biz",
     "chipmixxn--p3bir.com",
     "bitmiix.biz",
