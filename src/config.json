@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-launch.com",
     "winter-chain.link",
     "arbitrumsurverily.com",
     "zks-launches.app",
