@@ -502,6 +502,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowfidao.org",
+    "freetaiko.claim-moment.xyz",
+    "coinsquarelogin.com",
+    "arbitrum.mainnetworkchain.com",
     "strk-rewards.com",
     "dolanamobile.com",
     "blasttvl.com",
