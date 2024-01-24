@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "twtbox.org",
     "ethevent.co",
     "dev-pgpclaim.pantheonsite.io",
     "pgpclaim.com",
