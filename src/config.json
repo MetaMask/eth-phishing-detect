@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowfidao.org",
     "freetaiko.claim-moment.xyz",
     "coinsquarelogin.com",
     "arbitrum.mainnetworkchain.com",
