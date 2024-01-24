@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdcevent.com",
+    "3000usdt.cc",
+    "usdt.web3adrp.com",
     "winter-chain.link",
     "arbitrumsurverily.com",
     "zks-launches.app",
