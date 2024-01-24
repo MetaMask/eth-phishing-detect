@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "1000usdc.top",
+    "usdc.web3adrp.com",
     "twtbox.org",
     "ethevent.co",
     "dev-pgpclaim.pantheonsite.io",
