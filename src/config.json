@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumsurverily.com",
     "zks-launches.app",
     "signup-zksync.io",
     "skaling-zk.app",
