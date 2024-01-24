@@ -502,6 +502,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dws-team-vs.de",
+    "radar-dapp.org",
     "bbsyncs.pages.dev",
     "decentralisedsync.onrender.com",
     "starknet-app.io",
