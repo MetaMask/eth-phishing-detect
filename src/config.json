@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "strk-rewards.com",
     "starknet-app.io",
     "sitemaps.events-zksync.io",
     "abict.us",
