@@ -502,6 +502,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "listing-item.io",
     "starknet-app.io",
     "sitemaps.events-zksync.io",
     "abict.us",
