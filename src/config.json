@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "exmarkets.com",
     "jitoquest.com",
     "metamkilogino.webflow.io",
     "scrollmat.club",
