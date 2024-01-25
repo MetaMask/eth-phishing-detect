@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradardao.org",
     "dappradar.eco",
     "radardapp.com",
     "jitto.eu",
