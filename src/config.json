@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dexautomate.web.app",
     "jitto.eu",
     "metyamaskg.azurewebsites.net",
     "jito-airdrop.top",
