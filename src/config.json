@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.eco",
     "radardapp.com",
     "jitto.eu",
     "metyamaskg.azurewebsites.net",
