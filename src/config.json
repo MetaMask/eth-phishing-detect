@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ede-ido-arbitrum.pages.dev",
     "allocation-chain.link",
     "dexautomate.web.app",
     "jitto.eu",
