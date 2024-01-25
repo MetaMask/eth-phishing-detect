@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "allocation-chain.link",
     "dexautomate.web.app",
     "jitto.eu",
     "metyamaskg.azurewebsites.net",
