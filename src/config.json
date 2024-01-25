@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "radardapp.com",
     "jitto.eu",
     "metyamaskg.azurewebsites.net",
     "jito-airdrop.top",
