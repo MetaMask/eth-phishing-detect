@@ -499,6 +499,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "staking.app-bitrock.net",
+    "steth-drop.xyz",
+    "steth-drop.site",
+    "usdcevent.com",
+    "3000usdt.cc",
+    "usdt.web3adrp.com",
     "starknet-launch.com",
     "winter-chain.link",
     "arbitrumsurverily.com",
