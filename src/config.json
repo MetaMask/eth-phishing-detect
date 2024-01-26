@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-token.pages.dev",
     "arbitrurrm.foundation",
     "web3-ocean.com",
     "xn--gemni-p4a.com",
