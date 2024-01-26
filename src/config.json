@@ -499,6 +499,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "staking.app-bitrock.org",
+    "usdt.web3adrp.org",
+    "usdc.web3adrp.org",
+    "usdcevent.us",
     "jitoquest.com",
     "metamkilogino.webflow.io",
     "scrollmat.club",
