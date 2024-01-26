@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet.press",
     "events-starknet.app",
     "signup-taiko.xyz",
     "ede-ido-arbitrum.pages.dev",
