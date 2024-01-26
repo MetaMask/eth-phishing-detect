@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "abict.us",
     "staking.app-bitrock.org",
     "usdt.web3adrp.org",
     "usdc.web3adrp.org",
