@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chainlinkevent.com",
     "starknet.press",
     "events-starknet.app",
     "signup-taiko.xyz",
