@@ -499,7 +499,6 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "radardapp.com",
     "jitoquest.com",
     "metamkilogino.webflow.io",
     "scrollmat.club",
@@ -524,6 +523,10 @@
     "networkmail-verifycolnbase.com",
     "jtontwrk.com",
     "app.stargateapp.live",
+    "dappradarv2.com",
+    "thedappradar.com",
+    "dappradardao.org",
+    "radardapp.com",
     "jitto.eu",
     "metyamaskg.azurewebsites.net",
     "jito-airdrop.top",
