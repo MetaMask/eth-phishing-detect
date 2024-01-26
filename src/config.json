@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradarv2.com",
+    "thedappradar.com",
     "dappradardao.org",
     "dappradar.eco",
     "radardapp.com",
