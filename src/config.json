@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "aidrope-apbitrum.xyz",
     "surveyoptimism.net",
     "arbstake.info",
     "zksynnc.org",
