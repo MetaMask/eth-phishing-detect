@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "defiapifirmareweb.live",
+    "launch-starknet.ypredict.dev",
     "aidrope-apbitrum.xyz",
     "surveyoptimism.net",
     "arbstake.info",
