@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-token-creator.pages.dev",
     "bk.connect-arbitrum.io",
     "arbitrum.checkertxid.com",
     "starknet-token.pages.dev",
