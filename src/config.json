@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "launchpad-zksync.com",
     "claims-optimism.io",
     "zksync.box",
     "defiapifirmareweb.live",
