@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappdefi-chain.pages.dev",
     "launchpad-zksync.com",
     "claims-optimism.io",
     "zksync.box",
