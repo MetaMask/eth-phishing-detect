@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "multiplier-chainlink.com",
     "arbitrumdistribution.org",
     "bridgarbltrum.com",
     "brldgearbltrum.com",
