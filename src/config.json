@@ -499,6 +499,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrumdistribution.org",
+    "bridgarbltrum.com",
+    "brldgearbltrum.com",
+    "brldgesarbltrum.org",
     "dappdefi-chain.pages.dev",
     "launchpad-zksync.com",
     "claims-optimism.io",
