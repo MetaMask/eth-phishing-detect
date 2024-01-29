@@ -499,6 +499,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zkslabs.com",
+    "zksreward.com",
+    "zksrewards.com",
+    "zsync-found.net",
     "zksclaims.com",
     "zksfondlabs.com",
     "zksfundlabs.com",
