@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "exmarkets.com",
     "web3-ocean.com",
     "xn--gemni-p4a.com",
     "swiftathblocks.pages.dev",
