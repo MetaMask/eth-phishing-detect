@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app.stake-bitrock.com",
+    "eth.web3adrp.org",
+    "usdtchain.org",
     "dropsearcher.com",
     "searchdrop.app",
     "dropcheckerx.com",
@@ -55528,7 +55531,6 @@
     "smartvalidation.online",
     "monkeykingdom.store",
     "walletreactivate.org",
-    "genesis.dymennsion.com",
     "metaverse-adidas.net",
     "theappreciators.io",
     "metamask-io-login.webflow.io",
