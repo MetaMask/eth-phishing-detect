@@ -499,6 +499,18 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stakeyearn.fi",
+    "stake-chainlink.finance",
+    "listing-starknet.io",
+    "zksync-airdrops.io",
+    "zksyncreward.com",
+    "zkslabs.com",
+    "zksreward.com",
+    "zksrewards.com",
+    "zsync-found.net",
+    "zksclaims.com",
+    "zksfondlabs.com",
+    "zksfundlabs.com",
     "pandoshi.xyz",
     "app.stake-bitrock.com",
     "eth.web3adrp.org",
