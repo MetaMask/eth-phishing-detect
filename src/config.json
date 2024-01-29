@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cowswitch.com",
+    "rewards-taiko.xyz",
+    "starknet.buzz",
     "stakeyearn.fi",
     "stake-chainlink.finance",
     "listing-starknet.io",
