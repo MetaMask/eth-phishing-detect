@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pandoshi.xyz",
     "app.stake-bitrock.com",
     "eth.web3adrp.org",
     "usdtchain.org",
