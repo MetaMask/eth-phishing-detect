@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet.buzz",
     "stakeyearn.fi",
     "stake-chainlink.finance",
     "listing-starknet.io",
