@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksynk.webflow.io",
     "apidaap.pages.dev",
     "rocketpoool-rocketpool.webflow.io",
     "rockketpool.webflow.io",
