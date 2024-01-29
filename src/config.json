@@ -499,6 +499,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.rocks",
+    "dapiradar.info",
+    "daprradar.xyz",
+    "dapradar.xyz",
     "axistradingltd.com",
     "barnbridge.pro",
     "bigonevip.org",
