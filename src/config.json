@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb.t-wallets.top",
     "launchpad-starknet.com",
     "grt.t-wallets.top",
     "multiplier-chainlink.com",
