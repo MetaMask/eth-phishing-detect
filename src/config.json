@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "karatdao.fi",
     "pandoshi.com",
     "bitlet.net",
     "jitonetwork-web3.com",
