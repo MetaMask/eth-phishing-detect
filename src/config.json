@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrop-chainslink.com",
     "arbltruns.com",
     "argent-x-vvallet.webflow.io",
     "chainlink-network.net",
