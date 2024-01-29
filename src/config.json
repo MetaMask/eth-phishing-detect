@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksclaims.com",
+    "zksfondlabs.com",
+    "zksfundlabs.com",
     "dropsearcher.com",
     "searchdrop.app",
     "dropcheckerx.com",
