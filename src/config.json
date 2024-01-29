@@ -499,6 +499,15 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dropsearcher.com",
+    "searchdrop.app",
+    "dropcheckerx.com",
+    "dmail.events",
+    "check-defi.com",
+    "reg-de.fi",
+    "sign-defi.com",
+    "season1-defi.xyz",
+    "list-defi.com",
     "mixertumbler.com",
     "bitcoin2litecoin.com",
     "karatdao.fi",
