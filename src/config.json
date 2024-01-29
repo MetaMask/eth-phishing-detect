@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "pandoshi.xyz",
     "dropsearcher.com",
     "searchdrop.app",
     "dropcheckerx.com",
