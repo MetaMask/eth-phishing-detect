@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "argent-x-vvallet.webflow.io",
     "chainlink-network.net",
     "curvei.finance",
     "arb.t-wallets.top",
