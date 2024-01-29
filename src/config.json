@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chainlink-network.net",
     "curvei.finance",
     "arb.t-wallets.top",
     "launchpad-starknet.com",
