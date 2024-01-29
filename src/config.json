@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-airdrops.io",
+    "zksyncreward.com",
     "zkslabs.com",
     "zksreward.com",
     "zksrewards.com",
