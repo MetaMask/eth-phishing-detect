@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gemini-airdrops.com",
+    "gemini-giveaways.com",
+    "gemini-stake.com",
     "lidoloyalty.app",
     "coiqnabase.com",
     "meta-restoreweb.pages.dev",
