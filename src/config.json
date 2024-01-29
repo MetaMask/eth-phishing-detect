@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mixertumbler.com",
+    "bitcoin2litecoin.com",
     "karatdao.fi",
     "pandoshi.com",
     "bitlet.net",
