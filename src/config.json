@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "stake-chainlink.finance",
     "listing-starknet.io",
     "zksync-airdrops.io",
     "zksyncreward.com",
