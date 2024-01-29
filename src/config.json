@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "apidaap.pages.dev",
+    "rocketpoool-rocketpool.webflow.io",
+    "rockketpool.webflow.io",
     "airdrop-chainslink.com",
     "arbltruns.com",
     "argent-x-vvallet.webflow.io",
