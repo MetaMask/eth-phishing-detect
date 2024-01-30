@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "launch-chain.link",
+    "secure-chain.link",
+    "web-chain.link",
     "badge-chainlink.com",
     "badges-chainlink.com",
     "staking.1chain.link",
