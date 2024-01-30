@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airdrops-zksync.io",
+    "zksync-app.io",
     "launch-chain.link",
     "secure-chain.link",
     "web-chain.link",
