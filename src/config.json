@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism.airdrop.homes",
     "ethersclaim.com",
     "icolook.win",
     "the-graph.pro-cryptopad.tech",
