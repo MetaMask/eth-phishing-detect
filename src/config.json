@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fees-etherscan.com",
     "nfts-altlayer.io",
     "zerolend.app",
     "bankless-earn.com",
