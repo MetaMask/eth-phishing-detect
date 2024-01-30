@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chainlinks-drop.com",
+    "multipliers-chainlink.com",
     "fees-etherscan.com",
     "nfts-altlayer.io",
     "zerolend.app",
