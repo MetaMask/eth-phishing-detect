@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "badge-chainlink.com",
+    "badges-chainlink.com",
+    "staking.1chain.link",
     "graph.org",
     "starknet-pro.icu",
     "starknetfond.com",
