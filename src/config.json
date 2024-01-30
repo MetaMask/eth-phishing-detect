@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "snapshot-zksync.io",
     "cowswitch.com",
     "rewards-taiko.xyz",
     "starknet.buzz",
