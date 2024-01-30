@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "usdt-box.org",
     "getshiba.us",
     "eth.web3adrp.cc",
     "metairdrop.org",
