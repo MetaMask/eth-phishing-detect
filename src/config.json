@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethersclaim.com",
+    "icolook.win",
+    "the-graph.pro-cryptopad.tech",
     "arbitrium.website",
     "airdrops-zksync.io",
     "zksync-app.io",
