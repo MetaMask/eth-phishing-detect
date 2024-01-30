@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrlum.com",
+    "arbitrum-air.icu",
+    "arbitrum-dao.vercel.app",
     "snapshot-zksync.io",
     "cowswitch.com",
     "rewards-taiko.xyz",
