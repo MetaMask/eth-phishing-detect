@@ -499,6 +499,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ambientt.finance",
+    "armbient.finance",
+    "amrbient.finance",
+    "ambiient.finance",
     "fees-etherscan.com",
     "nfts-altlayer.io",
     "zerolend.app",
