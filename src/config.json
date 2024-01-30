@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event-taiko.xyz",
+    "argentwallet.webflow.io",
     "stakewise.fo",
     "www-coinbase-ba.com",
     "dexekeepslp.pages.dev",
