@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "steth-claim.site",
     "usdt-scan.net",
     "usdt-box.org",
     "getshiba.us",
