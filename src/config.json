@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "launchpad-starknet.io",
+    "argentwallet.webflow.io",
     "www-coinbase-ba.com",
     "dexekeepslp.pages.dev",
     "pwn.xyz",
