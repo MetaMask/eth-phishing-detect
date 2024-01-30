@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrium.website",
     "airdrops-zksync.io",
     "zksync-app.io",
     "launch-chain.link",
