@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "getshiba.us",
+    "eth.web3adrp.cc",
+    "metairdrop.org",
     "event-taiko.xyz",
     "argentwallet.webflow.io",
     "stakewise.fo",
