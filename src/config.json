@@ -499,6 +499,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "graph.org",
+    "starknet-pro.icu",
+    "starknetfond.com",
+    "starknetfund.com",
     "arbitrlum.com",
     "arbitrum-air.icu",
     "arbitrum-dao.vercel.app",
