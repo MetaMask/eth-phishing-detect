@@ -501,6 +501,18 @@
   "blacklist": [
     "opensea-item.v6.army",
     "altlayercommunity.online",
+    "resolverprotocol.net",
+    "webapptc.tk",
+    "joins-starknet.com",
+    "reward-starknet.com",
+    "quests-zksync.io",
+    "register-zksync.quest",
+    "chainlinks-drop.com",
+    "multipliers-chainlink.com",
+    "ambientt.finance",
+    "armbient.finance",
+    "amrbient.finance",
+    "ambiient.finance",
     "fees-etherscan.com",
     "nfts-altlayer.io",
     "zerolend.app",
@@ -12389,6 +12401,7 @@
     "refunds.claims",
     "ragetradle.com",
     "psyop-real.com",
+    "token-jupiter.com",
     "psyop-maker.com",
     "psyopdrop.io",
     "pikamoon-site.com",
@@ -79278,6 +79291,7 @@
     "xn--trondo-00a.org",
     "jupiterclaim.org",
     "protalcoin.xyz",
+    "rewards-de.fi",
     "ne.lilz-group.top",
     "cyberlama-ai.xyz",
     "xn--apecin-zxa.com",
@@ -79929,6 +79943,7 @@
     "filecoincrq.com",
     "zkfarzgroup.xyz",
     "metiscoin-air.com",
+    "cryptohopperclaim.com",
     "rewards-dymension.xyz"
   ]
 }
