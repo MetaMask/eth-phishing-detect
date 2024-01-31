@@ -499,6 +499,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensea-item.v6.army",
+    "altlayercommunity.online",
+    "resolverprotocol.net",
+    "webapptc.tk",
+    "joins-starknet.com",
+    "reward-starknet.com",
+    "quests-zksync.io",
+    "register-zksync.quest",
+    "chainlinks-drop.com",
+    "multipliers-chainlink.com",
     "ambientt.finance",
     "armbient.finance",
     "amrbient.finance",
@@ -21666,6 +21676,7 @@
     "optimism-lab.info",
     "optimism-lab.org",
     "optimism-labs.app",
+    "whitelist-jup.net",
     "poloniex-exchange.com",
     "screenconnect.center",
     "secure-coinbase.ddns.net",
@@ -53849,6 +53860,7 @@
     "revoked.cash",
     "revokeaccess.com",
     "sushidexfi.com",
+    "web3-collab.world",
     "hopbridge.exchange",
     "with-presales.com",
     "wl-drop.com",
@@ -79939,6 +79951,7 @@
     "filecoincrq.com",
     "zkfarzgroup.xyz",
     "metiscoin-air.com",
+    "cryptohopperclaim.com",
     "rewards-dymension.xyz"
   ]
 }
