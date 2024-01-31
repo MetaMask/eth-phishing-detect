@@ -499,14 +499,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "resolverprotocol.net",
-    "webapptc.tk",
-    "joins-starknet.com",
-    "reward-starknet.com",
-    "quests-zksync.io",
-    "register-zksync.quest",
-    "chainlinks-drop.com",
-    "multipliers-chainlink.com",
+    "www-bitrock.com/staking",
+    "droppradar.space",
+    "usdcevent.co",
+    "usdtclaims.xyz",
     "ambientt.finance",
     "armbient.finance",
     "amrbient.finance",
