@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bitcoinminetrix.com",
     "opensea-item.v6.army",
     "altlayercommunity.online",
     "resolverprotocol.net",
