@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "resolverprotocol.net",
     "webapptc.tk",
     "joins-starknet.com",
     "reward-starknet.com",
