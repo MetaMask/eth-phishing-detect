@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.run",
+    "dappradar-token.com",
     "fees-etherscan.com",
     "nfts-altlayer.io",
     "zerolend.app",
