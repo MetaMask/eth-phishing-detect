@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "tether-store.online",
     "ethshiba.top",
     "dappradaar.net",
     "bitrock-app.net",
