@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "starknet-wallet.org",
+    "arbitrumairdrop.pages.dev",
     "dappradaar.net",
     "dappradar.directory",
     "dappradar.solutions",
