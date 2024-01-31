@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "3000usdt.top",
+    "usdt.web3adrp.cc",
+    "ether.casa",
     "metabiz-airworld.com",
     "metairdrop.xyz",
     "coinzgroup.net",
@@ -72896,7 +72899,6 @@
     "safepay-eth.org",
     "electrocoin.typeform.com",
     "myetherwalllet.trade",
-    "claim-dymension.net",
     "btcoin.vu",
     "btc-giveaway.com",
     "btcofficial.info",
