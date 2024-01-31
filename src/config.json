@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "quests-zksync.io",
+    "register-zksync.quest",
     "chainlinks-drop.com",
     "multipliers-chainlink.com",
     "fees-etherscan.com",
