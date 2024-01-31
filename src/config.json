@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "opensea-item.v6.army",
+    "altlayercommunity.online",
     "resolverprotocol.net",
     "webapptc.tk",
     "joins-starknet.com",
