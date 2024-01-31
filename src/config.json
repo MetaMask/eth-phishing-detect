@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "bitcoinminetrix.com",
     "fees-etherscan.com",
     "nfts-altlayer.io",
     "zerolend.app",
