@@ -500,6 +500,10 @@
   ],
   "blacklist": [
     "claims-zksync.network",
+    "avaxwin.com",
+    "circlemint.co",
+    "usdt-check.top",
+    "usdc.web3adrp.cc",
     "zksync-end.com",
     "staked-satoshivm.com",
     "zeta-chaln.com",
