@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.xnicepad.top",
     "grt.xcoindrop.top",
     "events-zksync.com",
     "starknet-wallet.org",
