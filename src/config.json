@@ -499,6 +499,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-end.com",
+    "staked-satoshivm.com",
+    "zeta-chaln.com",
+    "defiearn.net",
+    "astarnet.work",
     "binanceswap.xyz",
     "accept-linea.build",
     "airdrop.altlayr.com",
