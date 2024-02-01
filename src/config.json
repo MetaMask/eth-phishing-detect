@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "liquidcompany.net",
+    "stakeether.net",
+    "liquideth.today",
     "tether-store.online",
     "ethshiba.top",
     "dappradaar.net",
