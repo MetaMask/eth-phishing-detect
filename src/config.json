@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb.x-wallet.top",
+    "arb.xcoindrop.top",
+    "arbitrum.xnicepad.top",
     "grt.xnicepad.top",
     "grt.xcoindrop.top",
     "events-zksync.com",
