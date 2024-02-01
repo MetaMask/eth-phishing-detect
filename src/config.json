@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims-zksync.network",
     "avaxwin.com",
     "circlemint.co",
     "usdt-check.top",
