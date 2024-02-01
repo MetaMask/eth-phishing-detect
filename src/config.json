@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "grt.xcoindrop.top",
     "events-zksync.com",
     "starknet-wallet.org",
     "arbitrumairdrop.pages.dev",
