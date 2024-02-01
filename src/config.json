@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zkfair.group",
     "getSHIBA.org",
     "get-fantom.com",
     "rendertoken-hub.com",
