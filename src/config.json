@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claims-zksync.network",
     "zksync-end.com",
     "staked-satoshivm.com",
     "zeta-chaln.com",
