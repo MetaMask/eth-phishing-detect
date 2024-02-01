@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3resolve.pages.dev",
     "ethmixer.xyz",
     "arb.x-wallet.top",
     "arb.xcoindrop.top",
