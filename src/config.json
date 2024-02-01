@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "events-optimism.com",
     "ethmixer.xyz",
     "arb.x-wallet.top",
     "arb.xcoindrop.top",
