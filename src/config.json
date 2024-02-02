@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ambires-vote.org",
     "arb.air-trastpad.top",
     "arbitrum.xbitspad.top",
     "whitelist-zksync.network",
