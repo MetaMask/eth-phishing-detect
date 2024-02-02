@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.ec",
     "dappradaar.net",
     "dappradar.directory",
     "dappradar.solutions",
