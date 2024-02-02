@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "p2usdt.com",
+    "dev-usdt2p.pantheonsite.io",
     "web3-apis.com",
     "zkfair.group",
     "getSHIBA.org",
