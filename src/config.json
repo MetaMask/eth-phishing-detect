@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "en-opensea.io",
     "airdrop-defi.online",
     "bridge.blockscape.ink",
     "blastscore.xyz",
