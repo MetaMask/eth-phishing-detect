@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "armbiient.finance",
+    "armbientt.finance",
     "chainlinkannouncement.com",
     "chainlinkcoin.pro",
     "yearn.t-wallets.top",
