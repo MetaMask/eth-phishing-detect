@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "partnership-zksync.com",
     "airdrop-defi.online",
     "bridge.blockscape.ink",
     "blastscore.xyz",
