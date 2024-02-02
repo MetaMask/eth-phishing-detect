@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksyncend.com",
+    "zksyncgame.com",
     "partnership-zksync.com",
     "airdrop-defi.online",
     "bridge.blockscape.ink",
