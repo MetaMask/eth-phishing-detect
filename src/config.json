@@ -499,6 +499,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.ec",
+    "web3-dappradar.com",
+    "link-dappradar.com",
+    "dapradar.space",
+    "dappradar.mom",
+    "dappradar.host",
     "armbiient.finance",
     "armbientt.finance",
     "chainlinkannouncement.com",
