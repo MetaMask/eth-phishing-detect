@@ -499,6 +499,10 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chainlinkannouncement.com",
+    "chainlinkcoin.pro",
+    "yearn.t-wallets.top",
+    "yearn.xcoindrop.top",
     "chainlinkdr.com",
     "chain.link.net-pool.com",
     "chainge.finance",
