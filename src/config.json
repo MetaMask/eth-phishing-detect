@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "endgame-zksync.network",
     "zksyncend.com",
     "zksyncgame.com",
     "partnership-zksync.com",
