@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "optimism-mode.network",
+    "signup-optimism.org",
     "ambires-vote.org",
     "arb.air-trastpad.top",
     "arbitrum.xbitspad.top",
