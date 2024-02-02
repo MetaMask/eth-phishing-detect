@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arb.air-trastpad.top",
+    "arbitrum.xbitspad.top",
     "whitelist-zksync.network",
     "whitelist-starknet.io",
     "endgame-zksync.network",
