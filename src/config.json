@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "whitelist-starknet.io",
     "endgame-zksync.network",
     "zksyncend.com",
     "zksyncgame.com",
