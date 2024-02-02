@@ -499,8 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "veio.io"
-    "sinbadmixer.net"
+    "veio.io",
+    "sinbadmixer.net",
     "airdrop-defi.online",
     "bridge.blockscape.ink",
     "blastscore.xyz",
