@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chainge.finance",
     "event-jup.com",
     "optimism-mode.network",
     "signup-optimism.org",
