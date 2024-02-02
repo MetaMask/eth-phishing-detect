@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "event-jup.com",
     "optimism-mode.network",
     "signup-optimism.org",
     "ambires-vote.org",
