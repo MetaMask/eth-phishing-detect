@@ -499,6 +499,33 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "home-rendertoken.com",
+    "main-fetchtoken.com",
+    "gift-paxos.com",
+    "home-woo.com",
+    "gift-galagames.com",
+    "gift-agix.com",
+    "dao-chain.link",
+    "claim-decentraland.net",
+    "app-maker.net",
+    "home-injective.com",
+    "main-quant.com",
+    "home-ens.com",
+    "claim-frax.net",
+    "gift-dydx.net",
+    "usd-claim.org",
+    "gift-beam.org",
+    "hub-shibatoken.org",
+    "gift-hex.com",
+    "home-ocean.net",
+    "home-synthetix.com",
+    "gift-graphtoken.com",
+    "gift-realio.com",
+    "main-apyeth.com",
+    "main-liquideth.com",
+    "home-aave.net",
+    "bitrock-app.com",
+    "zkfair.events",
     "dappradar.ec",
     "web3-dappradar.com",
     "link-dappradar.com",
@@ -80460,8 +80487,6 @@
     "lrt-eigenlayer.xyz",
     "puufir.com",
     "seiyansget.com",
-    "enroll-magiceden.io",
-    "launch-jup.app",
-    "pufier.com"
+    "enroll-magiceden.io"
   ]
 }
