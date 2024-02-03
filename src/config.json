@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "enroll-magiceden.io",
+    "launch-jup.app",
+    "pufier.com",
     "home-rendertoken.com",
     "main-fetchtoken.com",
     "gift-paxos.com",
@@ -80487,6 +80490,6 @@
     "lrt-eigenlayer.xyz",
     "puufir.com",
     "seiyansget.com",
-    "enroll-magiceden.io"
+    "enroll-magiceden.io",
   ]
 }
