@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "liquid-eth.net",
     "enroll-magiceden.io",
     "launch-jup.app",
     "pufier.com",
