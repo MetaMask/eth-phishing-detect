@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ddnsking.com",
+    "singiular.net",
     "dappradar.ec",
     "web3-dappradar.com",
     "link-dappradar.com",
