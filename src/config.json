@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trustwallet-support.com",
     "wallconnectsync.ddnsking.com",
     "singiular.net",
     "liquid-eth.net",
