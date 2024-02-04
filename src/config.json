@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trustwallet-support.com",
     "dappradar.ec",
     "web3-dappradar.com",
     "link-dappradar.com",
