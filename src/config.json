@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "wallconnectsync.ddnsking.com",
+    "singiular.net",
     "liquid-eth.net",
     "home-rendertoken.com",
     "main-fetchtoken.com",
