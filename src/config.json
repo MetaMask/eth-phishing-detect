@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "webgraph.live",
     "dappradar.ec",
     "web3-dappradar.com",
     "link-dappradar.com",
