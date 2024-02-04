@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "veio.io",
+    "sinbadmixer.net",
     "dappradar.ec",
     "web3-dappradar.com",
     "link-dappradar.com",
