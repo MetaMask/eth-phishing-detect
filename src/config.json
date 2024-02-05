@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ww25.metamask.io-official.org",
     "metamaskservices.live",
     "spport-metamask.gitbook.io",
     "quest-aevo.com",
