@@ -81567,6 +81567,7 @@
     "reg.roninchain.app",
     "claim.roninchain.app",
     "connect-particle.network",
-    "devnet.dymensien.com"
+    "devnet.dymensien.com",
+    "connection-dymension.network"
   ]
 }
