@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "me1amaskwellet.weebly.com",
+    "metamask-giftrewards.duckdns.org",
     "chainlink.promo",
     "chainlinkrewardsv2.com",
     "chainlinkrewardsv2.org",
