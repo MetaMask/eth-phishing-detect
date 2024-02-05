@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "api2.infura.pro",
     "zksync-rewards.io",
     "snsolanachange.com",
     "trustwallet-restoresweb-restore.webflow.io",
