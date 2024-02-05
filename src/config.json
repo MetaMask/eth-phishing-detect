@@ -12,7 +12,6 @@
     "satoshilabs.com"
   ],
   "whitelist": [
-    "community-rnantas.com",
     "revoke.cash",
     "cryptocities.world",
     "metamax.exchange",
@@ -500,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "community-rnantas.com",
     "snsolanachange.com",
     "trustwallet-restoresweb-restore.webflow.io",
     "topcoin.cc",
