@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nodeweb3.pages.dev",
+    "ultra-nodes-dapp.vercel.app",
     "community-rnantas.com",
     "snsolanachange.com",
     "trustwallet-restoresweb-restore.webflow.io",
