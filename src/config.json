@@ -498,6 +498,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamaskservices.live",
+    "spport-metamask.gitbook.io",
     "quest-aevo.com",
     "claim-quant.com",
     "wbtc.gifts",
