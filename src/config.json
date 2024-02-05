@@ -499,6 +499,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metsk.app",
+    "metamask-logins.webflow.io",
+    "metamask-wallet.boxmode.io",
+    "metamaskioextension.wordpress.com",
+    "metamasklogins.webflow.io",
+    "metamaxkse.azurewebsites.net",
+    "metmasklogin.wordpress.com",
     "chromemetamask.weebly.com",
     "metamask-wallvt.weebly.com",
     "maskadrop.com",
