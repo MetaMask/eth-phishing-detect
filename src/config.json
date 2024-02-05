@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "consensys.box",
+    "consensys.world",
+    "consensysclaim.com",
     "air-linea.build",
     "bridgelinea-build.com",
     "linea-builds.top",
