@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "p3.elvinlong.cn",
     "metsk.app",
     "metamask-logins.webflow.io",
     "metamask-wallet.boxmode.io",
