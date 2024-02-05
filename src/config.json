@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "altlayerx3.pages.dev",
     "16728472-coinbase.com",
     "mainnode-dapps.com",
     "suinetwork.net",
