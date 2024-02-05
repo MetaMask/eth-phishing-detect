@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "chainlink.promo",
+    "chainlinkrewardsv2.com",
+    "chainlinkrewardsv2.org",
     "airarbitum.com",
     "metamasskwallets.boxmode.io",
     "p3.elvinlong.cn",
