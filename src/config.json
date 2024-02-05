@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "quest-aevo.com",
     "dap-radar.today",
     "altlayerx3.pages.dev",
     "16728472-coinbase.com",
