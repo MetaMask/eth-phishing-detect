@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "airarbitum.com",
     "metamasskwallets.boxmode.io",
     "p3.elvinlong.cn",
     "metsk.app",
