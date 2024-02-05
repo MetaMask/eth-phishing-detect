@@ -499,17 +499,6 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
-    "link-smarthub.in.net",
-    "artsyton.com",
-    "bitcoinminetriix.pages.dev",
-    "presale.collateralnetwork.iogin",
-    "privatesale.dop.org",
-    "trustpad-ic.combt",
-    "btcetftoken.io",
-    "smartdappnodes.pages.devlletpage",
-    "connectionnode.pages.devllets",
-    "socialsmask.link",
-    "nfts-neotokyo.codes",
     "nodeweb3.pages.dev",
     "ultra-nodes-dapp.vercel.app",
     "community-rnantas.com",
@@ -81615,6 +81604,15 @@
     "token-stormwarfare.com",
     "tokens-porkcoin.com",
     "listing-stormwarfare.com",
-    "whitelist-stormwarfare.com"
+    "whitelist-stormwarfare.com",
+    "air-usdt.com",
+    "animocafarcana.online",
+    "metis-launchpads.org",
+    "metis-start.app",
+    "idolaunchpad.today",
+    "kepldao.org",
+    "aethergaming.store",
+    "aidrop-manta.network",
+    "stake.ether.tl"
   ]
 }
