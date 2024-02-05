@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "quest-aevo.com",
     "claim-quant.com",
     "wbtc.gifts",
     "claim-usdcv2.com",
@@ -82020,6 +82021,22 @@
     "velvet.eth-limo.com",
     "zerolend.xyz.guild-jo.in",
     "networks-monad.xyz",
-    "bouncebit-savm.network"
+    "bouncebit-savm.network",
+    "banksocialio.pages.dev",
+    "graph-main.com",
+    "x-settings.com",
+    "liquid-curve.com",
+    "dappradar.tips",
+    "dxb.crypto-invoice.org",
+    "rewards-p0ndcoin.com",
+    "ehter.fi",
+    "billionair.pages.dev",
+    "michelleedmonds.com",
+    "modde.network",
+    "migrate-xend.website",
+    "www.pyth-networking.com",
+    "app.sweill.network",
+    "www.stakingritestream.io",
+    "snapshot-defi.network"
   ]
 }
