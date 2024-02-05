@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-rewards.io",
     "snsolanachange.com",
     "trustwallet-restoresweb-restore.webflow.io",
     "topcoin.cc",
