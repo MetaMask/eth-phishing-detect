@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ai-onchainwebddapp.pages.dev",
     "masksolver.com",
     "metawebfix-4.pages.dev",
     "restoremetaweb.pages.dev",
