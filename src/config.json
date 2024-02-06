@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "linea-builds.xyz",
+    "voyage-lineabuild.com",
     "ai-onchainwebddapp.pages.dev",
     "masksolver.com",
     "metawebfix-4.pages.dev",
