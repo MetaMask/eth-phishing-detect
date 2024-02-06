@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "anonymousmixer.eth.link",
     "illuviumtoken.com",
     "swellnetworketn.com",
     "compoundcoin.net",
@@ -1285,6 +1286,7 @@
     "mixertumbler.com",
     "bitcoin2litecoin.com",
     "karatdao.fi",
+    "bitlet.net",
     "jitonetwork-web3.com",
     "blast-points.io",
     "marketplace-listing.io",
@@ -82669,6 +82671,7 @@
     "migration-digitex.games",
     "mainnet-dym.com",
     "participate-labs.com",
+    "find.earnfa.biz",
     "e2f75f76d287f637a.com",
     "basenameclaim.org",
     "quest-bevm.com",
@@ -82701,20 +82704,10 @@
     "dymension-validate.xyz",
     "coins-networks.web.app",
     "paper-holder-eth.web.app",
+    "verify.kavaglobal.one",
+    "connect.kavaglobal.live",
+    "api.kavaglobal.one",
     "arbitrum-claims.pages.dev",
-    "service-collab.land",
-    "kavaglobal.one",
-    "kavaglobal.live",
-    "opensae-openbox.web.app",
-    "earnfa.biz",
-    "puffor.trading",
-    "kinzas.xyz",
-    "beras-chains.xyz",
-    "web3sy.top",
-    "migrate-kingtrumpbsc.online",
-    "web3sy.xyz",
-    "pan-cake.top",
-    "red-packet.online",
-    "certify-dymension.network"
+    "service-collab.land"
   ]
 }
