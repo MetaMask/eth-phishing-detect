@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "web3-infinityfx.com",
     "illuviumtoken.com",
     "swellnetworketn.com",
     "compoundcoin.net",
