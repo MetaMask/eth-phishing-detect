@@ -498,6 +498,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "box-liquidity.com",
+    "router.trading",
+    "getmysterybox.net",
     "illuviumtoken.com",
     "swellnetworketn.com",
     "compoundcoin.net",
