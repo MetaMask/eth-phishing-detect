@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-uswallet.godaddysites.com",
     "ww25.metamask.io-official.org",
     "metamaskservices.live",
     "spport-metamask.gitbook.io",
