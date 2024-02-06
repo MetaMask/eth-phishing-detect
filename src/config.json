@@ -12,6 +12,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "phosphor.xyz",
     "revoke.cash",
     "cryptocities.world",
     "metamax.exchange",
@@ -82881,6 +82882,9 @@
     "mantafer.xyz",
     "meeseekc.site",
     "two-solanamobilecom.pages.dev",
-    "portal-me.xyz"
+    "portal-me.xyz",
+    "strnetclaim.cc",
+    "animalias.network",
+    "www.rewards-neotokyo.codes"
   ]
 }
