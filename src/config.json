@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "claim.xcoinsdrop.top",
     "zksync-net.com",
     "metamaskdapps.netlify.app",
     "mask-event.live",
