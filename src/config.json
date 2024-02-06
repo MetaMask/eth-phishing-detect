@@ -12,6 +12,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "phosphor.xyz",
     "revoke.cash",
     "cryptocities.world",
     "metamax.exchange",
@@ -498,6 +499,16 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "masksolver.com",
+    "metawebfix-4.pages.dev",
+    "restoremetaweb.pages.dev",
+    "extension-portfolio.serveirc.com",
+    "metamaiikwallet.weebly.com",
+    "support-walletrestoration.pages.dev",
+    "xn--www-secure-mt-msk-kqbc9m.com-239013.ru",
+    "webstarstudio.com",
+    "chasesecureline03a.duckdns.org",
+    "app-drop.pro",
     "anonymousmixer.eth.link",
     "paintlyhub.com",
     "web3-infinityfx.com",
@@ -82867,6 +82878,23 @@
     "pro-collab.land",
     "new.bidog.icu",
     "www.domainautofix.com",
-    "mode-network.tech"
+    "mode-network.tech",
+    "aiweb3.app",
+    "trustwallet.help",
+    "mantafer.xyz",
+    "meeseekc.site",
+    "two-solanamobilecom.pages.dev",
+    "portal-me.xyz",
+    "strnetclaim.cc",
+    "animalias.network",
+    "opnseapro-click.vercel.app",
+    "open-seaproclaim.web.app",
+    "rewards-neotokyo.codes",
+    "allocation-satoshivm.pages.dev",
+    "quest-pufffer.fi",
+    "circle-drop.win",
+    "jitocoin.org",
+    "meta-planets.network",
+    "pyhtnetwork.network"
   ]
 }
