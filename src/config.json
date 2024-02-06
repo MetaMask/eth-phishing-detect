@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "masksolver.com",
     "metawebfix-4.pages.dev",
     "restoremetaweb.pages.dev",
     "extension-portfolio.serveirc.com",
