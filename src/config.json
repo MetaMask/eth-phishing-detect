@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinmergedapp.com",
     "registry-linea.build",
     "metamask-uswallet.godaddysites.com",
     "ww25.metamask.io-official.org",
