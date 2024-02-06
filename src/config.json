@@ -498,6 +498,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mask-event.live",
+    "mask-event.online",
     "coinmergedapp.com",
     "registry-linea.build",
     "metamask-uswallet.godaddysites.com",
