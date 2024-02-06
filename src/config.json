@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "papecoins.org",
     "strklabsfnd.net",
     "claim.xcoinsdrop.top",
     "zksync-net.com",
