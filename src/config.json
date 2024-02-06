@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "app-drop.pro",
     "anonymousmixer.eth.link",
     "paintlyhub.com",
     "web3-infinityfx.com",
