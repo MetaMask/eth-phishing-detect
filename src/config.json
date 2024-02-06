@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamaskdapps.netlify.app",
     "mask-event.live",
     "mask-event.online",
     "coinmergedapp.com",
