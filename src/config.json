@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "curveliquidity.io",
     "linea-builds.xyz",
     "voyage-lineabuild.com",
     "ai-onchainwebddapp.pages.dev",
