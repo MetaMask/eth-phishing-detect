@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "anonymousmixer.eth.link",
     "paintlyhub.com",
     "web3-infinityfx.com",
     "illuviumtoken.com",
@@ -82795,6 +82796,26 @@
     "cases.stretto-celsius.claim-config.com",
     "live-dymension.network",
     "metisdao-air.com",
-    "web3mwu.com"
+    "web3mwu.com",
+    "complete-dymension.network",
+    "nftsclaimopensea.com",
+    "decentreland.org.web3-l2.cfd",
+    "pandohsi.pro",
+    "www.inscribe.wf",
+    "web-launch.insure",
+    "www.appnostra.finance",
+    "www.app-redacted.finance",
+    "find.itsearn.com",
+    "hellxap.com.web3-l2.cfd",
+    "www.raidium.xyz",
+    "invite-illuvium.com",
+    "animalia.events",
+    "meta-planets.org",
+    "blast-drop.tech",
+    "register-pythnetwork.com",
+    "devnet-monad.xyz",
+    "farming-blackpanther.com",
+    "reward-hex.net",
+    "devmission-dymension.com"
   ]
 }
