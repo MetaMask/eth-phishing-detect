@@ -498,6 +498,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zksync-net.com",
     "metamaskdapps.netlify.app",
     "mask-event.live",
     "mask-event.online",
