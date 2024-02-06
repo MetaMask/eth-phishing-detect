@@ -498,6 +498,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "webstarstudio.com",
+    "chasesecureline03a.duckdns.org",
     "app-drop.pro",
     "anonymousmixer.eth.link",
     "paintlyhub.com",
