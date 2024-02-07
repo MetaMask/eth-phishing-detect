@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ripplelimitedevent.pages.dev",
     "quest-sappyseals.com",
     "google.comes-cc-cvs.bo-com.com.coinbase.pro",
     "lidosteth.win",
