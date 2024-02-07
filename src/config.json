@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "directorymonerofil.pages.dev",
     "bridge.nftc-zksync-6ee057.zeeve.net",
     "arbitrum-grants.pages.dev",
     "arbitrum-orbit.pages.dev",
