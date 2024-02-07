@@ -4,7 +4,7 @@
 
 Utility for detecting phishing domains targeting Web3 users.
 
-For checking why a given domain was blocked, try our interactive page [here](https://metamask.github.io/eth-phishing-detect) (outdated)
+For checking why a given domain was blocked, there is a third-party [search tool](https://app.chainpatrol.io/search) maintained by ChainPatrol.
 
 ## Blocking Policy
 
