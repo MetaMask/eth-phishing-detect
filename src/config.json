@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "register-pandora.build",
     "chain-linknetwork.com",
     "directorymonerofil.pages.dev",
     "bridge.nftc-zksync-6ee057.zeeve.net",
