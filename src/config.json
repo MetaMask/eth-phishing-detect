@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "trustpad-gv.com",
+    "stake-eigenlayer.vercel.app",
     "dappradar.tf",
     "starkgate.stark-net.io",
     "globalviewfundr.com",
