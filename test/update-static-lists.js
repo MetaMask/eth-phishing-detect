@@ -11,7 +11,7 @@ const ENDPOINTS = {
     "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=5000&start=1&sort=market_cap_strict&market_cap_min=10000000",
   COINMARKETCAP_COIN_INFO:
     "https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?id=",
-  SNAPS_REGISTRY_LIST: "https://raw.githubusercontent.com/MetaMask/snaps-registry/main/src/registry.json"
+  SNAPS_REGISTRY_LIST: "https://acl.execution.metamask.io/latest/registry.json"
 };
 
 function arrayTo2DArray1(arr, size) {
@@ -38,28 +38,10 @@ const touchFile = (path) => {
 };
 
 async function updateTrancoList() {
-  const PATH_CSV = DB_PATH + "/trancoList.csv";
+  const resp = await needle(ENDPOINTS.TRANCO_LIST);
 
-  // Download updated list
-  const stream = fs.createWriteStream(PATH_CSV);
+  const trancoDomainsCsv = resp.body;
 
-  try {
-    needle.get(ENDPOINTS.TRANCO_LIST).pipe(stream);
-
-    await new Promise((resolve, reject) => {
-      stream.on("finish", resolve);
-      stream.on("error", reject);
-    });
-  } catch (error) {
-    console.error(
-      "Problems while downloading the latest list. Error: " + error
-    );
-    process.exit(1);
-  }
-
-  await touchFile(PATH_CSV);
-
-  const trancoDomainsCsv = fs.readFileSync(PATH_CSV, "utf8");
   // Replace everything before a comma with empty string and convert line feeds to ln
   let trancoDomains = trancoDomainsCsv.split(/.*,/).join("");
   trancoDomains = trancoDomains.split(/\r\n/).join("\n");
@@ -156,28 +138,13 @@ async function updateCoinmarketcapList() {
 }
 
 async function updateSnapsRegistryList() {
-  const PATH_JSON = DB_PATH + "/snapsRegistryList.json";
+  const resp = await needle(ENDPOINTS.SNAPS_REGISTRY_LIST, {
+    headers: {
+      user_agent: 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) EthPhishingDetect/1.2.0 Safari/537.36',
+    },
+  });
 
-  // Download updated list
-  const stream = fs.createWriteStream(PATH_JSON);
-
-  try {
-    needle.get(ENDPOINTS.SNAPS_REGISTRY_LIST).pipe(stream);
-
-    await new Promise((resolve, reject) => {
-      stream.on("finish", resolve);
-      stream.on("error", reject);
-    });
-  } catch (error) {
-    console.error(
-      "Problems while downloading the latest list. Error: " + error
-    );
-    process.exit(1);
-  }
-
-  await touchFile(PATH_JSON);
-
-  const snapsRegistryJson = JSON.parse(fs.readFileSync(PATH_JSON, "utf8"));
+  const snapsRegistryJson = resp.body;
   
   function extractHostname(snap, path) {
     const url = path.reduce((obj, key) => (obj && obj[key] !== 'undefined') ? obj[key] : null, snap);
@@ -218,6 +185,6 @@ switch (target) {
     updateSnapsRegistryList();
     break;
   default:
-    console.log('You need to specify either: "tranco" OR "coinmarketcap"');
+    console.log('You need to specify either: "tranco" OR "coinmarketcap" OR "snapsregistry"');
     break;
 }

@@ -35,7 +35,7 @@ cosmos.leapwallet.io
 leapwallet.io
 snap.anchainai.com
 anchain.ai
-rarime.com
+dashboard.rarime.com
 rarimo.com
 browser.partisiablockchain.com
 partisiablockchain.com
@@ -68,5 +68,14 @@ astar.network
 app.nocturne.xyz
 nocturnelabs.xyz
 web3antivirus.io
+app-andromeda.galactica.com
+galactica.com
 rss3.io
-hedera.com
+dedaub.com
+nexone.io
+amaxup.xyz
+pulse.tuum.tech
+tickets.metamask.io
+attest.sh
+snap.silencelaboratories.com
+silencelaboratories.com
