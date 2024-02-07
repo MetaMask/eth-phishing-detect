@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "smartprimeequity.com",
     "trustpad-gv.com",
     "stake-eigenlayer.vercel.app",
     "dappradar.tf",
