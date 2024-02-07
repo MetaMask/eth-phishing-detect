@@ -499,6 +499,12 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.tf",
+    "starkgate.stark-net.io",
+    "globalviewfundr.com",
+    "pcs-defistakev3.com",
+    "claimmagamemecoin.pages.dev",
+    "icolook.ltd",
     "bepvip1.club",
     "mining789.com",
     "register-pandora.build",
