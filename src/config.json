@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "coinsolutions.pages.dev",
     "workguoup-01.com",
     "migration-websiteai.com",
     "dapmetamask.onrender.com",
