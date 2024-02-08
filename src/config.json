@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "swapr.fi",
     "zksync-youbuidl.vercel.app",
     "xifiafxtrade.com",
     "rnetanask.io",
