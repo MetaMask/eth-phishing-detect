@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dapmetamask.onrender.com",
+    "tetherafix.web.app",
     "swapr.fi",
     "zksync-youbuidl.vercel.app",
     "xifiafxtrade.com",
