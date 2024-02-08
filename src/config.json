@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "google.comcz-cc.tv.com.as.coinbase.pro",
     "google.comis.comv2.ng.coinbase.pro",
     "jito-gift.digital",
     "61250-coinbase.com",
