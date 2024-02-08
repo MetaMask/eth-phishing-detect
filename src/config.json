@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "jito-gift.digital",
+    "61250-coinbase.com",
+    "keys-coinbase.com",
     "blockscout.com",
     "11923-coinbase.com",
     "16478202-coinbase.com",
