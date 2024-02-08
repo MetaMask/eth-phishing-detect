@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "rnetanask.io",
     "metamask-beta.co",
     "bitcoinfxtrades.com",
     "fxtime.io",
