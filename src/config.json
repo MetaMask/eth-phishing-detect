@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "google.com-cc.bo-comcomes.service-tv-sa.coinbase.pro",
+    "webflow.io",
     "google.comcz-cc.tv.com.as.coinbase.pro",
     "google.comis.comv2.ng.coinbase.pro",
     "jito-gift.digital",
