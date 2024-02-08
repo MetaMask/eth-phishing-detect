@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fxtime.io",
+    "walletwebnode.rf.gd",
     "governance-opensea.io",
     "item--opensea.blogspot.com",
     "notifications-opensea.io",
