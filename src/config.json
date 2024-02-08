@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "128147-coinbase.com",
     "76153-coinbase.com",
     "stake.lido.cm",
     "google.com-li.tv-comcloudapp.coinbase.pro",
