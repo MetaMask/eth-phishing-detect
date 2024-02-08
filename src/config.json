@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "google.com-li.tv-comcloudapp.coinbase.pro",
     "google.comin-pw.sh3.coinbase.pro",
     "apis-colnbase.support",
     "list-item.io",
