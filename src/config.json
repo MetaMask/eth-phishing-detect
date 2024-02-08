@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "swapr.fi",
     "xifiafxtrade.com",
     "rnetanask.io",
     "metamask-beta.co",
