@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "webdappsconnectprotocol.pages.dev",
     "presale-farcana-fcfs.netlify.app",
     "ton.org-airdr.online",
     "arbitrum.trusetpad.top",
