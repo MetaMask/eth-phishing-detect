@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mission-zksync.com",
+    "quests-zksync.com",
     "nodesync.online",
     "milleniumtradenetwork.net",
     "smartprimeequity.com",
