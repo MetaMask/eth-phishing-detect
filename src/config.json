@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-beta.co",
     "bitcoinfxtrades.com",
     "fxtime.io",
     "walletwebnode.rf.gd",
