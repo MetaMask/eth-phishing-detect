@@ -499,6 +499,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "xifiafxtrade.com",
+    "rnetanask.io",
+    "metamask-beta.co",
     "mission-wormhole.events",
     "alpha-pandora.build",
     "claim.tia.rs",
