@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "migration-websiteai.com",
     "dapmetamask.onrender.com",
     "tetherafix.web.app",
     "swapr.fi",
