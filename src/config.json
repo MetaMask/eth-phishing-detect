@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "blockscout.com",
+    "11923-coinbase.com",
     "16478202-coinbase.com",
     "128147-coinbase.com",
     "76153-coinbase.com",
