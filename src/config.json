@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "workguoup-01.com",
     "migration-websiteai.com",
     "dapmetamask.onrender.com",
     "tetherafix.web.app",
