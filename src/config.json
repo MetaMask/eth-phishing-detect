@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gl-allisonworldwidewap.com",
     "mission-zksync.com",
     "quests-zksync.com",
     "nodesync.online",
