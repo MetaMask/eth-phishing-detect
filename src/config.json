@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "nodesync.online",
     "milleniumtradenetwork.net",
     "smartprimeequity.com",
     "trustpad-gv.com",
