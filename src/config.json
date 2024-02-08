@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "google.comin-pw.sh3.coinbase.pro",
+    "apis-colnbase.support",
     "list-item.io",
     "macysox.com",
     "hom.brokeredtrades.org",
