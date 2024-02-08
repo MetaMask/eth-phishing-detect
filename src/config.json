@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arrexpro.com",
+    "digitalinttrade.com",
     "webdappsconnectprotocol.pages.dev",
     "presale-farcana-fcfs.netlify.app",
     "ton.org-airdr.online",
