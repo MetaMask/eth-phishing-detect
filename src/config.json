@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "cryptomainndapp.pages.dev",
     "dappsconnecttsync.vercel.app",
     "linea.dapdap.tech",
     "mainnetsynchs.site",
