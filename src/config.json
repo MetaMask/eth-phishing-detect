@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappsconnecttsync.vercel.app",
     "linea.dapdap.tech",
     "mainnetsynchs.site",
     "atlanticsea.online",
