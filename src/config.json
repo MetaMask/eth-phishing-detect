@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum.com.br",
     "dappradar.ms",
     "arb.x500-claim.top",
     "bnb-8888.club",
