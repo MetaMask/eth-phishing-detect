@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "dappradar.ms",
+    "arb.x500-claim.top",
     "bnb-8888.club",
     "mavia-google-verification-fix.netlify.app",
     "bnb2211.club",
