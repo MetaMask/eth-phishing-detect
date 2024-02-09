@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mainnetsynchs.site",
     "atlanticsea.online",
     "grt.pro-multicoin.info",
     "coinsolutions.pages.dev",
