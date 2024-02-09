@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mavia-google-verification-fix.netlify.app",
     "bnb2211.club",
     "defi1012.xyz",
     "smartwebmultiversefix.online",
