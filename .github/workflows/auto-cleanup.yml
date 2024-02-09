@@ -1,0 +1,32 @@
+name: Auto Cleanup
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 20.x
+        cache: 'yarn'
+    - run: yarn --frozen-lockfile
+    - run: |
+        MM_OUTPUT_PATH=config.json yarn clean:blocklist || true
+        if [[ `git status --porcelain` ]]; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m 'actions: auto-cleanup config'
+          git push
+        fi
