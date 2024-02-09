@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "gmesolana.com",
     "antai-aide-gouv.com",
     "service-aide-reunion.com",
     "walletconnect.cyou",
