@@ -499,6 +499,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "antai-aide-gouv.com",
+    "service-aide-reunion.com",
+    "walletconnect.cyou",
+    "mefamaskwallet-us.weebly.com",
+    "metamaask-loginx.godaddysites.com",
     "protocolsconf.com",
     "lxp-lineabuild.com",
     "arbitrum-bsc.com",
