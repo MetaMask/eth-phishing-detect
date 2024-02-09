@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "lxp-lineabuild.com",
     "arbitrum-bsc.com",
     "arbitrumdrops.com",
     "arbitrum.com.br",
