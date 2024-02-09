@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "zrofoundation.com",
     "remote-procedure-fix.org",
     "bestbuypartner.top",
     "macyson.top",
