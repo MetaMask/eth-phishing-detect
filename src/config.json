@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "fix.fixsolution.io",
+    "metamask-portal-web.webflow.io",
     "remote-procedure-fix.org",
     "bestbuypartner.top",
     "macyson.top",
