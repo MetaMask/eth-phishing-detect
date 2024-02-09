@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metamask-log-u.gitbook.io",
     "matemaske.com",
     "kdefi.net",
     "gmesolana.com",
