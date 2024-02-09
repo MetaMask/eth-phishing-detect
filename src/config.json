@@ -499,6 +499,8 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "arbitrum-bsc.com",
+    "arbitrumdrops.com",
     "arbitrum.com.br",
     "dappradar.ms",
     "arb.x500-claim.top",
