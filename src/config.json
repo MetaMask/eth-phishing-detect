@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "remote-procedure-fix.org",
     "bestbuypartner.top",
     "macyson.top",
     "cryptomainndapp.pages.dev",
