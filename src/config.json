@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "ethgas-fee.com",
     "metamaskusan.azurewebsites.net",
     "mainnetfaucet.live",
     "evm-metamask.wallets.ink",
