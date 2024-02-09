@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "mainnetfaucet.live",
     "evm-metamask.wallets.ink",
     "metamask-log-u.gitbook.io",
     "matemaske.com",
