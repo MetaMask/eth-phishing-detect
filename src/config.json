@@ -12,6 +12,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "phosphor.xyz",
     "revoke.cash",
     "openseam.co",
     "opensec.ai",
@@ -20,7 +21,6 @@
     "etcerscan.com",
     "opensea.gr",
     "cryptofitties.com",
-    "revigo.fanclub.rocks",
     "openspa.info",
     "openseas.gr",
     "metamark.lt",
