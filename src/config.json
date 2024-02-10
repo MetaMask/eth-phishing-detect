@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "shift4shop-usd.com",
     "glitchclean.pages.dev",
     "ethgas-fee.com",
     "metamaskusan.azurewebsites.net",
