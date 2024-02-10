@@ -499,6 +499,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "strk-labs.beehiiv.com",
     "strklabs.net",
     "digitalxchangemarket.com",
     "ethgas-fees.com",
