@@ -51,6 +51,10 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "chainlinklabsv2.com",
+    "chainlinklabsv2.net",
+    "chainlinkstakev2.com",
+    "chainlinkstakev2.net",
     "zrofoundation.com",
     "remote-procedure-fix.org",
     "bestbuypartner.top",
