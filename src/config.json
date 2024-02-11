@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "strk-foundation.com",
     "linkr.bio",
     "v1.automining.com",
     "maskbsc-wallet.cc",
