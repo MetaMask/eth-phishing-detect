@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "apps.mynearwallet.run",
     "gitcoin.games",
     "networkmail-verifycolnbase.top",
     "web3-uniswap-uniswap.us.com",
