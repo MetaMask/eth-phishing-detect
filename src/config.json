@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "gitcoin.games",
     "networkmail-verifycolnbase.top",
     "web3-uniswap-uniswap.us.com",
     "binance-launchpad.com",
