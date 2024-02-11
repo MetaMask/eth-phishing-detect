@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "claim-zksyncs.org",
     "zrofoundation.com",
     "remote-procedure-fix.org",
     "bestbuypartner.top",
