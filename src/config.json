@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "earn-link.net",
     "claim-zksyncs.org",
     "zrofoundation.com",
     "remote-procedure-fix.org",
