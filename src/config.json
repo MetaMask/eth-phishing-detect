@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "lineabridge.xyz",
     "dappsradar.info",
     "chainlinklabsv2.com",
     "chainlinklabsv2.net",
