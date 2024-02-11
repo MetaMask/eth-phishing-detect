@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "binance-launchpad.com",
+    "airdropalert.com",
     "blast.top",
     "update-metamask.pages.dev",
     "list-item.io",
