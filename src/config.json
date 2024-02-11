@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "google.comis.comv2.ng.coinbase.pro",
     "google.com-cloud-platform-machine-web-enginess.sb.com-merchant-platform-machine-learning-enginev.coinbase.pro",
     "google.comes-li.com-sl-platform-machine-learning-enginevc.su.coinbase.pro",
     "hub-zetachain.com",
