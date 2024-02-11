@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chatgpt.zaob.in",
     "182967-coinbase.com",
     "158312-coinbase.com",
     "openai-boy.pages.dev",
