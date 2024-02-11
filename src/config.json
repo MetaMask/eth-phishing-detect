@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mynearwallet.run",
+    "google.com.do.bo-bt.sh.coinbase.pro",
     "sup-coinbase.org",
     "chat-gpt-next-mis2k3b44-orzwxz.vercel.app",
     "chatgpt.zaob.in",
