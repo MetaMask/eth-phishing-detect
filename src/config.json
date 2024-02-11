@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "182967-coinbase.com",
+    "158312-coinbase.com",
     "openai-boy.pages.dev",
     "google.comes-az.mq-wfcom-com.wfcom-com-com-cloud-platform-machine-learning-engine8.coinbase.pro",
     "solana-dapp-test.pages.dev",
