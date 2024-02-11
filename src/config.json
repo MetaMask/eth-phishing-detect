@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web3-uniswap-uniswap.us.com",
     "binance-launchpad.com",
     "airdropalert.com",
     "blast.top",
