@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "sui-network.pages.dev",
     "sites.google.com/metamaskis.com/metamaskextension/home",
     "chatgpt-next-web-a66.pages.dev",
     "mnearwallet.com",
