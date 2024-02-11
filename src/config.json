@@ -51,6 +51,8 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "maskbsc-wallet.cc",
+    "motk.cc",
     "segwit.app",
     "metacmxetn.gitbook.io",
     "metaeeioumseklogein.gitbook.io",
