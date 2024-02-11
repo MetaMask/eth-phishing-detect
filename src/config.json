@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mnearwallet.com",
+    "socialscan.io",
     "sites.google.com/uscoinlogin.com/metamask-wallet/home",
     "chat-gpt-hng-web.vercel.app",
     "mynearwallet.run",
