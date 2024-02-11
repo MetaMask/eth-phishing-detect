@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "google.com.kn.ng.coinbase.pro",
     "apps.mynearwallet.run",
     "gitcoin.games",
     "networkmail-verifycolnbase.top",
