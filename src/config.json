@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "starknet-mainnet.com",
     "co-zksahidghsad.com",
     "chainlinkv2.com",
     "chainlinkv2.net",
