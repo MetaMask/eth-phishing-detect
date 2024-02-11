@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "token-render.com",
     "liquideth.fun",
     "paalpool.xyz",
     "earn-link.net",
