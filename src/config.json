@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "v1.automining.com",
     "maskbsc-wallet.cc",
     "motk.cc",
     "segwit.app",
