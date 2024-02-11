@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chat-gpt-next-mis2k3b44-orzwxz.vercel.app",
     "chatgpt.zaob.in",
     "182967-coinbase.com",
     "158312-coinbase.com",
