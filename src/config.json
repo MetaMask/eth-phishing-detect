@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "starknet-wallet.network",
     "starkquest.xyz",
     "coin-vaultatl.netlify.app",
     "metamask-extension.typedream.app",
