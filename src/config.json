@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "liquideth.fun",
     "paalpool.xyz",
     "earn-link.net",
     "claim-zksyncs.org",
