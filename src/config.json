@@ -84742,6 +84742,11 @@
     "www.webmail.wap.claim-ice.io",
     "www.cpcalendars.blog.claim-ice.io",
     "www.mail.blog.claim-ice.io",
-    "www.remote.wap.claim-ice.io"
+    "www.remote.wap.claim-ice.io",
+    "www.claim-redstone.finance",
+    "www.mail.starlgate.finance",
+    "www.auth.imap.cp.events-zksync.io",
+    "www.support.fr.events-zksync.io",
+    "phpmyadmin.autodiscover.events-zksync.io"
   ]
 }
