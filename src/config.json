@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "google.comtf.tv-com.coinbase.pro",
+    "coinbase-reject.com",
     "google.comcz-cchu.pt-com.route53tv.com.coinbase.pro",
     "google.comec.cvcom-com.tv.coinbase.pro",
     "google.comes-liie-lamdacomes-lisx.wfcom-com.wfcom-com.coinbase.pro",
