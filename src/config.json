@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chatgpt-next-web-a66.pages.dev",
     "mnearwallet.com",
     "socialscan.io",
     "sites.google.com/uscoinlogin.com/metamask-wallet/home",
