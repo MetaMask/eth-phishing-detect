@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zkpassport.net",
+    "arbitrum.trustpadfi.top",
+    "metamaskenig.azurewebsites.net",
+    "metamaskwalletd.gitbook.io",
+    "staging.consensys-lootbox.mondorobot.com",
     "zrofoundation.com",
     "remote-procedure-fix.org",
     "bestbuypartner.top",
