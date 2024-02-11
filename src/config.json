@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "starknets.life",
     "get-starknet.io",
     "starknet-wallet.network",
     "starkquest.xyz",
