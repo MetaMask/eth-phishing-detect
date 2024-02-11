@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "networkmail-verifycolnbase.top",
     "web3-uniswap-uniswap.us.com",
     "binance-launchpad.com",
     "airdropalert.com",
