@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "blast.top",
+    "update-metamask.pages.dev",
     "list-item.io",
     "macysox.com",
     "hom.brokeredtrades.org",
