@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "debug-metamask.pages.dev",
     "starknets.life",
     "get-starknet.io",
     "starknet-wallet.network",
