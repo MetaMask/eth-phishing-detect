@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "affiliate.starknet.id",
     "treasury-starknet.com",
     "lineabridge.xyz",
     "dappsradar.info",
