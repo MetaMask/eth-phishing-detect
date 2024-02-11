@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "grt.trustpadfi.top",
     "zkpassport.net",
     "arbitrum.trustpadfi.top",
     "metamaskenig.azurewebsites.net",
