@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "sites.google.com/uscoinlogin.com/metamask-wallet/home",
+    "chat-gpt-hng-web.vercel.app",
     "mynearwallet.run",
     "google.com.do.bo-bt.sh.coinbase.pro",
     "sup-coinbase.org",
