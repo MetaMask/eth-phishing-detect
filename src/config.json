@@ -51,6 +51,8 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "chainlinkv2.com",
+    "chainlinkv2.net",
     "global-trade-group.com",
     "claim-iyk.app",
     "pandora-wl.top",
