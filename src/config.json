@@ -51,6 +51,7 @@
     "status.nearprotocol.com"
   ],
   "blacklist": [
+    "get-starknet.io",
     "starknet-wallet.network",
     "starkquest.xyz",
     "coin-vaultatl.netlify.app",
