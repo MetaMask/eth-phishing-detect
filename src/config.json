@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chatgpt.gor.cc",
     "chatgpt.dami.lol",
     "coinbasenow.org",
     "binance-reg.com",
