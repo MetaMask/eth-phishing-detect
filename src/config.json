@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrumbriddge.webflow.io",
     "grt.trustpadfi.top",
     "zkpassport.net",
     "arbitrum.trustpadfi.top",
