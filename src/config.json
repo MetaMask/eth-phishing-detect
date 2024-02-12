@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "suicommunity.io",
     "sui-wallet.pages.dev",
     "claimurcrypto.com",
     "uniswap-interface-git-revert-307a995-uniswap.vercel.app/#/swap",
