@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappmainhub.pages.dev",
+    "m.coinbz.com",
     "metamaskwalletter.gitbook.io",
     "chainlinkladsv2.com",
     "chainlinkreward.com",
