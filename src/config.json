@@ -45,11 +45,16 @@
     "satoshilabs.design"
   ],
   "blacklist": [
-    "token-render.com",
     "liquideth.fun",
     "paalpool.xyz",
     "earn-link.net",
     "claim-zksyncs.org",
+    "treasury-starknet.com",
+    "lineabridge.xyz",
+    "chainlinklabsv2.com",
+    "chainlinklabsv2.net",
+    "chainlinkstakev2.com",
+    "chainlinkstakev2.net",
     "debug-metamask.pages.dev",
     "starknets.life",
     "get-starknet.io",
@@ -85265,6 +85270,7 @@
     "airdrop-caga.web.app",
     "monarch-register.com",
     "medtermcrm.com",
-    "404-monarch.app"
+    "404-monarch.app",
+    "networkmanta-airdrops.cloud"
   ]
 }
