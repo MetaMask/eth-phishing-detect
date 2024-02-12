@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-io.webflow.io",
+    "zksyncwllet.webflow.io",
     "meotmask-loginx.gitbook.io",
     "metamaskwallet24x7.gitbook.io",
     "metamaskwalletus24x7.gitbook.io",
