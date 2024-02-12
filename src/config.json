@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrage-setups.com",
+    "multichainsync.cloud",
+    "saitmask.ink",
+    "saitsmask.ink",
     "layerswap.in",
     "arbitrumreward.com",
     "freearb.co",
