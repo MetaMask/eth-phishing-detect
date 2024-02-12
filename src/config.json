@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fxcapitaloptions.com",
+    "meta-portfolio.xyz",
     "zksync-bridge.website",
     "metamask-support.io",
     "bloxsmartsys.pages.dev",
