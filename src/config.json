@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coinbasenow.org",
+    "binance-reg.com",
+    "chatgpt-nextjs-nine.vercel.app",
+    "lastrypased.com",
     "altlayer.pages.dev",
     "trust-wallet1.com",
     "17529580-coinbase.com",
