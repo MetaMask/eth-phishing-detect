@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop-looksrare.org",
     "chatgpt.dongli.link",
     "chatgpt.yologamesg.com",
     "opensea-proclaim.vercel.app",
