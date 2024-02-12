@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-websites.pages.dev",
     "list-item.io",
     "macysox.com",
     "hom.brokeredtrades.org",
