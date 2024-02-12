@@ -45,6 +45,22 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappradar-airdrops.net",
+    "dappradar-community.com",
+    "dappradar.gold",
+    "dappradar.agency",
+    "dappradar.quest",
+    "dapradar.fun",
+    "reward-dappradar.com",
+    "rewards-dappradar.com",
+    "dap-radar.pro",
+    "dap-radar.xyz",
+    "dapiradar.shop",
+    "dapradar.cfd",
+    "dappradar-bonus.com",
+    "dakradar.com",
+    "daprodar.xyz",
+    "official-dappradar.com",
     "zrofoundation.com",
     "remote-procedure-fix.org",
     "bestbuypartner.top",
@@ -85134,10 +85150,6 @@
     "defidappsresolve.pages.dev",
     "stakeonlineweb3connect.com",
     "iykapp.xyz",
-    "launchpad-stride.network",
-    "usdt.wine",
-    "com-airdrop.app",
-    "multi-walletsystems.pages.dev",
-    "alltlayer.com"
+    "launchpad-stride.network"
   ]
 }
