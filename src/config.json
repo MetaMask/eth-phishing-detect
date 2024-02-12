@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "receive-altlayerio.pages.dev",
     "airdrop-looksrare.org",
     "chatgpt.dongli.link",
     "chatgpt.yologamesg.com",
