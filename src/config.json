@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "liquids-ethereum.com",
     "dappmainhub.pages.dev",
     "m.coinbz.com",
     "metamaskwalletter.gitbook.io",
