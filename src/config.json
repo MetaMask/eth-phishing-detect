@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "trust-8t1.pages.dev",
+    "chatgpt-next-web-6db.pages.dev",
     "chatgpt-next.intrailblaze.com",
     "chatgpt.luckid.top",
     "chatgpt.gor.cc",
