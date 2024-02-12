@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coinbasefinance.com",
     "suicommunity.io",
     "sui-wallet.pages.dev",
     "claimurcrypto.com",
