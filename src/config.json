@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-support.io",
+    "bloxsmartsys.pages.dev",
+    "metmasklogins.webflow.io",
+    "secure-retry-connecting.alphakreed.com",
     "ttkkoopp888.com",
     "starknet-websites.pages.dev",
     "list-item.io",
