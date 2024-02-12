@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "binancedrop.pages.dev",
+    "chatgptprivate.wangrang.online",
     "coinbasefinance.com",
     "suicommunity.io",
     "sui-wallet.pages.dev",
