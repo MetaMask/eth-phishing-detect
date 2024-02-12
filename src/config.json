@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "91756-coinbase.com",
     "solana-dapp-react.pages.dev",
     "blast-drop-b80.pages.dev",
     "blastairdrop.xyz",
