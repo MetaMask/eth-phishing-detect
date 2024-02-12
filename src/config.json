@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "staknet.org",
     "fxcapitaloptions.com",
     "meta-portfolio.xyz",
     "zksync-bridge.website",
