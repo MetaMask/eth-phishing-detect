@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "blast-drop-b80.pages.dev",
     "blastairdrop.xyz",
     "binancex.xyz",
     "receive-altlayerio.pages.dev",
