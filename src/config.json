@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "opensea-proclaim.vercel.app",
     "trusbox.top",
     "chatgpt.zhangwei.press",
     "cloudmail-colnbase.com",
