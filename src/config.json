@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "sui-wallet.pages.dev",
     "claimurcrypto.com",
     "uniswap-interface-git-revert-307a995-uniswap.vercel.app/#/swap",
     "reverbtimemag.com",
