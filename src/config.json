@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "stethers.com",
     "liquids-ethereum.com",
     "dappmainhub.pages.dev",
     "m.coinbz.com",
