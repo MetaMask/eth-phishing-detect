@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "61851-coinbase.com",
+    "redeem-earnifi.com",
     "bradxrp.io",
     "chatgpt.neartan.com",
     "google.com-adminsro.tktv-comw3.bh.coinbase.pro",
