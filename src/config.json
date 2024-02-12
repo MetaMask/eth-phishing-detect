@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "maetamskextension.webflow.io",
+    "mettamaskkextension.webflow.io",
+    "mettamasskextension.webflow.io",
+    "mettameskextension.webflow.io",
+    "send-ethereum.webflow.io",
     "meta-mask-login-1.gitbook.io",
     "metalmaskilognus.gitbook.io",
     "metamask-login-1.gitbook.io",
