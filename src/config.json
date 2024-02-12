@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "uniswap-interface-git-revert-307a995-uniswap.vercel.app/#/swap",
     "reverbtimemag.com",
     "16728348-coinbase.com",
     "61851-coinbase.com",
