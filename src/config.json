@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrumreward.com",
     "freearb.co",
     "arb.x500-free.top",
     "zksync-io.webflow.io",
