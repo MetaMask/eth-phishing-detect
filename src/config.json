@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-era.web.app",
     "stethers.com",
     "liquids-ethereum.com",
     "dappmainhub.pages.dev",
