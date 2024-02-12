@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chatgpt.dami.lol",
     "coinbasenow.org",
     "binance-reg.com",
     "chatgpt-nextjs-nine.vercel.app",
