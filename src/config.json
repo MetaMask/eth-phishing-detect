@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskwalletter.gitbook.io",
     "chainlinkladsv2.com",
     "chainlinkreward.com",
     "chainlinkreward.net",
