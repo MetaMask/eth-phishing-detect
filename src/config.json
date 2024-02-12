@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "16728348-coinbase.com",
     "61851-coinbase.com",
     "redeem-earnifi.com",
     "bradxrp.io",
