@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "meotmask-loginx.gitbook.io",
+    "metamaskwallet24x7.gitbook.io",
+    "metamaskwalletus24x7.gitbook.io",
+    "metameskklogin-1.gitbook.io",
+    "metammasklogin.gitbook.io",
+    "us-metamask24x7.gitbook.io",
+    "usxwalletmetamask.gitbook.io",
     "maetamskextension.webflow.io",
     "mettamaskkextension.webflow.io",
     "mettamasskextension.webflow.io",
