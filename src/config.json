@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "freearb.co",
+    "arb.x500-free.top",
     "zksync-io.webflow.io",
     "zksyncwllet.webflow.io",
     "meotmask-loginx.gitbook.io",
