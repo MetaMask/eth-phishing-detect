@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "liquideth.fun",
+    "paalpool.xyz",
+    "earn-link.net",
+    "claim-zksyncs.org",
     "treasury-starknet.com",
     "lineabridge.xyz",
     "chainlinklabsv2.com",
