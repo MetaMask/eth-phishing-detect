@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "sandlbox.pages.dev",
+    "chatgpt-next-web-9ph.pages.dev",
     "chatgpt.realcat.top",
     "chatgpt.chen77.top",
     "nearprotocol.pages.dev",
