@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "binancesupport.firsthfb.com",
     "check-nibiru.com",
     "starknet-tokens.net",
     "savingwallet.top",
