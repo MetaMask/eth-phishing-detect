@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "check-nibiru.com",
     "starknet-tokens.net",
     "savingwallet.top",
     "yzxlmls.top",
