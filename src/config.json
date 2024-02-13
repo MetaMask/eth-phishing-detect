@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "maker-fnd.net",
     "blasst.su",
     "binanceoffer.co",
     "sandlbox.pages.dev",
