@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "openmystery2.vercel.app",
     "zks-labsfoundation.com",
     "zks-labsfoundation.net",
     "startstarknet.com",
