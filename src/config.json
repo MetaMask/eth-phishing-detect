@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coremarkets.org",
+    "wap.the-meta.live",
     "devcollabhub.web.app",
     "metamask.managementcommunity.pro",
     "binancesupport.firsthfb.com",
