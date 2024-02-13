@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "devcollabhub.web.app",
     "metamask.managementcommunity.pro",
     "binancesupport.firsthfb.com",
     "check-nibiru.com",
