@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "devcollabhub.web.app",
     "metamask.managementcommunity.pro",
     "binancesupport.firsthfb.com",
     "check-nibiru.com",
@@ -86305,6 +86306,9 @@
     "quickfeatureszerion.pages.dev",
     "bake404yours.com",
     "wl-404pandora.com",
-    "new.stackstone.xyz"
+    "new.stackstone.xyz",
+    "ngl-token.com",
+    "xtensionrevoke.xyz",
+    "token-entangle.com"
   ]
 }
