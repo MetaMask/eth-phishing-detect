@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cwrestore.vercel.app",
     "zksync-era.web.app",
     "stethers.com",
     "liquids-ethereum.com",
