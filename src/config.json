@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web3.heroesofmavia.support",
     "cwrestore.vercel.app",
     "zksync-era.web.app",
     "stethers.com",
