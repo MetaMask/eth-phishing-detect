@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "startstarknet.com",
     "pandora404.netlify.app",
     "saturn4u.com",
     "web3.heroesofmavia.support",
