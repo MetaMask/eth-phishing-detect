@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zks-labsfoundation.com",
+    "zks-labsfoundation.net",
     "startstarknet.com",
     "pandora404.netlify.app",
     "saturn4u.com",
