@@ -86545,7 +86545,6 @@
     "traderjoe.events",
     "thdefiant.co.com",
     "aerodrome.ventures",
-    "www.autodiscover.elasticsearch.production.winkdrop.net",
     "test.elasticsearch.production.winkdrop.net",
     "metroxynth.app",
     "blockchainbets.site",
@@ -87741,6 +87740,7 @@
     "dopchain.org",
     "bridge.tiooservice.site",
     "register-dmail.com",
-    "iuspond.xyz"
+    "iuspond.xyz",
+    "autodiscover.elasticsearch.production.winkdrop.net"
   ]
 }
