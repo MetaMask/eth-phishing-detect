@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mail.ticoinbase.com",
+    "hotacoinbase.com",
     "websecure3.pages.dev",
     "zk-dragon.io",
     "provision-starknet.com",
