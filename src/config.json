@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-io.online",
     "airdrop-starknet.net",
     "bonuses-starknet.com",
     "provisiones.io",
