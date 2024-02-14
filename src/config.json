@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web-starknet.io",
     "starknet-allocation.app",
     "starknet-allocation.org",
     "starknet-eligibility.app",
