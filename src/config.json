@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "temp-starknet-websites.pages.dev",
     "uniapt.io",
     "rangoexchange.netlify.app",
     "zks-beam.org",
