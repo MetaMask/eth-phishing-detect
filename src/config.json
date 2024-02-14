@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app.expertcapitalsus.com",
     "com-heroes.app",
     "fusionsmarthash.pages.dev",
     "micosmos.events",
