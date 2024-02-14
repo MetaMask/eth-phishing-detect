@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "emailaddressforcoinbase.com",
     "auth-loglncoinbase.com",
     "accountmailcoinbase.com",
     "forexcoinbase.com",
