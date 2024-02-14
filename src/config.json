@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provisionsstarknet.xyz",
+    "provisionstarknet.com",
+    "provisonstarknet.io",
+    "starknet.capital",
     "web-starknet.io",
     "starknet-allocation.app",
     "starknet-allocation.org",
