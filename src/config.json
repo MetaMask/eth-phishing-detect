@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web-starknet.com",
     "app.expertcapitalsus.com",
     "com-heroes.app",
     "fusionsmarthash.pages.dev",
