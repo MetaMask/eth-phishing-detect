@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cvcoinbase.com",
+    "howtoupdatemy2stepverificationoncoinbase.com",
     "mail.edfcoinbase.com",
     "lockcoinbase.com",
     "newscoinbase.com",
