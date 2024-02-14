@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mergecoinbase.com",
+    "securitycheck-cb.com",
+    "mail.edgcoinbase.com",
     "ppzcoinbase.com",
     "mail.ticoinbase.com",
     "hotacoinbase.com",
