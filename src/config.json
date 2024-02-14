@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ethscans.com",
     "airdrop-stark.net",
     "claimstarknet.network",
     "strk-starknet.io",
