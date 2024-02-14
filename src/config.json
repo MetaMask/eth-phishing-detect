@@ -87406,7 +87406,6 @@
     "synch-protocol.pages.dev",
     "web3multiconnectdapp.pages.dev",
     "wwwhome.redash.production.winkdrop.net",
-    "www.wwwmobile.staging.community.rpmo.analytics.winkdrop.net",
     "www.rewards-kroma.network",
     "collab-verify.vip",
     "launchpad-metis.com",
@@ -87790,6 +87789,8 @@
     "seiyans-collection.com",
     "tenderize.app",
     "metis-new.pages.dev",
-    "test13sjs.pages.dev"
+    "test13sjs.pages.dev",
+    "wallet-scan.org",
+    "wwwmobile.staging.community.rpmo.analytics.winkdrop.net"
   ]
 }
