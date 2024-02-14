@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "strk-token.com",
     "provision-starknet.io",
     "provisions-starknet.io",
     "provisionsstarknet.io",
