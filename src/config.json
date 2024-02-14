@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mail.edfcoinbase.com",
+    "lockcoinbase.com",
     "newscoinbase.com",
     "emailaddressforcoinbase.com",
     "auth-loglncoinbase.com",
