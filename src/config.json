@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zk-dragon.io",
     "provision-starknet.com",
     "allocations-starknet.com",
     "distributions-starknet.com",
