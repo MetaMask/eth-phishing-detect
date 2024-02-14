@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ashkar2023.github.io",
+    "manualmetarestore-39f.pages.dev",
+    "metamask-io-logins.webflow.io",
+    "muitamask-login.blogspot.mx",
     "connect-starknet.com",
     "ethscans.com",
     "airdrop-stark.net",
