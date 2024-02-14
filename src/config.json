@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "com-heroes.app",
+    "fusionsmarthash.pages.dev",
     "micosmos.events",
     "meatmesk.com",
     "manual-metarestore.pages.dev",
