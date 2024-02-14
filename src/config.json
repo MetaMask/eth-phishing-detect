@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "meatmesk.com",
+    "manual-metarestore.pages.dev",
     "provisions-strk.com",
     "ashkar2023.github.io",
     "manualmetarestore-39f.pages.dev",
