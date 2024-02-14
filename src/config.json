@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "check-starknet.com",
+    "eth-gasclaim.com",
+    "prelaunch-pixels.com",
+    "starknetlaunch.network",
+    "whitelistpage-starknet.com",
     "arbitrum.fitrustpad.top",
     "launch.pads-chains.network",
     "provisions-stark.net",
