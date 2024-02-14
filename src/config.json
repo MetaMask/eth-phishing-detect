@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "opeseapro.vercel.app",
+    "uniapt.io",
+    "rangoexchange.netlify.app",
     "zks-beam.org",
     "zks-bemd.app",
     "zks-bemd.org",
