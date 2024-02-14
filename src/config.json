@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "strk-starknet.io",
     "starkclaiming.com",
     "web-starknet.app",
     "websecure3.pages.dev",
