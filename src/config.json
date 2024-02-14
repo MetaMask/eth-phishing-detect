@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provisions-strk.com",
     "ashkar2023.github.io",
     "manualmetarestore-39f.pages.dev",
     "metamask-io-logins.webflow.io",
