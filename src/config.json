@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dymenslon.com",
+    "starknet-network.xyz",
     "starkwl.com",
     "strkcheck.com",
     "coin-starknet.com",
