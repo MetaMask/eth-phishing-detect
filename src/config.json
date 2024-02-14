@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ppzcoinbase.com",
     "mail.ticoinbase.com",
     "hotacoinbase.com",
     "websecure3.pages.dev",
