@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coin-starknet.com",
     "starknet-provision.pages.dev",
     "strk-wl.com",
     "whiliststark.com",
