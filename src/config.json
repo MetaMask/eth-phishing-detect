@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "uniapt.io",
+    "rangoexchange.netlify.app",
     "zks-beam.org",
     "zks-bemd.app",
     "zks-bemd.org",
