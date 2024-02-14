@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zetaswap.co",
     "starkgates.com",
     "organicmusics.cc",
     "provisionsstarknet.xyz",
