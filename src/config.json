@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.ing",
     "starknet.mx",
     "web-starknet.com",
     "app.expertcapitalsus.com",
