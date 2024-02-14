@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "9aasecurecoinbase.com",
     "cicoinbase.com",
     "mergecoinbase.com",
     "securitycheck-cb.com",
