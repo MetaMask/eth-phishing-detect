@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "check-starknet.io",
+    "provisions-starknet.com",
     "register-starknetio.com",
     "stark-foundation.xyz",
     "starknetwork.info",
