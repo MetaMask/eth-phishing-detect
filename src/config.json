@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zks-beam.org",
+    "zks-bemd.app",
+    "zks-bemd.org",
+    "flexzanoracreo.pages.dev",
+    "coremarkets.org",
+    "wap.the-meta.live",
     "devcollabhub.web.app",
     "metamask.managementcommunity.pro",
     "binancesupport.firsthfb.com",
