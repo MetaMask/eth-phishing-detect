@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web-starknet.app",
     "websecure3.pages.dev",
     "zk-dragon.io",
     "provision-starknet.com",
