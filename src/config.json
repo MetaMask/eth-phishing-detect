@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "micosmos.events",
     "meatmesk.com",
     "manual-metarestore.pages.dev",
     "provisions-strk.com",
