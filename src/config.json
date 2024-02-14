@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "accountmailcoinbase.com",
     "forexcoinbase.com",
     "securemycoinbase.com",
     "mail.adfcoinbase.com",
