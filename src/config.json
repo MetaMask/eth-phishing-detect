@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.fitrustpad.top",
+    "launch.pads-chains.network",
     "provisions-stark.net",
     "starknet.to",
     "strk-starknet.com",
