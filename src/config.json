@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starkcharitable.org",
+    "starkconsciousness.online",
+    "starkenterprises.xyz",
+    "starkknowledge.online",
+    "thestarkcharitable.org",
     "strk-token.com",
     "provision-starknet.io",
     "provisions-starknet.io",
