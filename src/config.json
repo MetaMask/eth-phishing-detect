@@ -45,6 +45,16 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "strk-token.com",
+    "provision-starknet.io",
+    "provisions-starknet.io",
+    "provisionsstarknet.io",
+    "sstarknet.io",
+    "starknetclaim.world",
+    "starknetcommunity.co",
+    "alt-starknet-website.pages.dev",
+    "starknet-websites-it9.pages.dev",
+    "temp-starknet-websites.pages.dev",
     "uniapt.io",
     "rangoexchange.netlify.app",
     "zks-beam.org",
