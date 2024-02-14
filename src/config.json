@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bubcoinbase.com",
     "us98coinbase.com",
     "r-coinbase.info",
     "helpuscoinbase.com",
