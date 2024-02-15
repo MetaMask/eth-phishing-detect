@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fcrcoinbase.com",
+    "mail.bwcoinbase.com",
     "xn--opense-1c8b.com",
     "anccoinbase.com",
     "team-cb.com",
