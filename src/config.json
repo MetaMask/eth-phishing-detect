@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "receive-starknet.io",
     "starknet-provisions.com",
     "starknet.city",
     "starknet.industries",
