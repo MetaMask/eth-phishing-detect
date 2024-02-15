@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "xn--rbitrum-8m4c.com",
     "create-starknet.com",
     "receive-starknet.com",
     "starknet-claim.pages.dev",
