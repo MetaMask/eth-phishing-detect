@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "create-starknet.com",
+    "receive-starknet.com",
     "starknet-claim.pages.dev",
     "web3-starknetio.pages.dev",
     "starknet-claim.org",
