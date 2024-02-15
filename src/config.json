@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-build.com",
     "airdrop-starknet.co",
     "starknets.co",
     "zksync-now.com",
