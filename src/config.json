@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "connect-rpcbrowser.com",
     "mainnets.vercel.app",
     "metaamaskioelogin.webflow.io",
     "metamioskwallet.weebly.com",
