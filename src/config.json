@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mainnets.vercel.app",
+    "metaamaskioelogin.webflow.io",
+    "metamioskwallet.weebly.com",
+    "wwwrecovery-supportmetamask.lestarialamku.my.id",
     "refundmetamask.com",
     "libparis.fr",
     "allocations-starknetwork.com",
