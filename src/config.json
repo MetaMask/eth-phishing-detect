@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "libparis.fr",
     "allocations-starknetwork.com",
     "missions-starknet.com",
     "provisions-starknet.app",
