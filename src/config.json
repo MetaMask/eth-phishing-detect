@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop-starknet.co",
+    "starknets.co",
     "zksync-now.com",
     "connect-rpcbrowser.com",
     "mainnets.vercel.app",
