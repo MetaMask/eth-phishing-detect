@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bpcinternational.org",
+    "zk-syncapp.io",
     "zks-labfoundation.net",
     "zksfoundationlabs.com",
     "zksfoundationlabs.net",
