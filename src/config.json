@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "central-log.pages.dev",
     "enlist-starknet.io",
     "ethereumixer.cc",
     "portal-chain.web.app",
