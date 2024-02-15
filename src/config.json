@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-claim.pages.dev",
     "web3-starknetio.pages.dev",
     "starknet-claim.org",
     "algotech.trade",
