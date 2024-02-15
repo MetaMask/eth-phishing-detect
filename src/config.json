@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknetchecker.shop",
+    "starknet-build.com",
+    "airdrop-starknet.co",
+    "starknets.co",
+    "zksync-now.com",
     "connect-rpcbrowser.com",
     "mainnets.vercel.app",
     "metaamaskioelogin.webflow.io",
@@ -88620,6 +88625,30 @@
     "nabrafi-phyth.com",
     "blast-new.pages.dev",
     "hafi.io",
-    "defrogs.claims"
+    "defrogs.claims",
+    "v2-zkx.fi",
+    "beanstock.gives",
+    "spatialcoin.net",
+    "1485384197.pages.dev",
+    "farquest.tech",
+    "papecoine.com",
+    "papered.cc",
+    "receive-starknetcom.pages.dev",
+    "kelpsdao.xyz",
+    "rewardshib.pages.dev",
+    "farquest.pw",
+    "www.keplado.xyz",
+    "medisync.pm",
+    "mev-build.com.enterprise2024.com",
+    "airdrop-bybit.com",
+    "seiyans-airdrop.info",
+    "nohandle.network",
+    "pro-claimopensea.web.app",
+    "pinkcsale.finance",
+    "nft2click.vercel.app",
+    "mergeshadowlady.com",
+    "earns-fi.com",
+    "apa.matapacifc.pro",
+    "ns.oeth.farm"
   ]
 }
