@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mail.tecoinbase.com",
+    "8a8coinbase.com",
     "mail.eddcoinbase.com",
     "detect-coinbase.com",
     "mail.btcoinbase.com",
