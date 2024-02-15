@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web3-starknetio.pages.dev",
     "starknet-claim.org",
     "algotech.trade",
     "cvcoinbase.com",
