@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provision-starknet.org",
     "starknet.cz",
     "web.antvipcoin.top",
     "xn--rbitrum-8m4c.com",
