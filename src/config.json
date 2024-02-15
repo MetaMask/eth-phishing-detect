@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimism.exchange",
     "rentonassets.com",
     "central-log.pages.dev",
     "enlist-starknet.io",
