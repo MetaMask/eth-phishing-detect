@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "initiatecoinbase.com",
+    "wwwsignincoinbase.com",
+    "google.comgu-btcom-cc.athena.coinbase.pro",
+    "google.com-cc.shbo.coinbase.pro",
+    "infoservicecoinbase.com",
     "reconfirm-infocoinbase.com",
     "bwcoinbase.com",
     "mail.bccoinbase.com",
