@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-claim.org",
     "algotech.trade",
     "cvcoinbase.com",
     "howtoupdatemy2stepverificationoncoinbase.com",
