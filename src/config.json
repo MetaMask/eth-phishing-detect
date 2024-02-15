@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "team-cb.com",
     "servicescoinbase.com",
     "login.jcoinbase.com",
     "dsscoinbase.com",
