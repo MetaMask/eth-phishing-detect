@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "securednet.pages.dev",
     "bpcinternational.org",
     "zk-syncapp.io",
     "zks-labfoundation.net",
