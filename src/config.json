@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-now.com",
     "connect-rpcbrowser.com",
     "mainnets.vercel.app",
     "metaamaskioelogin.webflow.io",
