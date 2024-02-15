@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknetdrop-claim.com",
+    "receive-starknetio.pages.dev",
     "get-starknet.com",
     "provision-starknet.org",
     "starknet.cz",
