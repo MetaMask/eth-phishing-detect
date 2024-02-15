@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "decentralized-link.info",
+    "rocketpool-test.xyz",
     "finceptor.app",
     "cowswapxl.io",
     "curvecoin.xyz",
