@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ethereumixer.cc",
+    "portal-chain.web.app",
+    "blocksystemchains.pages.dev",
+    "exoduis.com",
+    "node-connect-fix.vercel.app",
+    "spx6900.site",
     "starknetchecker.shop",
     "starknet-build.com",
     "airdrop-starknet.co",
