@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "servicescoinbase.com",
     "login.jcoinbase.com",
     "dsscoinbase.com",
     "hrcscoinbase.com",
