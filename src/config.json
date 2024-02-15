@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "defi-reg.app",
     "cvcoinbase.com",
     "howtoupdatemy2stepverificationoncoinbase.com",
     "lockcoinbase.com",
