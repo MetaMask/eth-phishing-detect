@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zks-foundation.com",
+    "zks-foundationlab.com",
+    "zks-foundationlab.net",
+    "zks-foundationlabs.com",
+    "zks-foundationlabs.net",
+    "zks-labfoundation.com",
     "chain-linktokens.pro",
     "distribution.uk.to",
     "starknet-connect.com",
