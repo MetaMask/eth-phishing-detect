@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "distribution.uk.to",
     "starknet-connect.com",
     "create-starknetcom.pages.dev",
     "starknetdrop-claim.com",
