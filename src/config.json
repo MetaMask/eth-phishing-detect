@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dsscoinbase.com",
     "hrcscoinbase.com",
     "provision-starknets.com",
     "starknet-1i1.pages.dev",
