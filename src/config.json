@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "encryted-api-f3w.pages.dev",
     "arbitrum.day",
     "arbitrun.blog",
     "receive-starknet.io",
