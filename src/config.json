@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provisions-starknet.in",
+    "starknetprovisions.com",
+    "grt.fitrustpad.top",
     "decentralized-link.info",
     "rocketpool-test.xyz",
     "finceptor.app",
