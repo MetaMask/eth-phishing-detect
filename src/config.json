@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "reconfirm-infocoinbase.com",
     "bwcoinbase.com",
     "mail.bccoinbase.com",
     "mail.edccoinbase.com",
