@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cbbc0273.com",
+    "fastwalletauthdapp.com",
     "defi-reg.app",
     "provisions-starknet.in",
     "starknetprovisions.com",
