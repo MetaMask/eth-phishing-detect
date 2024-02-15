@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocations-starknetwork.com",
+    "missions-starknet.com",
     "provisions-starknet.app",
     "stark-claim.network",
     "starkhet.online",
