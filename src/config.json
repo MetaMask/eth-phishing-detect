@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "finceptor.app",
     "cowswapxl.io",
     "curvecoin.xyz",
     "encryted-api-f3w.pages.dev",
