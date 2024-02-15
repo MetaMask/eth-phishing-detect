@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.day",
+    "arbitrun.blog",
     "receive-starknet.io",
     "starknet-provisions.com",
     "starknet.city",
