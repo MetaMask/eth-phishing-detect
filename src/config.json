@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "xn--opense-1c8b.com",
     "anccoinbase.com",
     "team-cb.com",
     "servicescoinbase.com",
