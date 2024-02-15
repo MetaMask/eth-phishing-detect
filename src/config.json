@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "defi-reg.app",
     "provisions-starknet.in",
     "starknetprovisions.com",
     "grt.fitrustpad.top",
