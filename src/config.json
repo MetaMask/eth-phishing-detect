@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-provisions.com",
+    "starknet.city",
+    "starknet.industries",
     "securednet.pages.dev",
     "bpcinternational.org",
     "zk-syncapp.io",
