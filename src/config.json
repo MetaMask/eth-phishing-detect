@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mail.adacoinbase.com",
     "interactcoinbase.com",
     "fcrcoinbase.com",
     "mail.bwcoinbase.com",
