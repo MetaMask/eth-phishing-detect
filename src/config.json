@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "get-starknet.com",
     "provision-starknet.org",
     "starknet.cz",
     "web.antvipcoin.top",
