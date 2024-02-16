@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "link-linea.com",
     "starknetdrop.eu",
     "chainlink-airdrop.xyz",
     "chaln.link",
