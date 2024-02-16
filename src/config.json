@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum-connect.pages.dev",
+    "arbitrum-mainnet.pages.dev",
     "trust.fipad.top",
     "fierra-investments.org",
     "timeworx.io",
