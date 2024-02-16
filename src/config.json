@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-chainlink.world",
+    "chainlink.chat",
+    "staking-chainlink.live",
+    "whitelist-chainlink.com",
     "link-linea.com",
     "starknetdrop.eu",
     "chainlink-airdrop.xyz",
