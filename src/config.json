@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "beaumont.finance",
+    "polymoon.live",
+    "projectsyncauto.pages.dev",
     "preregister-starknet.com",
     "starknet-technology.com",
     "xn--clam-starknet-59b.com",
