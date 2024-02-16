@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chaln.link",
+    "tokens-chainlink.com",
     "mystarknet.homes",
     "mystarknet.xyz",
     "aliexpresso.cc",
