@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "preregister-starknet.com",
+    "starknet-technology.com",
+    "xn--clam-starknet-59b.com",
+    "preregister-starknet.pages.dev",
     "optimism.exchange",
     "rentonassets.com",
     "central-log.pages.dev",
