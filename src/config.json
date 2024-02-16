@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskuslogin.mystrikingly.com",
     "link-linea.pages.dev",
     "arbitrum-1.pro",
     "arbitrum1.pro",
