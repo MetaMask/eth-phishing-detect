@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "accept-metamask.io",
+    "metamask-france.fr",
+    "metamask-login-extension.webflow.io",
+    "metamask-protocol-claim.codeanyapp.com",
+    "metamask-wallet-main.pages.dev",
+    "metamask.grsrc.com",
+    "metamasklolwgin.godaddysites.com",
+    "metamask.bestnepal.com.np",
     "fortrone.com",
     "starknet-now.mom",
     "starknet-now.pics",
