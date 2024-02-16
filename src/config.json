@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mmetamaskwallet.weebly.com",
     "accept-metamask.io",
     "metamask-france.fr",
     "metamask-login-extension.webflow.io",
