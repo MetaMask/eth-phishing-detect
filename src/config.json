@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "aliexpresso.cc",
+    "park-lineabuild.com",
+    "synergycryptotrades.com",
+    "metambxamask.azurewebsites.net",
     "mavia.finance",
     "trustpad-va.com",
     "webstarknet2.pages.dev",
