@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "trust.fipad.top",
     "fierra-investments.org",
     "timeworx.io",
     "cowswapping.online",
