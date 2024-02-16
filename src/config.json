@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cowswapping.online",
     "web3-starknet.com",
     "starknet.io-claim.xyz",
     "beaumont.finance",
