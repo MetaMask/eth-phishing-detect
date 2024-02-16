@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dapp-prompt.pages.dev",
     "arb.claimscrypto.top",
     "hopprotokol-bridg.xyz",
     "io-airdrop.top",
