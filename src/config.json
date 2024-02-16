@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chainlink-airdrop.xyz",
     "chaln.link",
     "tokens-chainlink.com",
     "mystarknet.homes",
