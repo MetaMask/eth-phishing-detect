@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fortrone.com",
+    "starknet-now.mom",
+    "starknet-now.pics",
     "app-chainlink.world",
     "chainlink.chat",
     "staking-chainlink.live",
