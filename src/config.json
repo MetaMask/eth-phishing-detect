@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "defimigrator.com",
+    "launch-berachain.com",
     "arbitrum-connect.pages.dev",
     "arbitrum-mainnet.pages.dev",
     "trust.fipad.top",
