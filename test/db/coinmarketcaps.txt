@@ -49,7 +49,6 @@ multiversx.com
 helium.com
 algorand.foundation
 bsvblockchain.org
-undefined
 minaprotocol.com
 onbeam.com
 flow.com
