@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "launchpadweb3.pages.dev",
     "eth-wpos.xyz",
     "defimigrator.com",
     "launch-berachain.com",
