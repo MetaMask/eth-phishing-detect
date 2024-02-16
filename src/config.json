@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mystarknet.homes",
+    "mystarknet.xyz",
     "aliexpresso.cc",
     "park-lineabuild.com",
     "synergycryptotrades.com",
