@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbirtum.io",
     "parks-linea.com",
     "binance2x3x-event.netlify.app",
     "graphprotocol.pro-multicoin.info",
