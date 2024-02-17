@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "rpcrecoveryhub.com",
     "syncsswap.co",
     "arbitrum.trust1pades.top",
     "gs-company.pro",
