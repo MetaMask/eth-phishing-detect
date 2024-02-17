@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dapp-claims.top",
+    "stake-starknet.io",
+    "starknettokenclaim.com",
+    "starkware.pro",
+    "tokenstarknetclaim.com",
     "arbirtum.io",
     "parks-linea.com",
     "binance2x3x-event.netlify.app",
