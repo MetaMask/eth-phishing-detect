@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "binance2x3x-event.netlify.app",
+    "graphprotocol.pro-multicoin.info",
     "coinsbureaufx.com",
     "metamaskuslogin.mystrikingly.com",
     "link-linea.pages.dev",
