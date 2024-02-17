@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "gs-company.pro",
+    "metacapitals.io",
+    "surgecapitals.io",
+    "launchloomsol.pages.dev",
+    "nodebug.vercel.app",
     "starknet.comminuty.com",
     "dapp-claims.top",
     "stake-starknet.io",
