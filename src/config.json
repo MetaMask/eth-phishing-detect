@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.comminuty.com",
     "dapp-claims.top",
     "stake-starknet.io",
     "starknettokenclaim.com",
