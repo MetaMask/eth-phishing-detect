@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "linea-parks.com",
     "metamask-io-wallet.com",
     "mystarknet-airdrop.com",
     "starknet-airdrop.world",
