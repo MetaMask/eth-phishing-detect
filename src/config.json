@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "wupn.org",
     "star-gatefinance.pages.dev",
     "liquidityus.net",
     "blockchair.uk",
