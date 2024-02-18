@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "lido-fi.biz",
     "provision-starknets.com",
     "starknet-1i1.pages.dev",
     "starknet.presale-ico.org",
