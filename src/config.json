@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eth-usdt30.com",
+    "wordpress-1216160-4322692.cloudwaysapps.com",
     "trustpad-sa.com",
     "metamask-portal-restoration.webflow.io",
     "zkcodex.com",
