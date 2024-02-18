@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "checkeligible.com",
+    "metamaskgiveaway.com",
+    "accountnotif-metamasksupportcom.hopelinkinitiative.com",
+    "metamask-extension.blogspot.hk",
+    "metamask-google-play.gitbook.io",
+    "metamaskrecovery-updateportofoliocom.corporatetechsecur.in",
     "rpcrecoveryhub.com",
     "syncsswap.co",
     "arbitrum.trust1pades.top",
