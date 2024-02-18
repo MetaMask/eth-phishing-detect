@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-airdrop.homes",
+    "starknet-airdrop.mom",
+    "starknet-airdrop.pics",
+    "webstarknet.life",
+    "webstarknet.pics",
+    "webstarknet.pro",
+    "webstarknet.world",
+    "xn--clam-starknet-yib.com",
     "metarestore.vercel.app",
     "icorabbit.online",
     "ms-boosts.shop",
