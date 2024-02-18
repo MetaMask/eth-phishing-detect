@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mystarknet-airdrop.com",
+    "starknet-airdrop.world",
+    "webstarknet.com",
+    "webstarknet.mom",
     "starknet-airdrop.homes",
     "starknet-airdrop.mom",
     "starknet-airdrop.pics",
