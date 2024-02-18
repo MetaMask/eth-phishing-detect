@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-airdrop.online",
+    "starknet-airdrop.space",
+    "starknete.xyz",
+    "starknetlabs.org",
+    "starknets.info",
     "eth-usdt30.com",
     "wordpress-1216160-4322692.cloudwaysapps.com",
     "trustpad-sa.com",
