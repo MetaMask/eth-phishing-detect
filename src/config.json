@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metarestore.vercel.app",
     "icorabbit.online",
     "ms-boosts.shop",
     "triadnft.me",
