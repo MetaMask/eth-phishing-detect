@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "giftstarknetlaunchpad.com",
+    "starknetlaunchpadclaim.com",
+    "starknetworklabs.com",
     "starknet-airdrop.online",
     "starknet-airdrop.space",
     "starknete.xyz",
