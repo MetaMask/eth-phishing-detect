@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "star-gatefinance.pages.dev",
     "liquidityus.net",
     "blockchair.uk",
     "lido-fi.biz",
