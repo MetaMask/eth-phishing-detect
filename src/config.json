@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claimed-web3.org",
+    "claims-web3.org",
+    "web3-claim.org",
+    "web3-claimed.org",
+    "web3-claims.org",
     "mtamask-wallet.webflow.io",
     "metamasktxension.webflow.io",
     "metmskekextenion.webflow.io",
