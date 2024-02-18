@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "liquidityus.net",
     "blockchair.uk",
     "lido-fi.biz",
     "provision-starknets.com",
