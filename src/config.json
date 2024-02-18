@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "layerzero-kelpdao.events",
     "identity-collab.land",
     "ticketingportal-coinbase.com",
     "xn--kx-web-hxa.pages.dev",
