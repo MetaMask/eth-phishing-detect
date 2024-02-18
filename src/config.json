@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "projectmainnetservers.com",
     "dappradar.enterprises",
     "dappradar.pics",
     "dappradar.works",
