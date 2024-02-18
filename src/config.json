@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "autoassetsvalidation.xyz",
     "giftstarknetlaunchpad.com",
     "starknetlaunchpadclaim.com",
     "starknetworklabs.com",
