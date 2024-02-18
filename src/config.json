@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "blastairdrop.org",
     "layerzero-kelpdao.events",
     "identity-collab.land",
     "ticketingportal-coinbase.com",
