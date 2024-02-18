@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "linea-parks.com",
     "metamask-io-wallet.com",
     "mystarknet-airdrop.com",
     "starknet-airdrop.world",
@@ -90507,6 +90508,21 @@
     "ledgerx.pw",
     "migrate-wswap.online",
     "dymensiondrops.info",
-    "kucoinevent.net"
+    "kucoinevent.net",
+    "migrate-alienform.xyz",
+    "migration-aubrcon.com",
+    "vulcanforged-claim.com",
+    "www.voodooo.trade.ai-web3.cfd",
+    "missions-redstone.com",
+    "liquidether-claim.site",
+    "pepe-forks.top",
+    "ilv-reward.site",
+    "skale-gift.fun",
+    "restakefi.store",
+    "ondo-store.tech",
+    "register-dioneprotocol.com",
+    "register-arcade.pages.dev",
+    "starknete.xyz",
+    "enlist-linea.pages.dev"
   ]
 }
