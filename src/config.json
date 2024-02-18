@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamasksolana.com",
     "buycryptonow.wixsite.com",
     "claimed-web3.org",
     "claims-web3.org",
