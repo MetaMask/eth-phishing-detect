@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "grt.trustpadefi.top",
     "connects-starknet.com",
     "metamasksolana.com",
     "buycryptonow.wixsite.com",
