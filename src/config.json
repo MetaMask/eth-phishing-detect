@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "xn--kx-web-hxa.pages.dev",
+    "iito.digital",
+    "farm-zoracom.pages.dev",
     "iito.world",
     "google.com-li.chd-aw.comzm.com.coinbase.pro",
     "farming-zoracom.pages.dev",
