@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ticketingportal-coinbase.com",
     "xn--kx-web-hxa.pages.dev",
     "iito.digital",
     "farm-zoracom.pages.dev",
