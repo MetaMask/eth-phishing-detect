@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starkfoundationlab.com",
     "io-drops.pro",
     "io-official.xyz",
     "webstarknet.homes",
