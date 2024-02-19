@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "info-arbitrum.web.app",
     "provisions-strk.net",
     "defaultfix.netlify.app",
     "starknet-app.xyz",
