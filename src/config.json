@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocated-starknet.com",
+    "httpsallocated-starknet.com",
+    "starknet.cn.com",
     "earn-lineabuild.com",
     "metamasksup.net",
     "metamasksinfo-supportaccount.yincobase.shop",
