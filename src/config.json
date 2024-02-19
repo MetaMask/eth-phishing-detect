@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-extension.blogspot.com",
     "barnbridge.farm",
     "metmak.backpack-wallet.com",
     "metamettionuse.webflow.io",
