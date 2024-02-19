@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provisionstarknet.app",
+    "provisionstarknet.net",
+    "allocate-starknetcom.pages.dev",
     "earn-lineabuild.com",
     "metamasksup.net",
     "metamasksinfo-supportaccount.yincobase.shop",
