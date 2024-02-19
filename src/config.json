@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "lineanetworks.com",
+    "lineasocial.app",
+    "chainslinea.pages.dev",
     "consensys.store",
     "consensysdapp.io",
     "metamaskgiiveaway.com",
