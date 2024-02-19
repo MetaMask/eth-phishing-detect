@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-app.xyz",
     "blockchainassets.pages.dev",
     "starknet-app.online",
     "allocated-starknet.com",
