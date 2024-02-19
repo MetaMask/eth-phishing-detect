@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app.quadro.finance",
     "info-arbitrum.web.app",
     "provisions-strk.net",
     "defaultfix.netlify.app",
