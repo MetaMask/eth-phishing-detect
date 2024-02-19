@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "barnbridge.farm",
     "metmak.backpack-wallet.com",
     "metamettionuse.webflow.io",
     "metamextiones.webflow.io",
