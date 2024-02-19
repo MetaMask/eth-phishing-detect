@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-docs.onrender.com",
+    "updates-metamask.pages.dev",
     "karatdao.v6.army",
     "projectmainnetservers.com",
     "dappradar.enterprises",
