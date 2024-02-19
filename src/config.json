@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provisions-strk.net",
     "defaultfix.netlify.app",
     "starknet-app.xyz",
     "blockchainassets.pages.dev",
