@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocate-starknet.com",
+    "io-official.top",
+    "launch-starknet.app",
+    "starknet-rewards.onrender.com",
     "provisionstarknet.app",
     "provisionstarknet.net",
     "allocate-starknetcom.pages.dev",
