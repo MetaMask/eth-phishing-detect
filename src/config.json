@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "consensys.store",
+    "consensysdapp.io",
     "metamaskgiiveaway.com",
     "starkfoundationlab.com",
     "io-drops.pro",
