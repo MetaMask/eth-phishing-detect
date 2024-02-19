@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "io-drops.pro",
+    "io-official.xyz",
+    "webstarknet.homes",
+    "starknet-io.pages.dev",
     "metamask-docs.onrender.com",
     "updates-metamask.pages.dev",
     "karatdao.v6.army",
