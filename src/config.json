@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-app.online",
     "allocated-starknet.com",
     "httpsallocated-starknet.com",
     "starknet.cn.com",
