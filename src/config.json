@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metmak.backpack-wallet.com",
     "metamettionuse.webflow.io",
     "metamextiones.webflow.io",
     "extenionmotemsk.webflow.io",
