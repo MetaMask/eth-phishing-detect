@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "savemymetamask.vercel.app",
     "arbitom.net",
     "arbitriumswap.com",
     "arbitriumswap.io",
