@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chainstarter.net",
+    "starknet-app.top",
     "starknet.ist",
     "supply-starknet.io",
     "supply-starknet.net",
