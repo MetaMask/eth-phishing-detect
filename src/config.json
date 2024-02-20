@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.trustrxpad.top",
     "chainstarter.net",
     "starknet-app.top",
     "starknet.ist",
