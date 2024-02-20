@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimism-event.org",
+    "optimism-event.vip",
     "provision-starknets.com",
     "starknet-1i1.pages.dev",
     "starknet.presale-ico.org",
