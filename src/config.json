@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "moralis-money.net",
     "earn-lineabuild.com",
     "metamasksup.net",
     "metamasksinfo-supportaccount.yincobase.shop",
