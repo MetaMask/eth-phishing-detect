@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-app.tech",
+    "starknet.enterprises",
+    "starknetts.com",
+    "grt.trustrxpad.top",
     "arb.trustcoin.top",
     "arbitrum.trustrxpad.top",
     "chainstarter.net",
