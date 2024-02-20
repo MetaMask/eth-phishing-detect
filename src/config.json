@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "argnt.xyz",
     "portalzksync.io",
     "zk-drop.xyz",
     "zksync-alig.xyz",
