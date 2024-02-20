@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "foundingarb.xyz",
     "metisl2.xyz",
     "app.quadro.finance",
     "info-arbitrum.web.app",
