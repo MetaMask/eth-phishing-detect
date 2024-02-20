@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdropstarknet.space",
+    "list-starknet.io",
+    "provisions-starknet.icu",
     "argnt.xyz",
     "portalzksync.io",
     "zk-drop.xyz",
