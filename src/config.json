@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provision-starknets.com",
     "starknet-1i1.pages.dev",
     "starknet.presale-ico.org",
     "launch-starknet.us",
