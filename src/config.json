@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-provisions-starknet.network",
+    "enlisti-starknet.io",
+    "visit-starknet.io",
+    "enlisti-starknetio.pages.dev",
+    "visit-starknetio.pages.dev",
     "provision-stark.net",
     "supply-starknet.com",
     "starknet.io-drops.dev",
