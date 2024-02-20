@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arrivalstarknet.info",
+    "distribution-starknetwork.com",
     "joins-zksync.com",
     "claimings-starknet.com",
     "listing-starknet.app",
