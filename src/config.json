@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "listing-starknetpp.pages.dev",
     "starknet-journey.net",
     "rewards-starknet.io",
     "supply-starknet.app",
