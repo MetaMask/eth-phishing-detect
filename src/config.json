@@ -89128,7 +89128,6 @@
     "dao-pyth.network",
     "claim-nohandle.network",
     "enlist-starknet.io",
-    "www.nexo.vooc.site",
     "earn-fi.net",
     "connects-collab.top",
     "winkdrop.net",
@@ -89566,7 +89565,6 @@
     "treasury-kelpdao.org",
     "treasury-kelpdao.com",
     "entangle-fi.finance",
-    "www.tokenrevenue.angn.site",
     "marketcap-update.assistenciaonline.net",
     "chain-linktokens.us",
     "de-consentmultidpp.com",
@@ -96561,6 +96559,8 @@
     "tioo.angn.site",
     "claimdrop.laag.site",
     "claimusd.laag.site",
-    "airmob.angn.site"
+    "airmob.angn.site",
+    "tokenrevenue.angn.site",
+    "nexo.vooc.site"
   ]
 }
