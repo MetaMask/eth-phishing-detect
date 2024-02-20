@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "supply-starknet.io",
+    "supply-starknet.net",
+    "allocating-starknetcom.pages.dev",
+    "supply-starknet.pages.dev",
     "foundingarb.xyz",
     "metisl2.xyz",
     "app.quadro.finance",
