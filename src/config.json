@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "layerzero-kelpdao.events",
     "coinbexx-group.com",
     "kaminofinance.com",
     "distribution-filecoin.org",
