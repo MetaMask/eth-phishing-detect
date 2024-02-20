@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web3wallet-coinbase.com",
     "base3.org",
     "layerzero-kelpdao.events",
     "coinbexx-group.com",
