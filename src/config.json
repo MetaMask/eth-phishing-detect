@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "launch-starknet.us",
     "claim-provisions-starknet.network",
     "enlisti-starknet.io",
     "visit-starknet.io",
