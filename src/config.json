@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "listed-starknet.io",
+    "provisions.starkhet.xyz",
     "drop-starknet.com",
     "provision-starknets.com",
     "starknet-1i1.pages.dev",
