@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "kaminofinance.com",
+    "distribution-filecoin.org",
+    "coinbaephraserevoke.nl",
+    "blast2.com",
     "provision-starknets.com",
     "starknet-1i1.pages.dev",
     "starknet.presale-ico.org",
