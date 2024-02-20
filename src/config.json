@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.ist",
     "supply-starknet.io",
     "supply-starknet.net",
     "allocating-starknetcom.pages.dev",
