@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zk-drop.xyz",
     "zksync-alig.xyz",
     "trust.pades.top",
     "starknet-app.tech",
