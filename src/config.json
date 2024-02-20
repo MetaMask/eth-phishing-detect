@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.io-drops.dev",
     "airdropstarknet.space",
     "list-starknet.io",
     "provisions-starknet.icu",
