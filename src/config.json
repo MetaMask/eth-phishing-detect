@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "trust.pades.top",
     "starknet-app.tech",
     "starknet.enterprises",
     "starknetts.com",
