@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.trustpados.top",
     "listing-starknetpp.pages.dev",
     "starknet-journey.net",
     "rewards-starknet.io",
