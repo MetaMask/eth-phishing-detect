@@ -45,6 +45,16 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "global-assets.site",
+    "miningarb.com",
+    "arb.community-apps.site",
+    "arbfoundation.reward-apps.com",
+    "arbitrum-claim.github.io",
+    "arbitrum.community-apps.site",
+    "arbitrum.reward-apps.com",
+    "arbitrum.reward-apps.site",
+    "aribitrum-delegate.github.io",
+    "arbitrum.airdrop.2023.site",
     "okxrewards.pages.dev",
     "web3wallet-coinbase.com",
     "base3.org",
