@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arrivalstarknet.mom",
+    "arrivalstarknet.pics",
     "checkstarknet.com",
     "provisions-starknet.org",
     "provisions-starknet.xyz",
