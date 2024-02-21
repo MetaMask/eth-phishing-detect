@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappradar.sx",
+    "arb.altscoin.top",
     "starknet-award.top",
     "arrivalstarknet.mom",
     "arrivalstarknet.pics",
