@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "okxrewards.pages.dev",
+    "web3wallet-coinbase.com",
+    "base3.org",
+    "coinbexx-group.com",
+    "kaminofinance.com",
+    "distribution-filecoin.org",
+    "coinbaephraserevoke.nl",
+    "blast2.com",
     "balst.io",
     "layerzero-kelpdao.events",
     "identity-collab.land",
@@ -97796,6 +97804,14 @@
     "celebrate.5dbd6ace.wootokenhub.com",
     "circie.trade",
     "sora-award.top",
-    "0penseapro-gifts.vercel.app"
+    "0penseapro-gifts.vercel.app",
+    "starkurabu.events",
+    "opensealink.vercel.app",
+    "starknetdao.org",
+    "cryptofp.net",
+    "n-nfts.vercel.app",
+    "winnings-render.net",
+    "lidosteth.gift",
+    "nftprojects-claim.vercel.app"
   ]
 }
