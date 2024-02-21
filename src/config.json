@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "reactjs-uniswap-clone-interface.vercel.app",
+    "uniswerap.com",
+    "whitelistalert.com/sui-blockchain-sui-token-sale-whitelist-on-bybit-okx-and-kucoin",
     "farcanadrop.online",
     "uniswanot.com",
     "notion-app-clone.vercel.app",
