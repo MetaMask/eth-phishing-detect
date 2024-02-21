@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claiming-stark.com",
     "chaincubate.com",
     "crypto-starknets.com",
     "starknet.bid",
