@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bridgeszksync.com",
+    "zksync-registration-betatest-net.vercel.app",
     "zksync.ca",
     "airdrop-zksync.netlify.app",
     "global-assets.site",
