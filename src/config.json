@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "185912-coinbase.com",
     "near.moe",
     "info-support-coinbase.com",
     "opense\u1ea1.com",
