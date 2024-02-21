@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "farcanadrop.online",
+    "uniswanot.com",
     "notion-app-clone.vercel.app",
     "coinbexx-group.com",
     "80598311-coinbase.com",
