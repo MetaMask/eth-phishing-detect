@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "rewards-taiko.com",
     "grt.altscoin.top",
     "grt.trustpados.top",
     "arbitrum.trustpados.top",
