@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync.oneclickmoment.site",
     "starknet.airdrop-strk.io",
     "starknet-gift.top",
     "claim-katla-taiko-xyz.pages.dev",
