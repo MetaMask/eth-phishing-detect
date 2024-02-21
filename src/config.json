@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-app.pages.dev",
     "bitcoinscamrecovery.com",
     "bridgeszksync.com",
     "zksync-registration-betatest-net.vercel.app",
