@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "grt.altscoin.top",
     "grt.trustpados.top",
     "arbitrum.trustpados.top",
     "listing-starknetpp.pages.dev",
