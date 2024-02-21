@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chaincubate.com",
+    "crypto-starknets.com",
+    "starknet.bid",
+    "starknet.provisions.live",
     "zksync-app.pages.dev",
     "bitcoinscamrecovery.com",
     "bridgeszksync.com",
