@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.airdrop-strk.io",
     "starknet-gift.top",
     "claim-katla-taiko-xyz.pages.dev",
     "rewards-taiko.com",
