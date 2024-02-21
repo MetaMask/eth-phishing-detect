@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "info-support-coinbase.com",
+    "opense\u1ea1.com",
+    "192854-coinbase.com",
     "grt.trustpadbit.top",
     "zksync-registrationbetatest.vercel.app",
     "pucu.io",
