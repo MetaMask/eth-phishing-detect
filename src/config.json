@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coinbexx-group.com",
+    "80598311-coinbase.com",
+    "web3wallet-coinbase.net",
     "185912-coinbase.com",
     "near.moe",
     "info-support-coinbase.com",
