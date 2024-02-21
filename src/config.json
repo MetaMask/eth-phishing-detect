@@ -97186,6 +97186,8 @@
     "paxos-present.net",
     "fetch-present.net",
     "render-present.net",
-    "apyeth-present.net"
+    "apyeth-present.net",
+    "botanix.events",
+    "botanixlabs.events"
   ]
 }
