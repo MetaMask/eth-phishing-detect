@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "net-stark.com",
+    "starknet-award.vip",
+    "starknet-gift.vip",
+    "provisions.starknetfndn.io",
+    "starknetairdropclaim.pages.dev",
     "zksync.oneclickmoment.site",
     "starknet.airdrop-strk.io",
     "starknet-gift.top",
