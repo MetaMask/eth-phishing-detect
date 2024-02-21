@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-katla-taiko-xyz.pages.dev",
     "rewards-taiko.com",
     "grt.altscoin.top",
     "grt.trustpados.top",
