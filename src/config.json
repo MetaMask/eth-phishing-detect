@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "checkstarknet.com",
+    "provisions-starknet.org",
+    "provisions-starknet.xyz",
+    "starknet-apps.top",
+    "starknet-award.info",
+    "airdrop.starkcgate.io",
     "net-stark.com",
     "starknet-award.vip",
     "starknet-gift.vip",
