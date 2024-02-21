@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimism-event.org",
+    "optimism-event.vip",
     "dappradar.sx",
     "arb.altscoin.top",
     "starknet-award.top",
