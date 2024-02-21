@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync.ca",
+    "airdrop-zksync.netlify.app",
     "global-assets.site",
     "miningarb.com",
     "arb.community-apps.site",
