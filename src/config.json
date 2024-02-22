@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "winnings-graph.net",
     "mirror-starknet.net",
     "provision-starknet.cc",
     "starknet-award.com",
