@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "solstarknet.com",
+    "starknetquest.com",
+    "claims-starknet.onrender.com",
     "starknet-drop.vip",
     "starknet-service.online",
     "starknetdrop.info",
