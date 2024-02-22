@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-drop.vip",
+    "starknet-service.online",
+    "starknetdrop.info",
+    "starknetfndn.dev",
+    "starknets.vip",
     "starkgated.io",
     "starknet.today",
     "apps-chainlink.world",
