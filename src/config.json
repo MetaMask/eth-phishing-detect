@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ambeint.financial",
     "defi2-starknetcom.pages.dev",
     "enlist-starknet.pages.dev",
     "provisions-starknet-4hf.pages.dev",
