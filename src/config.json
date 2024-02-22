@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starkgated.io",
+    "starknet.today",
     "apps-chainlink.world",
     "registrar-optimism.com",
     "starknet-drop.xyz",
