@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "defi2-starknetcom.pages.dev",
+    "enlist-starknet.pages.dev",
+    "provisions-starknet-4hf.pages.dev",
+    "swiftremoteauth.pages.dev",
     "launch-optimism.net",
     "ambient.financial",
     "zksynccwallt.webflow.io",
