@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bridge-arbitrum.netlify.app",
     "arbitrum-foundation.webflow.io",
     "arbitruumbridge.webflow.io",
     "arbitumbridgee.webflow.io",
