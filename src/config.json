@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zkcync-wallet-1.gitbook.io",
+    "zkcync-wallet.gitbook.io",
+    "zkcync-walletg.gitbook.io",
+    "zkcyns-walaetg.gitbook.io",
+    "zkcyns-wallet.gitbook.io",
+    "zksyncio-wallet.gitbook.io",
+    "zksyvc.github.io",
     "zkssasysncwallet.gitbook.io",
     "zksyncidwaletg.webflow.io",
     "zksyncwaulatec.gitbook.io",
