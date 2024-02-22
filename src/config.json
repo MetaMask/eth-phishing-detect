@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum-foundation.webflow.io",
+    "arbitruumbridge.webflow.io",
+    "arbitumbridgee.webflow.io",
     "scripts-defi.pages.dev",
     "roccketpool.webflow.io",
     "rockepool.webflow.io",
