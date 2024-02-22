@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "registrar-optimism.com",
     "starknet-drop.xyz",
     "starknet-provision.com",
     "starknet-site.net",
