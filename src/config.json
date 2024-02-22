@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "launch-optimism.net",
     "ambient.financial",
     "zksynccwallt.webflow.io",
     "zksyncwalcet.webflow.io",
