@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "launch-optimism.net",
     "zksync-app.pages.dev",
     "bitcoinscamrecovery.com",
     "bridgeszksync.com",
