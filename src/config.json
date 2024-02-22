@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-drop.xyz",
+    "starknet-provision.com",
+    "starknet-site.net",
+    "starknetfndn.xyz",
     "starknet-crypto.com",
     "chainlinktreasury.net",
     "claiming-stark.com",
