@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ambient.financial",
     "zksynccwallt.webflow.io",
     "zksyncwalcet.webflow.io",
     "zksyncwseallts.webflow.io",
