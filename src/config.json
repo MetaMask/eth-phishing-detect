@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksynccwallt.webflow.io",
+    "zksyncwalcet.webflow.io",
+    "zksyncwseallts.webflow.io",
     "wallett-zksynccs.webflow.io",
     "zikisyncwallet.webflow.io",
     "zk-sync-wallt.webflow.io",
