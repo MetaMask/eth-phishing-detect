@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "roccketpool.webflow.io",
+    "rockepool.webflow.io",
     "arbitrsumebriddge.gitbook.io",
     "arbitrtumbridge.gitbook.io",
     "arbitrumbrridge.gitbook.io",
