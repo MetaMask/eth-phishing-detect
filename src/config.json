@@ -46,6 +46,11 @@
   ],
   "blacklist": [
     "ambeint.financial",
+    "defi2-starknetcom.pages.dev",
+    "enlist-starknet.pages.dev",
+    "provisions-starknet-4hf.pages.dev",
+    "swiftremoteauth.pages.dev",
+    "launch-optimism.net",
     "ambient.financial",
     "zksynccwallt.webflow.io",
     "zksyncwalcet.webflow.io",
@@ -98624,6 +98629,17 @@
     "event.0c6a29c1.linktokenhub.com",
     "xeon-me.icu",
     "www.aittech.dev.meteora.lv",
-    "stake-apyeth.org"
+    "stake-apyeth.org",
+    "openseab.vercel.app",
+    "collab-verify.ink",
+    "openshillproject.vercel.app",
+    "event-blackrock.org",
+    "bridgeharmony.site",
+    "17442264-coinbase.com",
+    "ethen.app",
+    "apyeth-stake.net",
+    "cornerscoin.me",
+    "kelpdoa.one",
+    "promatses.mom"
   ]
 }
