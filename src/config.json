@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ambient.financial",
     "zksync-app.pages.dev",
     "bitcoinscamrecovery.com",
     "bridgeszksync.com",
