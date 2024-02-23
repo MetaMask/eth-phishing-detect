@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "community-giveways.net",
     "grt.trustpadbit.top",
     "zksync-registrationbetatest.vercel.app",
     "pucu.io",
