@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappradar.gs",
     "app-ambient.finance",
     "app-ambeint.finance",
     "app-ambeint.financial",
