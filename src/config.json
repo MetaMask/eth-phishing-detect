@@ -99708,6 +99708,9 @@
     "dapp-fetch.net",
     "dapp-render.net",
     "dapp-beam.net",
-    "dapp-link.net"
+    "dapp-link.net",
+    "dapp-paxos.net",
+    "dapp-woo.net",
+    "dapp-shiba.net"
   ]
 }
