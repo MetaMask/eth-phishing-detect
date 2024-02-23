@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "strkdrop.net",
+    "claimstarknet.org",
+    "starknetone.life",
+    "doc-arbitrum.online",
+    "starknett.app",
+    "arbitrum.trustpadbit.top",
     "ambeint.financial",
     "defi2-starknetcom.pages.dev",
     "enlist-starknet.pages.dev",
