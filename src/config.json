@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "pucu.io",
     "dappradar.gs",
     "app-ambient.finance",
     "app-ambeint.finance",
