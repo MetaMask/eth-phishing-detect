@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bestbtcmixers.com",
+    "btc-mixer.to",
+    "eth-mixer.to",
+    "ltc-mixer.to",
+    "coin-qr.to",
+    "btc-qr.to",
     "strkdrop.net",
     "claimstarknet.org",
     "starknetone.life",
