@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "strkdrop.net",
     "claimstarknet.org",
     "starknetone.digital",
     "starknetone.info",
