@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-registrationbetatest.vercel.app",
     "pucu.io",
     "gemini-earn.top",
     "dappradar.gs",
