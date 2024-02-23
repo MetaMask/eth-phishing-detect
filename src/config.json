@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "pucu.io",
     "gemini-earn.top",
     "dappradar.gs",
     "app-ambient.finance",
@@ -99840,6 +99841,24 @@
     "l2wdigital.net",
     "event.db9356b7.linktokenhub.net",
     "confulxnetwork.info",
-    "smartlayer-network.pro"
+    "smartlayer-network.pro",
+    "retikfinance-claim.pages.dev",
+    "event.72af0227.wootokenhub.net",
+    "register-zerolends.com",
+    "smartlayer-network.xyz",
+    "zero-lend.com",
+    "celebrate.70148161.circle-foundation.com",
+    "mantledao.org",
+    "claim-zerolends.com",
+    "fetch-dapp.org",
+    "celebrate.c20c4868.linktokenhub.net",
+    "modeproject.xyz",
+    "join-opsec.com",
+    "join-uniswap.com",
+    "mail.defiportfolio.online",
+    "liquid-dapp.org",
+    "link-dapp.org",
+    "paxos-dapp.org",
+    "beam-dapp.org"
   ]
 }
