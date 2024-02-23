@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-ambient.finance",
+    "app-ambeint.finance",
+    "app-ambeint.financial",
     "ambeint.financial",
     "defi2-starknetcom.pages.dev",
     "enlist-starknet.pages.dev",
