@@ -498,6 +498,11 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "btc-mixer.to",
+    "eth-mixer.to",
+    "ltc-mixer.to",
+    "coin-qr.to",
+    "btc-qr.to",
     "anonymousmixer.eth.link",
     "paintlyhub.com",
     "web3-infinityfx.com",
