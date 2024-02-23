@@ -4,7 +4,7 @@
 
 Utility for detecting phishing domains targeting Web3 users.
 
-For checking why a given domain was blocked, try our interactive page [here](https://metamask.github.io/eth-phishing-detect) (outdated)
+For checking why a given domain was blocked, there is a third-party [search tool](https://app.chainpatrol.io/search) maintained by ChainPatrol.
 
 ## Blocking Policy
 
@@ -29,7 +29,12 @@ console.log(value) // true
 ```js
 const PhishingDetector = require('eth-phishing-detect/src/detector')
 
-const detector = new PhishingDetector({ whitelist, blacklist, fuzzylist, tolerance })
+const config = [
+      { blocklist: [/* blacklist */], name: 'blocklist', version: 2 },
+      { allowlist: [/* whitelist */], name: 'allowlist', version: 2 },
+      { fuzzylist: [/* fuzzylist */], name: 'fuzzylist', version: 2, tolerance: 2 },
+  ];
+const detector = new PhishingDetector(config)
 const value = detector.check('etherclassicwallet.com')
 console.log(value)
 /*
@@ -71,6 +76,7 @@ yarn update:db
 
 yarn update:db:tranco
 yarn update:db:coinmarketcap
+yarn update:db:snapsregistry
 ```
 
 These sqlite databases will be checked against in `yarn run test` to ensure nothing is on the blocklist that is also in these databases.
