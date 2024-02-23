@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-ambient.finance",
+    "app-ambeint.finance",
+    "app-ambeint.financial",
     "bestbtcmixers.com",
     "btc-mixer.to",
     "eth-mixer.to",
