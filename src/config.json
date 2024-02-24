@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-starknet.top",
+    "launchpad-starknet.top",
+    "my-starknet.io",
+    "provisions-starknet.cc",
+    "provisions-starknet.top",
+    "starknet-airdrops.io",
+    "starknet.loan",
     "intracts.club",
     "stark-net.fi",
     "tokenmodify.onrender.com",
