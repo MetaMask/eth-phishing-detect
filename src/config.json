@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curveriwallet.gitbook.io",
+    "curvvefinanc.gitbook.io",
+    "guardajhwalletgy.gitbook.io",
     "community-giveways.net",
     "grt.trustpadbit.top",
     "zksync-registrationbetatest.vercel.app",
