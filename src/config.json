@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "community-olympusdao.finance",
     "ceurvaefinance.webflow.io",
     "curvedifindnce.gitbook.io",
     "curveeffinance.gitbook.io",
