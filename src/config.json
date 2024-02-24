@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "intracts.club",
+    "stark-net.fi",
+    "tokenmodify.onrender.com",
     "zksync-priority.xyz",
     "starknetl-up.com",
     "starknet.sk",
