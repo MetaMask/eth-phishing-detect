@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-priority.xyz",
     "starknetl-up.com",
     "starknet.sk",
     "community-olympusdao.finance",
