@@ -101237,6 +101237,9 @@
     "connect-quant.net",
     "connect-ocean.net",
     "connect-graph.net",
-    "connect-agix.net"
+    "connect-agix.net",
+    "connect-fetch.net",
+    "connect-paxos.net",
+    "connect-hex.net"
   ]
 }
