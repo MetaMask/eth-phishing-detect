@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-airdrop.mooo.com",
+    "zksync.line.pm",
     "arbitrum.jrustpad.site",
     "starkware.life",
     "starknet.observer",
