@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starkware.life",
     "starknet.observer",
     "dappsradar.partners",
     "claim-starknet.top",
