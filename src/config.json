@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "slz-galagames.com",
+    "sui-drop.su",
+    "sia-galagames.com",
+    "galagames-auth.com",
+    "gyw-galagames.com",
+    "galagames-access.com",
+    "seicryptonetwork.ru",
     "grt.trustpadbit.top",
     "zksync-registrationbetatest.vercel.app",
     "pucu.io",
