@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "grt.jrustpad.site",
     "curveswop.finance",
     "dapp-activation.com",
     "dappsradar.watch",
