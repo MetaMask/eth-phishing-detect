@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provisions.cx",
     "starknet-rewards.claims",
     "starknet.watch",
     "starknet.works",
