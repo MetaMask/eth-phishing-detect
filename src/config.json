@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-rewards.claims",
+    "starknet.watch",
+    "starknet.works",
+    "starknetz.life",
     "grt.jrustpad.site",
     "curveswop.finance",
     "dapp-activation.com",
