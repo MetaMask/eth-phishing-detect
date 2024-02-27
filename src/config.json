@@ -45,7 +45,6 @@
     "satoshilabs.design"
   ],
   "blacklist": [
-    "staking-arbitrum.foundation",
     "registration-zksync.com",
     "starknetreward.com",
     "starknet-rewards.claims",
@@ -103274,6 +103273,8 @@
     "launch-blast.io",
     "cosmoshubs.org",
     "thedefiant-strk.com",
-    "airdrop-starheroes.pages.dev"
+    "airdrop-starheroes.pages.dev",
+    "ordiswaps.tech",
+    "dapps-token-fixed.pages.dev"
   ]
 }
