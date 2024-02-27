@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.web3txid.com",
     "claim.trustpad2024.top",
     "zksync-airdrop.mooo.com",
     "zksync.line.pm",
