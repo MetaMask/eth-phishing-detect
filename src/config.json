@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "wormhole-allowlist.app",
     "arb.airs500usd.top",
     "events-trustepades.xyz",
     "intractes.com",
