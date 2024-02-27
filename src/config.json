@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknete.com",
     "registration-zksync.com",
     "starknetreward.com",
     "starknet-rewards.claims",
