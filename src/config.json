@@ -45,6 +45,16 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "registration-zksync.com",
+    "starknetreward.com",
+    "starknet-rewards.claims",
+    "starknet.watch",
+    "starknetz.life",
+    "grt.jrustpad.site",
+    "curveswop.finance",
+    "dapp-activation.com",
+    "dappsradar.watch",
+    "pintksale.finance",
     "uniswerap.com",
     "farcanadrop.online",
     "uniswanot.com",
