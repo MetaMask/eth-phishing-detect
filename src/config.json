@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "staking-arbitrum.foundation",
     "registration-zksync.com",
     "starknetreward.com",
     "starknet-rewards.claims",
@@ -103261,7 +103262,6 @@
     "floki-gift.com",
     "gnosisafe.com",
     "smartlayer-network.pages.dev",
-    "www.tw-wavedrop.top",
     "matrica3.vercel.app",
     "mintnft-box.web.app",
     "bigeyes-space.vercel.app",
@@ -103273,6 +103273,12 @@
     "launch-blast.io",
     "cosmoshubs.org",
     "thedefiant-strk.com",
-    "manthle.xyz"
+    "manthle.xyz",
+    "tw-wavedrop.top",
+    "airdrop-starheroes.pages.dev",
+    "mononinmigrate.live",
+    "panodroa.pages.dev",
+    "rapturedrops.com",
+    "notlce-dtuhncgete.shop"
   ]
 }
