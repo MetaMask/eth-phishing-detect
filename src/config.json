@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "staking-arbitrum.foundation",
     "registration-zksync.com",
     "starknetreward.com",
     "starknet-rewards.claims",
