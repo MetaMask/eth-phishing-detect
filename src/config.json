@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arb.airs500usd.top",
+    "events-trustepades.xyz",
+    "intractes.com",
+    "starknet.fund",
     "starknete.com",
     "registration-zksync.com",
     "starknetreward.com",
