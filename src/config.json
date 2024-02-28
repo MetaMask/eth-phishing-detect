@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "criptomixer.io",
     "bestbtcmixers.com",
     "btc-mixer.to",
     "eth-mixer.to",
