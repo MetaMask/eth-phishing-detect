@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cryptomixer0.com",
     "chrometmsk.gitbook.io",
     "medamaskextn.gitbook.io",
     "provisionstarknet.co",
