@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "the-graphs.vip",
+    "thegraphs.xyz",
     "intrect.org",
     "daplinkprotocol.web.app",
     "starknetlive.com",
