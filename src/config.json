@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "intrect.org",
+    "daplinkprotocol.web.app",
     "starknetlive.com",
     "starkynet.xyz",
     "arb.airs500usd.top",
