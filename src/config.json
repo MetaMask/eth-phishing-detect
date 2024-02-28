@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provisionstarknet.co",
+    "starknet-ecosystem.multidappzfix.uno",
     "arbitrium.top",
     "arbitum.io",
     "arbltrum.events",
