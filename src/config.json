@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrium.top",
+    "arbitum.io",
+    "arbltrum.events",
+    "starknet-reward-zone.com",
     "criptomixer.io",
     "starknet-claim-reward.com",
     "starknet-claim-zone.com",
