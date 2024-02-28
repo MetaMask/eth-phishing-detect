@@ -45,6 +45,18 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-claim-reward.com",
+    "starknet-claim-zone.com",
+    "starknet.wf",
+    "starknets.world",
+    "starkware.work",
+    "sterknet.io",
+    "starknet.com.pl",
+    "the-graphs.vip",
+    "thegraphs.xyz",
+    "intrect.org",
+    "daplinkprotocol.web.app",
+    "starknetlive.com",
     "starkynet.xyz",
     "arb.airs500usd.top",
     "events-trustepades.xyz",
@@ -104649,7 +104661,6 @@
     "orac.so",
     "sempra-energy.top",
     "migrate-hokki.online",
-    "starknet.wf",
     "coinencrypts.web.app",
     "paperhands.orb-web3.com",
     "airdrop.cheks.app"
