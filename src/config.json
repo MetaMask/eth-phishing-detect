@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "criptomixer.io",
     "starknet-claim-reward.com",
     "starknet-claim-zone.com",
     "starknet.wf",
