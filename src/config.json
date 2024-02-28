@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chrometmsk.gitbook.io",
+    "medamaskextn.gitbook.io",
     "provisionstarknet.co",
     "starknet-ecosystem.multidappzfix.uno",
     "arbitrium.top",
