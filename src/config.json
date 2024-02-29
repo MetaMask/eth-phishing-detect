@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.parts",
+    "starkware.site",
     "metamakwaallextension.webflow.io",
     "metmaskekwallet.webflow.io",
     "metmaskwalelete.webflow.io",
