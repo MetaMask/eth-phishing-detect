@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimism-events.com",
     "starknet.provisions.cc",
     "zksynccs.w3spaces.com",
     "zksinc.github.io",
