@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappsradar.click",
+    "bridge.zksynd.io",
     "starknet-reward-center.com",
     "starknet-reward.io",
     "arbitrum.fixedpads.top",
