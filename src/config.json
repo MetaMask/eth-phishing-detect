@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provisions.starknetworks.xyz",
     "airdropzksync.fun",
     "dappsradar.click",
     "bridge.zksynd.io",
