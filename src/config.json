@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-reward.io",
+    "arbitrum.fixedpads.top",
+    "grt.fixedpads.top",
+    "zksync-airdrot.line.pm",
     "claim-starknet.cfd",
     "cryptomixer0.com",
     "chrometmsk.gitbook.io",
