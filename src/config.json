@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappradarz.com",
     "solana-mixer.to",
     "solanamix.com",
     "metamakwaallextension.webflow.io",
