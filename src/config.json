@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "solana-mixer.to",
+    "solanamix.com",
     "cryptomixer0.com",
     "chrometmsk.gitbook.io",
     "medamaskextn.gitbook.io",
