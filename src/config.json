@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "solana-mixer.to",
+    "solanamix.com",
     "metamakwaallextension.webflow.io",
     "metmaskekwallet.webflow.io",
     "metmaskwalelete.webflow.io",
