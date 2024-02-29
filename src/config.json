@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksynccs.w3spaces.com",
+    "zksinc.github.io",
+    "zksymc.github.io",
+    "zksynoc.github.io",
+    "zksynq.github.io",
+    "abitrium.io",
     "starknet.parts",
     "starkware.site",
     "dappradarz.com",
