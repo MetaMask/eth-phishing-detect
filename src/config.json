@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.parts",
+    "starkware.site",
     "dappradarz.com",
     "solana-mixer.to",
     "solanamix.com",
