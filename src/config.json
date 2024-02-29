@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksynccs.w3spaces.com",
     "zksinc.github.io",
     "zksymc.github.io",
     "zksynoc.github.io",
