@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-reward-center.com",
     "starknet-reward.io",
     "arbitrum.fixedpads.top",
     "grt.fixedpads.top",
