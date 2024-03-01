@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappsradar.cloud",
     "arbitrum.floatpads.top",
     "optimism-events.com",
     "starknet.provisions.cc",
