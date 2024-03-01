@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.tokenfoundation.cc",
     "methamaskdlogintech.webflow.io",
     "metamask-walllllet.webflow.io",
     "metmasklogiyn.webflow.io",
