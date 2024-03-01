@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "methamaskdlogintech.webflow.io",
     "metamask-walllllet.webflow.io",
     "metmasklogiyn.webflow.io",
     "metmasklooegin.webflow.io",
