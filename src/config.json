@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-starknet-rewards.onrender.com",
     "zklabsfnd.com",
     "zklabsfnd.net",
     "zkshync-era.pw",
