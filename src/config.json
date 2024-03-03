@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zklabsfnd.com",
+    "zklabsfnd.net",
+    "zkshync-era.pw",
     "rocksteadydigital.org",
     "dappsradar.lc",
     "pudgy-zksync.io",
