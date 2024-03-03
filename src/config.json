@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ftp.openseapronfts.co",
+    "suiscan.xyz/mainnet/object/0x741cdc8828b09848d3dd961e65476cce8b0c1aa84d8e58aead67c129b8b256d2",
+    "nft-g-oopensea.vercel.app",
+    "galapool.org",
     "zksync-web3-version.pages.dev",
     "dappradars.markets",
     "dappsradar.vc",
