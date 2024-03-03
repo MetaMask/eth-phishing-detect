@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "rocksteadydigital.org",
     "dappsradar.lc",
     "pudgy-zksync.io",
     "consensysnfts.com",
