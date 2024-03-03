@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "binance-hub.com",
+    "enlist-altlayer.pages.dev",
+    "altlayer-ejy.pages.dev",
+    "xrpgives.com",
+    "airaltlayer.pages.dev",
     "ftp.openseapronfts.co",
     "suiscan.xyz/mainnet/object/0x741cdc8828b09848d3dd961e65476cce8b0c1aa84d8e58aead67c129b8b256d2",
     "nft-g-oopensea.vercel.app",
