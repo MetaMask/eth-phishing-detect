@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappsradar.lc",
+    "pudgy-zksync.io",
+    "consensysnfts.com",
+    "somus.app",
+    "swiftsynced.pages.dev",
     "launchpad-taiko.com",
     "cuervvefinance.gitbook.io",
     "cureeveefinance.gitbook.io",
