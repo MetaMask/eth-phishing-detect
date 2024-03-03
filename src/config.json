@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappsradar.lc",
     "pudgy-zksync.io",
     "consensysnfts.com",
     "somus.app",
