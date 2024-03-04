@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chain-coin.us.to",
     "reg-zksync.io",
     "thegraphlabs.top",
     "zksync-2yh.pages.dev",
