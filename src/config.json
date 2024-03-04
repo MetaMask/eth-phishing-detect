@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimism4air.xyz",
     "startoday.org",
     "zksyndwallet.webflow.io",
     "zkzsyncwallat.webflow.io",
