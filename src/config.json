@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksyndwallet.webflow.io",
+    "zkzsyncwallat.webflow.io",
     "curevtifinance.gitbook.io",
     "curvexfinance.gitbook.io",
     "zksyaasbiollet.webflow.io",
