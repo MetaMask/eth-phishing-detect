@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cuarvifinance.gitbook.io",
+    "curveghghfinance.gitbook.io",
+    "curvesifinance.gitbook.io",
     "starknetdrop.network",
     "zksync-web3-version.pages.dev",
     "dappradars.markets",
