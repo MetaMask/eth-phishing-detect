@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "farcaster.biz",
     "dappsradar.lc",
     "pudgy-zksync.io",
     "consensysnfts.com",
