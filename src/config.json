@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "reg-zksync.io",
+    "thegraphlabs.top",
+    "zksync-2yh.pages.dev",
+    "claim-starknet-rewards.onrender.com",
+    "zklabsfnd.com",
+    "zklabsfnd.net",
+    "zkshync-era.pw",
+    "rocksteadydigital.org",
     "dappsradar.lc",
     "pudgy-zksync.io",
     "consensysnfts.com",
