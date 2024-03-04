@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "xrpjapan.org",
+    "tradefx.co",
+    "xrp.club",
+    "exchanges-backpackapp.pages.dev",
+    "solanagift.net",
+    "mining688.com",
     "zksync-web3-version.pages.dev",
     "dappradars.markets",
     "dappsradar.vc",
