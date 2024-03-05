@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curveoptions.online",
     "airdrop-starknet.info",
     "zsync.site",
     "zksync.ooo",
