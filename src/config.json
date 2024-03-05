@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop-starknet.info",
     "zsync.site",
     "zksync.ooo",
     "nodenetportals.com",
