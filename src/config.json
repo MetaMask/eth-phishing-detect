@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbiktrumbridge.gitbook.io",
+    "arbitreubridge.webflow.io",
+    "arbitrum-bridge.hpage.com",
+    "arbitrumbridge.web3app.vip",
+    "arbitruysbridge.gitbook.io",
+    "arbitumbridges.webflow.io",
     "nft-starknet-project.vercel.app",
     "stark-net.claim-live.xyz",
     "drop.zksuync.xyz",
