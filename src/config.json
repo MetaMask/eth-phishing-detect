@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "nodenetportals.com",
     "arbiktrumbridge.gitbook.io",
     "arbitreubridge.webflow.io",
     "arbitrum-bridge.hpage.com",
