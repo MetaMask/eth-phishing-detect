@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-optinism.io",
     "app-optimism.icu",
     "mirror-optimism.xyz",
     "optimism-superchain.com",
