@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync.ooo",
     "nodenetportals.com",
     "arbiktrumbridge.gitbook.io",
     "arbitreubridge.webflow.io",
