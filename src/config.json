@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "nft-starknet-project.vercel.app",
     "stark-net.claim-live.xyz",
     "drop.zksuync.xyz",
     "helpmestmaskchrm.webflow.io",
