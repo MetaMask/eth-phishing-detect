@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimism-superchain.com",
+    "optimism-superchain.net",
+    "optimism2.com",
+    "optimismdao.app",
+    "optimismevent.top",
+    "optimlsm-chain.com",
+    "optimlsm-superchain.com",
+    "optimlsmdrop.com",
     "alrdrop-optimism.net",
     "optimism-final.io",
     "optimism-reward.com",
