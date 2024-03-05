@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "stark-net.claim-live.xyz",
     "drop.zksuync.xyz",
     "helpmestmaskchrm.webflow.io",
     "metmaskewelelti.webflow.io",
