@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "myzksync-airdrop.com",
     "optimism4air.xyz",
     "startoday.org",
     "zksyndwallet.webflow.io",
