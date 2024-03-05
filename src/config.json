@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "drop.zksuync.xyz",
     "helpmestmaskchrm.webflow.io",
     "metmaskewelelti.webflow.io",
     "myzksync-airdrop.com",
