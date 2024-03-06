@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curvefinance.link",
     "app-optinism.io",
     "app-optimism.icu",
     "mirror-optimism.xyz",
