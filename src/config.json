@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknetn.com",
+    "starknetweb3.com",
     "curvefinance.link",
     "app-optinism.io",
     "app-optimism.icu",
