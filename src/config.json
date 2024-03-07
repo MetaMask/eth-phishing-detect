@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "abitruim.io",
+    "arbitrum.group",
+    "arbitrum-token-bridge-git-bridge-and-tx-hi-d503e2-offchain-labs.vercel.app",
     "starknet.inverniusa.com",
     "zkksyncwalit.webflow.io",
     "zksiincwuallet.webflow.io",
