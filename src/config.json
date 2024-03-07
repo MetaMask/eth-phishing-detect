@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "quantum-starknet.com",
+    "starknet.daps.network",
     "layerrbank.com",
     "curvefinance-events.xyz",
     "arbitrom.com",
