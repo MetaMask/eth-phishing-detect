@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zkksyncwalit.webflow.io",
+    "zksiincwuallet.webflow.io",
+    "zksync-wallet-uus.webflow.io",
+    "quantum-starknet.com",
+    "starknet.daps.network",
     "layerrbank.com",
     "curvefinance-events.xyz",
     "arbitrom.com",
