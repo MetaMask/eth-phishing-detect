@@ -112258,6 +112258,8 @@
     "blast-io.web.app",
     "blast-layer.web.app",
     "halo-portfolio.web.app",
-    "app.allocations-aevo.xyz"
+    "app.allocations-aevo.xyz",
+    "claim.wormsholes.events",
+    "w-reward.app"
   ]
 }
