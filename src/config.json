@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.inverniusa.com",
     "zkksyncwalit.webflow.io",
     "zksiincwuallet.webflow.io",
     "zksync-wallet-uus.webflow.io",
