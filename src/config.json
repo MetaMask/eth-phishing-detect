@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zk-sync.eu",
+    "zk-sync.icu",
+    "allocation.eligible-zksync.com",
     "dappsradar.fr",
     "abitruim.io",
     "arbitrum.group",
