@@ -2,6 +2,7 @@
 const { writeFileSync } = require('fs');
 const path = require('path');
 const PhishingDetector = require('./detector');
+const punycode = require('punycode/');
 
 const SECTION_KEYS = {
   blocklist: 'blacklist',
@@ -59,7 +60,9 @@ const cleanAllowlist = config => {
 
 const cleanBlocklist = config => {
   // when cleaning the blocklist, we want to remove domains that are:
-  // - already present on the blocklist through a less specific match
+  // - already present on the blocklist through an equal or less specific match
+  // we also want to:
+  // - convert all unicode domains to punycode
 
   const blocklistSet = new Set(config[SECTION_KEYS['blocklist']]);
 
@@ -73,6 +76,8 @@ const cleanBlocklist = config => {
     }
 
     return true;
+  }).map(domain => {
+    return punycode.toASCII(domain);
   });
 
   return {
@@ -116,7 +121,7 @@ if (require.main === module) {
     // if this is piped to another process, then write to stdout.
     // otherwise, write new config to disk.
     const result = JSON.stringify(newConfig, undefined, 2)+'\n';
-    if (process.stdout.isTTY) {
+    if (process.stdout.isTTY || process.env['MM_OUTPUT_PATH']) {
       const destinationPath = process.env['MM_OUTPUT_PATH'] || './config.json';
       writeFileSync(path.join(__dirname, destinationPath), result);
     } else {
