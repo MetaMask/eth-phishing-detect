@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.claim-drop.xyz",
+    "zk-sync.eu",
+    "zk-sync.icu",
+    "allocation.eligible-zksync.com",
+    "dappsradar.fr",
     "abitruim.io",
     "arbitrum.group",
     "arbitrum-token-bridge-git-bridge-and-tx-hi-d503e2-offchain-labs.vercel.app",
@@ -113606,6 +113611,29 @@
     "fantasy-top.xyz",
     "astarfi.com",
     "nexuschaiiin.net",
-    "kelpdaolayer.com"
+    "kelpdaolayer.com",
+    "lqpliquid.org",
+    "fakuf.com",
+    "dogwifcoln.site",
+    "dogwifcoin.live",
+    "unviswap.com.de",
+    "syncappz.com",
+    "newltodlock.com",
+    "mintsy.xyz",
+    "beoble-wen.com",
+    "interact-portal.com",
+    "pac-sol.com",
+    "nft--manta.pages.dev",
+    "testnet.nimnctwcrks.com",
+    "mintopen-box.web.app",
+    "lbdliquid.com",
+    "dapp-for-migration.website",
+    "collect-pudgypenguins.pages.dev",
+    "shiba-promo.com",
+    "nft-mashabas.com",
+    "testnet.nimsnetworks.com",
+    "babyace.tech",
+    "zipclaim-zerion.pages.dev",
+    "airdrop-warmhole.web.app"
   ]
 }
