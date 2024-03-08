@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappsradar.fr",
     "abitruim.io",
     "arbitrum.group",
     "arbitrum-token-bridge-git-bridge-and-tx-hi-d503e2-offchain-labs.vercel.app",
