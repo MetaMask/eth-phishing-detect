@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "us-walletconnect.com",
+    "walltconnct.azurewebsites.net",
     "raabby.io",
     "rabbitwallet.homes",
     "rabby.support",
