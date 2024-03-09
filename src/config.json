@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaaskwalet.webflow.io",
+    "metextloginius.webflow.io",
     "mertamaassklogin.webflow.io",
     "starkent.best",
     "starknetex.com",
