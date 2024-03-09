@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "conectewallet.webflow.io",
+    "connectveallet.webflow.io",
+    "connectwalletdkd.webflow.io",
+    "coonnectwalle.webflow.io",
+    "walletcnnect.webflow.io",
     "us-walletconnect.com",
     "walltconnct.azurewebsites.net",
     "raabby.io",
