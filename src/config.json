@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zkksyncwallit.webflow.io",
+    "zksync.web36-claiming.cloud",
+    "bridge.zkasino-zksync-6f99dd.zeeve.net",
     "strknet.live",
     "arb.stockcoins.top",
     "curvefifinanc.gitbook.io",
