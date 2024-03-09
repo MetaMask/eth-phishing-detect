@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknetex.com",
+    "starknets.com",
     "arbitrum.claim-drop.xyz",
     "zk-sync.eu",
     "zk-sync.icu",
