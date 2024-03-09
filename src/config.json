@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "sinbadmixer.io",
+    "cryptmixer.co",
+    "cryptomiixer.io",
+    "cryptomixerbtc.io",
     "matemskwllite.webflow.io",
     "meitmoskwillet.webflow.io",
     "go--metamasallets.webflow.io",
