@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "strknet.live",
+    "arb.stockcoins.top",
+    "curvefifinanc.gitbook.io",
+    "curvfinanc.gitbook.io",
+    "curvfinancce.gitbook.io",
     "metamaaskwalet.webflow.io",
     "metextloginius.webflow.io",
     "mertamaassklogin.webflow.io",
