@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "getdrops.vip",
+    "zksync.nirbhik.com",
     "zkksyncwallit.webflow.io",
     "zksync.web36-claiming.cloud",
     "bridge.zkasino-zksync-6f99dd.zeeve.net",
