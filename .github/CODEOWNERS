@@ -1,6 +1,8 @@
 # Lines starting with '#' are comments.
 # Each line is a file pattern followed by one or more owners.
 
-*.js                                 @MetaMask/shared-libraries-engineers
-package.json                         @MetaMask/shared-libraries-engineers
-.github/                             @MetaMask/shared-libraries-engineers
+*.js                                 @kumavis @409H @FrederikBolding 
+*.sh                                 @kumavis @409H @FrederikBolding
+package.json                         @kumavis @409H @FrederikBolding
+.github/                             @kumavis @409H @FrederikBolding @MetaMask/application-security
+test/                                @kumavis @409H @FrederikBolding
