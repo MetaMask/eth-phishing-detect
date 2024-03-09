@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "sinbadmixer.io",
+    "cryptmixer.co",
+    "cryptomiixer.io",
+    "cryptomixerbtc.io",
     "solana-mixer.to",
     "solanamix.com",
     "metamakwaallextension.webflow.io",
