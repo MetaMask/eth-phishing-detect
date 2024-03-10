@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "connecwetaillet.webflow.io",
     "galasupport.net",
     "chainsrectify.pages.dev",
     "inter-chains-bridge.com",
