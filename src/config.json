@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "galasupport.net",
+    "chainsrectify.pages.dev",
     "inter-chains-bridge.com",
     "sinbadmixer.io",
     "cryptmixer.co",
