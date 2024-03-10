@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop.starkagate.io",
     "provsions-straknet.io",
     "stark-connect.com",
     "stark-net.live",
