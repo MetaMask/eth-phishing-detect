@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cowcrypto.io",
     "connectwalleth.webflow.io",
     "wallgtcionncts.webflow.io",
     "connectwalletfgyt.webflow.io",
