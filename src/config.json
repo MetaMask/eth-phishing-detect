@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "inter-chains-bridge.com",
     "sinbadmixer.io",
     "cryptmixer.co",
     "cryptomiixer.io",
