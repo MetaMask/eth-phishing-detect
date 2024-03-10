@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "instant-bravet.info",
     "connectwalleth.webflow.io",
     "wallgtcionncts.webflow.io",
     "connectwalletfgyt.webflow.io",
