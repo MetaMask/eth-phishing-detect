@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provsions-straknet.io",
+    "stark-connect.com",
+    "stark-net.live",
     "dydx.fi",
     "cowcrypto.io",
     "connectwalleth.webflow.io",
