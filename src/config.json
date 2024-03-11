@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "services8-global.click",
     "arbitrukmbridge.gitbook.io",
     "curvetrade.org",
     "layerbank.top",
