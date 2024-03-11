@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop.starkagate.io",
+    "provsions-straknet.io",
+    "stark-connect.com",
+    "stark-net.live",
+    "dydx.fi",
+    "cowcrypto.io",
     "instant-bravet.info",
     "connectwalleth.webflow.io",
     "wallgtcionncts.webflow.io",
