@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "opt-airdrop.info",
+    "optimism-claims.io",
+    "optimlsm.org",
+    "optlmism.net",
+    "phase4-opti.com",
+    "superchain-optimlsm.com",
+    "superchain-optimlsm.net",
     "starknet.agency",
     "starknet.fyi",
     "starknet.lol",
