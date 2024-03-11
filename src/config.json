@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curvetrade.org",
     "layerbank.top",
     "layerbank-finance.pages.dev",
     "optimism.web3app.io",
