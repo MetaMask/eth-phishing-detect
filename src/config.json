@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrukmbridge.gitbook.io",
     "curvetrade.org",
     "layerbank.top",
     "layerbank-finance.pages.dev",
