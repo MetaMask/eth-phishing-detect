@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimism.web3app.io",
     "alrdrop-optimism.com",
     "dropoptimism.com",
     "optimism.page",
