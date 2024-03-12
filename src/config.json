@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "daomaker.press",
+    "nftsmysterybox.net",
     "curveefeinaence.webflow.io",
     "curvfinanc.webflow.io",
     "cuesrveffinance.gitbook.io",
