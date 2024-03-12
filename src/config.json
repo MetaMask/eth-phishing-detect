@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappsradar.rs",
     "curve.eth.link",
     "curve-blog.pages.dev",
     "zksyncs.in",
