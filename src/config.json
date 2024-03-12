@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curveefeinaence.webflow.io",
+    "curvfinanc.webflow.io",
     "cuesrveffinance.gitbook.io",
     "curveatfinanc.gitbook.io",
     "curveefiifinance.gitbook.io",
