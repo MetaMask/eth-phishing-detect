@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zrxdao.com",
     "fuelnetwork-registerlivei.vercel.app",
     "dappsradar.markets",
     "daomaker.press",
