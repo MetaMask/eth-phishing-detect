@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curve-blog.pages.dev",
     "zksyncs.in",
     "arbitrum.peerpen.com",
     "arbitrum-dao-fork.vercel.app",
