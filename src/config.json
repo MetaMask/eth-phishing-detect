@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zrxdao.com",
     "zksyncs.in",
     "arbitrum.peerpen.com",
     "arbitrum-dao-fork.vercel.app",
