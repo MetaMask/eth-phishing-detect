@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.peerpen.com",
     "arbitrum-dao-fork.vercel.app",
     "services8-global.click",
     "arbitrukmbridge.gitbook.io",
