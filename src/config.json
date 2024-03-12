@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fuelnetwork-registerlivei.vercel.app",
     "dappsradar.markets",
     "daomaker.press",
     "nftsmysterybox.net",
