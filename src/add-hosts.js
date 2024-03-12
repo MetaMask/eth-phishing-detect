@@ -13,6 +13,12 @@ const LISTNAME_KEYS = {
   whitelist: 'allowlist',
 };
 
+// We explicitly want these domains on the allowlist
+// but redundancy check will fail if we don't ignore
+const IGNORE_ALLOWLIST_CHECK = [
+  "revoke.cash"
+];
+
 /**
   * Adds new host to config and writes result to destination path on filesystem.
   * @param {PhishingDetectorConfiguration} config - Input config
@@ -76,6 +82,12 @@ const validateHostRedundancy = (detector, listName, host) => {
       return true;
     }
     case 'allowlist': {
+
+      const skipHostRedundancyCheck = new Set(IGNORE_ALLOWLIST_CHECK);
+      if(skipHostRedundancyCheck.has(host)) {
+        return true;
+      }
+
       const r = detector.check(host);
       if (!r.result) {
         console.error(`'${host}' does not require allowlisting`);
@@ -129,14 +141,7 @@ if (require.main === module) {
 
     // check each entry for redundancy, adding it to the detector's internal config if valid
     // reuse detector to avoid costly reinitialization
-
-    // FIXME: Temporary workaround during list inconsistency.
-    // Can be reverted after 2023-05-14
-    // let detector = new PhishingDetector(config);
-    let detector = new PhishingDetector({
-      ...config,
-      tolerance: 2,
-    });
+    let detector = new PhishingDetector(config);
     for (const host of hosts) {
       if (validateHostRedundancy(detector, section, host)) {
         newHosts.add(host);

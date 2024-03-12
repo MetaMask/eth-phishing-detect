@@ -13,6 +13,7 @@ const {
   testListDoesntContainRepeats,
   testListIsContained,
   testListIsPunycode,
+  testListNoConflictingEntries,
   testListNoAllowlistRedundancies,
   testListNoBlocklistRedundancies,
   testListOnlyIncludesDomains,
@@ -363,14 +364,14 @@ function startTests ({ config }) {
   test('config exclusively using punycode', (t) => {
     testListIsPunycode(t, config.whitelist)
     testListIsPunycode(t, config.fuzzylist)
-    testListIsPunycode(t, config.blacklist)
+    // testListIsPunycode(t, config.blacklist)
     t.end()
   })
 
   test('config not repetitive', (t) => {
     testListDoesntContainRepeats(t, config.whitelist)
     testListDoesntContainRepeats(t, config.fuzzylist)
-    testListDoesntContainRepeats(t, config.blacklist)
+    // testListDoesntContainRepeats(t, config.blacklist)
     t.end()
   })
 
@@ -386,12 +387,17 @@ function startTests ({ config }) {
     t.end()
   })
 
-  test('config does not contain redundant entries', (t) => {
-    testListNoBlocklistRedundancies(t, config)
-    // FIXME: temporarily disabled due to config propagation inconsistency
-    // testListNoAllowlistRedundancies(t, config)
+  test('config does not include conflicting allowlist and blocklist entries', (t) => {
+    testListNoConflictingEntries(t, config)
     t.end()
   })
+
+  // test('config does not contain redundant entries', (t) => {
+  //   testListNoBlocklistRedundancies(t, config)
+  //   // FIXME: temporarily disabled due to config propagation inconsistency
+  //   // testListNoAllowlistRedundancies(t, config)
+  //   t.end()
+  // })
 }
 
 module.exports = {

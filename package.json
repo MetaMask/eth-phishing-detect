@@ -15,9 +15,10 @@
     "add:blacklist": "node src/blacklist.js",
     "add:blocklist": "node src/add-hosts.js src/config.json blocklist",
     "add:allowlist": "node src/add-hosts.js src/config.json allowlist",
-    "update:db": "npm run update:db:tranco && npm run update:db:coinmarketcap",
+    "update:db": "npm run update:db:tranco && npm run update:db:coinmarketcap && npm run update:db:snapsregistry",
     "update:db:tranco": "node test/update-static-lists.js tranco",
-    "update:db:coinmarketcap": "node test/update-static-lists.js coinmarketcap"
+    "update:db:coinmarketcap": "node test/update-static-lists.js coinmarketcap",
+    "update:db:snapsregistry": "node test/update-static-lists.js snapsregistry"
   },
   "author": "kumavis",
   "license": "DBAD",
