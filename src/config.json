@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curve.eth.link",
     "curve-blog.pages.dev",
     "zksyncs.in",
     "arbitrum.peerpen.com",
