@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fuel-community.site",
     "zrxdao.com",
     "fuelnetwork-registerlivei.vercel.app",
     "dappsradar.markets",
