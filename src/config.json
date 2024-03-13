@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curvefi.wordpress.com",
+    "vote.curvefi.events",
     "degencurve.xyz",
     "crv.fi",
     "access.starknet.cm",
