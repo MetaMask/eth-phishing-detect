@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.xtokenspot.top",
     "starknet.codes",
     "starknet-mainet.com",
     "lineabuild.dev",
