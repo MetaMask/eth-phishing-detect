@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eairdroparbitrum.ndhc.edu.bd",
     "arbitrum-token-bridge-r3nq7hqt4-offchain-labs.vercel.app",
     "claims-tokens-arbitrum-apps.netlify.app",
     "earbitrumtokens.giitrwp.edu.pk",
