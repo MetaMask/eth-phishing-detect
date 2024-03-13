@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "access.starknet.cm",
+    "airdrop.zksyncu.xyz",
     "curvefi.in",
     "curvefi.info",
     "blastarswap.io",
