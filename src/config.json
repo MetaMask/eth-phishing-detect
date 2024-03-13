@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.codes",
     "starknet-mainet.com",
     "lineabuild.dev",
     "fuel-community.site",
