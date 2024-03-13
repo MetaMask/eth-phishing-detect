@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starrknet.dropio.network",
     "curvefi.wordpress.com",
     "vote.curvefi.events",
     "degencurve.xyz",
