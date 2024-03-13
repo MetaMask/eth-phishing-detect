@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop-zksync.lol",
+    "omniapp.live",
+    "zyksync.com",
+    "185.196.10.171",
     "claims-aevo.com",
     "pinhksale.finance",
     "pniksale.finance",
