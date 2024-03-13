@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curvefi.in",
+    "curvefi.info",
     "blastarswap.io",
     "metmstexnsion.webflow.io",
     "metuskexyiion.webflow.io",
