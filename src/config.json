@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "crv.fi",
     "access.starknet.cm",
     "airdrop.zksyncu.xyz",
     "curvefi.in",
