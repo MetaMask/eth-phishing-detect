@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claims-aevo.com",
+    "pinhksale.finance",
+    "pniksale.finance",
+    "pinfksale.finance",
+    "pinkrsale.finance",
     "vouchnodes.com",
     "nodeportalerpc.org",
     "goldman-group.in",
