@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "loopringlabs.com",
+    "loopringlabs.xyz",
     "zksync.airdrops.ceo",
     "dao-rabby.org",
     "securetrades247.com",
