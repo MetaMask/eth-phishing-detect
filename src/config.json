@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimism.airdrops.fund",
     "fuelnetwork-registerlives-open.vercel.app",
     "fuel.500-reward.top",
     "arb.500-reward.top",
