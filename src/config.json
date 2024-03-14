@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop.zksynicu.xyz",
     "strk.bit-stock.top",
     "fuel.bit-stock.top",
     "fuelnetwork-registerlives.vercel.app",
