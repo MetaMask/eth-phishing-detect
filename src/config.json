@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "strk.bit-stock.top",
     "fuel.bit-stock.top",
     "fuelnetwork-registerlives.vercel.app",
     "optimism.airdrops.fund",
