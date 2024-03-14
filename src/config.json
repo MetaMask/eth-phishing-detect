@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dropoptimism3.com",
+    "optimism3drop.com",
     "beth.casino",
     "renzo-restake.xyz",
     "swellnetworks.xyz",
@@ -74,7 +76,7 @@
     "pxwliquid.org",
     "wallets.li",
     "iamversesystem.xyz",
-    "web3dashboard.xyz",    
+    "web3dashboard.xyz",
     "mode-eligibility.com",
     "ee-zee.com",
     "bibyt-conclavio.xyz",
