@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fuelnetwork-registerlives-open.vercel.app",
     "fuel.500-reward.top",
     "arb.500-reward.top",
     "loopringlabs.com",
