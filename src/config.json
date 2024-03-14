@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dao-maker.click",
+    "rockeetpool.webflow.io",
+    "rocket-pooll.webflow.io",
+    "rocketpoolloghn.webflow.io",
+    "rocketspool.github.io",
     "airdrop-zksyncs.co",
     "airdrop.zksynicu.xyz",
     "strk.bit-stock.top",
