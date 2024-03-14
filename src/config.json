@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "w-trezorsuite.com",
     "mintchaln.io",
     "metamaskonline.vercel.app",
     "rocketpool.loyal-token.com",
