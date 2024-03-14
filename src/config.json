@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskonline.vercel.app",
     "rocketpool.loyal-token.com",
     "dropoptimism3.com",
     "optimism3drop.com",
