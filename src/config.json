@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dao.arbitrums.org",
+    "bridge.count-zksync-3c02b7.zeeve.net",
+    "bridge.newzksync1-zksync-537d74.zeeve.net",
+    "bridge.zkasinonet-zksync-e287ed.zeeve.net",
     "claim-starknet-app.onrender.com",
     "arbitrum-token-bridge-6l0svbyos-offchain-labs.vercel.app",
     "arbitrum-token-bridge-git-fix-event-logs-w-3bc88f-offchain-labs.vercel.app",
