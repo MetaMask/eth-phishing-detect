@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "taiko-airdrop.com",
     "claim-rocketpool.online",
     "optimismdrop.life",
     "metamasknodes.pages.dev",
