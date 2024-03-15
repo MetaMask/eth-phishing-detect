@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-rocketpool.online",
     "optimismdrop.life",
     "metamasknodes.pages.dev",
     "arbitrum-foundation-website-goerli.vercel.app",
