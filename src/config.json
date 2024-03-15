@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamasknodes.pages.dev",
+    "arbitrum-foundation-website-goerli.vercel.app",
     "outlookcryptosignals.com",
     "fincorperate.com",
     "presale-kelexo-de.web.app",
