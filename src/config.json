@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum-token-bridge-9ykfjucyr-offchain-labs.vercel.app",
     "taiko-airdrop.com",
     "claim-rocketpool.online",
     "optimismdrop.life",
