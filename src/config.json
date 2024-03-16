@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappbox.org",
+    "vcspectra.io",
     "walletdrainers.baby",
     "chrometaextin.gitbook.io",
     "en-metamskxtensionl.gitbook.io",
