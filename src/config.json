@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-distribtuion.net",
     "flowsayens.xyz",
     "basenameservice.xyz",
     "meetamasskwallete.webflow.io",
