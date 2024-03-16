@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-24.nfts2.me",
     "starknet-distribtuion.net",
     "flowsayens.xyz",
     "basenameservice.xyz",
