@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "basenameservice.xyz",
     "meetamasskwallete.webflow.io",
     "onlinestakerocketpool.com",
     "airdrop.zealy.cm",
