@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "super-zksync.cc",
     "extnsion-metmask.gitbook.io",
     "help-metmskxtensionk.gitbook.io",
     "metamaaskextnsin.gitbook.io",
