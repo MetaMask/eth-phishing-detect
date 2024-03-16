@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop.zealy.cm",
+    "zkevm.zkp-scroll.com",
     "dao.arbitrums.org",
     "bridge.count-zksync-3c02b7.zeeve.net",
     "bridge.newzksync1-zksync-537d74.zeeve.net",
