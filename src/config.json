@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimismdrop.com",
     "zksync.wtf",
     "super-zksync.cc",
     "extnsion-metmask.gitbook.io",
