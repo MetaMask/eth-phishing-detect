@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskcxtenssion.webflow.io",
     "optilmism.lava-io.xyz",
     "en.digiblocknode.live",
     "optimismdrop.com",
