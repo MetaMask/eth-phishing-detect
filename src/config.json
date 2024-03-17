@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim.curvefi.cc",
     "browsermetamosk.webflow.io",
     "help-meaochorme.webflow.io",
     "help-metimatsonn.webflow.io",
