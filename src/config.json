@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optilmism.lava-io.xyz",
     "en.digiblocknode.live",
     "optimismdrop.com",
     "zksync.wtf",
