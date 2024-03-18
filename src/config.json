@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim.getgrass.cx",
     "fundercrypto.live",
     "synfutuies.com",
     "synfutures.com",
