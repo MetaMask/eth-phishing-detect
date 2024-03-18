@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "launchs-pad.online",
+    "starknetgot.com",
+    "goon.cm",
+    "starknet-x.info",
     "zkiink.app",
     "galxe-oat.icu",
     "app-across-bridge.xyz",
