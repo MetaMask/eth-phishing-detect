@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "rocketpool.finance",
+    "rocketpool.finance.synncus.fi",
     "bridge.arbitrums.biz",
     "claim.curvefi.cc",
     "browsermetamosk.webflow.io",
