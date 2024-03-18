@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "forxotc.com",
+    "palmlabs.app",
+    "app.phospho.xyz",
+    "arbitrum-one.publicnode.com",
+    "rewards.gelios.in",
     "mattaumaskkiextension.webflow.io",
     "meetamjaskextension.webflow.io",
     "meitamikdcextoin.webflow.io",
