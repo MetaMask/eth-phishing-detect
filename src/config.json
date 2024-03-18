@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claimgrass.io",
     "app-optimism.pro",
     "optimislm.com",
     "mintchain.mint-forest.com",
