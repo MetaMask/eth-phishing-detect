@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim.xworld-games.com",
+    "metaemstension.webflow.io",
     "curveetfinnance.gitbook.io",
     "curvefinnancce.gitbook.io",
     "bridge-arbitrum.io",
