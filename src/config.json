@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "magiceden-web3.io",
     "solana-5mg.pages.dev",
     "appxgalagames-game-accessx.com",
     "web-git-tina-allow-bad-limit-uniswap.vercel.app",
