@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fundercrypto.live",
+    "synfutuies.com",
+    "synfutures.com",
+    "dev-smartdapps.pantheonsite.io",
     "zksync-io.pages.show",
     "dappsradar.in",
     "dapptrends.net",
