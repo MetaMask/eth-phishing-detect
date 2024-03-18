@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "multidappsintegration.com",
+    "poprotocol.net",
     "filsmarttechprompt.pages.dev",
     "starkapp.cc",
     "eligibility.ventory.network",
