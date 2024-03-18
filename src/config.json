@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dropclaim.org",
     "zksthyncwaaallet.webflow.io",
     "zksync.hpage.com",
     "starkdrop.org",
