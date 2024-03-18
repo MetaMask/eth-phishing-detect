@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappsradar.in",
+    "dapptrends.net",
+    "pancakeswap-arbitrum.github.io",
+    "sushiswaparbitrum.github.io",
     "multidappsintegration.com",
     "poprotocol.net",
     "filsmarttechprompt.pages.dev",
