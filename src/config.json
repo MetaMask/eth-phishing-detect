@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bridge-arbitrum.io",
+    "curerveevefinance.gitbook.io",
     "arbitrum-svd.vercel.app",
     "claim.arbitrum-dao.net",
     "airdroparbitrum.c3mongtho.edu.vn",
