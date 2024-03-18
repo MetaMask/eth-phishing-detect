@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-io.pages.show",
     "dappsradar.in",
     "dapptrends.net",
     "pancakeswap-arbitrum.github.io",
