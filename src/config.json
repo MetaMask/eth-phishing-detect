@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arb.dappraddarsing.com",
     "zksync-era.rf.gd",
     "zircuit.icu",
     "rocketpool.finance",
