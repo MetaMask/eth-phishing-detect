@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksthyncwaaallet.webflow.io",
+    "zksync.hpage.com",
     "starkdrop.org",
     "finances-curve.com",
     "curvedfkfinancde.gitbook.io",
