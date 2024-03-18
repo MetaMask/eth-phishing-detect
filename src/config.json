@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-optimism.pro",
+    "optimislm.com",
+    "mintchain.mint-forest.com",
     "app-ftx.com",
     "claims-blockfi.com",
     "manualmigrate.online",
