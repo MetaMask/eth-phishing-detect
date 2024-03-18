@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "launchs-pad.online",
     "starknetgot.com",
     "goon.cm",
     "starknet-x.info",
