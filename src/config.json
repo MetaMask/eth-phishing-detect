@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum-svd.vercel.app",
+    "claim.arbitrum-dao.net",
+    "airdroparbitrum.c3mongtho.edu.vn",
+    "arbitrums.c3mongtho.edu.vn",
     "arb.dappraddarsing.com",
     "zksync-era.rf.gd",
     "zircuit.icu",
