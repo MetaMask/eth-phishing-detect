@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "filsmarttechprompt.pages.dev",
     "starkapp.cc",
     "eligibility.ventory.network",
     "claim.xworld-games.com",
