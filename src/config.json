@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bitreta.com",
     "metmskxtsion.webflow.io",
     "mettamaskextensions.webflow.io",
     "meuuoikexensio.webflow.io",
