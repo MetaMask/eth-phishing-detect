@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curveetfinnance.gitbook.io",
+    "curvefinnancce.gitbook.io",
     "bridge-arbitrum.io",
     "curerveevefinance.gitbook.io",
     "arbitrum-svd.vercel.app",
