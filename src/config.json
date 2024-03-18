@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starkdrop.org",
     "finances-curve.com",
     "curvedfkfinancde.gitbook.io",
     "metavmasusk.azurewebsites.net",
