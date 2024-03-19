@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "rabbywalletextension.webflow.io",
     "rabbyeiwalletf.gitbook.io",
     "rabebyywallet.gitbook.io",
     "raibywallit.gitbook.io",
