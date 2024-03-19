@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "register.monadprotocols.net",
     "dexlaunchpads.pages.dev",
     "defyguardianverse.pages.dev",
     "blast-2l.xyz",
