@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop.zkpolyhedra.org",
     "1685lab.com",
     "trustpad-sale.top",
     "arb.trastpad-sale.top",
