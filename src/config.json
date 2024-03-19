@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "holder-nexo.com",
+    "fix-metamask.pages.dev",
+    "fundnow.onrender.com",
+    "livesupport.tfryx.xyz",
     "artprocollect.pro",
     "bnbminerx.com",
     "bobotokenhub.top",
