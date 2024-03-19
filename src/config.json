@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zircuit-staking.pages.dev",
     "vote.yearnfi.support",
     "linea-layer3.xyz",
     "baby-trump.xyz",
