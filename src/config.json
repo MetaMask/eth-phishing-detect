@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cowswapp.app",
     "bridge.arbirtrum.co",
     "register-netmindai.com",
     "rewards-ether.com",
