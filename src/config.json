@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "tokens-lineabuild.com",
     "rab-bywallet.github.io",
     "rabbbywaellett.gitbook.io",
     "rabby-vallet.github.io",
