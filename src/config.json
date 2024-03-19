@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dexlaunchpads.pages.dev",
     "defyguardianverse.pages.dev",
     "blast-2l.xyz",
     "tokens-lineabuild.com",
