@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "platform.workspace-sbtlimited.com",
     "fuelnetwork-register-live-open.vercel.app",
     "starknet-provisions.network",
     "zircuit-l2.com",
