@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bridge.arbirtrum.co",
     "register-netmindai.com",
     "rewards-ether.com",
     "etsyiod.xyz",
