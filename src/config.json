@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim.trezor-coin.com",
     "dexlaunchpads.pages.dev",
     "defyguardianverse.pages.dev",
     "blast-2l.xyz",
