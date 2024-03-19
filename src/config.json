@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "vote.yearnfi.support",
     "linea-layer3.xyz",
     "baby-trump.xyz",
     "allocation-polyhedra.network",
