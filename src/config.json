@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "pub-df889d5ac74640d1a03a27b98e64517f.r2.dev",
+    "restoremetamask.webflow.io",
     "airdrop.zkpolyhedra.org",
     "1685lab.com",
     "trustpad-sale.top",
