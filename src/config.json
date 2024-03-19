@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "swap-dev-git-nx-true-project-cowswap.vercel.app",
     "cowswapp.app",
     "bridge.arbirtrum.co",
     "register-netmindai.com",
