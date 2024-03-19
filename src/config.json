@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eigenlayerai.com",
+    "eigenlayerairdrop.xyz",
+    "eigenlayereth.com",
+    "eigenlayerprotocol.xyz",
+    "eigenlayerrestake.com",
     "alpha-eigenlayer.xyz",
     "check-eigenlayer.xyz",
     "eigenlayer-dapp.com",
