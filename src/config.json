@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim.zksnyc.in",
     "etherfi.nl",
     "rabbywalletextension.webflow.io",
     "rabbyeiwalletf.gitbook.io",
