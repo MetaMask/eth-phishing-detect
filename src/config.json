@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocation-polyhedra.network",
+    "app-eclipse.xyz",
+    "blockfi-claim.com",
+    "app.allocations-chihuahua.com",
+    "app.allocations-entanglefi.com",
+    "app.allocations-vanarchain.com",
+    "nodechains-scottyai.pages.dev",
+    "orbit-arbitrum.pages.dev",
     "rabbywekioallet.gitbook.io",
     "reabbyweallett.gitbook.io",
     "riibbywexlet.gitbook.io",
