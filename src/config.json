@@ -45,6 +45,16 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "alpha-eigenlayer.xyz",
+    "check-eigenlayer.xyz",
+    "eigenlayer-dapp.com",
+    "eigenlayer.gs",
+    "eigenlyear.xyz",
+    "launchs-eigenlayer.com",
+    "eigenlayer-web3.github.io",
+    "enginelayer.webflow.io",
+    "vote.eigenslayer.network",
+    "web.eigenlayer.mx",
     "web3-eigenlayer.com",
     "claim-retikfinances.web.app",
     "platform.workspace-sbtlimited.com",
