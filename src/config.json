@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fuelnetwork-register-live-open.vercel.app",
     "starknet-provisions.network",
     "zircuit-l2.com",
     "polyhedra--zk.com",
