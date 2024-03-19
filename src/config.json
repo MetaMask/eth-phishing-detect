@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dexlaunchpads.pages.dev",
+    "defyguardianverse.pages.dev",
     "blast-2l.xyz",
     "tokens-lineabuild.com",
     "rab-bywallet.github.io",
@@ -63,7 +65,6 @@
     "rebbyswallet.gitbook.io",
     "redeem.rabbynetwork.com",
     "rrabbyguwallet.gitbook.io",
-    "app.metadexdao.com",
     "matricatop.eu",
     "web3secure.pages.dev",
     "walletnetfix.pages.dev",
@@ -94720,7 +94721,6 @@
     "de12fol.cc",
     "surffojotas.com",
     "venom-register.com",
-    "merlinscription.com",
     "airmemeland.com",
     "papeairdropclaim.pages.dev",
     "0nugle.pro",
