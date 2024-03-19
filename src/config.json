@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "rabbyeewallet.gitbook.io",
+    "rabbyewalleit.gitbook.io",
+    "rabbyiwalett.gitbook.io",
     "zircuit-staking.pages.dev",
     "vote.yearnfi.support",
     "linea-layer3.xyz",
