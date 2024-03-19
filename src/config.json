@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "walletnetfix.pages.dev",
     "rnbby.com",
     "rabbyliwallet.gitbook.io",
     "claim.zksnyc.in",
