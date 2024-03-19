@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "lido-reg.com",
+    "lido-fi.tech",
+    "pudgypresales.com",
+    "puffer.fit",
+    "redeem-blast.com",
+    "suimimers.com",
+    "disneypinnacl.top",
     "claim.trezr-coin.io",
     "claim.trezor-coin.com",
     "dexlaunchpads.pages.dev",
