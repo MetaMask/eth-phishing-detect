@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app.metadexdao.com",
     "matricatop.eu",
     "web3secure.pages.dev",
     "walletnetfix.pages.dev",
