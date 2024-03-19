@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web3-eigenlayer.com",
     "claim-retikfinances.web.app",
     "platform.workspace-sbtlimited.com",
     "fuelnetwork-register-live-open.vercel.app",
