@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web3secure.pages.dev",
     "walletnetfix.pages.dev",
     "rnbby.com",
     "rabbyliwallet.gitbook.io",
