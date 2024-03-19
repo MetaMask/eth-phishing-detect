@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "linea-layer3.xyz",
     "baby-trump.xyz",
     "allocation-polyhedra.network",
     "app-eclipse.xyz",
