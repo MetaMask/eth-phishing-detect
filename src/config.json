@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknetx.com",
     "optimism.services0-global.run",
     "metamask-updatextension.pages.dev",
     "metamaskadkxtension.gitbook.io",
