@@ -45,6 +45,15 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrumconnect.com",
+    "arbitrum-token-bridge-9cnveih14-offchain-labs.vercel.app",
+    "arbitrum-token-bridge-cqjggprvn-offchain-labs.vercel.app",
+    "arbitrum-token-bridge-git-997-add-support-9a5a34-offchain-labs.vercel.app",
+    "arbitrum-token-bridge-git-claim-withdrawal-43cf38-offchain-labs.vercel.app",
+    "arbitrum-token-bridge-git-fix-scw-signers-offchain-labs.vercel.app",
+    "arbitrum-token-bridge-git-remove-txhistory-banner-offchain-labs.vercel.app",
+    "arbitrum-token-bridge-hdttyws0p-offchain-labs.vercel.app",
+    "arbitrum-token-bridge-mtrh5hnjn-offchain-labs.vercel.app",
     "eigenlayer.asia",
     "eigenlayer.buzz",
     "eigenlayer.homes",
