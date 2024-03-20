@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum-token-bridge-ey3dlgbqo-offchain-labs.vercel.app",
+    "arbitrum-token-bridge-hq126qa8s-offchain-labs.vercel.app",
+    "arbitrum-token-bridge-ivbwkx2fp-offchain-labs.vercel.app",
     "swap-dev-git-nx-true-project-cowswap.vercel.app",
     "cowswapp.app",
     "bridge.arbirtrum.co",
