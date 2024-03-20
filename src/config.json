@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "magiceden.biz",
+    "www-magiceden.com",
     "earnifi-fiee.com",
     "interface-git-upgrade-ethers-uniswap.vercel.app",
     "lido-staked.pages.dev",
