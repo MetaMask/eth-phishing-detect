@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "kaipoc.com",
+    "dailycasting.com",
+    "mp-tracker.com",
     "pendlefi.com",
     "pendlelabs.top",
     "eigenlayer.webflow.io",
