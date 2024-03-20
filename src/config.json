@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eigenlayer.webflow.io",
+    "engine-layer.webflow.io",
+    "ethersclaimer.pages.dev",
     "quest.sakumonterrsapp.live",
     "connects-sync.pages.dev",
     "godrop.top",
