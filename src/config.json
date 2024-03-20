@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dappsyncnet.pages.dev",
     "eigenliyer.xyz",
     "xn--eigenlayr-7ib.xyz",
     "register.monadprotocols.net",
