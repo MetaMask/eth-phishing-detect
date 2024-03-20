@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-updatextension.pages.dev",
     "metamaskadkxtension.gitbook.io",
     "arbitrum-token-bridge-ey3dlgbqo-offchain-labs.vercel.app",
     "arbitrum-token-bridge-hq126qa8s-offchain-labs.vercel.app",
