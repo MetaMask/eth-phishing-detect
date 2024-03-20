@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimism.services0-global.run",
     "metamask-updatextension.pages.dev",
     "metamaskadkxtension.gitbook.io",
     "arbitrum-token-bridge-ey3dlgbqo-offchain-labs.vercel.app",
