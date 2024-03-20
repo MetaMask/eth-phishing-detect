@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-kr.com",
+    "starknet-web.com",
     "dappsyncnet.pages.dev",
     "eigenliyer.xyz",
     "xn--eigenlayr-7ib.xyz",
