@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "godrop.top",
     "rocketpool.ca",
     "starknetx.com",
     "optimism.services0-global.run",
