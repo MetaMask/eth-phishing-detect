@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "pendlefi.com",
+    "pendlelabs.top",
     "eigenlayer.webflow.io",
     "engine-layer.webflow.io",
     "ethersclaimer.pages.dev",
