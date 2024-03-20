@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eigenlayer.asia",
+    "eigenlayer.buzz",
+    "eigenlayer.homes",
+    "eigenlayer.xyz.3web-ai.cfd",
     "eigenlayer.vip",
     "eigenlayer-cng.pages.dev",
     "eigenlayer-iboexplmc-defi-wonderland.vercel.app",
