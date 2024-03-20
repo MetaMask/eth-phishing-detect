@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eigenlayer.vip",
+    "eigenlayer-cng.pages.dev",
+    "eigenlayer-iboexplmc-defi-wonderland.vercel.app",
     "eigenlayer.sale",
     "eigenlayerrestake.xyz",
     "eigenlayertoken.xyz",
