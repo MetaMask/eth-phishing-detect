@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zircuitdao.xyz",
+    "deploy-preview-44--zksync-mint.netlify.app",
     "metamaskweb.pages.dev",
     "verify-blockfi.com",
     "arbitrum.cc",
