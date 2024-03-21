@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.cc",
     "smartfinancetools.net",
     "collect-eigenlayer.pages.dev",
     "smartversatileunibase.pages.dev",
