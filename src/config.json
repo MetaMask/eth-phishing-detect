@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "smartfinancetools.net",
+    "collect-eigenlayer.pages.dev",
+    "smartversatileunibase.pages.dev",
     "ethgpt.top",
     "syncpages.link",
     "ticket.universalprotocoldapp.io",
