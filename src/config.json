@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "matemsk-walletri.webflow.io",
+    "matemskloginn.webflow.io",
+    "meetaomskwllt.gitbook.io",
+    "metaamaskeloogin.webflow.io",
     "metadown.webflow.io",
     "metamaslogin.wordpress.com",
     "metamsk-login.blogspot.com",
