@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metaskwaletushelp.gitbook.io",
+    "metssmsklogn.gitbook.io",
+    "metxmskkogi.gitbook.io",
+    "fix-paths.pages.dev",
     "matr1x-official.io",
     "app-ether-fi.pages.dev",
     "app-either.com",
