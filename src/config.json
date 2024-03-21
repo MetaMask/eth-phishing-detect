@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fix-paths.pages.dev",
     "app-ether-fi.pages.dev",
     "app-either.com",
     "etherfi-94s.pages.dev",
