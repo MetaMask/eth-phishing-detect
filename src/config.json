@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "registrations-befilabs.com",
     "matemsk-walletri.webflow.io",
     "matemskloginn.webflow.io",
     "meetaomskwllt.gitbook.io",
