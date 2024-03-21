@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eigenlayers.trade",
+    "web3exk.com",
     "check-eigenlayer.com",
     "starknet-x.com",
     "zircuitdao.xyz",
