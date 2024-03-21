@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "api.kavasec.world",
     "curvefi.network",
     "login-blockfi.com",
     "websmart-de.fi",
