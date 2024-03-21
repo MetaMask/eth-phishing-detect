@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ticket.universalprotocoldapp.io",
     "mainnet-eigenlayer.xyz",
     "maviia.org",
     "linea-launch-web.vercel.app",
