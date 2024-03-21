@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "login-blockfi.com",
     "websmart-de.fi",
     "app.venomfi.network",
     "swap-dev-git-fix-wc2-cowswap.vercel.app",
