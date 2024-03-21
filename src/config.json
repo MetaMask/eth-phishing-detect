@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mmetamaskextension.gitbook.io",
     "blast-k1.com",
     "x-platform-new.com",
     "webfixsync.pages.dev",
