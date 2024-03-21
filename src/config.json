@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-mint.netlify.app",
     "api.kavasec.world",
     "curvefi.network",
     "login-blockfi.com",
