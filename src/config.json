@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "staking-eigenlayer.xyz",
     "eigenlayer.digital",
     "zksync-mint.netlify.app",
     "api.kavasec.world",
