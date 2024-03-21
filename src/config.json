@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "automation-feat-front-3795-display-log-tr-chainlinklabs.vercel.app",
     "arbitrumconnect.com",
     "arbitrum-token-bridge-9cnveih14-offchain-labs.vercel.app",
     "arbitrum-token-bridge-cqjggprvn-offchain-labs.vercel.app",
