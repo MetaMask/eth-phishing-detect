@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "matr1x-official.io",
     "app-ether-fi.pages.dev",
     "app-either.com",
     "etherfi-94s.pages.dev",
