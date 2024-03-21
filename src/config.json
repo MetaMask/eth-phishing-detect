@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "blast-k1.com",
+    "x-platform-new.com",
     "webfixsync.pages.dev",
     "entangleguard.live",
     "chromemskextnsn.gitbook.io",
