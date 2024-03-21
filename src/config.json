@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "entangleguard.live",
     "chromemskextnsn.gitbook.io",
     "extensnmousek.gitbook.io",
     "help-metachrmo.gitbook.io",
