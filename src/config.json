@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curvefi.network",
     "login-blockfi.com",
     "websmart-de.fi",
     "app.venomfi.network",
