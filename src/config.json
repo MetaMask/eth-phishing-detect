@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskvwalet.gitbook.io",
     "metamaskwaelletlogin.gitbook.io",
     "metamaskxxlogine.gitbook.io",
     "metamaskklugiin.gitbook.io",
