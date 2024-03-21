@@ -45,6 +45,18 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "networks-lido.finance",
+    "uniswaptokens.pages.dev",
+    "dex-support.web.app",
+    "invites-blast.com",
+    "ppdex.tech",
+    "daowayz.com",
+    "blast-api-io.app",
+    "lido-home.cfd",
+    "wallnew.xyz",
+    "bucolic-belekoy-a2a377.netlify.app",
+    "puffer.fm",
+    "gmxtoken.com",
     "sui-walleetx.webflow.io",
     "pass-pudgys.com",
     "jito.app",
