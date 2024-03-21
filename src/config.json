@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-x.com",
     "zircuitdao.xyz",
     "deploy-preview-44--zksync-mint.netlify.app",
     "metamaskweb.pages.dev",
