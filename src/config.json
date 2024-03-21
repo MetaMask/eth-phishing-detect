@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ethgpt.top",
+    "syncpages.link",
     "ticket.universalprotocoldapp.io",
     "mainnet-eigenlayer.xyz",
     "maviia.org",
