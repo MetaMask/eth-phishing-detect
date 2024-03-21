@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "verify-blockfi.com",
     "arbitrum.cc",
     "smartfinancetools.net",
     "collect-eigenlayer.pages.dev",
