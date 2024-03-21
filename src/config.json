@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app.venomfi.network",
+    "swap-dev-git-fix-wc2-cowswap.vercel.app",
     "eigenlayers.trade",
     "web3exk.com",
     "check-eigenlayer.com",
