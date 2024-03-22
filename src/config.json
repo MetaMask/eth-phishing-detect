@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coin-doyen.com",
     "coindrop.life",
     "grass-registers.com",
     "dapps-dymension.com",
