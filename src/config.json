@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "rocketpool.foundation",
+    "rocketpool.team",
+    "rocketpoolpromo.net",
+    "stake-rocketpool.com",
     "starknet-xx.com",
     "webfixsync.pages.dev",
     "entangleguard.live",
