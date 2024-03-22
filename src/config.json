@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eligible-zksync.io",
     "mettamasklogienn.webflow.io",
     "mntaamasktension.gitbook.io",
     "support-metamatension.webflow.io",
