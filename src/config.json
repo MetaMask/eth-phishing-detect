@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "braavls.com",
+    "braavos-wallet-on.webflow.io",
+    "braavos-wallet-secure-crypto-wallet-bra.webflow.io",
+    "braavos-wallet.webflow.io",
+    "braavoswallet.webflow.io",
     "rocketpool.foundation",
     "rocketpool.team",
     "rocketpoolpromo.net",
