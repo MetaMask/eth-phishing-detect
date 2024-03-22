@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coindrop.life",
+    "grass-registers.com",
     "dapps-dymension.com",
     "coinnodesdapp.pages.dev",
     "meta-portal-restore-team.webflow.io",
