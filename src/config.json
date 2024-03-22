@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-vxallet-1.gitbook.io",
+    "metamaskchrmxtensionj.gitbook.io",
     "metamaskxxloggin.gitbook.io",
     "supert-metamasklogintoub.gitbook.io",
     "metamaskchrextensin.gitbook.io",
