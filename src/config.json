@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaski-logiin-web.webflow.io",
+    "metamaski-login-web.webflow.io",
+    "metamaski-web-extensions.webflow.io",
     "signin-blockfi.com",
     "chrmmetamasskext.webflow.io",
     "help-metamasoniu.webflow.io",
