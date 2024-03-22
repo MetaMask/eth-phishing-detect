@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dapps-dymension.com",
+    "coinnodesdapp.pages.dev",
+    "meta-portal-restore-team.webflow.io",
+    "nodeappend.pages.dev",
     "zircuits.sbs",
     "auth-metamask-chrome.webflow.io",
     "chain-linkcommunity.org",
