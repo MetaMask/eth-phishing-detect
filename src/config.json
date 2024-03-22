@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "defiprotocol.events",
     "metamask-wallitd.gitbook.io",
     "metamasklog-in-1.gitbook.io",
     "metamask--walleto0.gitbook.io",
