@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "auth-metamask-chrome.webflow.io",
     "chain-linkcommunity.org",
     "cowcrypto.org",
     "blendr-network.xyz",
