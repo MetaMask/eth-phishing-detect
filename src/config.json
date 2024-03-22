@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskxxloggin.gitbook.io",
+    "supert-metamasklogintoub.gitbook.io",
     "metamaskchrextensin.gitbook.io",
     "metamasktsxnenoin.gitbook.io",
     "metamaskextenesion.gitbook.io",
