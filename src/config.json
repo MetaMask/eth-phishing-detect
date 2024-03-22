@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "supert-metamasklogingrtd.gitbook.io",
     "metamaskchrmhxtension.gitbook.io",
     "braavls.com",
     "braavos-wallet-on.webflow.io",
