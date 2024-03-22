@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "rocketpool.foundation",
+    "rocketpoolpromo.net",
     "chrom-metamskextension.webflow.io",
     "chrome-metamaskhextensin.webflow.io",
     "chrome-metamaskhexttension.webflow.io",
