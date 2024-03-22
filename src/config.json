@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cowswap.trade",
+    "register.roost.events",
     "loginimetamask-io.gitbook.io",
     "metamask-loxgin.gitbook.io",
     "metamaskkxxloginn.gitbook.io",
