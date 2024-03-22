@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "register.seedifynetwork.com",
     "chain-linkevent.org",
     "fuel.syaduzagithubeasy.top",
     "eigen-layer.webflow.io",
