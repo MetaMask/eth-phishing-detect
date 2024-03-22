@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "linea.claim-drop.xyz",
     "cowswap.trade",
     "register.roost.events",
     "loginimetamask-io.gitbook.io",
