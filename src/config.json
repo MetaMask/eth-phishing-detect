@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "valid-blockfi.com",
     "unlswap.uno",
     "uniswapconnect.com",
     "uniswap-connect.uno",
