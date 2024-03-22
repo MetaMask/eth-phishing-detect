@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "swap-web-solanapix.pages.dev",
+    "fi-dapp-b1r6bzwwh-etherfi.vercel.app",
+    "2-solanamobilecom.pages.dev",
+    "fi-dapp-owmargzh9-etherfi.vercel.app",
+    "restake-altlayers.io",
     "seamarketweb.co",
     "backpack-claim.vercel.app",
     "event-solana.net",
