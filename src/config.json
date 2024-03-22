@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask--walleto0.gitbook.io",
+    "metamaskslginn.gitbook.io",
     "metamaskcromeextsn.gitbook.io",
     "metamasklog-in.gitbook.io",
     "metamask-vxallet-1.gitbook.io",
