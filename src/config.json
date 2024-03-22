@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-xx.com",
     "synfutures.network",
     "eligible-zksync.io",
     "mettamasklogienn.webflow.io",
