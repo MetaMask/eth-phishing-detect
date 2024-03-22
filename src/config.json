@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "seamarketweb.co",
+    "backpack-claim.vercel.app",
+    "event-solana.net",
+    "wormholed.org",
+    "eethfi.com",
     "etherfi-journey-git-journey-etherfi.vercel.app",
     "wormhsole.xyz",
     "galagames-9vd.com",
