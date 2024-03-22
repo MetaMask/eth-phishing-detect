@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cowcrypto.org",
     "blendr-network.xyz",
     "register.seedifynetwork.com",
     "chain-linkevent.org",
