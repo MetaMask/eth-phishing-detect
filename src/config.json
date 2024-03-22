@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-xx.com",
     "webfixsync.pages.dev",
     "entangleguard.live",
     "chromemskextnsn.gitbook.io",
