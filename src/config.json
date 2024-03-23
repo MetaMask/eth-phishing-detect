@@ -123420,9 +123420,7 @@
     "nim-network.com",
     "collection-sandbox.com",
     "sandbox-adrop.com",
-    "sandbox.game.mo-ve.it",
     "spectrebotai.sbs",
-    "vote.nimnetworks.co",
     "who-op.github.io",
     "blockchain-fix-9bh.pages.dev",
     "gombleairdrop.pages.dev",
@@ -123431,7 +123429,6 @@
     "airdrop-swellnetwork.com",
     "join.meowcatgame.com",
     "mantra-chain.pages.dev",
-    "vote.radiantdaos.com",
     "migrate-chainweb.pages.dev",
     "register-nim.network",
     "bridgezkasino.com",
@@ -123444,7 +123441,6 @@
     "superverse-migration.com",
     "starkdefi.io",
     "register.traderjoeyz.network",
-    "vote.bitsmileys.network",
     "amlbot.solicit.report",
     "claim.etherfihub.org",
     "claim.etherfilabs.org",
@@ -124381,6 +124377,10 @@
     "mantanetworks.claims",
     "multichainnodes.com",
     "portalcoins.events",
-    "smoi.trading"
+    "smoi.trading",
+    "bitsmileys.network",
+    "mo-ve.it",
+    "nimnetworks.co",
+    "radiantdaos.com"
   ]
 }
