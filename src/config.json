@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "auth-metamask-wallet.webflow.io",
+    "metamekextnsion.webflow.io",
+    "metamskutnsion.webflow.io",
+    "metmaskwelelt.webflow.io",
+    "metmskextensi.webflow.io",
+    "metsamloegin.webflow.io",
     "maviia.day",
     "crvfi.pro",
     "yearndao.fi",
