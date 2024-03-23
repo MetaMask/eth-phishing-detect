@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop.lin.domains",
     "signup-venom.network",
     "auth-metamask-wallet.webflow.io",
     "metamekextnsion.webflow.io",
