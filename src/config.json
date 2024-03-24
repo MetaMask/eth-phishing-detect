@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask.2vv.us",
+    "metamask.5ss.us",
+    "scottytheai.rf.gd",
     "metamask.gitbook.io",
     "metamaskchrmuxtension.gitbook.io",
     "metamaskchrmxtensionq.gitbook.io",
