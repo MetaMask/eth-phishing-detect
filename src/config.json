@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "grt.airtrusts.top",
     "metamaskchromeextensioen.gitbook.io",
     "metamaskkloggiinn.gitbook.io",
     "metamaskdkextension.gitbook.io",
