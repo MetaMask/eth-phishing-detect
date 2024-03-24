@@ -45,6 +45,17 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskchhromeextnsion.gitbook.io",
+    "grt.airtrusts.top",
+    "metamaskchromeextensioen.gitbook.io",
+    "metamaskkloggiinn.gitbook.io",
+    "metamaskdkextension.gitbook.io",
+    "metamaskulsugn.gitbook.io",
+    "metamaskyologin.gitbook.io",
+    "metamaskyulogin.gitbook.io",
+    "arb.airtrusts.top",
+    "arb.zcoinflows.top",
+    "strk.claimhalv.top",
     "visit-daomaker.com",
     "braavoswallet-extension.com",
     "signup-venom.network",
@@ -125908,6 +125919,13 @@
     "zksync-9n4.pages.dev",
     "multichain-tools.pages.dev",
     "multichainrpc.pages.dev",
-    "web3-x.pages.dev"
+    "web3-x.pages.dev",
+    "daperchain.pages.dev",
+    "bittensor-wallet.web.app",
+    "ethena-com.pages.dev",
+    "multisystemcoinwallet.web.app",
+    "starknet-event.onrender.com",
+    "l2-pepe.xyz",
+    "swiftprocurator.netlify.app"
   ]
 }
