@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskdkextension.gitbook.io",
+    "metamaskulsugn.gitbook.io",
     "metamaskyologin.gitbook.io",
     "metamaskyulogin.gitbook.io",
     "arb.airtrusts.top",
