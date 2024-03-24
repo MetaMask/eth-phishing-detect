@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-eigenlayer.com",
+    "claim-eigenlayer.net",
+    "main-eigenlayer.xyz",
     "help-metchorrme.gitbook.io",
     "metamsk-xtoin.gitbook.io",
     "metamskexitson.gitbook.io",
