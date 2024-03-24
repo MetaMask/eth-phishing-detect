@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chainlink-ecosystem.com",
+    "chainlinkopt.live",
     "metamask.2vv.us",
     "metamask.5ss.us",
     "scottytheai.rf.gd",
