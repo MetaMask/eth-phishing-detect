@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bd-v2.webflow.io",
     "helpmetmskxtensionj.gitbook.io",
     "helpmetmskxtensionr.gitbook.io",
     "helpmtmskchrmkxtnsion.gitbook.io",
