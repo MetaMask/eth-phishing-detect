@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "binace-hr.com",
+    "likecoins54.top",
+    "governance-etherfi.com",
+    "kamino-financex.github.io",
+    "dspool.top",
+    "etherfi-layer.pages.dev",
     "interface-git-fix-new-wc-uniwallet-url-uniswap.vercel.app",
     "uniswap-v3-pool-address-finder.vercel.app",
     "binancec.net",
