@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskyologin.gitbook.io",
+    "metamaskyulogin.gitbook.io",
     "arb.airtrusts.top",
     "arb.zcoinflows.top",
     "strk.claimhalv.top",
