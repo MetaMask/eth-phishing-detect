@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "startknet.net",
     "metamaskcchromeextnsion.gitbook.io",
     "metamaskcrcmextnsion.gitbook.io",
     "chrome-metamack.gitbook.io",
