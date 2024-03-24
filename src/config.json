@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "lognmetamask.gitbook.io",
+    "metamaskhclogin.gitbook.io",
     "metamaskhklogin.gitbook.io",
     "metamaskyplogin.gitbook.io",
     "metamask-io.hpage.com",
