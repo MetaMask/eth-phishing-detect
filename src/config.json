@@ -125894,6 +125894,10 @@
     "multichain-tools.pages.dev",
     "multichainrpc.pages.dev",
     "web3-x.pages.dev",
-    "daperchain.pages.dev"
+    "daperchain.pages.dev",
+    "bittensor-wallet.web.app",
+    "ethena-com.pages.dev",
+    "multisystemcoinwallet.web.app",
+    "starknet-event.onrender.com"
   ]
 }
