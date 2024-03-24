@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "interface-git-fix-new-wc-uniwallet-url-uniswap.vercel.app",
+    "uniswap-v3-pool-address-finder.vercel.app",
+    "binancec.net",
+    "0x2kkzmv3cy3i32pglaus.click",
+    "token-creator-lac.vercel.app",
+    "app-kamino.one",
+    "binancecat.live",
     "armbiernt.finance",
     "arnbientfinance.com",
     "amblent.finance",
