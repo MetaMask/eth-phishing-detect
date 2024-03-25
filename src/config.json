@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ciaims-ether.fi",
+    "ethficlaim.com",
     "visit-pudgypenguins.com",
     "etherrfii.xyz",
     "solana-nft-cohort.vercel.app",
