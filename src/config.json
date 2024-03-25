@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "link-zksync.org",
     "metamaskinf.com",
     "loginmetamaski.gitbook.io",
     "metamask-waleet-usa.gitbook.io",
