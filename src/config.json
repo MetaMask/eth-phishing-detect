@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "etherxy.com",
+    "etherxy.org",
     "wallet-zksync.gitbook.io",
     "zeksytsncwooallet.gitbook.io",
     "babyaptosbridge.com",
