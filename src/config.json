@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zkns.domains",
     "eigenlayer.world",
     "eigenlayers.club",
     "eigenlayer-5rxqaon7y-defi-wonderland.vercel.app",
