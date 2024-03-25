@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chainlink-coinmarketcap.com",
     "linea-coinmarketcap.com",
     "zksync-coinmarketcap.com",
     "arbitrum-coinmarketcap.com",
