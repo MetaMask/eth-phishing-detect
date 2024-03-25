@@ -127138,10 +127138,7 @@
     "gaiminio-claim.com",
     "ordprotcol.network",
     "briunarmstrungs.net",
-    "quest.befilsab.com",
     "fuelsnetwork.net",
-    "multiplier.flokiprotocols.network",
-    "check.shufflenetwork.trade",
     "launchpad.aitechsio.trade",
     "register.lootbots.network",
     "register.starsheroes.live",
@@ -127153,6 +127150,10 @@
     "beckerscoin.network",
     "pundocoins.trading",
     "syncusprotocols.trade",
-    "mavia.build"
+    "mavia.build",
+    "befilsab.com",
+    "flokiprotocols.network",
+    "shufflenetwork.trade",
+    "paperhanded-analyse.web.app"
   ]
 }
