@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "linea-coinmarketcap.com",
+    "zksync-coinmarketcap.com",
     "arbitrum-coinmarketcap.com",
     "optimism-coinmarketcap.com",
     "docsmetamaskio.gitbook.io",
