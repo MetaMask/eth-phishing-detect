@@ -127469,6 +127469,8 @@
     "claiming-connect.cc",
     "lootsbots.net",
     "lootsbots.trading",
-    "ordsprotcols.trading"
+    "ordsprotcols.trading",
+    "staking.oasisprotcols.trading",
+    "allocation.paalsais.net"
   ]
 }
