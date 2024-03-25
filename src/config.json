@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eigenlayer-5rxqaon7y-defi-wonderland.vercel.app",
+    "enginelayer.github.io",
+    "app-rocketpool.surge.sh",
     "starknetc.com",
     "starknetr.com",
     "metsmaskextensuon.gitbook.io",
