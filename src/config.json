@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "strk.tpdclaim.top",
     "metamask-walle1s-1.gitbook.io",
     "metamask-wallet1.gitbook.io",
     "metamask-walletx.gitbook.io",
