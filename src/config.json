@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-rocketpool.surge.sh",
     "starknetc.com",
     "starknetr.com",
     "metsmaskextensuon.gitbook.io",
