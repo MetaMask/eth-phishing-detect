@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "visit-pudgypenguins.com",
+    "etherrfii.xyz",
+    "solana-nft-cohort.vercel.app",
+    "backpac.exchange",
+    "atlayers.com",
+    "project-aptos-foundation.com",
     "docsmetamaskio.gitbook.io",
     "metamask-27.gitbook.io",
     "metamask-usawallt-1.gitbook.io",
