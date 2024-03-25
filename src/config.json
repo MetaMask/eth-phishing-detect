@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-wallet-9.gitbook.io",
+    "metamaskchrmxtensione.gitbook.io",
+    "metamaskchromextensn.gitbook.io",
+    "metamasklogon-1.gitbook.io",
     "metamaskchrmlxtension.gitbook.io",
     "metamaskhroxtensio.gitbook.io",
     "metamaskiohrmtixtension.gitbook.io",
