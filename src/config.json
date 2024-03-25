@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "matemskloggn.webflow.io",
     "starknet.guru",
     "program-starknet.pages.dev",
     "starknet-program.pages.dev",
