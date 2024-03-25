@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "wallet-zksync.gitbook.io",
+    "zeksytsncwooallet.gitbook.io",
     "babyaptosbridge.com",
     "tiahunter.com",
     "earningifi.life",
