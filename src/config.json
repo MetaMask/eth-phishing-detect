@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskchrmlxtension.gitbook.io",
     "metamaskhroxtensio.gitbook.io",
     "metamaskiohrmtixtension.gitbook.io",
     "metamaskwalletlgin.gitbook.io",
