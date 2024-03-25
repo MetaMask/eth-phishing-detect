@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "trustpad-xw.com",
     "portfolio-metamask.digital",
     "metamaskchrmxtensionc.gitbook.io",
     "metamask-wallet-9.gitbook.io",
