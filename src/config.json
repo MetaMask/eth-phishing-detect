@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bridge-abitrium.io",
+    "bridge-abitruim.io",
     "link-zksync.org",
     "metamaskinf.com",
     "loginmetamaski.gitbook.io",
