@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "live-zksync.io",
+    "mainnet-zksync.net",
+    "zksync-anniversary.com",
     "metamask-wallet-5bfp.onrender.com",
     "metamaskchromextenson.gitbook.io",
     "bridge-abitrium.io",
