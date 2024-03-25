@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "enginelayer.github.io",
     "app-rocketpool.surge.sh",
     "starknetc.com",
     "starknetr.com",
