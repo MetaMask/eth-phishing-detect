@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskchromextenson.gitbook.io",
     "bridge-abitrium.io",
     "bridge-abitruim.io",
     "link-zksync.org",
