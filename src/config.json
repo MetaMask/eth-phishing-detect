@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-wallet-5bfp.onrender.com",
     "metamaskchromextenson.gitbook.io",
     "bridge-abitrium.io",
     "bridge-abitruim.io",
