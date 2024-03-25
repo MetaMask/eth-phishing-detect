@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum-coinmarketcap.com",
+    "optimism-coinmarketcap.com",
     "docsmetamaskio.gitbook.io",
     "metamask-27.gitbook.io",
     "metamask-usawallt-1.gitbook.io",
