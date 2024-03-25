@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.guru",
+    "program-starknet.pages.dev",
+    "starknet-program.pages.dev",
+    "starknet.network-up.live",
     "etherxy.com",
     "etherxy.org",
     "wallet-zksync.gitbook.io",
