@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknetc.com",
+    "starknetr.com",
     "metsmaskextensuon.gitbook.io",
     "matemskloggn.webflow.io",
     "starknet.guru",
