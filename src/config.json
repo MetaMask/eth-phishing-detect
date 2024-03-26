@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask.io.kyc.regulation.45-88-108-231.plesk.page",
     "metamask-login-ns.webflow.io",
     "metamask-logincom.webflow.io",
     "metamask-logini-us.webflow.io",
