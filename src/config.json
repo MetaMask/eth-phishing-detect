@@ -128713,7 +128713,6 @@
     "juicesfis.events",
     "blocksganes.net",
     "ringexchanges.com",
-    "staking.superversesdaos.network",
     "superversedaos.network",
     "zeroslendsprotcol.network",
     "zkfairnetworks.com",
@@ -128791,8 +128790,6 @@
     "presale.beckercoin.cc",
     "ordprtocols.com",
     "register.nyansheroes.cc",
-    "multiplier.zeroslendsprotcol.trade",
-    "staking.superversesdaos.trade",
     "axieinfinite.xyz",
     "chilizx.xyz",
     "livepeers.info",
@@ -128817,6 +128814,9 @@
     "pe.memepe.info",
     "dappraadar.info",
     "bomesprotcol.com",
-    "ordsprotcol.trading"
+    "ordsprotcol.trading",
+    "superversesdaos.network",
+    "superversesdaos.trade",
+    "zeroslendsprotcol.trade"
   ]
 }
