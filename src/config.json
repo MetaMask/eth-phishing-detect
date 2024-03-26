@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "meeethesklogn.webflow.io",
     "metamask.warner.ltd",
     "metamaaskwellat.gitbook.io",
     "metasmskextendyn.gitbook.io",
