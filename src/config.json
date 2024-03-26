@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "faucetnodes.rf.gd",
     "help-metmschrxtn.webflow.io",
     "mathessklgoin.webflow.io",
     "muskexteiinchrm.webflow.io",
