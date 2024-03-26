@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "get.blast.rs",
+    "metamaskextensiuon.webflow.io",
     "drop.venom-listing.com",
     "foxwallet.cyou",
     "scottytheai1.pages.dev",
