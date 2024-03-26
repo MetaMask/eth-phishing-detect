@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dapp-etherfi.com",
+    "zore.energy",
+    "birdgebase.org",
+    "brigde-base.org",
+    "app-bridgebase.org",
+    "zealy.io",
+    "galxe.com",
     "monadefi.tech",
     "eitherfinance.com",
     "19240132-coinbase.com",
