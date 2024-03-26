@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fuel.stockscoins.top",
     "fuel.airtrusts.top",
     "fuel.tpdclaim.top",
     "fuel.zcoinflows.top",
