@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaaskwellat.gitbook.io",
+    "metasmskextendyn.gitbook.io",
+    "multiwallet-coin.web.app",
     "get.blast.rs",
     "metamaskextensiuon.webflow.io",
     "drop.venom-listing.com",
