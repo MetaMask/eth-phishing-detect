@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chriomsk.gitbook.io",
+    "wallemetaomak.gitbook.io",
     "multidappsconnect.com",
     "nodeauth.pages.dev",
     "fuel.stockscoins.top",
