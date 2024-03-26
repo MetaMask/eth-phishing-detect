@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dogecoin20.io",
+    "moveworknow.club",
+    "dappsicx.pages.dev",
+    "pullixmarkets.pages.dev",
     "metamskiiwallat.gitbook.io",
     "safe-magiceden.com",
     "craponsolana.com",
