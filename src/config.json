@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "extensiionmetamask.gitbook.io",
+    "metamask-login-usa.webflow.io",
+    "metamask-official-en.mystrikingly.com",
+    "metamask-rest0ration.webflow.io",
     "chriomsk.gitbook.io",
     "wallemetaomak.gitbook.io",
     "multidappsconnect.com",
