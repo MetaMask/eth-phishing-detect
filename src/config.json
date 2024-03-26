@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask.warner.ltd",
     "metamaaskwellat.gitbook.io",
     "metasmskextendyn.gitbook.io",
     "multiwallet-coin.web.app",
