@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-login-ns.webflow.io",
+    "metamask-logincom.webflow.io",
+    "metamask-logini-us.webflow.io",
+    "metamask-loginn-com.webflow.io",
     "extensiionmetamask.gitbook.io",
     "metamask-login-usa.webflow.io",
     "metamask-official-en.mystrikingly.com",
