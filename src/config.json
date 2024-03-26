@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "drop.venom-listing.com",
     "foxwallet.cyou",
     "scottytheai1.pages.dev",
     "live-ice.io",
