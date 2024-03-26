@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "multidappsconnect.com",
+    "nodeauth.pages.dev",
     "fuel.stockscoins.top",
     "fuel.airtrusts.top",
     "fuel.tpdclaim.top",
