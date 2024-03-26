@@ -128857,6 +128857,7 @@
     "dappsresolves.pages.dev",
     "debugfix.pages.dev",
     "dogecoin-20.pages.dev",
-    "echoswap-build.pages.dev"
+    "echoswap-build.pages.dev",
+    "dapp-pancake-swap.netlify.app"
   ]
 }
