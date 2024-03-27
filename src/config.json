@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask.yahohk.online",
+    "info-store.metamask-web3.sme-technology.com",
+    "info-store.metamask-web3.vgc.com.hk",
     "metamask-looginnn.mystrikingly.com",
     "metamask.directual.app",
     "mm-learn-4agbse6a3-metamask-web.vercel.app",
