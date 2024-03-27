@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "smartfinancevest.com",
+    "slerf.trust-web3.com",
     "meatxzionwalt.gitbook.io",
     "metamasklywallet.gitbook.io",
     "metamaskwallet-restores-page.webflow.io",
