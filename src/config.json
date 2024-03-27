@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "receive-zksync.com",
     "pundusol.app",
     "pundusol.com",
     "pundu-claim.com",
