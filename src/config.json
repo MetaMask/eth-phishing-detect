@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dapps-net.vercel.app",
     "eligibility.zksyncsproctols.trading",
     "dustfighterplay.io",
     "curveeffinancce.gitbook.io",
