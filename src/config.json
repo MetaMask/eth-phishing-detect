@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "aitop.com",
     "dapsyncs.vercel.app",
     "officialclaimscapes.vercel.app",
     "wappconnectnode.pages.dev",
