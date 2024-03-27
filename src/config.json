@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksynk-io-wallet.webflow.io",
     "panel-activator.pages.dev",
     "linea-7.webflow.io",
     "smartfinancevest.com",
