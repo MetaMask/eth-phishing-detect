@@ -45,7 +45,6 @@
     "satoshilabs.design"
   ],
   "blacklist": [
-    "grt.tpdclaim.top",
     "meetaskcrestion.webflow.io",
     "metasheskloigin.webflow.io",
     "metashsleoign.webflow.io",
@@ -159,7 +158,6 @@
     "nodeauth.pages.dev",
     "fuel.stockscoins.top",
     "fuel.airtrusts.top",
-    "fuel.tpdclaim.top",
     "fuel.zcoinflows.top",
     "drctscr.com",
     "syncswap.pro",
@@ -252,8 +250,6 @@
     "metamaskhroxtensio.gitbook.io",
     "metamaskiohrmtixtension.gitbook.io",
     "metamaskwalletlgin.gitbook.io",
-    "arbitrum.tpdclaim.top",
-    "strk.tpdclaim.top",
     "metamask-walle1s-1.gitbook.io",
     "metamask-wallet1.gitbook.io",
     "metamask-walletx.gitbook.io",
@@ -97221,7 +97217,6 @@
     "nrddmyky.cyou",
     "dappad.info",
     "webzero.top",
-    "cagacrypto.com",
     "verythickregistration5.vercel.app",
     "zkmindversatile.pages.dev",
     "b5pmo3.cc",
@@ -127208,8 +127203,6 @@
     "dogecoin20-st.pages.dev",
     "merchantmoes.network",
     "bitcoindogs-club.web.app",
-    "arbitrum.tpdclaim.top",
-    "strk.tpdclaim.top",
     "metamaskwallet.onrender.com",
     "portfolio-metamask.digital",
     "ethficlaim.com",
@@ -129334,6 +129327,15 @@
     "beepsol.cc",
     "presale.beckerscoins.xyz",
     "roostonbase.app",
-    "presale.beckerscoins.org"
+    "presale.beckerscoins.org",
+    "lootdropinu.com",
+    "galxe-oats.net",
+    "monadevm.xyz",
+    "eligcheck.com",
+    "tpdclaim.top",
+    "visits-phiprotocol.com",
+    "hashpacertd.top",
+    "bwdcoin.cc",
+    "blockauths.pages.dev"
   ]
 }
