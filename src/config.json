@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cryptoversetrades.org",
+    "phoenix-tb.com",
+    "genesis-wallet.netlify.app",
     "aitop.com",
     "dapsyncs.vercel.app",
     "officialclaimscapes.vercel.app",
