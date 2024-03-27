@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "linea-7.webflow.io",
     "smartfinancevest.com",
     "slerf.trust-web3.com",
     "meatxzionwalt.gitbook.io",
