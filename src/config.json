@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "currvfiinance.gitbook.io",
+    "curwevfinanc.gitbook.io",
     "receive-zksync.com",
     "pundusol.app",
     "pundusol.com",
