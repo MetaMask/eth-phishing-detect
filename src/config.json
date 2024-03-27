@@ -45,6 +45,15 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "etherxy.net",
+    "dapps-net.vercel.app",
+    "eligibility.zksyncsproctols.trading",
+    "dustfighterplay.io",
+    "curveeffinancce.gitbook.io",
+    "curveeicffinance.gitbook.io",
+    "curveoeriofinance.gitbook.io",
+    "curveruiofinaonce.gitbook.io",
+    "curvesdfffinancead.gitbook.io",
     "battleforge.cc",
     "green-btc.pages.dev",
     "blazzerpips.site",
@@ -130340,13 +130349,23 @@
     "no-chill.co",
     "jdc5.pro",
     "srlb.cc",
-    "airdrop.mint-chain.net",
     "autosolas.com",
     "dogecoiens20.club",
     "onchaincryptowallet.com",
     "labs.registers-welikethefox.com",
     "dogecoinet20.club",
     "metisl2netswork.com",
-    "pacifiic-manta.network"
+    "pacifiic-manta.network",
+    "etherxy.net",
+    "multidigitalconnectrec.pages.dev",
+    "lab.registers-welikethefox.com",
+    "app.allocations-base.com",
+    "mint-chain.net",
+    "register-anime.xyz",
+    "xn--mata-c2a.network",
+    "presale.beckers-coins.cc",
+    "signup.roosts-bases.net",
+    "www.apptruhster.finance",
+    "everyworlds.app"
   ]
 }
