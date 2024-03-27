@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mserver.live",
     "fpcgrowthtrading.com",
     "optimalarts.io",
     "swap.raydium.cm",
