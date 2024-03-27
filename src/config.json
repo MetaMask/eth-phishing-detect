@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "restoredappsfix.vercel.app",
     "dogescoinel20.club",
     "w.infiniteopta-pad.buzz",
     "pwif.xyz",
