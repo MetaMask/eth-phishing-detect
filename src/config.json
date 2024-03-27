@@ -128503,7 +128503,6 @@
     "dopsale-dop.org",
     "presale.bckrcoineth.com",
     "whitelistedonly.pages.dev",
-    "staking.oasisqrocotol.network",
     "flokidao.cloud",
     "flokidao.xyz",
     "rooster-claim.com",
@@ -129550,7 +129549,6 @@
     "bnbdappbayairdrop.xyz",
     "lmoaeth.com",
     "hwape.com",
-    "whitelist.reg-1intro.com",
     "ordsprtocol.network",
     "pursestokens.events",
     "metisl2network.trade",
@@ -129608,14 +129606,12 @@
     "roostersbase.net",
     "apps.nodes-ai.org",
     "cowchange.net",
-    "allowlist.reg-1intro.com",
     "layerzr.tech",
     "juppyreward.pro",
     "juppyreward.club",
     "authorize-dapps.pages.dev",
     "decent-launchpad.pages.dev",
     "maino.defixpages.dev",
-    "join.reg-1intro.com",
     "presale.bckrscoin.co",
     "metauniverse-neotokyo.codes",
     "normiedase.claims",
@@ -129625,9 +129621,10 @@
     "bomesprotcol.network",
     "eth10.life",
     "dappradar-io-939.pages.dev",
-    "joins.reg-1intro.com",
     "spiffy-cheesecake-a93499.netlify.app",
     "claim.nodes-ai.org",
-    "zr0-zerolend.xyz"
+    "zr0-zerolend.xyz",
+    "oasisqrocotol.network",
+    "reg-1intro.com"
   ]
 }
