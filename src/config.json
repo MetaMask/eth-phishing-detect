@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web-eigenlayer.github.io",
     "chrniextionsiometamask.webflow.io",
     "exteion-meta.webflow.io",
     "help-metmeskxtensiont.webflow.io",
