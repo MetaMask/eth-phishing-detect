@@ -129269,6 +129269,7 @@
     "monadsprotcols.trading",
     "pursestokens.trading",
     "roostersnetworks.trade",
-    "bitcoinscat.trading"
+    "bitcoinscat.trading",
+    "decrypt.so"
   ]
 }
