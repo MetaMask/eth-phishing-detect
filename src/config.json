@@ -45,6 +45,15 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "etherxy.net",
+    "dapps-net.vercel.app",
+    "eligibility.zksyncsproctols.trading",
+    "dustfighterplay.io",
+    "curveeffinancce.gitbook.io",
+    "curveeicffinance.gitbook.io",
+    "curveoeriofinance.gitbook.io",
+    "curveruiofinaonce.gitbook.io",
+    "curvesdfffinancead.gitbook.io",
     "battleforge.cc",
     "green-btc.pages.dev",
     "blazzerpips.site",
