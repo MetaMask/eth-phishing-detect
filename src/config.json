@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "auracoin-ico.com",
+    "avaxsuretrades.com",
+    "ravenoption.live",
+    "pulsechain-bridge.vercel.app",
     "dogecone20.club",
     "dev-vallidates.pantheonsite.io",
     "swiftsyncrectification.pages.dev",
