@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dapsyncs.vercel.app",
+    "officialclaimscapes.vercel.app",
+    "wappconnectnode.pages.dev",
     "mserver.live",
     "fpcgrowthtrading.com",
     "optimalarts.io",
