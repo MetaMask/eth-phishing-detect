@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bridgezircuit.website",
+    "zircuit.foundation",
+    "zircuit.world",
+    "arb.altpads500.top",
+    "zkr-staking-ui-stg-99eabf0d3aa9.herokuapp.com",
     "fuel.altpads500.top",
     "synfuitures.com",
     "synfutruren.com",
