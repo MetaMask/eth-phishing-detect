@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "presale-raffcoin-d.pages.dev",
     "matamsk-wallet.webflow.io",
     "matamskk-wallet.webflow.io",
     "matamskkwallet.webflow.io",
