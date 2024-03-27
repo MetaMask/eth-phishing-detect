@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dogecone20.club",
+    "dev-vallidates.pantheonsite.io",
+    "swiftsyncrectification.pages.dev",
     "hubsync-dev.online",
     "highendhotel-gy.com",
     "metaweb-restoration-portal-page.webflow.io",
