@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "blazzerpips.site",
+    "coindas.icu",
+    "dappsdrive.com",
+    "user.abyss-world-asset.net",
     "cryptoversetrades.org",
     "phoenix-tb.com",
     "genesis-wallet.netlify.app",
