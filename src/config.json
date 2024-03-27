@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-looginnn.mystrikingly.com",
+    "metamask.directual.app",
+    "mm-learn-4agbse6a3-metamask-web.vercel.app",
     "roost.claims",
     "bridgeinvcoy.co.za",
     "restoredappsfix.vercel.app",
