@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "battleforge.cc",
+    "green-btc.pages.dev",
     "blazzerpips.site",
     "coindas.icu",
     "dappsdrive.com",
