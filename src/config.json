@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "etherxy.net",
     "dapps-net.vercel.app",
     "eligibility.zksyncsproctols.trading",
     "dustfighterplay.io",
