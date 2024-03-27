@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "swiftmultiwallets.web.app",
     "web-eigenlayer.github.io",
     "chrniextionsiometamask.webflow.io",
     "exteion-meta.webflow.io",
