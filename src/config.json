@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "matamsk-wallet.webflow.io",
+    "matamskk-wallet.webflow.io",
+    "matamskkwallet.webflow.io",
+    "mttamskk-wallet.webflow.io",
     "currvfiinance.gitbook.io",
     "curwevfinanc.gitbook.io",
     "receive-zksync.com",
