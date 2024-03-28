@@ -131087,6 +131087,8 @@
     "pulsecshain.events",
     "supersversesdaos.events",
     "quest.ordsprtocol.app",
-    "testnet.initiafnds.net"
+    "testnet.initiafnds.net",
+    "claim.pursetokens.trading",
+    "staking.z1slabs.network"
   ]
 }
