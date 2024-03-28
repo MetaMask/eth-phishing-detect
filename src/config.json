@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "papescoins.live",
     "etherxy.net",
     "dapps-net.vercel.app",
     "dustfighterplay.io",
