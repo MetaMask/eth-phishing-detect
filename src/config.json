@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-gold-f2.cloud",
     "linea2024.com",
     "help-metachrrma.webflow.io",
     "help-metachrrmo.webflow.io",
