@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskextensionstore.webflow.io",
     "arbitrumsfoundation.org",
     "bsc-poocoin.app",
     "starknet-go1d.com",
