@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-go1d.com",
+    "starknet-l2.cloud",
+    "starknet.shop",
+    "starknetair.net",
+    "starknetf.com",
+    "starkware.fun",
+    "claimrewards-starknet.onrender.com",
     "app.eigenlayer-claim.xyz",
     "w-eigenlayer.com",
     "swiftmultiwallets.web.app",
