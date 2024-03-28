@@ -131569,7 +131569,6 @@
     "issue-tokens.network",
     "allocate-assets.network",
     "claim.onsbeasm.net",
-    "app.bridge-realionetwork.com",
     "app.joins-welikethefox.com",
     "nodeais.trading",
     "polyhedra.ltd",
@@ -131610,6 +131609,7 @@
     "plotsfinance.com",
     "sophon-boa.pages.dev",
     "temple-pharmacy.app",
-    "ents-token.com"
+    "ents-token.com",
+    "bridge-realionetwork.com"
   ]
 }
