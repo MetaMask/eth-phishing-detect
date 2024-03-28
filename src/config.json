@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app.eigenlayer-claim.xyz",
     "w-eigenlayer.com",
     "swiftmultiwallets.web.app",
     "web-eigenlayer.github.io",
