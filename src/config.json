@@ -131124,7 +131124,8 @@
     "daomaker.pages.dev",
     "app-pablodefi.site",
     "dappsyncedplatform.pages.dev",
-    "claim.onbeam.claims",
-    "gaiminprotocols.trading"
+    "gaiminprotocols.trading",
+    "vote.bitsmilesy.trading",
+    "onbeam.claims"
   ]
 }
