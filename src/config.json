@@ -131085,8 +131085,6 @@
     "pulsecshain.events",
     "supersversesdaos.events",
     "hmster.lol",
-    "check.shufflenetwork.app",
-    "launchpad.aitechsios.events",
     "bomeprocotol.network",
     "gaiminprotocols.network",
     "initiafnds.net",
@@ -131094,12 +131092,15 @@
     "pursetokens.trading",
     "swellprotocol.events",
     "z1slabs.network",
-    "claim.onbeam.trade",
-    "allocation.monadsporotocol.com",
-    "galaxies.zkfairnetworks.events",
     "boardtradeguardian.pages.dev",
-    "vote.bitsmilesy.network",
     "claim-slerf.info",
-    "appzlink.info"
+    "appzlink.info",
+    "aitechsios.events",
+    "bitsmilesy.network",
+    "monadsporotocol.com",
+    "onbeam.trade",
+    "shufflenetwork.app",
+    "vectorfinance.top",
+    "zkfairnetworks.events"
   ]
 }
