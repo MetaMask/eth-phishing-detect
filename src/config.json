@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrumsfoundation.org",
     "bsc-poocoin.app",
     "starknet-go1d.com",
     "starknet-l2.cloud",
