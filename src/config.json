@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-program-f1.cloud",
     "provisions-strknet.xyz",
     "fuelsnetsworks.network",
     "eigenin.xyz",
