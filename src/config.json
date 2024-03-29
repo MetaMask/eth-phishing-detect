@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "synfiutures.com",
     "papescoins.live",
     "etherxy.net",
     "dapps-net.vercel.app",
