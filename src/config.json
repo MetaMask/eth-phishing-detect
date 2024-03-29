@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocations-eigenlayer.com",
+    "free-eigenlayer.pro",
     "papescoins.live",
     "etherxy.net",
     "dapps-net.vercel.app",
