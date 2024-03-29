@@ -132172,9 +132172,10 @@
     "mantatrading.network",
     "octavia.claims",
     "zksyncprotocol.trade",
-    "app.gelios.network",
     "gaiminprotocols.support",
     "juicefinance.trade",
-    "pikefinance.support"
+    "pikefinance.support",
+    "gelios.network",
+    "ready-dop.com"
   ]
 }
