@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eigenlayer-claim.website",
+    "eigenlayer-points.com",
+    "eigenlayer-xyz.online",
+    "eigenlayer.app-sync.top",
+    "eigenlayer.web3.com",
     "help-metachrrma.gitbook.io",
     "help-metachrrmo.gitbook.io",
     "metamaskaccesslogin.webflow.io",
