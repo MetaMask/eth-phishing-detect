@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bitcoindogs.club",
+    "spacepi.xyz",
     "nfp-token-transfer-restore.netlify.app",
     "earn-munchable.app",
     "gg5577.net",
