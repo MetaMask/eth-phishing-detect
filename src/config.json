@@ -132083,12 +132083,13 @@
     "ordprotocol.app",
     "shufflenetwork.trading",
     "linktrs-wormholecrypto.com",
-    "multiplier.zeroilsends.network",
-    "stake.nodeai.events",
-    "staking.superversefi.network",
     "vote.bitsmilesy.support",
-    "stake.bomeprotocol.app",
     "vote.vectorsresreves.finance",
-    "vote.ringexchange.trade"
+    "vote.ringexchange.trade",
+    "bomeprotocol.app",
+    "nodeai.events",
+    "superversefi.network",
+    "zeroilsends.network",
+    "trstlpad.org"
   ]
 }
