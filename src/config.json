@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metimasiklocin.webflow.io",
     "zircuit-app.network",
     "zircuit-app.xyz",
     "zircuit-web.co",
