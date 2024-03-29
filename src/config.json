@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zircuit-app.network",
+    "zircuit-app.xyz",
+    "zircuit-web.co",
     "starknet-program-f1.cloud",
     "provisions-strknet.xyz",
     "fuelsnetsworks.network",
