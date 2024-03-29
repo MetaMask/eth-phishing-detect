@@ -132896,9 +132896,10 @@
     "ordfinance.support",
     "zksyncprotocol.events",
     "round1-wormhole.com",
-    "claim.onbeamfi.network",
     "aptos-allocation.com",
     "multibitbridge.net",
-    "app-thor.com"
+    "app-thor.com",
+    "onbeamfi.network",
+    "vote.renzonetwork.support"
   ]
 }
