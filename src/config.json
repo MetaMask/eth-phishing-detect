@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-zircuit.network",
+    "app-zircuit.xyz",
+    "zircuiti.com",
     "eigenlayer2.pages.dev",
     "eigenlayerxyz.cfd",
     "app.eigenlayer.life",
