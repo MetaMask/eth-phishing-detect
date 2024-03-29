@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "node-runner.online",
     "reward-avail.network",
     "allocations-eigenlayer.com",
     "free-eigenlayer.pro",
