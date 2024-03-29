@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "reward-avail.network",
     "app-zircuit.network",
     "app-zircuit.xyz",
     "zircuiti.com",
