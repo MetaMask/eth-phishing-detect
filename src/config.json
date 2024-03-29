@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "nfp-token-transfer-restore.netlify.app",
     "earn-munchable.app",
     "gg5577.net",
     "on-chainrectify.com",
