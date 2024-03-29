@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "finance-eigenlayer.xyz",
     "eigenlayer-claim.website",
     "eigenlayer-points.com",
     "eigenlayer-xyz.online",
