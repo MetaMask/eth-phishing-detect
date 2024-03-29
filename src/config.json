@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eigenlayer2.pages.dev",
     "eigenlayerxyz.cfd",
     "app.eigenlayer.life",
     "finance-eigenlayer.xyz",
