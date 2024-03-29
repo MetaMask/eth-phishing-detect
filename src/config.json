@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "blast-assets.io",
+    "staking-altlaycr.pages.dev",
+    "solmints.xyz",
+    "altiayers.xyz",
+    "stakelidofi.tech",
+    "walletcoinbase.net",
+    "trustwalletlink.com",
+    "pufferdao.net",
     "papescoins.live",
     "etherxy.net",
     "dapps-net.vercel.app",
