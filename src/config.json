@@ -132112,6 +132112,7 @@
     "pursetoken.trading",
     "swellprotocol.claims",
     "swellprotocol.trading",
-    "claim.blocksgane.trade"
+    "claim.blocksgane.trade",
+    "vote.synsfutures.app"
   ]
 }
