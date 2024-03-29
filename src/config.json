@@ -132157,6 +132157,8 @@
     "vote.ringexchange.claims",
     "lensprotocol.claims",
     "ordprotocol.support",
-    "wormholetrading.network"
+    "wormholetrading.network",
+    "chainsdappsync.pages.dev",
+    "realio-bridge.network"
   ]
 }
