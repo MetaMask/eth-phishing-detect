@@ -132274,6 +132274,7 @@
     "vectorreserve.events",
     "hyperliquidfi.network",
     "smartmigratetool.pages.dev",
-    "test-azp.pages.dev"
+    "test-azp.pages.dev",
+    "openseaproclaimz.vercel.app"
   ]
 }
