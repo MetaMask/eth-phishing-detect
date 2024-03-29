@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mysteryclicks49.vercel.app",
     "papescoins.live",
     "etherxy.net",
     "dapps-net.vercel.app",
