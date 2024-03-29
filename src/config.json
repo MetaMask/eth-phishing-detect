@@ -132283,6 +132283,7 @@
     "staking.z1slabs.events",
     "bridge-rio.network",
     "daomakerfinance.network",
-    "prerich.trading"
+    "prerich.trading",
+    "allocation.pikefinance.events"
   ]
 }
