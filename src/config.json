@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chain-airdrop.us.to",
     "mwetmaskewlwlt.webflow.io",
     "metimasiklocin.webflow.io",
     "zircuit-app.network",
