@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "restores-metamask-deskhelp.webflow.io",
     "metamaskwalte.org",
     "metamask-uswallet.webflow.io",
     "chain-airdrop.us.to",
