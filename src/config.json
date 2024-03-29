@@ -132111,6 +132111,7 @@
     "pikefinance.app",
     "pursetoken.trading",
     "swellprotocol.claims",
-    "swellprotocol.trading"
+    "swellprotocol.trading",
+    "claim.blocksgane.trade"
   ]
 }
