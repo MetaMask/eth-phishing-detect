@@ -131334,7 +131334,6 @@
     "claim-parcel.com",
     "allocation.juicedsfis.com",
     "officialrevoke.pages.dev",
-    "stake.bomeprotocol.net",
     "vote.ringexchanges.trade",
     "appthrusters.finance",
     "prismafinances.support",
@@ -131650,6 +131649,10 @@
     "apps.bridges-realionetwork.com",
     "april-wormhole.com",
     "allocate-tokens.network",
-    "www.apps-thruster.finance"
+    "www.apps-thruster.finance",
+    "bomeprotocol.net",
+    "bomeprotocol.network",
+    "claim.etherfinance.events",
+    "reward.entscoin.com"
   ]
 }
