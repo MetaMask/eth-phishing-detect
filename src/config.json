@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "reward-avail.network",
     "allocations-eigenlayer.com",
     "free-eigenlayer.pro",
     "papescoins.live",
