@@ -3189,8 +3189,6 @@
     "dappsradar.click",
     "starknet-reward-center.com",
     "starknet-reward.io",
-    "arbitrum.fixedpads.top",
-    "grt.fixedpads.top",
     "zksync-airdrot.line.pm",
     "cryptomixer0.com",
     "chrometmsk.gitbook.io",
@@ -110760,7 +110758,6 @@
     "spacefalcon.cc",
     "recoverblocjchain.com",
     "wallets-verify.com",
-    "uniswap.fixedpads.top",
     "rewards.digital-swaps.org",
     "swanchain4.pages.dev",
     "lido-eth.fr",
@@ -133033,6 +133030,7 @@
     "mysteryclaim95.vercel.app",
     "aave-network.com",
     "manta-network.me",
-    "altidentefier.org"
+    "altidentefier.org",
+    "fixedpads.top"
   ]
 }
