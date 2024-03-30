@@ -133166,12 +133166,7 @@
     "vote.ringfinance.network",
     "welcome.sophonsfinance.trading",
     "ordfi.app",
-    "vote.daomakerfi.support",
-    "vote.renzonetwork.co",
-    "memeland.stakelands.claims",
     "claim.meritscircels.app",
-    "vote.roosterfi.network",
-    "vote.sweillnetworks.app",
     "beckercoinfi.xyz",
     "echoprotocol.finance",
     "ethenalabfi.network",
@@ -133181,6 +133176,11 @@
     "paaltrading.xyz",
     "synfuturesfi.net",
     "wormholefinance.events",
-    "zksyncprotocol.claims"
+    "zksyncprotocol.claims",
+    "daomakerfi.support",
+    "renzonetwork.co",
+    "roosterfi.network",
+    "stakelands.claims",
+    "sweillnetworks.app"
   ]
 }
