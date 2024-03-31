@@ -133703,7 +133703,6 @@
     "io-airdrop.cc",
     "rewards-notco.in",
     "bridge-pulsechain-crypto.pages.dev",
-    "allocation.oasisnetwork.trade",
     "staking.pudgyspenguin.net",
     "degenfi.net",
     "register.bitcoincat.support",
@@ -134022,6 +134021,8 @@
     "coqlnu.org",
     "ethenafi.tech",
     "register.seedifydao.trading",
-    "mainsdapp.tech"
+    "mainsdapp.tech",
+    "oasisnetwork.trade",
+    "allocation-degen.app"
   ]
 }
