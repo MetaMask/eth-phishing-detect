@@ -134301,7 +134301,11 @@
     "go.get-notcoin.com",
     "whitelists-polyhedra.network",
     "vote.blackwingfi.net",
-    "stake.coqinucoin.trading",
-    "signup.azurofinance.com"
+    "signup.azurofinance.com",
+    "check.shuffleprotocol.trading",
+    "treasury.wardenprotocol.app",
+    "testnet.codedestate.app",
+    "register.availproject.trading",
+    "coqinucoin.trading"
   ]
 }
