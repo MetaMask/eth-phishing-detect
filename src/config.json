@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "amblent.finance",
     "mantradropz.com",
     "pancakae.org",
     "meta-online-server.vercel.app",
