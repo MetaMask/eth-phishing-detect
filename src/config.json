@@ -134299,7 +134299,6 @@
     "go.get-notcoin.com",
     "whitelists-polyhedra.network",
     "vote.blackwingfi.net",
-    "signup.azurofinance.com",
     "treasury.wardenprotocol.app",
     "testnet.codedestate.app",
     "coqinucoin.trading",
@@ -134426,7 +134425,9 @@
     "scottyttheai.com",
     "tryriing.io",
     "presale.pollakscoin.com",
-    "quest.ordsfinance.claims",
-    "rwa.meme"
+    "rwa.meme",
+    "azurofinance.com",
+    "azurofinance.net",
+    "ordsfinance.claims"
   ]
 }
