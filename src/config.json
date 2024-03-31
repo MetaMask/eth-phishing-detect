@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "amblent.finance",
     "papescoins.live",
     "etherxy.net",
     "dapps-net.vercel.app",
