@@ -134028,7 +134028,6 @@
     "seedifydao.app",
     "seedifydao.trading",
     "thrustr.finance",
-    "register.seedifydao.support",
     "mferscoin.io",
     "realprotocol.trade",
     "allocation-basedbrett.pages.dev",
@@ -134140,6 +134139,7 @@
     "beraschains.net",
     "allocation.coq-lnunet.com",
     "degentipfi.app",
-    "seedifydao.events"
+    "seedifydao.events",
+    "seedifydao.support"
   ]
 }
