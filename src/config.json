@@ -134552,7 +134552,6 @@
     "registration-pacmoon.app",
     "jessecom.pages.dev",
     "degenscoinfi.trading",
-    "quest.ordinalprotocolfi.support",
     "retik.link",
     "whitepages-wormholes.com",
     "thenotcoin.io",
@@ -134620,10 +134619,7 @@
     "metisl2protocol.com",
     "prerichtrading.events",
     "renzoprotocolfi.support",
-    "allocation.bsquaredfi.com",
-    "stake.madscientistslab.network",
     "multiwalletresolveapp.pages.dev",
-    "memeland.stakelandfarming.network",
     "claim.wormholeprotocol.cfd",
     "atorprotocol.cfd",
     "azurofinance.network",
@@ -134640,6 +134636,11 @@
     "shuffleprotocol.finance",
     "toshithecatfi.net",
     "wardenprotocol.net",
-    "allocation.rendernetworkdao.trade"
+    "allocation.rendernetworkdao.trade",
+    "bsquaredfi.com",
+    "madscientistslab.network",
+    "ordinalprotocolfi.support",
+    "stakelandfarming.network",
+    "zkfairsnetworks.trading"
   ]
 }
