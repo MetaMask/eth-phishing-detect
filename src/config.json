@@ -134305,7 +134305,6 @@
     "treasury.wardenprotocol.app",
     "testnet.codedestate.app",
     "coqinucoin.trading",
-    "airdrop.degenscoinfi.com",
     "shuffleprotocol.trading",
     "dogemainfixchain.pages.dev",
     "sora.tf",
@@ -134334,6 +134333,8 @@
     "mysteryboxc432.vercel.app",
     "availproject.trading",
     "oasisnetwork.events",
-    "fetcher-ai.com"
+    "fetcher-ai.com",
+    "degenscoinfi.com",
+    "degenscoinfi.network"
   ]
 }
