@@ -134620,7 +134620,6 @@
     "prerichtrading.events",
     "renzoprotocolfi.support",
     "multiwalletresolveapp.pages.dev",
-    "claim.wormholeprotocol.cfd",
     "atorprotocol.cfd",
     "azurofinance.network",
     "beckercoinfinance.events",
@@ -134636,11 +134635,20 @@
     "shuffleprotocol.finance",
     "toshithecatfi.net",
     "wardenprotocol.net",
-    "allocation.rendernetworkdao.trade",
     "bsquaredfi.com",
     "madscientistslab.network",
     "ordinalprotocolfi.support",
     "stakelandfarming.network",
-    "zkfairsnetworks.trading"
+    "zkfairsnetworks.trading",
+    "vote.daomakerfi.us",
+    "blast.pacmoonscoin.net",
+    "vote.orbitlendings.events",
+    "allocation.ethenalabsyn.com",
+    "presale.gummycoin.network",
+    "bloclkdaeg.network",
+    "ethenaofficial.com",
+    "rendernetworkdao.trade",
+    "wormholeprotocol.cfd",
+    "stake.normiebasedao.net"
   ]
 }
