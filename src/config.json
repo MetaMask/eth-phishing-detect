@@ -134178,12 +134178,7 @@
     "register.availproject.app",
     "stake.nakmotogames.trade",
     "quest.befilabprotocol.app",
-    "multiplier.zerolendsprotcol.network",
     "register.echofinance.trade",
-    "revoke.prismafi.trade",
-    "allocation.juicefinance.claims",
-    "allocation.oasisnetwork.trading",
-    "quest.ordsfinance.network",
     "alturanetworkfi.xyz",
     "bitcoincatfi.network",
     "friendstech.trading",
@@ -134191,6 +134186,11 @@
     "mogdrop.xyz",
     "pulsechainfi.net",
     "redstonedefi.claims",
-    "normiebasefi.xyz"
+    "normiebasefi.xyz",
+    "juicefinance.claims",
+    "oasisnetwork.trading",
+    "ordsfinance.network",
+    "prismafi.trade",
+    "zerolendsprotcol.network"
   ]
 }
