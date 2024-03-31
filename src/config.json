@@ -134084,6 +134084,9 @@
     "layersai.events",
     "juicefinance.events",
     "degentipfi.trading",
-    "webprotocol.pages.dev"
+    "webprotocol.pages.dev",
+    "whalemarket-staking.pages.dev",
+    "whalesmarket-app.pages.dev",
+    "whalesmarket-pool.pages.dev"
   ]
 }
