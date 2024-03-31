@@ -134296,8 +134296,6 @@
     "apptrusther.finance",
     "go.get-notcoin.com",
     "whitelists-polyhedra.network",
-    "treasury.wardenprotocol.app",
-    "testnet.codedestate.app",
     "coqinucoin.trading",
     "shuffleprotocol.trading",
     "dogemainfixchain.pages.dev",
@@ -134675,6 +134673,9 @@
     "bsquare-fi.com",
     "alts-pads500.top",
     "blackwingfi.net",
-    "registrations-pacmoon.app"
+    "registrations-pacmoon.app",
+    "codedestate.app",
+    "rebio.cfd",
+    "wardenprotocol.app"
   ]
 }
