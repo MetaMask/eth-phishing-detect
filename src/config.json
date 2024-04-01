@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "binance.directory",
+    "solana-mobile.myshopify.com",
+    "home-437.pages.dev",
+    "solana-basic2.vercel.app",
     "trustwalletweb.vercel.app",
     "com0.me",
     "trustwalletrecovery.online",
