@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mycoinbasebenefits.com",
+    "coinbaspnft.com",
+    "coinbase.no",
+    "hackerone.com",
     "coinbasp.co",
     "solanatools-devnet.vercel.app",
     "mojtabaaeinbinance.workers.dev",
