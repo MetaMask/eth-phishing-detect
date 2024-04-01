@@ -135792,7 +135792,6 @@
     "vote.redstonedao.trade",
     "claimables.dev",
     "vote.vectorreservefi.net",
-    "vote.synfuturesfi.trading",
     "register.octaviatrading.network",
     "vote.daomakerlaunchpad.com",
     "alturaprotocol.com",
@@ -136096,11 +136095,6 @@
     "borrow-zerolend.xyz",
     "quest.seedifyfundio.trading",
     "dexguru.space",
-    "allocation.ethenalabsyn.trading",
-    "quest.ordinexcoin.us",
-    "eligibility.zksynctechnology.net",
-    "register.everysworlds.claims",
-    "vote.synfuturesfi.claims",
     "echonetwork.trade",
     "friendtechfi.events",
     "juicenetwork.trading",
@@ -136109,6 +136103,12 @@
     "prismafi.finance",
     "pudgyspenguin.info",
     "pulsechainfi.cfd",
-    "zlinkapp.xyz"
+    "zlinkapp.xyz",
+    "ethenalabsyn.trading",
+    "everysworlds.claims",
+    "ordinexcoin.us",
+    "synfuturesfi.claims",
+    "synfuturesfi.trading",
+    "zksynctechnology.net"
   ]
 }
