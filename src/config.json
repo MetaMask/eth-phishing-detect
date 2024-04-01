@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coinbasp.co",
+    "solanatools-devnet.vercel.app",
+    "mojtabaaeinbinance.workers.dev",
     "ld-space.com",
     "binancescoinex.cc",
     "step-staking-on-solana.vercel.app",
