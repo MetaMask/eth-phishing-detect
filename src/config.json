@@ -135820,8 +135820,6 @@
     "blockgamefi.app",
     "wormholeblockchain.events",
     "aevoprotocol.trade",
-    "allocation.juicenetwork.trade",
-    "claim.pandoranetwork.app",
     "voltmigrate.org",
     "triasprotcol.claims",
     "everysworlds.finance",
@@ -135836,6 +135834,18 @@
     "lootbotfi.com",
     "ordinexcoin.events",
     "quest.befilabprotocol.info",
-    "sophonprotocol.com"
+    "sophonprotocol.com",
+    "juicenetwork.trade",
+    "claim.onbeamfi.support",
+    "launchpad.apeterminai.xyz",
+    "allocation.monadtrading.finance",
+    "launchpad.paaldao.network",
+    "pandoranetwork.app",
+    "pool-burnbox.firebaseapp.com",
+    "vote.bitsmiley.cfd",
+    "claim.b0b0thebear.org",
+    "galaxies.zkfairsnetworks.events",
+    "multiplier.zerolendsprotcol.trading",
+    "vote.ringfinance.trading"
   ]
 }
