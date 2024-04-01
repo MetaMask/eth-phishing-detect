@@ -135824,9 +135824,7 @@
     "ordinexcoin.events",
     "sophonprotocol.com",
     "juicenetwork.trade",
-    "claim.onbeamfi.support",
     "launchpad.apeterminai.xyz",
-    "allocation.monadtrading.finance",
     "pandoranetwork.app",
     "pool-burnbox.firebaseapp.com",
     "claim.b0b0thebear.org",
@@ -136111,16 +136109,18 @@
     "synfuturesfi.trading",
     "zksynctechnology.net",
     "www-wallet-magiceden.com",
-    "allocation.bakeryswapdao.trading",
-    "launchpad.aitechfis.claims",
     "register.lootbotfi.net",
-    "allocation.monadtrading.claims",
-    "claim.onbeamfi.info",
     "012893.com",
     "2kusdvoucher.shop",
     "pikefinancedao.com",
     "roostertokenfi.trading",
     "presale-ash.com",
-    "vote.ringfinance.events"
+    "vote.ringfinance.events",
+    "aitechfis.claims",
+    "bakeryswapdao.trading",
+    "monadtrading.claims",
+    "monadtrading.finance",
+    "onbeamfi.info",
+    "onbeamfi.support"
   ]
 }
