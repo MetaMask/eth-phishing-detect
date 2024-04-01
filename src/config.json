@@ -135791,7 +135791,6 @@
     "quest.seedifyfundio.trade",
     "vote.redstonedao.trade",
     "claimables.dev",
-    "vote.vectorreservefi.net",
     "register.octaviatrading.network",
     "vote.daomakerlaunchpad.com",
     "alturaprotocol.com",
@@ -136179,9 +136178,12 @@
     "pikefinancedao.net",
     "zerolendsprotcol.finance",
     "alt2.pages.dev",
-    "vote.roostertokenfi.claims",
     "quest.seedifyfundio.finance",
-    "vote.vectorreservefi.network",
-    "vote.lensnetwork.finance"
+    "quest.seedifyfundcoin.com",
+    "claim-cmc.xyz",
+    "lensnetwork.finance",
+    "roostertokenfi.claims",
+    "vectorreservefi.net",
+    "vectorreservefi.network"
   ]
 }
