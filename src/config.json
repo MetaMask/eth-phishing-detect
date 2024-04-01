@@ -135791,7 +135791,6 @@
     "quest.seedifyfundio.trade",
     "vote.redstonedao.trade",
     "claimables.dev",
-    "register.echofi.support",
     "vote.vectorreservefi.net",
     "vote.synfuturesfi.trading",
     "register.octaviatrading.network",
@@ -136063,6 +136062,8 @@
     "realprotocol.trading",
     "game.v2-pacmoon.com",
     "mocaversefi.info",
-    "solana-promo.info"
+    "solana-promo.info",
+    "vote.zigzag.support",
+    "echofi.support"
   ]
 }
