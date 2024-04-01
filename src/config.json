@@ -135165,7 +135165,6 @@
     "metamaskconnect.pages.dev",
     "metamaski.workers.dev",
     "trezor-crypto-wallet.com",
-    "swap.orca.cm",
     "defillamas.shop",
     "manta-gaming.info",
     "pontem.tech",
@@ -135278,6 +135277,7 @@
     "jupireward.com",
     "web-xpet.tech",
     "allocation.ventoryfi.app",
-    "lootyfi.net"
+    "lootyfi.net",
+    "orca.cm"
   ]
 }
