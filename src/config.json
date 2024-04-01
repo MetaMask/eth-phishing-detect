@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arnbientfinance.com",
     "amblent.finance",
     "mantradropz.com",
     "pancakae.org",
@@ -135555,6 +135556,17 @@
     "worldnftsgen.top",
     "airdrop-ethenalab.com",
     "mysteryclaim58b.vercel.app",
-    "florencefinance.pages.dev"
+    "florencefinance.pages.dev",
+    "inqubeta.sale",
+    "claims-nibiruorgg.pages.dev",
+    "enlist-otherside.pages.dev",
+    "rewards-ventorycom.pages.dev",
+    "side-eth.vercel.app",
+    "web3kavaa.vercel.app",
+    "nig.ipfs-gateway-xb8.xyz",
+    "reward-ventury.com",
+    "aevoprotocol.network",
+    "dashbd-pepe09380.pro",
+    "friendtechfi.trade"
   ]
 }
