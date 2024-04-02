@@ -134410,10 +134410,8 @@
     "appid-get.click",
     "protect.web-blockgames.com",
     "airdroppromo.online",
-    "quest.seedifyfundio.trade",
     "vote.redstonedao.trade",
     "claimables.dev",
-    "register.octaviatrading.network",
     "vote.daomakerlaunchpad.com",
     "alturaprotocol.com",
     "beckertoken.com",
@@ -138910,8 +138908,12 @@
     "dogecoin20claim.pages.dev",
     "ensdomainfi.trading",
     "register.mochiscatsol.com",
-    "claim.blastl2protocols.net",
     "register-arc.com",
-    "kclpdac.net"
+    "kclpdac.net",
+    "blastl2protocols.net",
+    "solana-saga-mobile.web.app",
+    "octaviatrading.network",
+    "seedifyfundio.trade",
+    "blast-io-axr.pages.dev"
   ]
 }
