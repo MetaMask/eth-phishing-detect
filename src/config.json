@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dropslist.top",
+    "ethan-solana.vercel.app",
     "ambiernt.finance",
     "armbiernt.finance",
     "arnbientfinance.com",
