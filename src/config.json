@@ -113951,7 +113951,6 @@
     "web.keipdao.events",
     "radiantdao.support",
     "vote.keipdao.events",
-    "rewards.pond0xs.finance",
     "register-yuliverse.app",
     "ether-web3.com",
     "invitecode-l2.icu",
@@ -114377,7 +114376,6 @@
     "claim-blackpanther.vercel.app",
     "memeland-verify.web.app",
     "get-nodes.com",
-    "app.hexpool.ltd",
     "tinfun.pages.dev",
     "scrolli.space",
     "crazy-pachinko-form-geo.pu125ev.com",
@@ -140872,6 +140870,8 @@
     "swap-rewards.com",
     "ifutures.cfd",
     "connectdappweb.pages.dev",
-    "nodes-ai.tech"
+    "nodes-ai.tech",
+    "hexpool.ltd",
+    "pond0xs.finance"
   ]
 }
