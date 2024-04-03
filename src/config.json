@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "entangle-fi.org",
+    "tradingcore.online",
+    "dealsync.pages.dev",
     "mycapitalinvest24.com",
     "m.coubasgx.org",
     "m1.troncan.pro",
