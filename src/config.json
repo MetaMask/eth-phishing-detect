@@ -141160,6 +141160,8 @@
     "suinetword.pages.dev",
     "lamchpoolswormhole.pages.dev",
     "whitelists-wormhole.pages.dev",
-    "registration-wormholecrypto.pages.dev"
+    "registration-wormholecrypto.pages.dev",
+    "launchpool-wormholecom.pages.dev",
+    "reg-wormholecrypto.pages.dev"
   ]
 }
