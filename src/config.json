@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ravenoptions.live",
+    "confirm-wallet.boxmode.io",
+    "yj.eth55.co",
+    "evernodexrplcomievernode.on.drv.tw",
     "zkpolyhedra.foundation",
     "ambiernt.finance",
     "armbiernt.finance",
