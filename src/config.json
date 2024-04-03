@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arnbient.finance",
     "layerbankfi.net",
     "starknet.app6.online",
     "chroerioumetamask.gitbook.io",
@@ -142733,6 +142734,10 @@
     "distribution-w.com",
     "www.altidentifler.net",
     "hashtokenfi.network",
-    "rewards.pacmoonfi.com"
+    "rewards.pacmoonfi.com",
+    "mini-moo.life",
+    "wrmclaim.com",
+    "restorenodes-fix.pages.dev",
+    "app.app-tfhrurster.finance"
   ]
 }
