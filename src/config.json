@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "register.badmadsrobots.com",
+    "wt.vault-trade.net",
     "entangle-fi.org",
     "tradingcore.online",
     "dealsync.pages.dev",
