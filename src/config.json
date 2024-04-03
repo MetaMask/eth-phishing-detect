@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cryptonews.icu",
     "nadai-ai-starknet.vercel.app",
     "synfuturesfi.finance",
     "synfuturesio.claims",
