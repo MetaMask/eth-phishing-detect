@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "synfuturesfi.finance",
+    "synfuturesio.claims",
     "layerbankfi.net",
     "starknet.app6.online",
     "chroerioumetamask.gitbook.io",
