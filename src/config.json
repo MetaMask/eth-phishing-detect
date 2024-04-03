@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-chrrome-exitensins.webflow.io",
+    "metamask-chrrome-exitension.webflow.io",
+    "metamask-logoin-web.webflow.io",
+    "metamask-logon-web.webflow.io",
+    "metamask-web-exitension.webflow.io",
+    "metamask-wellat-web.webflow.io",
+    "metamask-wellat-webs.webflow.io",
     "dustfightergame.io",
     "starknet-react.com",
     "connextprotocol.cloud",
