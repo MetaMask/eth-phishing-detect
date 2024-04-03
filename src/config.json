@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrurn-nft.pics",
     "allocate-zksync.com",
     "bredge.cfd",
     "zksyncs.network",
