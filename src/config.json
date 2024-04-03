@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zk-sync-app.com",
     "allocations-eigenlayer.app",
     "buildonlinea.com",
     "link-linea.xn--com-9o0a",
