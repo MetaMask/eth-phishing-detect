@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zzksyncwwallt.webflow.io",
     "metamiasdklogui.webflow.io",
     "metamaqskwalletextension.webflow.io",
     "metqamskwallet.webflow.io",
