@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "globalrefundgroup.com",
     "app-poocoin.com",
     "ethena-fi.org",
     "etsyiod.cc",
