@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-poocoin.com",
+    "ethena-fi.org",
+    "etsyiod.cc",
+    "vipsniperbot.io",
+    "wealthfrontpros.com",
     "hovertraders.com",
     "mega-alliance.com",
     "piggybonki.vip",
