@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "connextthailand.com",
     "dev-connext.com",
     "xn--conme-c4a.com",
     "koinmelogin.webflow.io",
