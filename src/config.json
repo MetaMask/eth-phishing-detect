@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocate-zksync.com",
+    "bredge.cfd",
+    "zksyncs.network",
+    "testnet-zksync.pages.dev",
     "zk-sync-app.com",
     "allocations-eigenlayer.app",
     "buildonlinea.com",
