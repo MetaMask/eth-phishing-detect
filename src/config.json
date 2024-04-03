@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "xn--conme-c4a.com",
+    "koinmelogin.webflow.io",
+    "web-coinme.webflow.io",
+    "coinme.my.site.com",
     "coinme-logi.webflow.io",
     "coinme-loginus.webflow.io",
     "coinme-wallet.webflow.io",
