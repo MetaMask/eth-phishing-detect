@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "near.green",
+    "resolverdapps.web.app",
     "ethrscans.io",
     "newworldtradex.com",
     "web3-corgipool.cc",
