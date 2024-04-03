@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-coinme.webflow.io",
+    "coinme-lgin.webflow.io",
+    "portal-coinme.webflow.io",
+    "secure-coinmee.webflow.io",
+    "securee-coinme.webflow.io",
     "cryptonews.icu",
     "nadai-ai-starknet.vercel.app",
     "synfuturesfi.finance",
