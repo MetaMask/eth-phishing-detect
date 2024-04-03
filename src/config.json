@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "chroerioumetamask.gitbook.io",
+    "metamask-locgin.gitbook.io",
+    "metamaskweb-page-restore.webflow.io",
     "arb.gcoins.top",
     "arb.xonedrops.top",
     "arbituyrumbridge.gitbook.io",
