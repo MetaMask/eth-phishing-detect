@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "vote.pulseschain.trade",
     "maskcoinairdrop.com",
     "register.badmadsrobots.com",
     "wt.vault-trade.net",
