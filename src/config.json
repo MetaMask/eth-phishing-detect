@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eigendrop.xyz",
+    "eigenlayersfi.net",
     "xc.cd2362.vip",
     "vote.pulseschain.trade",
     "maskcoinairdrop.com",
