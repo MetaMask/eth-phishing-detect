@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dustfightergame.io",
+    "starknet-react.com",
     "connextprotocol.cloud",
     "connextthailand.com",
     "dev-connext.com",
