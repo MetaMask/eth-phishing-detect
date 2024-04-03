@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.app6.online",
     "chroerioumetamask.gitbook.io",
     "metamask-locgin.gitbook.io",
     "metamaskweb-page-restore.webflow.io",
