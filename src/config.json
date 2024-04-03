@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "nadai-ai-starknet.vercel.app",
     "synfuturesfi.finance",
     "synfuturesio.claims",
     "layerbankfi.net",
