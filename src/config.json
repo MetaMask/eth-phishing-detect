@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocations-eigenlayer.app",
+    "buildonlinea.com",
+    "link-linea.xn--com-9o0a",
     "eigendrop.xyz",
     "eigenlayersfi.net",
     "xc.cd2362.vip",
