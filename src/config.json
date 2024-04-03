@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "suiwallet-extension.com",
+    "uniswap-connecting.site",
     "bridge-base.app",
     "live-klaviyo.pantheonsite.io",
     "17825-coinbase.com",
