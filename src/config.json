@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metasmaskwaalletextension.webflow.io",
+    "metmskkwllte.webflow.io",
+    "mettimaskklogin.webflow.io",
     "dhedge.capital",
     "dhedgedao.org",
     "dhedlge.org",
