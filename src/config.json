@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-walletextension.webflow.io",
     "rabbywalet.webflow.io",
     "zksync.potral.cfd",
     "zksync.potral.xyz",
