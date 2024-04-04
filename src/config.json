@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksyncswapera.com",
     "obtain-zksync.com",
     "zksync-allocations.com",
     "zksynctechnologyfi.com",
