@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamawallet.webflow.io",
     "curvegsfinance.webflow.io",
     "curvekjwallet.webflow.io",
     "droping.top",
