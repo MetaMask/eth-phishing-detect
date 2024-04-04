@@ -45,6 +45,15 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zircuit-app.buzz",
+    "zircuit-app.click",
+    "zircuit-app.com",
+    "zircuit-app.icu",
+    "zircuit-app.online",
+    "zircuit-app.site",
+    "zircuit-app.top",
+    "zircuit-stake.com",
+    "zircuitt.cfd",
     "app-zircuit.com",
     "free-claiming.website",
     "stakezircuit.finance",
