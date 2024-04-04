@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "17915-coinbase.com",
+    "whitelist-magiceden.io",
+    "285092-coinbase.com",
     "jitosol-network.pages.dev",
     "kaniua.com",
     "accepts-wormhole.pages.dev",
