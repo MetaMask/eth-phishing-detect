@@ -142580,7 +142580,6 @@
     "ur.eth-finder.com",
     "zeusnetwork-xyz.com",
     "verified-wormhole.com",
-    "app.reward.pacmoonfi.com",
     "register-pendle.xyz",
     "everyworlds.org",
     "vote.havacoin.network",
@@ -142958,6 +142957,7 @@
     "thrufster.finance",
     "odosswap.org",
     "odos-7a1.pages.dev",
-    "get-merlinchain.vercel.app"
+    "get-merlinchain.vercel.app",
+    "reward.pacmoonfi.com"
   ]
 }
