@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "homepage-metamask-lugin.webflow.io",
+    "metamask-homepage.webflow.io",
+    "metamaskwallextn.webflow.io",
     "metamask-extension.blogspot.com.ee",
     "metamask-log-in.blogspot.co.za",
     "web.fixwallettoken.org",
