@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fuelairdrop.xyz",
+    "airdrop.fuelnetwork.top",
     "metamaskchrxtons.gitbook.io",
     "metamaskliogn.gitbook.io",
     "metamasklogin.gitbook.io",
