@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "obtain-zksync.com",
+    "zksync-allocations.com",
+    "zksynctechnologyfi.com",
     "menttamnslogin.webflow.io",
     "metamaskloginesds.webflow.io",
     "metamskvollet.webflow.io",
