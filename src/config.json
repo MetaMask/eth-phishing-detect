@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "help-maetmsk.gitbook.io",
+    "metmextesion.gitbook.io",
     "metamawallet.webflow.io",
     "curvegsfinance.webflow.io",
     "curvekjwallet.webflow.io",
