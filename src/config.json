@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "drop-arbitrum.foundation",
     "starknet-allocations.pages.dev",
     "remixscriptdeploy.pro",
     "tradingbotstrategy.info",
