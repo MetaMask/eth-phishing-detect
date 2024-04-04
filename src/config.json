@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metesmaskd.azurewebsites.net",
     "arb-coin.cc",
     "metasmaskwaalletextension.webflow.io",
     "metmskkwllte.webflow.io",
