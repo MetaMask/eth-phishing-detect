@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claiming.zknsyc.com",
+    "zkscyniicwallet.webflow.io",
+    "zksync.web-hmint.com",
+    "zksync.web3-inft.com",
+    "zksyncairdrop.my.canva.site",
     "zircuit-app.buzz",
     "zircuit-app.click",
     "zircuit-app.com",
