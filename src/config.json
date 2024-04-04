@@ -143814,6 +143814,7 @@
     "realprotocol.finance",
     "satoshisync.finance",
     "satoshisync.trading",
-    "singularitynet-app.live"
+    "singularitynet-app.live",
+    "hodldai.bot"
   ]
 }
