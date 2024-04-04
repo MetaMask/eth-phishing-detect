@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "gifts-lineabuild.com",
+    "lindrop.xyz",
+    "obtain-lineabuild.com",
     "metamaskwaalete.webflow.io",
     "metuaimaskwallet.webflow.io",
     "meatamsklogins.webflow.io",
