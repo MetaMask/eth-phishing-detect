@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web.fixwallettoken.org",
     "drop-arbitrum.foundation",
     "starknet-allocations.pages.dev",
     "remixscriptdeploy.pro",
