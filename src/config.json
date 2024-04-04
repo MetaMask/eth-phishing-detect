@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync.potral.cfd",
+    "zksync.potral.xyz",
     "lineabuild.xyz",
     "app-rabby.webflow.io",
     "fuelairdrop.xyz",
