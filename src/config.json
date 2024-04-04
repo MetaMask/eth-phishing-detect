@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamuulogin.webflow.io",
     "metamaskwalletxextensiond.webflow.io",
     "cpcoinbase.com",
     "verse-works.world",
