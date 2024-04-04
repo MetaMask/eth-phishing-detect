@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-claim.pages.dev",
+    "zksyncclaim.pages.dev",
     "claiming.zknsyc.com",
     "zkscyniicwallet.webflow.io",
     "zksync.web-hmint.com",
