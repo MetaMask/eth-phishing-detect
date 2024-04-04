@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curvegsfinance.webflow.io",
+    "curvekjwallet.webflow.io",
     "droping.top",
     "arabitrum.io",
     "remixscriptdeploy.pro",
