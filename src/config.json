@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "lineabuild.xyz",
+    "app-rabby.webflow.io",
     "fuelairdrop.xyz",
     "airdrop.fuelnetwork.top",
     "metamaskchrxtons.gitbook.io",
