@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-allocations.pages.dev",
     "remixscriptdeploy.pro",
     "tradingbotstrategy.info",
     "arnbient.finance",
