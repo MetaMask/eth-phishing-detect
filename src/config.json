@@ -142828,7 +142828,6 @@
     "xuirin-io.web.app",
     "app.nftswap-ens.domains",
     "blast-platform.pages.dev",
-    "claim.bera-chain.website",
     "eter.fi",
     "remix-mainnet-solidity.com",
     "api-collab-land-verify-slugs.github.io",
@@ -142850,6 +142849,7 @@
     "distribuation-ice.pages.dev",
     "newcentral.pages.dev",
     "web3scapemanias.pages.dev",
-    "linqai.pages.dev"
+    "linqai.pages.dev",
+    "bera-chain.website"
   ]
 }
