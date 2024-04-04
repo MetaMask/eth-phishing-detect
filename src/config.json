@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dhedge.capital",
+    "dhedgedao.org",
+    "dhedlge.org",
+    "app.dhedge.cc",
     "meftamaskwalletextension.webflow.io",
     "metemaskwallete.webflow.io",
     "mtamsckwalett.webflow.io",
