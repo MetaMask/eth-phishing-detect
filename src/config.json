@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "meqtamaskwalletextension.webflow.io",
     "metaetmttaswakite.webflow.io",
     "metaqmaskwalletextension.webflow.io",
     "re-eigenlayer.com",
