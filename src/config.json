@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-extension.blogspot.com.ee",
+    "metamask-log-in.blogspot.co.za",
     "web.fixwallettoken.org",
     "drop-arbitrum.foundation",
     "starknet-allocations.pages.dev",
