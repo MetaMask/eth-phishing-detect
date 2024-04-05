@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "syncresolvelive.pages.dev",
     "synfutunes.com",
     "synfutures.re",
     "synfuturesio.support",
