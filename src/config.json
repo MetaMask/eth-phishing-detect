@@ -144997,9 +144997,9 @@
     "blast-protocol.cloud",
     "service1-foundation.run",
     "launchpad.bouncedtoken.trade",
-    "participate.tradersjoey.events",
-    "quest.blackpantherdao.claims",
     "atornetworkio.events",
-    "allocation.monadfinanceio.app"
+    "tradersjoey.events",
+    "blackpantherdao.claims",
+    "monadfinanceio.app"
   ]
 }
