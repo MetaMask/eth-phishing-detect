@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskapp.org",
+    "metamask.com-im.com",
+    "metamaskbrowser.gitbook.io",
+    "metamaskchrmxtensionk.gitbook.io",
+    "metamaskextensionkee.gitbook.io",
+    "metamasktion.gitbook.io",
+    "metamaskwalletrestores-homepage.webflow.io",
     "bing-metamaskchromextn.gitbook.io",
     "bing-metamaskk.gitbook.io",
     "bingchromemetamask-extn.gitbook.io",
