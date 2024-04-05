@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "sitemap.arbitfum.io",
+    "sitemaps.arbitfum.io",
     "layerbanks.pages.dev",
     "zksyncairdrops.xyz",
     "gets-zksync.com",
