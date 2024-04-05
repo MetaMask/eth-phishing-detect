@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamasklogi.webflow.io",
     "syncresolvelive.pages.dev",
     "synfutunes.com",
     "synfutures.re",
