@@ -144578,13 +144578,16 @@
     "univ4.site",
     "nft-boxpool.firebaseapp.com",
     "nfts-mintbox.firebaseapp.com",
-    "app.hashbyte.cloud",
     "mint-opensea-d0797.firebaseapp.com",
-    "treasury.etherfidao.trading",
     "mint-opeansea.firebaseapp.com",
     "v2.eth-finder.com",
     "nimnetwork.claims",
     "rivalzaiprotocol.com",
-    "wnaw.site"
+    "wnaw.site",
+    "claim-opeansea.firebaseapp.com",
+    "mint-nftbox-3f8cd.firebaseapp.com",
+    "nft-openbox-e24a0.firebaseapp.com",
+    "etherfidao.trading",
+    "hashbyte.cloud"
   ]
 }
