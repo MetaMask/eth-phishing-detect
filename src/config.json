@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "layerbanks.pages.dev",
     "zksyncairdrops.xyz",
     "gets-zksync.com",
     "eigenlayernetwork.xyz",
