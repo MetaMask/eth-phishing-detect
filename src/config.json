@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "meata-masklogin.webflow.io",
+    "metamaskwalletextensiqion.webflow.io",
     "metaasmsklogin.webflow.io",
     "mettamakslogginn.webflow.io",
     "mtumskwaletextnsion.webflow.io",
