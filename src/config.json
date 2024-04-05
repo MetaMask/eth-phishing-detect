@@ -144541,8 +144541,6 @@
     "meritcircledao.support",
     "oasisprotocolfi.info",
     "pulsechaindao.info",
-    "galaxy.shidodefi.network",
-    "register.aitprotocol.support",
     "blockgamedefi.com",
     "everyworldfi.info",
     "fuelprotocol.app",
@@ -144550,12 +144548,16 @@
     "renzoprotocoldefi.trade",
     "synfuturedefi.com",
     "staking.z1labprotocol.app",
-    "claim.pandoradao.app",
-    "allocate.pikesfinancedao.net",
     "makerdaos.finance",
     "swelldefi.events",
-    "allocation.bakeryswapdefi.trading",
-    "check.shufflenetworkdao.app",
-    "claim.onbeamdao.net"
+    "claim.onbeamdao.net",
+    "launchpad.paaltoken.finance",
+    "vote.bitsmileyfinance.events",
+    "aitprotocol.support",
+    "bakeryswapdefi.trading",
+    "pandoradao.app",
+    "pikesfinancedao.net",
+    "shidodefi.network",
+    "shufflenetworkdao.app"
   ]
 }
