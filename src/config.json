@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskhextesion.webflow.io",
+    "mitkamasklogon.webflow.io",
+    "muetaomasklogin.webflow.io",
     "metamasklogi.webflow.io",
     "syncresolvelive.pages.dev",
     "synfutunes.com",
