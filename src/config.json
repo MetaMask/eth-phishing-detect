@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskcherhrome.gitbook.io",
+    "metamaskchromee.gitbook.io",
+    "metamaskleioogin.gitbook.io",
+    "metamasklogin5.yolasite.com",
+    "metamaskloginvy.webflow.io",
+    "metamaskpilogin.gitbook.io",
+    "metamaskwalletgnc.webflow.io",
     "comnimetamask.webflow.io",
     "metamask-login-setup.webflow.io",
     "metamaskwalletxextensionn.webflow.io",
