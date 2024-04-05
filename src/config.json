@@ -144547,7 +144547,6 @@
     "staking.z1labprotocol.app",
     "makerdaos.finance",
     "swelldefi.events",
-    "claim.onbeamdao.net",
     "vote.bitsmileyfinance.events",
     "aitprotocol.support",
     "bakeryswapdefi.trading",
@@ -144670,6 +144669,7 @@
     "meritcircledefi.net",
     "tradersjoey.finance",
     "cookie3.pages.dev",
-    "onbeamdao.network"
+    "onbeamdao.network",
+    "onbeamdao.net"
   ]
 }
