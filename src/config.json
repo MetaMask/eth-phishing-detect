@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbjtrum-io.com",
+    "info-arbitrum.online",
+    "arbitrum-5d8.pages.dev",
     "meata-masklogin.webflow.io",
     "metamaskwalletextensiqion.webflow.io",
     "metaasmsklogin.webflow.io",
