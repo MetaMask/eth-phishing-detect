@@ -145081,12 +145081,12 @@
     "atornetworkio.app",
     "onbeamdao.app",
     "dagen.cfd",
-    "allocation.oasisprotocolcoin.net",
-    "allocation.pythoracledefi.net",
-    "vote.kelpdaodefi.trading",
     "befilabtoken.net",
     "multiplier.zeroilsends.finance",
     "dropsprotocol.trading",
-    "everyworldio.com"
+    "everyworldio.com",
+    "kelpdaodefi.trading",
+    "oasisprotocolcoin.net",
+    "pythoracledefi.net"
   ]
 }
