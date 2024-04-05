@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "gets-zksync.com",
     "eigenlayernetwork.xyz",
     "eigenllayerr.xyz",
     "web-eigenlayer.com",
