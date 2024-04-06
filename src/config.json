@@ -145537,6 +145537,7 @@
     "stake.nakmotogametoken.trade",
     "treasury.ethertokendao.trade",
     "treasury.detensor.claims",
-    "launchpad.dogecoinio.com"
+    "launchpad.dogecoinio.com",
+    "stake.optinetwork.claims"
   ]
 }
