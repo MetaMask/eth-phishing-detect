@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bookinghotel-us.com",
+    "nodeswift.pages.dev",
     "movdef.pro",
     "nzqsoin.icu",
     "opentable-us.com",
