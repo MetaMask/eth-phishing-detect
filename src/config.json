@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocation.maviagaming.network",
     "eigenleyar.xyz",
     "app.eigenlhayer.xyz",
     "app.tokens-eigenlayer.com",
