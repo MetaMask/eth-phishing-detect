@@ -145424,6 +145424,7 @@
     "presale.beckertokendefi.network",
     "staking.getflokitoken.app",
     "allocation.pythoraclenetwork.events",
-    "allocation.mocaversedao.events"
+    "allocation.mocaversedao.events",
+    "stake.basenjiprotocol.network"
   ]
 }
