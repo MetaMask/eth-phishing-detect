@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "token-wormhole.app",
+    "monadsnft.com",
+    "sol-9au.pages.dev",
+    "registry-wormholecrypto.com",
+    "wormhole-network.com",
+    "regsiter-wormhole.com",
+    "kaminofinance.cc",
+    "airdrop-wormholecrypto.pages.dev",
     "metaasmsklogin.webflow.io",
     "mettamakslogginn.webflow.io",
     "mtumskwaletextnsion.webflow.io",
