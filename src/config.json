@@ -145338,6 +145338,9 @@
     "register.aitprotocolio.events",
     "stake.nakmotogamecoin.info",
     "multiplier.zerolendprotocol.network",
-    "staking.superverseio.events"
+    "staking.superverseio.events",
+    "vote.pufferdefi.events",
+    "claim.onbeamdao.info",
+    "memeland.stakelandio.events"
   ]
 }
