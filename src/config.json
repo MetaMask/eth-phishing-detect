@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eigenllayeer.xyz",
+    "starknet-tech.com",
+    "starknetdex.com",
     "arbitrumair.info",
     "synfmtures.com",
     "allocation.maviagaming.network",
