@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.build",
+    "synfutures.cc",
+    "synfutures.vc",
+    "synfuturese.top",
     "eigenllayeer.xyz",
     "starknet-tech.com",
     "starknetdex.com",
