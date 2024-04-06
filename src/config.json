@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "tlsw.org",
     "msetamakwalextensiox.webflow.io",
     "web-deboard.vercel.app",
     "bookinghotel-us.com",
