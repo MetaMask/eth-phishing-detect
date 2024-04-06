@@ -145213,6 +145213,8 @@
     "vote.swellnetworks.events",
     "stake.dropsprotocol.claims",
     "allocation.monadtokenfi.network",
-    "allocation.oasisprotocolcoin.trade"
+    "allocation.oasisprotocolcoin.trade",
+    "claim.onbeamdao.trade",
+    "vote.ringprotocolio.trade"
   ]
 }
