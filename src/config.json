@@ -145237,6 +145237,9 @@
     "register.octaviaprotocolio.trading",
     "vote.swellnetworks.trade",
     "quest.ordnetworks.trading",
-    "allocation.monadtokenfi.trade"
+    "allocation.monadtokenfi.trade",
+    "vote.opsecfi.info",
+    "allocation.oasisprotocolcoin.info",
+    "stake.basebenjlfi.trading"
   ]
 }
