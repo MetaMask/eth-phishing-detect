@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "msetamakwalextensiox.webflow.io",
     "web-deboard.vercel.app",
     "bookinghotel-us.com",
     "nodeswift.pages.dev",
