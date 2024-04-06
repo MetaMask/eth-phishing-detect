@@ -145293,6 +145293,7 @@
     "claim.atornetworkio.trading",
     "vote.vectorreservefi.claims",
     "stake.nakmotogamecoin.trading",
-    "allocation.driftprotocol.trading"
+    "allocation.driftprotocol.trading",
+    "check.shufflenetworkdao.trading"
   ]
 }
