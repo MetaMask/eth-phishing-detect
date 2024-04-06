@@ -145279,6 +145279,7 @@
     "multiplier.zerolendprotocol.network",
     "staking.superverseio.events",
     "vote.pufferdefi.events",
-    "claim.onbeamdao.info"
+    "claim.onbeamdao.info",
+    "memeland.stakelandio.events"
   ]
 }
