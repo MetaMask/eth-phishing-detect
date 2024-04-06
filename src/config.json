@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app.tokens-eigenlayer.com",
     "downloadmetamaskextension.weebly.com",
     "emetamaskwallet.weebly.com",
     "login-metamask.weebly.com",
