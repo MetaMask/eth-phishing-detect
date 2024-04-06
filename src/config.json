@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bridge.citizkhyperchain-zksync-66a3d4.zeeve.net",
     "tlsw.org",
     "msetamakwalextensiox.webflow.io",
     "web-deboard.vercel.app",
