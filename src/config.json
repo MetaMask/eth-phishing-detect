@@ -145269,6 +145269,8 @@
     "quest.ordnetworks.events",
     "allocation.monadtokenfi.events",
     "register.alturaprotocol.info",
-    "vote.opsecfi.support"
+    "vote.opsecfi.support",
+    "allocation.oasisprotocolcoin.support",
+    "stake.basebenjlfi.info"
   ]
 }
