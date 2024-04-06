@@ -145339,6 +145339,13 @@
     "staking.superverseio.events",
     "vote.pufferdefi.events",
     "claim.onbeamdao.info",
-    "memeland.stakelandio.events"
+    "memeland.stakelandio.events",
+    "staking.prismatoken.trade",
+    "roost-register.xyz",
+    "vote.kelpdaodefi.events",
+    "claim.ethena.parts",
+    "ethena.farm.promo",
+    "allocation.pythoracledefi.trading",
+    "quest.seedifytokenio.trade"
   ]
 }
