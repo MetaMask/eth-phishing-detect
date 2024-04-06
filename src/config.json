@@ -145425,6 +145425,7 @@
     "staking.getflokitoken.app",
     "allocation.pythoraclenetwork.events",
     "allocation.mocaversedao.events",
-    "stake.basenjiprotocol.network"
+    "stake.basenjiprotocol.network",
+    "vote.swellnetworkdao.net"
   ]
 }
