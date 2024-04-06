@@ -145294,6 +145294,7 @@
     "vote.vectorreservefi.claims",
     "stake.nakmotogamecoin.trading",
     "allocation.driftprotocol.trading",
-    "check.shufflenetworkdao.trading"
+    "check.shufflenetworkdao.trading",
+    "staking.superverseio.trading"
   ]
 }
