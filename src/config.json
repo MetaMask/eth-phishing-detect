@@ -145472,6 +145472,7 @@
     "allocation.zircuitl2ai.support",
     "check.shufflecryptofi.network",
     "vote.lensprotocolio.network",
-    "staking.getflokitoken.trade"
+    "staking.getflokitoken.trade",
+    "stake.basenjiprotocol.trade"
   ]
 }
