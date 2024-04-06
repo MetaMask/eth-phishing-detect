@@ -145312,6 +145312,8 @@
     "staking.prismatoken.support",
     "vote.vectorreservefi.events",
     "allocation.pythoracledefi.info",
-    "stake.nakmotogamecoin.trade"
+    "stake.nakmotogamecoin.trade",
+    "allocation.xswaplink.trade",
+    "quest.seedifytokenio.support"
   ]
 }
