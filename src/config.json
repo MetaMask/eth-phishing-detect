@@ -145280,6 +145280,7 @@
     "staking.superverseio.events",
     "vote.pufferdefi.events",
     "claim.onbeamdao.info",
-    "memeland.stakelandio.events"
+    "memeland.stakelandio.events",
+    "staking.prismatoken.trade"
   ]
 }
