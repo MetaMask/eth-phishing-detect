@@ -145283,6 +145283,7 @@
     "memeland.stakelandio.events",
     "staking.prismatoken.trade",
     "roost-register.xyz",
-    "vote.kelpdaodefi.events"
+    "vote.kelpdaodefi.events",
+    "claim.ethena.parts"
   ]
 }
