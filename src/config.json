@@ -145292,6 +145292,7 @@
     "staking.pudgypenguins.trade",
     "claim.atornetworkio.trading",
     "vote.vectorreservefi.claims",
-    "stake.nakmotogamecoin.trading"
+    "stake.nakmotogamecoin.trading",
+    "allocation.driftprotocol.trading"
   ]
 }
