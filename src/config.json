@@ -145212,6 +145212,7 @@
     "vote.opsecfi.app",
     "vote.swellnetworks.events",
     "stake.dropsprotocol.claims",
-    "allocation.monadtokenfi.network"
+    "allocation.monadtokenfi.network",
+    "allocation.oasisprotocolcoin.trade"
   ]
 }
