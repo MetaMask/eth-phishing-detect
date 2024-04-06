@@ -145528,6 +145528,9 @@
     "aioz.run",
     "launchpad.bouncedtoken.claims",
     "vote.timeswap.support",
-    "trading.roostercoindefi.finance"
+    "trading.roostercoindefi.finance",
+    "allocation.pythoraclenetworkio.finance",
+    "stake.basenjiprotocol.trading",
+    "quest.zircuitl2io.network"
   ]
 }
