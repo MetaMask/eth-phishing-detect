@@ -146313,6 +146313,7 @@
     "treasury.bakeryswapnetwork.trade",
     "staking.yoraclesio.support",
     "treasury.wardenprotocol.events",
-    "treasury.ethertokendao.claims"
+    "treasury.ethertokendao.claims",
+    "claim.onbeamdefi.network"
   ]
 }
