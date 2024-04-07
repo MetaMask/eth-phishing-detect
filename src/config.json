@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "help-metamask-wallatt.webflow.io",
     "mtamsckzwletz.webflow.io",
     "metamask--wallen.gitbook.io",
     "metamask--wallets.gitbook.io",
