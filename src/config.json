@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ipfs.io/ipfs/QmSBRWVZwKBUyNdjmcsJWpfaEpNhGFJLoyFvNkV4MLM7BZ",
     "snapshot-blockgamestoken.com",
     "arbitrum.build",
     "synfutures.cc",
