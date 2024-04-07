@@ -146327,6 +146327,7 @@
     "allocation.monadtradefi.support",
     "allocation.chainlinkprotocol.events",
     "signup-roostcoin.cc",
-    "claim.meritcircleio.support"
+    "claim.meritcircleio.support",
+    "quest.ordnetworkfi.events"
   ]
 }
