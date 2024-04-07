@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "maratopia-global.com",
     "dremio-eu.com",
     "stakescottytheai.com",
     "pad.chaingpt.org",
