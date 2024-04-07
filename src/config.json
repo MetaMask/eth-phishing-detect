@@ -145823,6 +145823,7 @@
     "stake.nakmotogametoken.claims",
     "quest.blackpantherdefi.app",
     "allocation.chainlinkprotocol.network",
-    "participate.traderjoe.claims"
+    "participate.traderjoe.claims",
+    "vote.swellnetworkdao.events"
   ]
 }
