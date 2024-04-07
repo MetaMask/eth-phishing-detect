@@ -146315,6 +146315,11 @@
     "treasury.wardenprotocol.events",
     "treasury.ethertokendao.claims",
     "claim.onbeamdefi.network",
-    "staking.boroviktoken.app"
+    "staking.boroviktoken.app",
+    "check.shufflecryptocoin.net",
+    "treasury.sovryndefi.trade",
+    "allocation.owltoprotocol.network",
+    "register.bitcoincatio.finance",
+    "treasury.infraxdao.claims"
   ]
 }
