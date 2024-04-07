@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskwolletu.webflow.io",
     "zkisynaswalletio.webflow.io",
     "zksyknicwullet.webflow.io",
     "zksyncc-swallet.webflow.io",
