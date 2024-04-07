@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metmaskwllate.webflow.io",
     "metimaskwallet.webflow.io",
     "maratopia-global.com",
     "dremio-eu.com",
