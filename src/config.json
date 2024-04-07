@@ -146081,6 +146081,7 @@
     "register.everyworldio.trading",
     "allocation.chainlinkprotocol.trade",
     "quest.zircuitl2dao.claims",
-    "multiplier.zerolendprotocol.trade"
+    "multiplier.zerolendprotocol.trade",
+    "register.bitcoincatio.events"
   ]
 }
