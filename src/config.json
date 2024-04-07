@@ -146079,6 +146079,7 @@
     "allocation.chainlinkprotocol.trading",
     "allocation.xrgb.support",
     "register.everyworldio.trading",
-    "allocation.chainlinkprotocol.trade"
+    "allocation.chainlinkprotocol.trade",
+    "quest.zircuitl2dao.claims"
   ]
 }
