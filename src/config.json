@@ -146226,6 +146226,7 @@
     "quest.seedifycoin.claims",
     "vote.redstoneoracles.events",
     "quest.ordnetworkfi.support",
-    "vote.renzoprotocoltoken.events"
+    "vote.renzoprotocoltoken.events",
+    "airdrop.degentokenfi.app"
   ]
 }
