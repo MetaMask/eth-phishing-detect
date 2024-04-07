@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim2-foundation.one",
     "tokenomics-wormhole.pages.dev",
     "basebrideg.com",
     "lucky-opensea.io",
