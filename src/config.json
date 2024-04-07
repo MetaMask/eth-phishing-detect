@@ -146323,6 +146323,8 @@
     "treasury.infraxdao.claims",
     "allocation.oasisprotocolcoinfi.events",
     "vote.bitsmileyfinance.claims",
-    "allocation.supralabcoin.network"
+    "allocation.supralabcoin.network",
+    "allocation.monadtradefi.support",
+    "allocation.chainlinkprotocol.events"
   ]
 }
