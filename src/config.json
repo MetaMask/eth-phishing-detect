@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dremio-eu.com",
+    "stakescottytheai.com",
+    "pad.chaingpt.org",
     "galxe.bz",
     "matrica.pages.dev",
     "event-w.com",
