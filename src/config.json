@@ -145875,6 +145875,7 @@
     "treasury.basenjiprotocol.claims",
     "vote.ringprotocolio.finance",
     "treasury.detensordefi.claims",
-    "stake.nakmotogametoken.events"
+    "stake.nakmotogametoken.events",
+    "memeland.stakelandtrading.claims"
   ]
 }
