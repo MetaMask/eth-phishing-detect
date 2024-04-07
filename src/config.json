@@ -146314,6 +146314,7 @@
     "staking.yoraclesio.support",
     "treasury.wardenprotocol.events",
     "treasury.ethertokendao.claims",
-    "claim.onbeamdefi.network"
+    "claim.onbeamdefi.network",
+    "staking.boroviktoken.app"
   ]
 }
