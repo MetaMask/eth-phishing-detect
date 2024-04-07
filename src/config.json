@@ -146350,6 +146350,7 @@
     "tnsr-backpack.exchange",
     "stake.destrafi.trading",
     "allocation.pythoraclenetworkdefi.claims",
-    "vote.puffernetworkfi.claims"
+    "vote.puffernetworkfi.claims",
+    "vote.renzoprotocoltoken.info"
   ]
 }
