@@ -146033,6 +146033,7 @@
     "allocation.monadtradefi.app",
     "allocation.owltofinance.trading",
     "register.everyworldio.support",
-    "stake.toshithecatdefi.app"
+    "stake.toshithecatdefi.app",
+    "allocation.owltofinance.events"
   ]
 }
