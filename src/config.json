@@ -146078,6 +146078,7 @@
     "allocation.monadtradefi.network",
     "allocation.chainlinkprotocol.trading",
     "allocation.xrgb.support",
-    "register.everyworldio.trading"
+    "register.everyworldio.trading",
+    "allocation.chainlinkprotocol.trade"
   ]
 }
