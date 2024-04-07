@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-150pro.firebaseapp.com",
+    "claim-nowpensea1.firebaseapp.com",
+    "claim-0penprosea.firebaseapp.com",
+    "boxes-openseanow.firebaseapp.com",
     "earnifin.top",
     "stargate.zone",
     "etherfinance.re",
