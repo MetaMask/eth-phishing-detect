@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskwallet-extension.webflow.io",
+    "metmskwlletus.webflow.io",
     "metmaskwllate.webflow.io",
     "metimaskwallet.webflow.io",
     "maratopia-global.com",
