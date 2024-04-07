@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "boutiquehotel-cfg.com",
+    "roost-drop.com",
+    "blockchainrectify.surge.sh",
     "ipfs.io/ipfs/QmSBRWVZwKBUyNdjmcsJWpfaEpNhGFJLoyFvNkV4MLM7BZ",
     "snapshot-blockgamestoken.com",
     "arbitrum.build",
