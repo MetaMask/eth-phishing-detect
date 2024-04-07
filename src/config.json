@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "snapshot-blockgamestoken.com",
     "arbitrum.build",
     "synfutures.cc",
     "synfutures.vc",
