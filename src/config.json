@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curvefeninance.webflow.io",
+    "zkasynaexwallett.webflow.io",
+    "zkiynsc-wallets.webflow.io",
+    "zksyncroallet.webflow.io",
+    "zksynwalet.webflow.io",
     "metamaskwalletmn.webflow.io",
     "metamqaskwalelete.webflow.io",
     "reward-zksync.pages.dev",
