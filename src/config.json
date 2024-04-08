@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.azuki-dao.xyz",
     "interactiveoptimist.info",
     "claiming-eigenlayer.xyz",
     "eigenlayersfi.trade",
