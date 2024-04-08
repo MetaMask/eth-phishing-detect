@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbi-network.org",
     "arbitrumweb3.fun",
     "linea-surveytask.vercel.app",
     "meta-rest0ration.webflow.io",
