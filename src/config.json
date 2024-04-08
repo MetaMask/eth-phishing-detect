@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claiming-eigenlayer.xyz",
+    "eigenlayersfi.trade",
     "synfutures.pages.dev",
     "i7dex.finance",
     "oeth-protocol.com",
