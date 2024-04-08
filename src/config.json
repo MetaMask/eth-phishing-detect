@@ -45,6 +45,18 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "rocketpool.cam",
+    "rocketpool.lol",
+    "rocketpool.mom",
+    "rocketpool.vc",
+    "rocketpools.de",
+    "web3-rocketpool.com",
+    "rocketpool-staake.online",
+    "rocketpool.support",
+    "rocketpooll.net",
+    "rocket-pool.webflow.io",
+    "rocketpool-net.pages.dev",
+    "rocketpoola.github.io",
     "metamasksw.azurewebsites.net",
     "talbots.pro",
     "helpmetamaskchromeus.gitbook.io",
