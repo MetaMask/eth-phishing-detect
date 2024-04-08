@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-eigenlayer.site",
     "zircuit.pw",
     "zircuit.sbs",
     "zircuit.su",
