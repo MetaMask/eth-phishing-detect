@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "tia-layerbank.com",
     "claim-eigenlayer.site",
     "zircuit.pw",
     "zircuit.sbs",
