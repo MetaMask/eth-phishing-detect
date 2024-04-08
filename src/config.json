@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "sitemap.newarbitrumupdate.com",
     "metamask-wellt.gitbook.io",
     "fixmetamaskjsonerror.weebly.com",
     "metamask-lugin.gitbook.io",
