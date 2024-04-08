@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "rocketpool.cam",
+    "rocketpool.lol",
+    "rocketpool.mom",
+    "rocketpool.vc",
+    "rocketpools.de",
+    "web3-rocketpool.com",
     "rocketpool-staake.online",
     "rocketpool.support",
     "rocketpooll.net",
