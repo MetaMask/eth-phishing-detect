@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ecc-smm.com",
+    "thefork-usa.com",
+    "workteam-03.com",
     "sitemap.newarbitrumupdate.com",
     "metamask-wellt.gitbook.io",
     "fixmetamaskjsonerror.weebly.com",
