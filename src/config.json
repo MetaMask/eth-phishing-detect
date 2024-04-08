@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "interface-git-parallel-cypress-uniswap.vercel.app",
     "coinbase-ikm.com",
     "coinbase-ir.com",
     "coinbase-ujm.com",
