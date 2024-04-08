@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ze5et.pages.dev",
+    "ethercoindao.com",
+    "195102-coinbase.com",
+    "accept-kamino.pages.dev",
+    "etherconnect.app",
+    "eeth.site",
     "kamnio.xyz",
     "kanimo.xyz",
     "io-mint.com",
