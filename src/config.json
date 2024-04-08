@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "grossfieldltd.com",
     "scex.pro",
     "metamaskwalletextetion.webflow.io",
     "metamaskwallethf.webflow.io",
