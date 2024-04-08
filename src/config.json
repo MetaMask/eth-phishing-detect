@@ -150021,6 +150021,8 @@
     "sor-nft.web.app",
     "alpha-claim.web.app",
     "tnsr-token.web.app",
-    "nft-tradee.web.app"
+    "nft-tradee.web.app",
+    "pyth-claim.web.app",
+    "sol-sola.web.app"
   ]
 }
