@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-technologies.com",
     "icebnb-token-reflection-fix.netlify.app",
     "lawyer.fastjustice.info",
     "ecc-smm.com",
