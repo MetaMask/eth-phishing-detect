@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fixmetamaskjsonerror.weebly.com",
+    "metamask-lugin.gitbook.io",
+    "metamaskextensiona.gitbook.io",
+    "metamasklogenne.gitbook.io",
+    "metamasklogin-portfolio.gitbook.io",
+    "metamasknflogin.gitbook.io",
+    "metamaskuxwallut.gitbook.io",
+    "metamaskwllet.gitbook.io",
     "arbi-network.org",
     "arbitrumweb3.fun",
     "linea-surveytask.vercel.app",
