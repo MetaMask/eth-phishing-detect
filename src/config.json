@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "meta-rest0ration.webflow.io",
+    "metamask-solution-restoration.webflow.io",
     "metamasktradingdefi.network",
     "mtemask.io",
     "web3-cowswap.com",
