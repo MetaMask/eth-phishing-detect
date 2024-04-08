@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "synfutures.pages.dev",
     "i7dex.finance",
     "oeth-protocol.com",
     "directoryvbitswift.pages.dev",
