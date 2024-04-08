@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "storyzee-data.com",
+    "folder.invite-cloud.com",
+    "https-metamasklogi.weebly.com",
+    "metamaskxwalletz.webflow.io",
+    "metamesskwallet.weebly.com",
     "arb-network.net",
     "tia-layerbank.com",
     "claim-eigenlayer.site",
