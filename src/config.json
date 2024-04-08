@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coinbase-ikm.com",
+    "coinbase-ir.com",
+    "coinbase-ujm.com",
     "ze5et.pages.dev",
     "ethercoindao.com",
     "195102-coinbase.com",
