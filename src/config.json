@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrumweb3.fun",
+    "linea-surveytask.vercel.app",
     "meta-rest0ration.webflow.io",
     "metamask-solution-restoration.webflow.io",
     "metamasktradingdefi.network",
