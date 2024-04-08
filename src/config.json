@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "scex.pro",
+    "metamaskwalletextetion.webflow.io",
+    "metamaskwallethf.webflow.io",
     "chromewebstore-meatext.gitbook.io",
     "ebmetamskwllextio.webflow.io",
     "ethena.com.co",
