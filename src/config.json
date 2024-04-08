@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zircuit.pw",
+    "zircuit.sbs",
+    "zircuit.su",
     "getzircuit.xyz",
     "arb.airzab.top",
     "arbitrum-token-bridge-mwapv65vp-offchain-labs.vercel.app",
