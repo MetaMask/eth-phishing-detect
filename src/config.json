@@ -146508,6 +146508,7 @@
     "app.jesustoy.store",
     "claim.scaleapp.store",
     "app.shadow-node.store",
-    "claim.hashflowfi.app"
+    "claim.hashflowfi.app",
+    "staking.yoraclesio.events"
   ]
 }
