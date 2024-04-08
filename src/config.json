@@ -149248,7 +149248,6 @@
     "airdrop.pythoraclenetworkdefi.trading",
     "launch.swapdegen.app",
     "dex.swapdegen.app",
-    "airdrop.pythoraclenetworkdefi.info",
     "presales-dojo.trading",
     "allocation.xswaplinks.events",
     "airdrop-tensorian.com",
@@ -150393,12 +150392,14 @@
     "whitelist-block.pages.dev",
     "lootbotfi.events",
     "ordnetworkdefi.events",
-    "airdrop.pythoraclenet.com",
-    "app.app-thruscter.finance",
     "bytegalacticcore.store",
     "cryptozpulse.com",
     "mtrc-site.web.app",
     "alpha-tokens.web.app",
-    "bytecosmonaut.store"
+    "bytecosmonaut.store",
+    "temdtokens.web.app",
+    "app-thruscter.finance",
+    "pythoraclenet.com",
+    "pythoraclenetworkdefi.info"
   ]
 }
