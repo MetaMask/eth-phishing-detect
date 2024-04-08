@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arb.airzab.top",
     "arbitrum-token-bridge-mwapv65vp-offchain-labs.vercel.app",
     "arbitrum.quickdrops.top",
     "arbitrums.web-hmint.com",
