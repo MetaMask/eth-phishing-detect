@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-wellt.gitbook.io",
     "fixmetamaskjsonerror.weebly.com",
     "metamask-lugin.gitbook.io",
     "metamaskextensiona.gitbook.io",
