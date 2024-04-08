@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum-token-bridge-mwapv65vp-offchain-labs.vercel.app",
+    "arbitrum.quickdrops.top",
+    "arbitrums.web-hmint.com",
+    "arbitrums.web3-inft.com",
+    "originwebsite.arbitrurn.beauty",
     "icolook.store",
     "cowswaps.app",
     "starknet-technologies.com",
