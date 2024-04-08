@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamasktradingdefi.network",
+    "mtemask.io",
+    "web3-cowswap.com",
     "synfutures.pages.dev",
     "i7dex.finance",
     "oeth-protocol.com",
