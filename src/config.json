@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "etherfi-registry.xyz",
     "1da.fun",
     "0coinbasewallet.xyz",
     "148942-coinbase.com",
