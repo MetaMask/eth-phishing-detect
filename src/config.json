@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "oeth-protocol.com",
+    "directoryvbitswift.pages.dev",
+    "dogemob.pages.dev",
+    "greenbtctokens.pages.dev",
     "eastwonder.co",
     "cam3lot.io",
     "trade.jk-analyticsclub.com",
