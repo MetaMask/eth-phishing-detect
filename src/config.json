@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mataemaskewallet.webflow.io",
+    "metamasqk-wallet.webflow.io",
     "metamaskewahllet.webflow.io",
     "claim.meritcirclecoin.net",
     "synfmitures.com",
