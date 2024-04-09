@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskapi.oneto11.com",
     "help-metkmaskextn.webflow.io",
     "meitamask-wallet-webs.webflow.io",
     "metamak-wallet.webflow.io",
