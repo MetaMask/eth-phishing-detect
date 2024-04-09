@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "sporrt-meta-mak.webflow.io",
     "memtmaskwallut.webflow.io",
     "metamaskwollats.webflow.io",
     "mattemesakwallet.webflow.io",
