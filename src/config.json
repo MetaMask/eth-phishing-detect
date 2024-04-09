@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "strktok.online",
+    "metskmwllte.webflow.io",
     "arb-prof.cc",
     "metamskkwalett.webflow.io",
     "arbdao.vercel.app",
