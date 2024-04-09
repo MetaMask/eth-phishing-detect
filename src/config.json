@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fix-automigrate.online",
+    "crypfieldpreeminent.vercel.app",
+    "metamask.chaiveda.in",
+    "redex-cloud.pages.dev",
     "dashboard-liquideth.net",
     "metacapitalprofits-expert.com",
     "smart-bsc.com",
