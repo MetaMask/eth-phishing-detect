@@ -150593,7 +150593,6 @@
     "claimzeriondapps.pages.dev",
     "mainnet.satoshsavm.claims",
     "register.aitprotocolio.finance",
-    "treasury.detensorprotocol.info",
     "vote.friendtechcoin.info",
     "dapp.swapdegen.app",
     "imxtoken.net",
@@ -150778,6 +150777,11 @@
     "bridge-zkasino.pages.dev",
     "grayscaletokens.com",
     "aksamci.dev",
-    "get-sophon.xyz"
+    "get-sophon.xyz",
+    "presale.pollakscoin.org",
+    "register.satoshicoindao.com",
+    "season2.registration-ethena.org",
+    "detensorprotocol.info",
+    "mints-zora.com"
   ]
 }
