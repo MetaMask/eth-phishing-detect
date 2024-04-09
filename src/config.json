@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "memtsmskwallet.webflow.io",
+    "metamask-active-page.webflow.io",
+    "metamasksupportteam-homepage.webflow.io",
+    "metamaskxwallets.webflow.io",
+    "metasmaslk.azurewebsites.net",
+    "metmakhwallrt.webflow.io",
     "strktok.online",
     "metskmwllte.webflow.io",
     "arb-prof.cc",
