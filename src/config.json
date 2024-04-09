@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim.meritcirclecoin.net",
     "synfmitures.com",
     "metamaskwalletox.webflow.io",
     "metamxaskewallet.webflow.io",
