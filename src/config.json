@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync.bredge.online",
+    "zksync.io-airdrop.info",
     "help-metamask-wallat.webflow.io",
     "metmaskwallete.webflow.io",
     "metqameaskwallete.webflow.io",
