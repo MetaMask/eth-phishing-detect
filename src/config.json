@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "strk.alterstarter.top",
+    "starknet.digital",
+    "starknetasia.com",
+    "fix-automigrate.online",
+    "crypfieldpreeminent.vercel.app",
+    "metamask.chaiveda.in",
+    "redex-cloud.pages.dev",
     "dashboard-liquideth.net",
     "metacapitalprofits-expert.com",
     "smart-bsc.com",
@@ -152115,7 +152122,6 @@
     "v3mirror.com",
     "ellamilagros.com",
     "volport.com",
-    "reg.1-availproject.com",
     "beckescoin.net",
     "s6wxplx.pro",
     "ht52ik.top",
@@ -152123,6 +152129,15 @@
     "hemalpha.one",
     "cyberconnect.pages.dev",
     "smolecoin-rose1.vercel.app",
-    "vogellust.nl"
+    "vogellust.nl",
+    "espay.top",
+    "1-availproject.com",
+    "claim-jjup-3fl.pages.dev",
+    "erzmwhv.pro",
+    "sagatreasury.network",
+    "bytequasar.store",
+    "daochain-intel0i.pages.dev",
+    "destrass.online",
+    "tensorspacess.online"
   ]
 }
