@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metacapitalprofits-expert.com",
+    "smart-bsc.com",
+    "metamask-io.mystrikingly.com",
+    "smartrevokenet.vercel.app",
     "rocketpool.cam",
     "rocketpool.lol",
     "rocketpool.mom",
