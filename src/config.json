@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbdao.vercel.app",
     "metmaskwaleet.webflow.io",
     "weallet-mketamnask.webflow.io",
     "strk.alterstarter.top",
