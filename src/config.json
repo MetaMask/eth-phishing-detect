@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet.digital",
+    "starknetasia.com",
     "fix-automigrate.online",
     "crypfieldpreeminent.vercel.app",
     "metamask.chaiveda.in",
