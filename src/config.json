@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdropfuel.network",
     "zksync.bredge.online",
     "zksync.io-airdrop.info",
     "help-metamask-wallat.webflow.io",
