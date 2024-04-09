@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "help-metamask-wallat.webflow.io",
+    "metmaskwallete.webflow.io",
+    "metqameaskwallete.webflow.io",
+    "mwetamaskwallet.webflow.io",
+    "rpcmainnet.pages.dev",
     "memtsmskwallet.webflow.io",
     "metamask-active-page.webflow.io",
     "metamasksupportteam-homepage.webflow.io",
