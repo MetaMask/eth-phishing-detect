@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metmaskwaleet.webflow.io",
+    "weallet-mketamnask.webflow.io",
     "strk.alterstarter.top",
     "starknet.digital",
     "starknetasia.com",
