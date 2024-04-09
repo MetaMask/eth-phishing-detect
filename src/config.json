@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskmaskwallet.webflow.io",
+    "metamaskqwaleletextension.webflow.io",
     "metameskkwalletextension.webflow.io",
     "metamaskwalletexctension.webflow.io",
     "metamaskwalletwesxrtensijn.webflow.io",
