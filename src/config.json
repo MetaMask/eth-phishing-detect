@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fuelairdrop.network",
+    "fuel-dapp-template-nextjs.vercel.app",
     "mtemskwaletextenson.webflow.io",
     "arbitrum.airdrop.sx",
     "arbitrurn-nft.cyou",
