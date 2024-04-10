@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskchromexten.gitbook.io",
+    "metamaskoshely.gitbook.io",
+    "metamaskuextenoinu.gitbook.io",
+    "metamaskust.gitbook.io",
+    "metamaskwalleeet.gitbook.io",
+    "metamskwalletvf.webflow.io",
+    "mitumaskwallt.webflow.io",
+    "netmetamasklogin.gitbook.io",
     "starktnet.info",
     "fuelairdrop.network",
     "fuel-dapp-template-nextjs.vercel.app",
