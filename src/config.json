@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app.whalse.market",
     "metamaskawalletextension.webflow.io",
     "metaqmasekwallete.webflow.io",
     "appresolver.com",
