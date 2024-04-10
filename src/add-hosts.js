@@ -141,14 +141,7 @@ if (require.main === module) {
 
     // check each entry for redundancy, adding it to the detector's internal config if valid
     // reuse detector to avoid costly reinitialization
-
-    // FIXME: Temporary workaround during list inconsistency.
-    // Can be reverted after 2023-05-14
-    // let detector = new PhishingDetector(config);
-    let detector = new PhishingDetector({
-      ...config,
-      tolerance: 2,
-    });
+    let detector = new PhishingDetector(config);
     for (const host of hosts) {
       if (validateHostRedundancy(detector, section, host)) {
         newHosts.add(host);

@@ -2,7 +2,7 @@ name: Build and Test
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
 
 jobs:
@@ -11,20 +11,32 @@ jobs:
     runs-on: ubuntu-20.04
     strategy:
       matrix:
-        node-version: [16.x, 18.x, 19.x]
+        node-version: [16.x, 18.x, 20.x]
     steps:
-    - uses: actions/checkout@v3
-      with:
-        fetch-depth: 500
+    - name: Set Environment Variables
+      run: |
+        echo "TMP=${{ runner.temp }}" >> $GITHUB_ENV
+
+        if [ "${{ github.event_name }}" == "push" ]; then
+          echo "BASE_COMMIT=${{ github.event.push.before }}" >> $GITHUB_ENV
+          echo "HEAD_COMMIT=${{ github.event.push.after }}" >> $GITHUB_ENV
+        fi
+
+        if [ "${{ github.event_name }}" == "pull_request" ]; then
+          echo "BASE_COMMIT=${{ github.event.pull_request.base.sha }}" >> $GITHUB_ENV
+          echo "HEAD_COMMIT=${{ github.event.pull_request.head.sha }}" >> $GITHUB_ENV
+        fi
+    - uses: actions/checkout@v4
+    - run: git fetch origin "$BASE_COMMIT" "$HEAD_COMMIT" --depth 1
     - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v4
       with:
         node-version: ${{ matrix.node-version }}
+        cache: 'yarn'
     - run: yarn --frozen-lockfile
     - run: yarn buildSample
-    - run: |
-        src/compare-git-configs.sh "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}"
     - run: yarn ci
+    - run: src/compare-git-configs.sh "$BASE_COMMIT" "$HEAD_COMMIT"
   all-jobs-pass:
     name: All jobs pass
     runs-on: ubuntu-20.04
