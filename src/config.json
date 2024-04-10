@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mqetamasekwallet.webflow.io",
     "app.routs.io",
     "safesbravest.info",
     "rocketpool.team",
