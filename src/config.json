@@ -153487,7 +153487,6 @@
     "ordprotocolfi.claims",
     "renders-network.live",
     "sagatreasury.trading",
-    "stake.optinetworkfi.events",
     "zerolendefi.com",
     "bearn-11.netlify.app",
     "rewards-aura.com",
@@ -153805,6 +153804,10 @@
     "cbrzdzgroup.fun",
     "connect--collab.vercel.app",
     "anonxbase.com",
-    "bckrcoins.org"
+    "bckrcoins.org",
+    "optinetworkfi.events",
+    "akita-airdrop.com",
+    "roninchain.wtf",
+    "zksync-ad.com"
   ]
 }
