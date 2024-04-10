@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app.routs.io",
+    "safesbravest.info",
+    "rocketpool.team",
+    "stake-rocketpool.com",
     "synfutres.com",
     "auth-metmskwalletextns.webflow.io",
     "autih-metamask-app.webflow.io",
