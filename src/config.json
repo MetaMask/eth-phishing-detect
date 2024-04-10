@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "one-zksync.site",
     "help-metiximtson.webflow.io",
     "metamask-lugin.webflow.io",
     "synfutres.com",
