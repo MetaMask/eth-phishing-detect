@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "appresolver.com",
+    "dappconnector.pages.devs",
     "defiu.cc",
     "go-bookingline.com",
     "linumlabs-optimize.online",
