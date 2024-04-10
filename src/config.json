@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskawalletextension.webflow.io",
+    "metaqmasekwallete.webflow.io",
     "appresolver.com",
     "dappconnector.pages.devs",
     "defiu.cc",
