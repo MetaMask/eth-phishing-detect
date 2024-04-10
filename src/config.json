@@ -153209,6 +153209,7 @@
     "presale.beckercoindao.events",
     "stake.renders-network.live",
     "vote.pufferprotocoldefi.trade",
-    "stake.graphsprotocolsfi.live"
+    "stake.graphsprotocolsfi.live",
+    "claim.sagatreasury.events"
   ]
 }
