@@ -45,6 +45,17 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "defiu.cc",
+    "go-bookingline.com",
+    "linumlabs-optimize.online",
+    "teadsapp-global.com",
+    "meitamask-wallat-web.webflow.io",
+    "meitamask-wallet-web.webflow.io",
+    "metamaskia.azurewebsites.net",
+    "metamasklagiinn.gitbook.io",
+    "metamasku.azurewebsites.net",
+    "metamaskwollatu.webflow.io",
+    "metamaskxwallett.webflow.io",
     "digitalmarketradex.com",
     "coin-dex.web.app",
     "metamaskchrmsxtension.gitbook.io",
