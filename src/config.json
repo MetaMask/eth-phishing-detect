@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-lugin.webflow.io",
     "synfutres.com",
     "auth-metmskwalletextns.webflow.io",
     "autih-metamask-app.webflow.io",
