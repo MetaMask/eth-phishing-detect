@@ -153489,7 +153489,6 @@
     "beckercoindao.finance",
     "lllivium.com",
     "sagatreasury.claims",
-    "allocation.oraprotocol.app",
     "allianceblocks.tech",
     "flokitoken.store",
     "galanode.online",
@@ -153605,11 +153604,13 @@
     "iostart-trezor.com",
     "trezoristart.com",
     "quanticprotocol.info",
-    "allocation.paramgamingdefi.net",
     "basenameo.org",
     "spl20-claim.web.app",
     "jup11.com",
     "binancewallet-web3.netlify.app",
-    "hytopia.pro"
+    "hytopia.pro",
+    "app-parcl.pro",
+    "paramgamingdefi.net",
+    "oraprotocol.app"
   ]
 }
