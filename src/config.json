@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starktnet.info",
     "fuelairdrop.network",
     "fuel-dapp-template-nextjs.vercel.app",
     "mtemskwaletextenson.webflow.io",
