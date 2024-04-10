@@ -153260,7 +153260,6 @@
     "s2-ethena.cc",
     "xblast-app.pages.dev",
     "s2-ethena.xyz",
-    "presale.beckerprotocol.com",
     "claim.sagatreasury.info",
     "allocation.oraprotocol.network",
     "wolfswap.vip",
@@ -153282,7 +153281,8 @@
     "parallelfl.net",
     "rektfrog.org",
     "allocation.oraprotocol.trade",
-    "presale.beckerprotocol.net",
-    "claim.sagatreasurydefi.com"
+    "claim.sagatreasurydefi.com",
+    "beckerprotocol.com",
+    "beckerprotocol.net"
   ]
 }
