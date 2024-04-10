@@ -154011,7 +154011,6 @@
     "app.geilos.com",
     "claim.avalproject.net",
     "claim.bsquared-fii.com",
-    "join.ordlfyworld.com",
     "boost-degen.tips",
     "earn.cookie-communlty.com",
     "a1r.me",
@@ -154043,8 +154042,11 @@
     "baseswep.com",
     "blackpantherfi.events",
     "hyploot.top",
-    "testnet.initiablockchain.trading",
-    "vote.friendtechtokenfi.network",
-    "allocation-procreation.app"
+    "allocation-procreation.app",
+    "friendtechtokenfi.network",
+    "initiablockchain.trading",
+    "earn.bsquared-fii.com",
+    "claim.cookie-communlty.com",
+    "ordlfyworld.com"
   ]
 }
