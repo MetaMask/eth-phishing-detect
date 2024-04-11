@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "decentralized-chain.com",
     "recover-blockfi.com",
     "dappconresolve.pages.dev",
     "web3dappresolver.pages.dev",
