@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "stardrop.world",
     "meetamask-wallet.webflow.io",
     "metamaskewalletextesnsion.webflow.io",
     "metamaskwallegtextenion.webflow.io",
