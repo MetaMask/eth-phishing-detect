@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-allocation.com",
     "ciurveifainac.gitbook.io",
     "cueervefienance.gitbook.io",
     "curreivefinance.gitbook.io",
