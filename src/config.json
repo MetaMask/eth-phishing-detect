@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamasksupportteams-page.webflow.io",
+    "noderange.pages.dev",
     "basebrettt.com",
     "protradersmarkets.com",
     "metamask.5dy.us",
