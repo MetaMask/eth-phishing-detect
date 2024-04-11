@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coinfxprofit.com",
+    "poocoini.com",
+    "visitidaho.life",
+    "iniciacrypto.com.br",
     "greenbitcoin-ae.pages.dev",
     "validsync.vercel.app",
     "meetaimaskwallet.webflow.io",
