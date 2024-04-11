@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metammaskiwallet.webflow.io",
     "metamaskfrance.fr",
     "coinfxprofit.com",
     "poocoini.com",
