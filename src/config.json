@@ -156718,7 +156718,6 @@
     "magebitcoin.events",
     "rston.store",
     "swellnetworkdefi.trade",
-    "allocation.hub-omninetwork.com",
     "dogecoin20.app",
     "fl-web3.cfd",
     "seedifund.com",
@@ -156731,6 +156730,7 @@
     "oceandao.store",
     "rendertoken.tech",
     "univs4.top",
-    "usdena.cloud"
+    "usdena.cloud",
+    "hub-omninetwork.com"
   ]
 }
