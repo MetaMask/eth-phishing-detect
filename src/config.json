@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web3shiba.us",
+    "shiba.adrpweb.com",
     "decentralized-chain.com",
     "recover-blockfi.com",
     "dappconresolve.pages.dev",
