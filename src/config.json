@@ -156574,7 +156574,6 @@
     "availprojectdao.events",
     "dopeprotocol.info",
     "ordprotocolio.trade",
-    "stake.ordifynetworkfi.trade",
     "whitelist.hubs-1intro.com",
     "stakelayer.site",
     "dotmoov2.pages.dev",
@@ -157052,6 +157051,7 @@
     "fomobase.io",
     "degentokendao.com",
     "claim.tryring.pro",
-    "runemine-pass.vercel.app"
+    "runemine-pass.vercel.app",
+    "ordifynetworkfi.trade"
   ]
 }
