@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metmasklloginee.webflow.io",
+    "mttamskwaletextension.webflow.io",
     "metammaskiwallet.webflow.io",
     "metamaskfrance.fr",
     "coinfxprofit.com",
