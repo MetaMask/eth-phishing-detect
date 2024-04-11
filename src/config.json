@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "recover-blockfi.com",
+    "dappconresolve.pages.dev",
+    "web3dappresolver.pages.dev",
     "extns-metamkwalett.webflow.io",
     "metamaskwalletextensiones.webflow.io",
     "app.whalse.market",
