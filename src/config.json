@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "greenbitcoin-ae.pages.dev",
+    "validsync.vercel.app",
     "meetaimaskwallet.webflow.io",
     "metamaskwelletus.webflow.io",
     "metemskwalletextension.webflow.io",
