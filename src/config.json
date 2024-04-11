@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop-zora.com",
     "metmskwllt-extenson.webflow.io",
     "metmasklloginee.webflow.io",
     "mttamskwaletextension.webflow.io",
