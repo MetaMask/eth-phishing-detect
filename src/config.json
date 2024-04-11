@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "meetamask-wallet.webflow.io",
+    "metamaskewalletextesnsion.webflow.io",
+    "metamaskwallegtextenion.webflow.io",
+    "metamasqkrwallet.webflow.io",
+    "metmaaskewallet.webflow.io",
+    "metmckwlellt.webflow.io",
     "zksync-allocation.com",
     "ciurveifainac.gitbook.io",
     "cueervefienance.gitbook.io",
