@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskechrom.webflow.io",
     "metamsskwolletiu.webflow.io",
     "motamskloginne.webflow.io",
     "arbitreum.world",
