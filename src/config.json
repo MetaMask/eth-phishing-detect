@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "get-lnds.io",
     "metamask-chrome-help.webflow.io",
     "metamask-extension-secure.webflow.io",
     "metamask-login-help.webflow.io",
