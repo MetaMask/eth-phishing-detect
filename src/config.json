@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-chrome-help.webflow.io",
+    "metamask-extension-secure.webflow.io",
+    "metamask-login-help.webflow.io",
+    "metamskwalltextension-auth.webflow.io",
     "skyrocketlue.com",
     "metmskwllt-extenson.webflow.io",
     "metmasklloginee.webflow.io",
