@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.rocketlaunch.cc",
     "get-lnds.io",
     "metamask-chrome-help.webflow.io",
     "metamask-extension-secure.webflow.io",
