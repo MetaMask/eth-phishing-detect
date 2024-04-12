@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "phemex-vip.site",
     "faucetnodes.vercel.app",
     "app-zircuit.pro",
     "zircuite.com",
