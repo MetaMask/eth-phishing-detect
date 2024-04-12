@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zricuit.com",
     "metamaskechrom.webflow.io",
     "metamsskwolletiu.webflow.io",
     "motamskloginne.webflow.io",
