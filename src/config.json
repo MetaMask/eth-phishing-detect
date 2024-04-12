@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "memtmaaswalet.webflow.io",
+    "miuetamkaskwallet.webflow.io",
     "zksync.io-event.org",
     "arbitrum.rocketlaunch.cc",
     "get-lnds.io",
