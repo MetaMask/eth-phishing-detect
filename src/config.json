@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "faucetnodes.vercel.app",
     "app-zircuit.pro",
     "zircuite.com",
     "zircuitl2defi.app",
