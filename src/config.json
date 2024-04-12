@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-zircuit.pro",
+    "zircuite.com",
+    "zircuitl2defi.app",
+    "zircuit-allocate.pages.dev",
     "zricuit.com",
     "metamaskechrom.webflow.io",
     "metamsskwolletiu.webflow.io",
