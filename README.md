@@ -29,20 +29,24 @@ console.log(value) // true
 ```js
 const PhishingDetector = require('eth-phishing-detect/src/detector')
 
-const config = [
+try {
+  const config = [
       { blocklist: [/* blacklist */], name: 'blocklist', version: 2 },
       { allowlist: [/* whitelist */], name: 'allowlist', version: 2 },
       { fuzzylist: [/* fuzzylist */], name: 'fuzzylist', version: 2, tolerance: 2 },
   ];
-const detector = new PhishingDetector(config)
-const value = detector.check('etherclassicwallet.com')
-console.log(value)
-/*
-{
-  type: "blacklist",
-  result: true,
+  const detector = new PhishingDetector(config)
+  const value = detector.check('etherclassicwallet.com')
+  console.log(value)
+  /*
+  {
+    type: "blacklist",
+    result: true,
+  }
+  */
+} catch (error) {
+    console.error('Error detecting phishing:', error);
 }
-*/
 ```
 
 ## Contributions
@@ -73,7 +77,6 @@ Update the database files:
 
 ```terminal
 yarn update:db
-
 yarn update:db:tranco
 yarn update:db:coinmarketcap
 yarn update:db:snapsregistry
