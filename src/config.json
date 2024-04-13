@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.txcheckweb3.com",
+    "bredge.arditrym.online",
     "lend-curve.finance",
     "syncmainnodes.com",
     "walletconnectexplorer.com",
