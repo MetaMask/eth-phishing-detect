@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "earnzircuit.com",
     "arbitrum.txcheckweb3.com",
     "bredge.arditrym.online",
     "lend-curve.finance",
