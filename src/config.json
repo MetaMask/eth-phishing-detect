@@ -160502,7 +160502,6 @@
     "enroll.gcracademytrading.app",
     "basenjicoinprotocol.events",
     "presale.borovikcoinfi.network",
-    "refund.scaliainfratradefi.net",
     "claim.befillabs.net",
     "tensorspacetrade.app",
     "berachainfitrading.com",
@@ -160601,6 +160600,7 @@
     "bchainsync.netlify.app",
     "claim-ezeth.com",
     "cornertrader.xyz",
-    "camelot2.vercel.app"
+    "camelot2.vercel.app",
+    "scaliainfratradefi.net"
   ]
 }
