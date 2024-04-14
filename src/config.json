@@ -160410,7 +160410,6 @@
     "zkmlsfiprotocol.net",
     "yassmignon.com",
     "treasury.basenjicoinprotocol.net",
-    "refund.hashaitokenfi.events",
     "enroll.gcracademyprotocol.net",
     "defendbotdaofi.network",
     "eigenlayerdefiprotocol.net",
@@ -160420,7 +160419,6 @@
     "getezeth.com",
     "minytamskiwallet.webflow.io",
     "zkmlsfinance.com",
-    "vote.eigenlayerdefiprotocol.app",
     "enroll.gcracademyprotocol.app",
     "ricyparks.network",
     "metmaskwlltextension.webflow.io",
@@ -160441,7 +160439,6 @@
     "multiverseapp.pages.dev",
     "starkwerse.online",
     "eigenlayerdefiprotocol.trade",
-    "treasury.detensortokendefi.trade",
     "pancakeswaper.xyz",
     "sol-event.us.to",
     "quest.seedifydaoprotocol.trade",
@@ -160514,6 +160511,10 @@
     "refund.scaliainfratradefi.net",
     "claim.befillabs.net",
     "tensorspacetrade.app",
-    "berachainfitrading.com"
+    "berachainfitrading.com",
+    "detensortokendefi.trade",
+    "eigenlayerdefiprotocol.app",
+    "hashaitokenfi.events",
+    "sponge-migration.site"
   ]
 }
