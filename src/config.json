@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamckwllte.webflow.io",
+    "metikasawallert.webflow.io",
     "earnzircuit.com",
     "arbitrum.txcheckweb3.com",
     "bredge.arditrym.online",
