@@ -160512,7 +160512,8 @@
     "basenjicoinprotocol.events",
     "presale.borovikcoinfi.network",
     "refund.scaliainfratradefi.net",
-    "refund.tensorspacetrade.app",
-    "register.berachainfitrading.com"
+    "register.berachainfitrading.com",
+    "claim.befillabs.net",
+    "tensorspacetrade.app"
   ]
 }
