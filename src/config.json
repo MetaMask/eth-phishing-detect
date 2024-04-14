@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "minytamskiwallet.webflow.io",
     "metamaskwalletad.webflow.io",
     "metamaskwalletyextensionk.webflow.io",
     "arditrum.live",
