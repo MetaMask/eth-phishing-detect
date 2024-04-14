@@ -160104,7 +160104,6 @@
     "palmcoindao.app",
     "z1labprotocol.info",
     "z1labprotocol.trading",
-    "register.berachainstokenfi.app",
     "bakeryswapio.trade",
     "foxyonlineaio.net",
     "magebitcoin.info",
@@ -160118,6 +160117,8 @@
     "pendiefi.app",
     "gcracademycoin.net",
     "sagaeth.com",
-    "vote.eigenlayercoindao.net"
+    "vote.eigenlayercoindao.net",
+    "berachainstokenfi.app",
+    "claim-openft.firebaseapp.com"
   ]
 }
