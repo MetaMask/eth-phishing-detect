@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim.airdropfuelchain.com",
     "maetamasqk-wallet.webflow.io",
     "methamaskwalleti.webflow.io",
     "metmaskwlltextension.webflow.io",
