@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum-drop.store",
+    "ametamaskwiuallet.webflow.io",
+    "arbitrum.trustspad.top",
+    "metamask-wallet-extnsion.webflow.io",
+    "mtamaskwalletextenion.webflow.io",
     "arbitrumairdrop.one",
     "arbitrumfaundation.com",
     "arbitrumfoudation.io",
