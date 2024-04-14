@@ -159598,7 +159598,6 @@
     "register.berachaintrading.app",
     "cdfi.app",
     "eigenlayertoken.com",
-    "quest.ordtokendao.app",
     "register.berachaincoin.com",
     "claim-zignaly.com",
     "eigenlayertoken.net",
@@ -159724,6 +159723,7 @@
     "particlesnetwork.support",
     "foxylabsio.com",
     "cookie3.blog",
-    "claim-openft.web.app"
+    "claim-openft.web.app",
+    "ordtokendao.app"
   ]
 }
