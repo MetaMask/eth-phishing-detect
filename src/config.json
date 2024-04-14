@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starkcnet.avantis.homes",
     "metmskwettel.webflow.io",
     "metamckwllte.webflow.io",
     "metikasawallert.webflow.io",
