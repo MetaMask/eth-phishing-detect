@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "discover-bankless.com",
+    "ether-finance.fi",
+    "aavelab.info",
+    "etherfinancedao.com",
+    "coinbase-sign.com",
     "xn--opnsa-xzaz.io",
     "connection-opensea.pw",
     "xn--opensc-gxc.io",
