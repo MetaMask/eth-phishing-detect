@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksynk.app",
     "zkcyns.w3spaces.com",
     "zksyncucwellat.webflow.io",
     "zksyyncwalett.webflow.io",
