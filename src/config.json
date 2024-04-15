@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync.io-event.live",
     "claims-zksync.app",
     "dcentapp.live",
     "xn--zrcuit-p9a.com",
