@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "walletconnect.net-sync.sbs",
     "intall-metamask-wallet-extension.webflow.io",
     "metmasxzkwalelt.webflow.io",
     "coinarbtirums.com",
