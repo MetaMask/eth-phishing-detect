@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mint.zk-sync.io",
     "distributions-zksync.com",
     "zksync.io-event.live",
     "claims-zksync.app",
