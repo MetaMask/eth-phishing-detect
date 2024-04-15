@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optimism.airdrops.guide",
     "airdrop.tokenfuel.xyz",
     "provisionsstarknet.com",
     "strknet.io",
