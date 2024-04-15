@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metaqmaskwaellet.webflow.io",
     "mint.zk-sync.io",
     "distributions-zksync.com",
     "zksync.io-event.live",
