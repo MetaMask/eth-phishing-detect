@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbritrrum.com",
+    "connect-arbitrum-tokens.com",
+    "h.digitrecovery.com",
     "metaqmaskwaellet.webflow.io",
     "mint.zk-sync.io",
     "distributions-zksync.com",
