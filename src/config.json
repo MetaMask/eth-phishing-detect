@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bitcoinmixer.cash",
+    "boomchange.net",
+    "mixcoins.io",
+    "mixcoins.org",
+    "cryptomixer.net",
     "sinbadmixer.io",
     "cryptmixer.co",
     "cryptomiixer.io",
