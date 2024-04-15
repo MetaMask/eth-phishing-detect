@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "intall-metamask-wallet-extension.webflow.io",
     "metmasxzkwalelt.webflow.io",
     "coinarbtirums.com",
     "zksynk.app",
