@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mttamskwlltt.webflow.io",
     "meteomesklogin.webflow.io",
     "walletconnect.net-sync.sbs",
     "intall-metamask-wallet-extension.webflow.io",
