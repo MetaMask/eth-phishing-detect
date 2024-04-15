@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zkcyns.w3spaces.com",
+    "zksyncucwellat.webflow.io",
+    "zksyyncwalett.webflow.io",
     "c0w.fi",
     "optimism.airdrops.guide",
     "airdrop.tokenfuel.xyz",
