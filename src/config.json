@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "c0w.fi",
     "optimism.airdrops.guide",
     "airdrop.tokenfuel.xyz",
     "provisionsstarknet.com",
