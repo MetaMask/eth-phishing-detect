@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web-x8vjmgg79-uniswap.vercel.app",
     "rush-puffer.com",
     "coinbasetokenx.com",
     "v-coinbase.company",
