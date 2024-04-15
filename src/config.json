@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "provisionsstarknet.com",
+    "strknet.io",
     "arbritrrum.com",
     "connect-arbitrum-tokens.com",
     "h.digitrecovery.com",
