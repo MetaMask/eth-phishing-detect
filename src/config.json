@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamasktrades.com",
+    "dappcentralprotocol.pages.dev",
+    "metamasklogintee.gitbook.io",
     "dev-metamaskform.pantheonsite.io",
     "dogecoin20dapps.pages.dev",
     "help-metahmache.gitbook.io",
