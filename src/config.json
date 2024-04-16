@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "org-metamask-app.com",
+    "metamasklugiin1.godaddysites.com",
+    "wallet-restoremetamask.webflow.io",
     "mataansk-wallet.webflow.io",
     "metamaskqwallaet.webflow.io",
     "metamaskwallert.webflow.io",
