@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-connect-restore.webflow.io",
     "metamask-extensionoia.gitbook.io",
     "metamaskchrmxtensionw.gitbook.io",
     "metamaskdeogin.gitbook.io",
