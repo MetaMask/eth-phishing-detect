@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "swiftmulticoin-nodes.web.app",
     "cn-metamask.vip",
     "argentx-wallet.weebly.com",
     "metamask-connect-restore.webflow.io",
