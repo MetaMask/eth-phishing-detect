@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "integratedchain.rf.gd",
     "launch-metis.io",
     "metisbrand.webflow.io",
     "distributions-zksync.app",
