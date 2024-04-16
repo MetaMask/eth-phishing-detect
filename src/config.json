@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "distributions-zksync.app",
     "metaskelginin.webflow.io",
     "mitamask-lgigin.webflow.io",
     "web-maetamakloogin.webflow.io",
