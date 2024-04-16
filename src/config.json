@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cn-metamask.vip",
     "argentx-wallet.weebly.com",
     "metamask-connect-restore.webflow.io",
     "metamask-extensionoia.gitbook.io",
