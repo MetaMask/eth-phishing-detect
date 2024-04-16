@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mataansk-wallet.webflow.io",
+    "metamaskqwallaet.webflow.io",
+    "metamaskwallert.webflow.io",
+    "metmaswallet.webflow.io",
+    "webflwmetamsk.webflow.io",
     "arbitrumhub.io",
     "bak-erysswap.web.app",
     "vrbokl.com",
