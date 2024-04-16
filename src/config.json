@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "launch-metis.io",
+    "metisbrand.webflow.io",
     "distributions-zksync.app",
     "metaskelginin.webflow.io",
     "mitamask-lgigin.webflow.io",
