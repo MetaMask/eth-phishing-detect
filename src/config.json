@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app.uniswap-v2pool.org",
     "metamasktrades.com",
     "dappcentralprotocol.pages.dev",
     "metamasklogintee.gitbook.io",
