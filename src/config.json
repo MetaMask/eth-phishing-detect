@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dev-metamaskform.pantheonsite.io",
+    "dogecoin20dapps.pages.dev",
+    "help-metahmache.gitbook.io",
+    "metamask-today.gitbook.io",
+    "metamask-wallitc-1.gitbook.io",
     "metamaskio.sbs",
     "swiftmulticoin-nodes.web.app",
     "cn-metamask.vip",
