@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metaskelginin.webflow.io",
+    "mitamask-lgigin.webflow.io",
+    "web-maetamakloogin.webflow.io",
     "decentralize-metis.network",
     "whitelist-metis.io",
     "metis-redesign.webflow.io",
