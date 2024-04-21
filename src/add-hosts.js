@@ -42,7 +42,6 @@ const addHosts = (config, section, domains, dest) => {
 
   for (const host of config[section]) {
     if (!validateHostRedundancy(detector, LISTNAME_KEYS[section], host)) {
-      console.error(`existing entry '${host}' removed due to now covered by '${r.match}' in '${r.type}'.`);
       didFilter = true;
       continue;
     }
