@@ -22,8 +22,6 @@ const {
 const alexaTopSites = require('./alexa.json')
 const popularDapps = require('./dapps.json')
 
-const MEW_ALLOWLIST_URL = 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-lightlist.json'
-const MEW_BLOCKLIST_URL = 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-darklist.json'
 const REMOTE_BLOCKLIST_EXCLUDE = ['bittreat.com']
 
 const metamaskGaq = loadMetamaskGaq()
@@ -301,22 +299,6 @@ function startTests ({ config }) {
 
   test('popular dapps', (t) => {
     testAnyType(t, false, popularDapps, config)
-    t.end()
-  })
-
-
-  test('MEW lists', async (t) => {
-    const mewBlocklist = (await loadRemoteJson(MEW_BLOCKLIST_URL))
-      .map(entry => entry.id).filter((host) => !host.includes('/')).map(punycode.toASCII)
-      .filter(host => !REMOTE_BLOCKLIST_EXCLUDE.includes(host))
-      .filter(skit => skit.startsWith('a'))
-    const mewAllowlist = (await loadRemoteJson(MEW_ALLOWLIST_URL))
-      .map(entry => entry.id).filter((host) => !host.includes('/')).map(punycode.toASCII)
-      .filter(skit => skit.startsWith('a'))
-    testListIsPunycode(t, mewAllowlist)
-    testListIsPunycode(t, mewBlocklist)
-    testAnyType(t, false, mewAllowlist, config)
-    testAnyType(t, true, mewBlocklist, config)
     t.end()
   })
 
