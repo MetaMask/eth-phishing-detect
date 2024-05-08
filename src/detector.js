@@ -49,11 +49,21 @@ class PhishingDetector {
     return result
   }
 
-  _check (domain) {
+  _check (url) {
+    let domain = url;
+
+    try {
+      domain = new URL(url).host;
+    } catch(e) {
+      if(e instanceof TypeError) {
+        domain = new URL(["https://", url].join("")).host;
+      }
+    }
+
     let fqdn = domain.substring(domain.length - 1) === "."
       ? domain.slice(0, -1)
       : domain;
-
+    
     const source = domainToParts(fqdn)
 
     for (const { allowlist, name, version } of this.configs) {
@@ -92,10 +102,10 @@ class PhishingDetector {
     }
 
     // Check for IPFS CID related blocklist entries
-    if(domain.match(ipfsCidRegex(false))) { // there is a cID string somewhere
+    if(url.match(ipfsCidRegex(false))) { // there is a cID string somewhere
       // Determine if any of the entries are ipfs cids
       // Depending on the gateway, the CID is in the path OR a subdomain, so we do a regex match on it all
-      const cID = domain.match(ipfsCidRegex(false))[0];
+      const cID = url.match(ipfsCidRegex(false))[0];
       for (const { blocklist, fuzzylist, name, tolerance, version } of this.configs) {
         const blocklistMatch = matchStringAgainstList(cID, blocklist)
         if (blocklistMatch) {

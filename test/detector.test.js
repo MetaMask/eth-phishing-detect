@@ -825,6 +825,8 @@ function runTests () {
         "ipfs.eth.aragon.network/ipfs/bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m#x-ipfs-companion-no-redirect",
         "bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m.ipfs.dweb.link/#x-ipfs-companion-no-redirect",
         "bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m.ipfs.cf-ipfs.com/#x-ipfs-companion-no-redirect",
+        "example.com",
+        "example.com/foo/bar",
       ]
 
       // CID should not blocked
