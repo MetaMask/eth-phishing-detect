@@ -91,15 +91,28 @@ class PhishingDetector {
       }
     }
 
+    // Check for IPFS CID related blocklist entries
+    if(domain.match(ipfsCidRegex(false))) { // there is a cID string somewhere
+      // Determine if any of the entries are ipfs cids
+      // Depending on the gateway, the CID is in the path OR a subdomain, so we do a regex match on it all
+      const cID = domain.match(ipfsCidRegex(false))[0];
+      for (const { blocklist, fuzzylist, name, tolerance, version } of this.configs) {
+        const blocklistMatch = matchStringAgainstList(cID, blocklist)
+        if (blocklistMatch) {
+          return { blocklistMatch, name, result: true, type: 'blocklist', version }
+        }
+      }
+    }
+
     // matched nothing, PASS
     return { result: false, type: 'all' }
   }
-
 }
 
 PhishingDetector.processDomainList = processDomainList
 PhishingDetector.domainToParts = domainToParts
 PhishingDetector.domainPartsToDomain = domainPartsToDomain
+PhishingDetector.ipfsCidRegex = ipfsCidRegex
 module.exports = PhishingDetector
 
 // util
@@ -173,4 +186,18 @@ function matchPartsAgainstList(source, list) {
     // source matches target or (is deeper subdomain)
     return target.every((part, index) => source[index] === part)
   })
+}
+
+function matchStringAgainstList(needle, list) {
+  const listMap = new Map(list);
+  return listMap.has(needle) ? needle : null;
+}
+
+function ipfsCidRegex(startEndMatch = true) {
+  // regex from https://stackoverflow.com/a/67176726
+  let reg = "Qm[1-9A-HJ-NP-Za-km-z]{44,}|b[A-Za-z2-7]{58,}|B[A-Z2-7]{58,}|z[1-9A-HJ-NP-Za-km-z]{48,}|F[0-9A-F]{50,}";
+  if(startEndMatch) {
+    reg = ["^", reg, "$"].join("");
+  }
+  return new RegExp(reg, "");
 }

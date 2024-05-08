@@ -813,6 +813,65 @@ function runTests () {
     })
 
     t.end()
+  }),
+
+  test('ipfs cid blocking', (t) => {
+
+      // Gateways differ on where the CID is... sometimes in the path, sometimes in a magic subdomain
+      const expectedToBeBlocked = [
+        "ipfs.io/ipfs/bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m#x-ipfs-companion-no-redirect",
+        "gateway.pinata.cloud/ipfs/bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m#x-ipfs-companion-no-redirect",
+        "cloudflare-ipfs.com/ipfs/bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m#x-ipfs-companion-no-redirect",
+        "ipfs.eth.aragon.network/ipfs/bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m#x-ipfs-companion-no-redirect",
+        "bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m.ipfs.dweb.link/#x-ipfs-companion-no-redirect",
+        "bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m.ipfs.cf-ipfs.com/#x-ipfs-companion-no-redirect",
+      ]
+
+      // CID should not blocked
+      testDomain(t, {
+        domain: 'cf-ipfs.com/ipfs/bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze',
+        expected: false,
+        options: [
+          {
+            allowlist: [],
+            blocklist: [
+              "QmUDBVyGwqKdSayk7kDKUaj9J41Ft1DWizcKUx5UmgMgGy",
+              "bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m",
+              "example.com"
+            ],
+            fuzzylist: [],
+            name: 'first',
+            tolerance: 2,
+            version: 1
+          },
+        ],
+        type: 'all'
+      })
+
+      // CID should be blocked
+      expectedToBeBlocked.forEach((entry) => {
+        testDomain(t, {
+          domain: entry,
+          expected: true,
+          options: [
+            {
+              allowlist: [],
+              blocklist: [
+                "QmUDBVyGwqKdSayk7kDKUaj9J41Ft1DWizcKUx5UmgMgGy",
+                "bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m",
+                "example.com"
+              ],
+              fuzzylist: [],
+              name: 'first',
+              tolerance: 2,
+              version: 1
+            },
+          ],
+          type: 'blocklist'
+        })
+      })
+
+    t.end()
   })
 }
 

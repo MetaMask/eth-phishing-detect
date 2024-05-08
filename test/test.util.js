@@ -56,8 +56,14 @@ function testFuzzylist (t, domains, options) {
   })
 }
 
+// 2024-05-08: harrydenley: we also allow ipfs CID blocking
 function testListOnlyIncludesDomains (t, domains) {
   domains.forEach((domain) => {
+    // If the entry is an IPFS CID, then pass it
+    if(domain.match(PhishingDetector.ipfsCidRegex())) {
+      return true;
+    }
+
     if (domain.includes('/')) {
       t.fail('should be valid domain, not path')
     }
