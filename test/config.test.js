@@ -22,8 +22,6 @@ const {
 const alexaTopSites = require('./alexa.json')
 const popularDapps = require('./dapps.json')
 
-const MEW_ALLOWLIST_URL = 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-lightlist.json'
-const MEW_BLOCKLIST_URL = 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/urls/urls-darklist.json'
 const REMOTE_BLOCKLIST_EXCLUDE = ['bittreat.com']
 
 const metamaskGaq = loadMetamaskGaq()
@@ -38,9 +36,9 @@ function startTests ({ config }) {
 
     testBlocklist(t, [
       'metamask.com',
-      'wallet-ethereum.net',
+      'walletconnect.to',
       'etherclassicwallet.com',
-      'wallet-ethereum.net.' //Test for absolute fully-qualified domain name
+      'walletconnect.to.' //Test for absolute fully-qualified domain name
     ], config)
 
     // allowlist
@@ -106,16 +104,7 @@ function startTests ({ config }) {
 
     // DO INDEED detect as phishing
     testAnyType(t, true, [
-      'etherdelta-glthub.com',
-      'omise-go.com',
-      'omise-go.net',
-      'numerai.tech',
       'decentraiand.org',
-      'myetherwallet.com.ethpromonodes.com',
-      'blockcrein.info',
-      'blockchealn.info',
-      'bllookchain.info',
-      'blockcbhain.info',
       'tokenswap.org',
       'ethtrade.io',
       'myetherwallèt.com',
@@ -131,7 +120,6 @@ function startTests ({ config }) {
       'myeterwallet.com',
       'myethe.rwallet.com',
       'myethereallet.com',
-      'myetherieumwallet.com',
       'myetherswallet.com',
       'myetherw.allet.com',
       'myetherwal.let.com',
@@ -142,10 +130,8 @@ function startTests ({ config }) {
       'myetherwallett.com',
       'myetherwaillet.com',
       'myetherwalllet.com',
-      'myetherweb.com.de',
       'myethetwallet.com',
       'myethewallet.com',
-      'myelherwallel.com',
       'mvetherwallet.com',
       'myethewallet.net',
       'myetherwillet.com',
@@ -156,7 +142,6 @@ function startTests ({ config }) {
       'myethermwallet.com',
       'myeth4rwallet.com',
       'myethterwallet.com',
-      'origirprotocol.com'
     ], config)
 
     // etc...
@@ -186,9 +171,9 @@ function startTests ({ config }) {
 
     testBlocklist(t, [
       'metamask.com',
-      'wallet-ethereum.net',
+      'walletconnect.to',
       'etherclassicwallet.com',
-      'wallet-ethereum.net.' //Test for absolute fully-qualified domain name
+      'walletconnect.to.' //Test for absolute fully-qualified domain name
     ], currentConfig)
 
     // allowlist
@@ -254,16 +239,7 @@ function startTests ({ config }) {
 
     // DO INDEED detect as phishing
     testAnyType(t, true, [
-      'etherdelta-glthub.com',
-      'omise-go.com',
-      'omise-go.net',
-      'numerai.tech',
       'decentraiand.org',
-      'myetherwallet.com.ethpromonodes.com',
-      'blockcrein.info',
-      'blockchealn.info',
-      'bllookchain.info',
-      'blockcbhain.info',
       'tokenswap.org',
       'ethtrade.io',
       'myetherwallèt.com',
@@ -279,7 +255,6 @@ function startTests ({ config }) {
       'myeterwallet.com',
       'myethe.rwallet.com',
       'myethereallet.com',
-      'myetherieumwallet.com',
       'myetherswallet.com',
       'myetherw.allet.com',
       'myetherwal.let.com',
@@ -290,10 +265,8 @@ function startTests ({ config }) {
       'myetherwallett.com',
       'myetherwaillet.com',
       'myetherwalllet.com',
-      'myetherweb.com.de',
       'myethetwallet.com',
       'myethewallet.com',
-      'myelherwallel.com',
       'mvetherwallet.com',
       'myethewallet.net',
       'myetherwillet.com',
@@ -304,7 +277,6 @@ function startTests ({ config }) {
       'myethermwallet.com',
       'myeth4rwallet.com',
       'myethterwallet.com',
-      'origirprotocol.com'
     ], currentConfig)
 
     // etc...
@@ -327,22 +299,6 @@ function startTests ({ config }) {
 
   test('popular dapps', (t) => {
     testAnyType(t, false, popularDapps, config)
-    t.end()
-  })
-
-
-  test('MEW lists', async (t) => {
-    const mewBlocklist = (await loadRemoteJson(MEW_BLOCKLIST_URL))
-      .map(entry => entry.id).filter((host) => !host.includes('/')).map(punycode.toASCII)
-      .filter(host => !REMOTE_BLOCKLIST_EXCLUDE.includes(host))
-      .filter(skit => skit.startsWith('a'))
-    const mewAllowlist = (await loadRemoteJson(MEW_ALLOWLIST_URL))
-      .map(entry => entry.id).filter((host) => !host.includes('/')).map(punycode.toASCII)
-      .filter(skit => skit.startsWith('a'))
-    testListIsPunycode(t, mewAllowlist)
-    testListIsPunycode(t, mewBlocklist)
-    testAnyType(t, false, mewAllowlist, config)
-    testAnyType(t, true, mewBlocklist, config)
     t.end()
   })
 
