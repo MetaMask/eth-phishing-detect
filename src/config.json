@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "stakerstone.network",
     "gusd-gemini.com",
     "absolut-erle.com",
     "adn1.online",
