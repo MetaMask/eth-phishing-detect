@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "world-zksync.io",
     "app-beefy.org",
     "eiigibility-zksync.com",
     "beeffyy.finance",
