@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "world-zksync.io",
     "app-beefy.org",
     "eiigibility-zksync.com",
     "beeffyy.finance",
@@ -150793,6 +150794,9 @@
     "punlucoins.net",
     "7xgp5.cc",
     "thlsjfa.cc",
-    "rewards.walletdex.xyz"
+    "rewards.walletdex.xyz",
+    "w-tokenclaim.vercel.app",
+    "arbitragepay.com",
+    "tokenxaut.network"
   ]
 }
