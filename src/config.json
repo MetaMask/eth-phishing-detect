@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-beefy.org",
+    "eiigibility-zksync.com",
     "beeffyy.finance",
     "coin-phemex-vip.store",
     "coincapkx.com",
