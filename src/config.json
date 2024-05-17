@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocation-zircuitl2.app",
+    "arbitrums.icu",
+    "debankweb3.co",
+    "websocket-arbitrumben.mobiloitte.io",
+    "world-zksyncio.pages.dev",
+    "zksync.easscan.org",
     "dash-earnings.pages.dev",
     "world-zksync.io",
     "app-beefy.org",
