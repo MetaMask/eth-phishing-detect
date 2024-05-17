@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dash-earnings.pages.dev",
     "world-zksync.io",
     "app-beefy.org",
     "eiigibility-zksync.com",
