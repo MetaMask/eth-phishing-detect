@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "synfutures.us.com",
+    "website-422da389.zircuitsolutions.com",
     "allocation-zircuitl2.app",
     "arbitrums.icu",
     "debankweb3.co",
