@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "get-lineabuild.net",
     "authdapp.defipage.sbs",
     "nyanheroes-beta2.com",
     "earn-optinismtoken.com",
