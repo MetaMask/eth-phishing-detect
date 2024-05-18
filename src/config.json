@@ -148706,7 +148706,6 @@
     "presale.kittyscoin.com",
     "web-uniswap.exchange",
     "web-uniswap.network",
-    "en.us-linea.build",
     "arbitrum.site",
     "demo-arbitrum-edbf0c.zeeve.net",
     "claim-onbeam.app",
@@ -150962,6 +150961,9 @@
     "ciaim-zksync.app",
     "claim-floki.pages.dev",
     "tge-layerzero.network",
-    "claim-spectrallabs.pages.dev"
+    "claim-spectrallabs.pages.dev",
+    "allocate-lineabuilds.com",
+    "claim-lineabuild.com",
+    "us-linea.build"
   ]
 }
