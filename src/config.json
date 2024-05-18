@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "enlist-lineabuild.com",
     "linea-f.com",
     "get-lineabuild.net",
     "authdapp.defipage.sbs",
