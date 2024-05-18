@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "meta-mask.myfilebase.com",
+    "meta-mask.quicknode-ipfs.com",
     "ciaim-zksync.com",
     "news.zk-check.pro",
     "event-univ4labs.com",
