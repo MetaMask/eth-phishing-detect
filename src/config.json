@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "events-steth.net",
     "enlist-lineabuild.com",
     "linea-f.com",
     "get-lineabuild.net",
