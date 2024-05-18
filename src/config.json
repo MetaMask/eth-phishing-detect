@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-restore-correction.webflow.io",
     "arbirtum-foundatlon.com",
     "arbltrum.host",
     "cowcryptoswap.app",
