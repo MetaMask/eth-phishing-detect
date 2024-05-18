@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskonbase.xyz",
+    "metamaskqt.com",
+    "metamaskwallet.app",
+    "metamask.0x45efb74d3027b650.site",
+    "metamaskwallet-walus.gitbook.io",
     "metamask-restore-correction.webflow.io",
     "arbirtum-foundatlon.com",
     "arbltrum.host",
