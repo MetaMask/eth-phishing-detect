@@ -45,6 +45,16 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop-zksync.ws",
+    "eligibility-zksync.network",
+    "https-portal-zksync.io",
+    "zealy-zksync.online",
+    "zk-checker.pro",
+    "zk-protocol.io",
+    "zksclaim.com",
+    "zksync-bridge.org",
+    "zksync-protocol.com",
+    "zksync.events",
     "metamask-portfolio-master-acess8203.codeanyapp.com",
     "synfutures.us.com",
     "website-422da389.zircuitsolutions.com",
