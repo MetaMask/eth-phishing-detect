@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ilnea.build",
+    "linae.build",
+    "llinea.build",
+    "staking-linea.com",
+    "wwwlinea.build",
     "trustpad-et.com",
     "statusboarddefygradual.pages.dev",
     "meta-mask.myfilebase.com",
