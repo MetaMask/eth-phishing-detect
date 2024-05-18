@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "trustpad-et.com",
     "statusboarddefygradual.pages.dev",
     "meta-mask.myfilebase.com",
     "meta-mask.quicknode-ipfs.com",
