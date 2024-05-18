@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "statusboarddefygradual.pages.dev",
     "meta-mask.myfilebase.com",
     "meta-mask.quicknode-ipfs.com",
     "ciaim-zksync.com",
