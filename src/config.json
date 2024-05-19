@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web-metamask.com",
     "allswaps.online",
     "ethna.link",
     "kitty-vulcan.xyz",
