@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-arbitrum.bond",
     "claim-arbitrum.cloud",
     "zircuit-l2.xyz",
     "claim-arbitrum.biz.id",
