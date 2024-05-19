@@ -45,6 +45,14 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app----rabby--webe.webflow.io",
+    "app-rabby----webe.webflow.io",
+    "auth--rabby-webe.webflow.io",
+    "auth-rabby-webe.webflow.io",
+    "weeb----rabby----aauth.webflow.io",
+    "weeb---rabby----aauth.webflow.io",
+    "weeb---rabby---aauth.webflow.io",
+    "weeb-rabby---aauth.webflow.io",
     "arbitrumprojct.icu",
     "adventures-zerolend.xyz",
     "checker-zerolend.xyz",
