@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "portfolio-meta-mask.ru",
+    "trader-metamask.com",
+    "starknet.mcgret.com",
+    "starknetabs.primemarketshq.com",
     "claim-arbitrum.bond",
     "claim-arbitrum.cloud",
     "zircuit-l2.xyz",
