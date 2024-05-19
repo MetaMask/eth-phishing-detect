@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask.alcesl.com",
+    "metamaskfsw.azurewebsites.net",
+    "port-3000-metamask-portfolio-master-acess8203.preview.codeanywhere.com",
     "portfolio-meta-mask.ru",
     "trader-metamask.com",
     "starknet.mcgret.com",
