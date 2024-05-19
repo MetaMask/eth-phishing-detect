@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-rewards.pages.dev",
     "metamask.connect-wallet.app",
     "claim-arbitrum.host",
     "metamask-i0.firebaseapp.com",
