@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "adventures-zerolend.xyz",
+    "checker-zerolend.xyz",
+    "zerolcnd.com",
+    "zerolendpoints.pages.dev",
     "metamaskservices.online",
     "starknet-rewards.pages.dev",
     "metamask.connect-wallet.app",
