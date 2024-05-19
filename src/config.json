@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "alvaraprotocoll.com",
     "hekla-taiko.biz",
     "linnea.fi",
     "modelaunch.org",
