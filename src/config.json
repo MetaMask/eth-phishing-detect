@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "braavos-app.org",
+    "braavosdao.finance",
+    "myswap-cl-staging-deadbabe.freebraavos.com",
     "zircuiit.club",
     "zircuitt.info",
     "zlircuit.com",
