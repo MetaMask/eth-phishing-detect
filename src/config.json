@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-i0.firebaseapp.com",
     "alvaraprotocoll.com",
     "hekla-taiko.biz",
     "linnea.fi",
