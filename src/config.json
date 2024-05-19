@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-arbitrum.host",
     "metamask-i0.firebaseapp.com",
     "alvaraprotocoll.com",
     "hekla-taiko.biz",
