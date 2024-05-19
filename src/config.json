@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdropmode.xyz",
+    "multi-taiko.xyz",
+    "taiko-aidecentralizedapp.pages.dev",
     "metamask.alcesl.com",
     "metamaskfsw.azurewebsites.net",
     "port-3000-metamask-portfolio-master-acess8203.preview.codeanywhere.com",
