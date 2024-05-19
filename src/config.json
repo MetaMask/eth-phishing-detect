@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-arbitrum.cloud",
+    "zircuit-l2.xyz",
+    "claim-arbitrum.biz.id",
     "assets-collab-land.github.io",
     "app----rabby--webe.webflow.io",
     "app-rabby----webe.webflow.io",
