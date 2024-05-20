@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "reg-taiko.xyz",
+    "reg-taikoxyz.pages.dev",
     "crypto-walletapp.com",
     "nibiruchain.icu",
     "fixsmartdefi.vercel.app",
