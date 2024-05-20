@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "hekla-taiko.xyz",
+    "taiko-distribution.com",
     "bridgelinea-build.de",
     "brigde-arbitrum.site",
     "linea.epochprotocol.xyz",
