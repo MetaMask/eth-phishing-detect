@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "swift-synsolution.pages.dev",
     "ailocating-zerolend.net",
     "zksync.org-k.team",
     "zksync3xchange.pages.dev",
