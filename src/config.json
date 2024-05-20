@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "beefyfinance.xyz",
+    "beefyproject.xyz",
+    "beefy-snapshot-ui-bpa.pages.dev",
     "en-zerolend.xyz",
     "enrolling-lineabuild.org",
     "masterzerolend.xyz",
