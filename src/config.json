@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "boardverasguardianfi.pages.dev",
+    "intelrewardscloud.pages.dev",
     "zero-app.xyz",
     "app.zerorlend.xyz",
     "duratempfarewell.pages.dev",
