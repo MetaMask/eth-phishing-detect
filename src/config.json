@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "taiko-allocation.com",
+    "taiko-allocations.net",
+    "taikollabs.org",
     "claim-zksync.app",
     "zksync.zone",
     "ethanairdrop.com",
