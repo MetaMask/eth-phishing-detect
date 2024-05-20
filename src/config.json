@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claim-zksync.app",
+    "zksync.zone",
     "ethanairdrop.com",
     "swift-synsolution.pages.dev",
     "ailocating-zerolend.net",
