@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "multichain.devapp.vip",
     "enter-nyanheroes.app",
     "zksync.how",
     "asset-rectification.vercel.app",
