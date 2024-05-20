@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocations-lineabuilds.app",
+    "enlist-lineabuilds.com",
     "prepage-zksync.com",
     "boardverasguardianfi.pages.dev",
     "intelrewardscloud.pages.dev",
