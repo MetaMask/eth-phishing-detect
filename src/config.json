@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bridgelinea-build.de",
     "brigde-arbitrum.site",
     "linea.epochprotocol.xyz",
     "referals-linea.build",
