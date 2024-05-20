@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "enter-nyanheroes.app",
+    "zksync.how",
+    "asset-rectification.vercel.app",
+    "smartsolutiondapps.pages.dev",
+    "bridge.hdlhyperchain-zksync-db63bb.zeeve.net",
+    "expl2.hdlhyperchain-zksync-db63bb.zeeve.net",
     "beefyfinance.xyz",
     "beefyproject.xyz",
     "beefy-snapshot-ui-bpa.pages.dev",
