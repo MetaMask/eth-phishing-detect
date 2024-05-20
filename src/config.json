@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask.io.logints.org",
     "claim-arbitrum.top",
     "reward-linea.com",
     "help---metamskchhrom-org.webflow.io",
