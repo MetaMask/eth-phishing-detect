@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "referals-linea.build",
     "allocations-lineabuilds.app",
     "enlist-lineabuilds.com",
     "prepage-zksync.com",
