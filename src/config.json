@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bnb-chain-drop.xyz",
+    "jitodao.top",
+    "trustwallet-9iq.pages.dev",
     "tokendef-i.xyz",
     "coinbase-reset-here.com",
     "expolorer.im",
