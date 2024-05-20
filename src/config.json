@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "pendle-reward.finance",
     "conclaviobybit.icu",
     "zksync-base.com",
     "matichivecommunity.org",
