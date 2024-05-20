@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "prepage-zksync.com",
     "boardverasguardianfi.pages.dev",
     "intelrewardscloud.pages.dev",
     "zero-app.xyz",
