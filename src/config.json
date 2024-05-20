@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync.org-k.team",
+    "zksync3xchange.pages.dev",
+    "zksyncswap.pages.dev",
     "metamask.io.logints.org",
     "claim-arbitrum.top",
     "reward-linea.com",
