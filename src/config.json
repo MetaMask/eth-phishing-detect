@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-beefy.pages.dev",
     "ailocatlon-optimism.app",
     "aliocatlon-optimism.com",
     "taiko-allocation.com",
