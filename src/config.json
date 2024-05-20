@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "brigde-arbitrum.site",
+    "linea.epochprotocol.xyz",
     "referals-linea.build",
     "allocations-lineabuilds.app",
     "enlist-lineabuilds.com",
