@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "crypto-walletapp.com",
+    "nibiruchain.icu",
+    "fixsmartdefi.vercel.app",
     "multichain.devapp.vip",
     "enter-nyanheroes.app",
     "zksync.how",
