@@ -45,6 +45,17 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "en-zerolend.xyz",
+    "enrolling-lineabuild.org",
+    "masterzerolend.xyz",
+    "zerolend-claim.com",
+    "zksync-era.us",
+    "zksync.wales",
+    "zzerolend.xyz",
+    "402w.bnb-1212.club",
+    "bridge.zktest-zksync-708aed.zeeve.net",
+    "expl2.zktest-zksync-708aed.zeeve.net",
+    "zknode.zktest-zksync-708aed.zeeve.net",
     "metamask68.vip",
     "metamaskgroup.com",
     "metamask.main-wallet.biz",
