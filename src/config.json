@@ -153449,6 +153449,7 @@
     "tentoken.web.app",
     "pharaohs-dao.web.app",
     "nft-mof.web.app",
-    "snapshots-debank.app"
+    "snapshots-debank.app",
+    "claimnfts78.vercel.app"
   ]
 }
