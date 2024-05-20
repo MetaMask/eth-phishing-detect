@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app.zerorlend.xyz",
+    "duratempfarewell.pages.dev",
     "reg-taiko.xyz",
     "reg-taikoxyz.pages.dev",
     "crypto-walletapp.com",
