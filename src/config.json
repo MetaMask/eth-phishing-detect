@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ailocatlon-optimism.app",
+    "aliocatlon-optimism.com",
     "taiko-allocation.com",
     "taiko-allocations.net",
     "taikollabs.org",
