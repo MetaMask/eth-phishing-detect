@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "179464-coinbase.com",
+    "get-wallet-coinbase.com",
     "uniswapglobal.cc",
     "uniswapuniswap.cc",
     "receive-layerzeronetwork.pages.dev",
