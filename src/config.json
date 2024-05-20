@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "conclaviobybit.icu",
+    "zksync-base.com",
     "matichivecommunity.org",
     "multiswiftcoinapproved.pages.dev",
     "nodessolution.pages.dev",
