@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask.io-ddns.sbs",
     "linea.new-quests.pro",
     "ethereum-mixerss.com",
     "ethereum-mixer.io",
