@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "participate-lineabuild.app",
     "wieneredog.com",
     "build-event.com",
     "arbitrun.pro",
