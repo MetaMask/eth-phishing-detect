@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "participate-zksync.app",
     "iimmutable-app.com",
     "modenetwork.vercel.app",
     "multiplier-lineabuild.com",
