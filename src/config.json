@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "joinair-mode.network",
+    "zircuyt.com",
     "dapps.multiversxhubs.com",
     "defi2cash.com",
     "eigenai.app",
