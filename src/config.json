@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cosmos-swap.io",
+    "crystack.online",
+    "glxe.com",
     "bnbnexus.pro",
     "cfminted.com",
     "internalrelay.co",
