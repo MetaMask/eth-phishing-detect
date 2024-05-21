@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "wiienerdoog.com",
+    "zkfairs.app",
+    "claim.retik-app.link",
     "coroborateliveauto.weebly.com",
     "starknet-drop.life",
     "metamask-live-preview-proxy.consensys-software.workers.dev",
