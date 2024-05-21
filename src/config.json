@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocate-debankdefi.app",
+    "ordivaldebank.pages.dev",
     "cowswaps.live",
     "smartdefiauth.pages.dev",
     "participate-zksync.app",
