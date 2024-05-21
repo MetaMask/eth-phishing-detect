@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "nft-mint03.vercel.app",
+    "claimnfts8.vercel.app",
+    "nfts-clicks29.vercel.app",
     "coinbase-promotions.net",
     "coinbase2tp.net",
     "coinbasewallets.support",
