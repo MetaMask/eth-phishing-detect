@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "coroborateliveauto.weebly.com",
     "starknet-drop.life",
     "metamask-live-preview-proxy.consensys-software.workers.dev",
     "ailora.network",
