@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "nft-mint01.vercel.app",
     "nft-mint03.vercel.app",
     "claimnfts8.vercel.app",
     "nfts-clicks29.vercel.app",
