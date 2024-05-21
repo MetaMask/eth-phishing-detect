@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "connectormodaldapp.pages.dev",
     "rewards-nyanhero.com",
     "linea-bridge.app",
     "allocate-debankdefi.app",
