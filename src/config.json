@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknet-drop.life",
     "metamask-live-preview-proxy.consensys-software.workers.dev",
     "ailora.network",
     "app-zirtcuit.com",
