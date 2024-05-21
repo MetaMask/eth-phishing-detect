@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "linea-bridge.app",
     "allocate-debankdefi.app",
     "ordivaldebank.pages.dev",
     "cowswaps.live",
