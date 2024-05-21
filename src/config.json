@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cowswaps.live",
     "smartdefiauth.pages.dev",
     "participate-zksync.app",
     "iimmutable-app.com",
