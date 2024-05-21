@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "enroll-linea.xyz",
     "cosmos-swap.io",
     "crystack.online",
     "glxe.com",
