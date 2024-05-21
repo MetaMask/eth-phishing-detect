@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "smartdefiauth.pages.dev",
     "participate-zksync.app",
     "iimmutable-app.com",
     "modenetwork.vercel.app",
