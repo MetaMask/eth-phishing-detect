@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "enroll-zksync.com",
     "events-taiko.com",
     "zksync.app-checker.pro",
     "zerolend-verification.pages.dev",
