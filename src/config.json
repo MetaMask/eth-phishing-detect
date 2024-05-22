@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "revenue-explorer.pages.dev",
     "metamask-loggo.godaddysites.com",
     "metamask-lovin.godaddysites.com",
     "meetaamaasklaagnn.godaddysites.com",
