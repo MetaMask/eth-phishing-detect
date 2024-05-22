@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starkrocket.xyz",
     "revenue-explorer.pages.dev",
     "metamask-loggo.godaddysites.com",
     "metamask-lovin.godaddysites.com",
