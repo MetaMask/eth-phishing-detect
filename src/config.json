@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "poll-uniswap.com",
     "ntfcoinbase.com",
     "19513657-coinbase.com",
     "portalbridge.foundation",
