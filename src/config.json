@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "events-taiko.com",
     "zksync.app-checker.pro",
     "zerolend-verification.pages.dev",
     "arbitrum.rent",
