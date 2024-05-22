@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "lxp-lineabuild.app",
     "metamaesskeywallite.webflow.io",
     "metamaskwallet-etension.webflow.io",
     "metamyaskwalletj.webflow.io",
