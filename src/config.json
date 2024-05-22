@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop-zksync.online",
+    "register-succinctlabs.com",
     "sfjkfadhurexbex.com",
     "offerconsole.pro",
     "achieve-sophon.com",
