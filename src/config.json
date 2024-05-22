@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask.io.loginai.org",
     "zk-zksync.com",
     "lxp-lineabuild.app",
     "metamaesskeywallite.webflow.io",
