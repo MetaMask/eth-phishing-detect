@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mainnet-dop.app",
     "redeem-drift.foundation",
     "web-3-box.com",
     "beckr-live.com",
