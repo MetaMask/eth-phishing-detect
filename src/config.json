@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.rent",
     "register-dop.net",
     "linea-chm.pages.dev",
     "mainnet-dop.app",
