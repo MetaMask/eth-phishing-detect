@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "scottytheia.org",
+    "dappiverse.pages.dev",
     "synfutures.me",
     "zirrcuiit.com",
     "airdrop-zksync.ru",
