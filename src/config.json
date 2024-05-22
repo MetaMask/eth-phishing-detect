@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "beckr-live.com",
+    "galxy.app",
+    "dappsconnectio.vercel.app",
+    "whales.makret.network",
     "noncolan.com",
     "rewards-nyanheroes.com",
     "abhidev.yldint.com",
