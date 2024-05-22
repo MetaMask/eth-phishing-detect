@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "get-zksync.io",
+    "get-zksyncio.pages.dev",
     "muitiplier-lineabuild.net",
     "trustdappmodal.pages.dev",
     "event-taiko.com",
