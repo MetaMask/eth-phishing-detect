@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "refund.ethers.fund",
     "metamask-loggo.godaddysites.com",
     "metamask-lovin.godaddysites.com",
     "meetaamaasklaagnn.godaddysites.com",
