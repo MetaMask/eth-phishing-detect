@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "refund.ethers.fund",
     "enroll-zksync.com",
     "events-taiko.com",
     "zksync.app-checker.pro",
