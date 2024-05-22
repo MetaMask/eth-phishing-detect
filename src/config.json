@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "register-dop.net",
+    "linea-chm.pages.dev",
     "mainnet-dop.app",
     "redeem-drift.foundation",
     "web-3-box.com",
