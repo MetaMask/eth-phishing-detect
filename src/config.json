@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "web-3-box.com",
     "beckr-live.com",
     "galxy.app",
     "dappsconnectio.vercel.app",
