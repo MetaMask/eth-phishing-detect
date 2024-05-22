@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbltrum-foundation.online",
+    "enlist-debank.com",
+    "enlist-debankcom.pages.dev",
+    "webserverdapps.pages.dev",
     "get-zksync.io",
     "get-zksyncio.pages.dev",
     "muitiplier-lineabuild.net",
