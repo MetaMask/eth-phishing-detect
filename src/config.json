@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "curvefi.xyz",
     "multiplier-lineabuiid.com",
     "refund.ethers.fund",
     "enroll-zksync.com",
@@ -215,7 +216,6 @@
     "synfutures.comapp.nuiorc.com",
     "portal.zksync.io.bridge.superfans.pe",
     "portal.zksync.io.bridge.bakoni-ba-phetla.co.za",
-    "rewards.curvefi.xyz",
     "connectormodaldapp.pages.dev",
     "rewards-nyanhero.com",
     "linea-bridge.app",
@@ -425,7 +425,6 @@
     "cowcryptoswap.live",
     "arbitrum-dao-hubbbbb-2o537o8w6-hoomanhq-s-team.vercel.app",
     "h5.cowcrypto.com",
-    "pool.curvefi.xyz",
     "arbitrum.prod.nil-launchpad.xyz",
     "ilnea.build",
     "linae.build",
