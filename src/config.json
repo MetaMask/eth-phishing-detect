@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "extension-metamaskweb.gitbook.io",
+    "metamask-wllet-us-1.gitbook.io",
+    "metamaskloogien.gitbook.io",
     "alrdropcurve.cloud",
     "starkware.club",
     "vote-consensys.app",
