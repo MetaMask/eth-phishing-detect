@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "alrdropcurve.cloud",
+    "starkware.club",
+    "vote-consensys.app",
     "linea-build.online",
     "taikoxyz-app.pro",
     "arbltrum-foundation.online",
