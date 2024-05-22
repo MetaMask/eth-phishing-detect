@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdrop-zksync.ru",
+    "ddebank.live",
+    "zksync-v2.com",
+    "zksync-v3.network",
     "metamask-extension.blogspot.fr",
     "metamask-extension.blogspot.lt",
     "metamask-extension.blogspot.lu",
