@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "multiplier-lineabuiid.com",
     "refund.ethers.fund",
     "enroll-zksync.com",
     "events-taiko.com",
