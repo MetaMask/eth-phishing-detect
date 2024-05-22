@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "event-taiko.com",
+    "taikoxyz.tech",
+    "taiko-46v.pages.dev",
     "airdrop-zksync.online",
     "register-succinctlabs.com",
     "sfjkfadhurexbex.com",
