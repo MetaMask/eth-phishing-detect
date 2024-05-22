@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskservice-direct.webflow.io",
     "metamask-wallet-restoration.com",
     "extension-metamaskweb.gitbook.io",
     "metamask-wllet-us-1.gitbook.io",
