@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-loggo.godaddysites.com",
+    "metamask-lovin.godaddysites.com",
     "meetaamaasklaagnn.godaddysites.com",
     "meettamasskextension.gitbook.io",
     "metamasksexxtension.gitbook.io",
