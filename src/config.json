@@ -45,6 +45,16 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-extension.blogspot.fr",
+    "metamask-extension.blogspot.lt",
+    "metamask-extension.blogspot.lu",
+    "metamask-extension.blogspot.pe",
+    "metamask-extension.blogspot.si",
+    "metamask-extension.blogspot.tw",
+    "metamasklogiinn.blogspot.no",
+    "metamask-extension.blogspot.co.at",
+    "metamask-extension.blogspot.com.eg",
+    "rneta-mask-wallet.blogspot.com.ar",
     "metamaskservice-direct.webflow.io",
     "metamask-wallet-restoration.com",
     "extension-metamaskweb.gitbook.io",
