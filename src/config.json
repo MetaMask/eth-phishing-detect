@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync.app-checker.pro",
     "zerolend-verification.pages.dev",
     "arbitrum.rent",
     "register-dop.net",
