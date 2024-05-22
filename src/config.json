@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zerolend-verification.pages.dev",
     "arbitrum.rent",
     "register-dop.net",
     "linea-chm.pages.dev",
