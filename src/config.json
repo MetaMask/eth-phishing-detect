@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamasskusslwaillit.webflow.io",
     "metamaskwalleslet.webflow.io",
     "scottytheia.org",
     "dappiverse.pages.dev",
