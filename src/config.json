@@ -45,6 +45,15 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocate-taikos.com",
+    "hekla-taiko.pro",
+    "metatokenmask.com",
+    "portall-zksync.pw",
+    "token-taiko.com",
+    "metamasksignin.wordpress.com",
+    "metsak-mzlegin.gitbook.io",
+    "walletumetamaski.gitbook.io",
+    "walllet-metamasklogin.gitbook.io",
     "whitelisted-zksync.io",
     "zksync-15b.pages.dev",
     "metamask.io.loginai.org",
