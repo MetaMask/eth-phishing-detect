@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "whitelisted-zksync.io",
+    "zksync-15b.pages.dev",
     "metamask.io.loginai.org",
     "zk-zksync.com",
     "lxp-lineabuild.app",
