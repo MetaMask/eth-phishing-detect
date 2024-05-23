@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "extnsn-metamskwallett.gitbook.io",
+    "mask-chrome.gitbook.io",
     "auth-about-metamask.gitbook.io",
     "loginmetamsks-extension.gitbook.io",
     "wallat-meta-extension.gitbook.io",
