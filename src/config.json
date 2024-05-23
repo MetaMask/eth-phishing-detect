@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "points-linea.com",
     "join-lineabuild.com",
     "register-lineabuild.com",
     "join-lineabuiid.app",
