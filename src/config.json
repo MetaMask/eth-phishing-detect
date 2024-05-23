@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ailocation-optimismdao.com",
+    "allocation-optimismdao.app",
+    "allocation-optimismdao.net",
+    "optmism.live",
+    "optimism.drop-tokens.one",
+    "retrofunding.optimism.io",
     "allocating-zksync.net",
     "event-taiko.app",
     "zircuit-stake.ink",
