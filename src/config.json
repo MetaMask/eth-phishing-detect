@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "quest-zerolends.com",
+    "debank.myvnc.com",
     "maetomaskuslogin.webflow.io",
     "metamagrskwallet.webflow.io",
     "metamask-home-io.webflow.io",
