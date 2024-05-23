@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "artvitrum.com",
+    "arbitrum-mainnet-ws.us.nodefleet.net",
     "portal-zksync.network",
     "web-zksync.network",
     "airdroper.app",
