@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "failed-transaction-fix.netlify.app",
     "metamask.zenliner.com",
     "metamaskint.com",
     "events-taiko.app",
