@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "auth-about-metamask.gitbook.io",
+    "loginmetamsks-extension.gitbook.io",
+    "wallat-meta-extension.gitbook.io",
     "artvitrum.com",
     "arbitrum-mainnet-ws.us.nodefleet.net",
     "portal-zksync.network",
