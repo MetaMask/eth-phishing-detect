@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zircuit-stake.ink",
     "metamaskwaletextensiion.gitbook.io",
     "metamaskwalletb.gitbook.io",
     "allocates-zksync.net",
