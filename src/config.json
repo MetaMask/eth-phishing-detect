@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync.guru",
     "retrofunding.optimism.io",
     "failed-transaction-fix.netlify.app",
     "metamask.zenliner.com",
