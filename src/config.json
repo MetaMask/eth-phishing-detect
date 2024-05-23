@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claimpage-taiko.xyz",
+    "taikoclaim.xyz",
+    "claimpage-taikoxyz.pages.dev",
     "debank.web3-chat.site",
     "metamask.wallet-menu.com",
     "swiftnetfixresolve.pages.dev",
