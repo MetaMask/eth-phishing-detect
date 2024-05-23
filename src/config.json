@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksynck.net",
+    "zkssyncwallyt.webflow.io",
+    "zksynecuwallaet.gitbook.io",
     "bind-taiko.xyz",
     "claimtaiko.xyz",
     "taiko-live.app",
