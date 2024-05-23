@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "enlist-zerolend.xyz",
+    "enlist-zerolendxyz.pages.dev",
     "claim.taikao.xyz",
     "claiming-taiko.com",
     "event-taiko.net",
