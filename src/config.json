@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "airdroper.app",
+    "retrofunding.optimism.io",
     "airdrop.fueleproject.network",
     "auroria.explorer-api.zksync.stratisplatform.com",
     "zksync.guru",
