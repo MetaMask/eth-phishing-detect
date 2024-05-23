@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ailocation-dop.com",
     "enlist-zerolend.xyz",
     "enlist-zerolendxyz.pages.dev",
     "claim.taikao.xyz",
