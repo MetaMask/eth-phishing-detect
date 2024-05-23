@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskwaletextensiion.gitbook.io",
+    "metamaskwalletb.gitbook.io",
     "allocates-zksync.net",
     "getdop.org",
     "wl-dop.com",
