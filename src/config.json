@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "bind-taiko.xyz",
+    "claimtaiko.xyz",
+    "taiko-live.app",
+    "taikoclaim.cc",
+    "taikohub.xyz",
+    "taikosclaims.xyz",
+    "ttaiko.xyz",
     "app-taiko.net",
     "claim-taiko.eu",
     "claim-taiko.pro",
