@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskwalletexentio.webflow.io",
     "arbtirumfoundation.org",
     "arbmobile.xyz",
     "ailocation-dop.com",
