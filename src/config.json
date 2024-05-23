@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "optingfrenscale.pages.dev",
     "zksfoundation.com",
     "claim.zksfoundation.xyz",
     "zksync-eligible.com",
