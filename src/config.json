@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "starknetfoundation.xyz",
+    "trustpad-mc.com",
     "airdrop-rfuel.com",
     "briidge-arbitrume.pw",
     "fuel-net.eu",
