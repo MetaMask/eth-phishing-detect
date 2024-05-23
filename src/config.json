@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "join-lineabuiid.app",
     "optingfrenscale.pages.dev",
     "zksfoundation.com",
     "claim.zksfoundation.xyz",
