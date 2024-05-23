@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocates-zksync.net",
+    "getdop.org",
+    "wl-dop.com",
     "fuelnetwork.finance",
     "starknetfoundation.xyz",
     "trustpad-mc.com",
