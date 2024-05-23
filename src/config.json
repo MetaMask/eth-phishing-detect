@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskint.com",
     "events-taiko.app",
     "metasolution-restore-page.webflow.io",
     "ailocation-optimismdao.com",
