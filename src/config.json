@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamagrskwallet.webflow.io",
+    "metamask-home-io.webflow.io",
+    "mttumsckwalet.webflow.io",
     "metamaskwalletexentio.webflow.io",
     "arbtirumfoundation.org",
     "arbmobile.xyz",
