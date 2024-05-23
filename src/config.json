@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "fuelnetwork.finance",
     "starknetfoundation.xyz",
     "trustpad-mc.com",
     "airdrop-rfuel.com",
@@ -54,7 +55,6 @@
     "linea-signup.org",
     "poh-linea.build",
     "starknetecosystem.xyz",
-    "airdrop.fuelnetwork.finance",
     "wallletfix.vercel.app",
     "quest-zerolends.com",
     "debank.myvnc.com",
