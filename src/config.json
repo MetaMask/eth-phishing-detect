@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "portal-zksync.network",
+    "web-zksync.network",
     "airdroper.app",
     "retrofunding.optimism.io",
     "airdrop.fueleproject.network",
