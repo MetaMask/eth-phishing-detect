@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claiming-taiko.com",
     "event-taiko.net",
     "claimpage-taiko.xyz",
     "taikoclaim.xyz",
