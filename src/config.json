@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zksync-eligible.com",
     "zksynck.net",
     "zkssyncwallyt.webflow.io",
     "zksynecuwallaet.gitbook.io",
