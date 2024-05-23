@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "join-lineabuild.com",
+    "register-lineabuild.com",
     "join-lineabuiid.app",
     "optingfrenscale.pages.dev",
     "zksfoundation.com",
