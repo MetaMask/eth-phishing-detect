@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eth-refund.org",
+    "rpcfixxtools.com",
+    "web3eth.info",
     "quests-modenetworks.com",
     "saleround-dop.org",
     "dataownershipprotcol.com",
