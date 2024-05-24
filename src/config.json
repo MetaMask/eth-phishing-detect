@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "thenile-exchange.com",
     "apirepair-toolrpc.com",
     "launchpad-paramgaming.com",
     "dappsnode.on.fleek.co",
