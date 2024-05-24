@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-correction-restores.webflow.io",
     "staking-dop.com",
     "enter-modenetwork.com",
     "taikoget.cc",
