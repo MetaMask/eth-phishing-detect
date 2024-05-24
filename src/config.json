@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "apirepair-toolrpc.com",
+    "launchpad-paramgaming.com",
+    "dappsnode.on.fleek.co",
     "app-daomaker.com",
     "unitool.cc",
     "imaginarybubble.com",
