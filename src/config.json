@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "artaries.com",
+    "coinsupermarket.top",
+    "grss.info",
+    "app-dappfix.pages.dev",
     "cozymeta.fun",
     "param-live.net",
     "thedogsverse.org",
