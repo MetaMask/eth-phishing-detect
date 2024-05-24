@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "quests-modenetworks.com",
+    "saleround-dop.org",
     "dataownershipprotcol.com",
     "allocate-zircuitl2.app",
     "beefyallowance.finance",
