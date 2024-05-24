@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dataownershipprotcol.com",
     "allocate-zircuitl2.app",
     "beefyallowance.finance",
     "multichainsecure.pages.dev",
