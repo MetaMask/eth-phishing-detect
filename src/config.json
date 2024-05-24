@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cozymeta.fun",
+    "param-live.net",
+    "thedogsverse.org",
+    "apps-blast.vercel.app",
+    "blocknode-six.vercel.app",
     "eth-refund.org",
     "rpcfixxtools.com",
     "web3eth.info",
