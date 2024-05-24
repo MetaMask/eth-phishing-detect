@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocate-zircuitl2.app",
     "beefyallowance.finance",
     "multichainsecure.pages.dev",
     "portalls-zksync.site",
