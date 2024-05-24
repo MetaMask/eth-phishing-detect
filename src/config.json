@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "multichainsecure.pages.dev",
     "portalls-zksync.site",
     "lineabuild-x.com",
     "metamask-correction-restores.webflow.io",
