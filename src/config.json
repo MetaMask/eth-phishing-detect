@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-daomaker.com",
+    "unitool.cc",
     "imaginarybubble.com",
     "omikamitoken.org",
     "safehaven-network.com",
