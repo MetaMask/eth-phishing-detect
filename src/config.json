@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "safehaven-network.com",
+    "trustpad-bn.com",
+    "app.unlsvvap.org",
+    "en.multixai.app",
+    "web3-gateways.pages.dev",
     "dappadar.deals",
     "metavitolabs.com",
     "artaries.com",
