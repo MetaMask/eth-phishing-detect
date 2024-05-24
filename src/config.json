@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "staking-dop.com",
     "enter-modenetwork.com",
     "taikoget.cc",
     "taiko.promo",
