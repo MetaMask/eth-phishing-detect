@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "lineabuild-x.com",
     "metamask-correction-restores.webflow.io",
     "staking-dop.com",
     "enter-modenetwork.com",
