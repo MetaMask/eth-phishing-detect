@@ -2,7 +2,8 @@
 /package-lock.json
 
 # Created by https://www.gitignore.io/api/osx,node
-
+.python-version
+doppel/
 ### Node ###
 # Logs
 logs
