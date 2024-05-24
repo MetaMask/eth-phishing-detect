@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "papenova.com",
     "points-linea.com",
     "join-lineabuild.com",
     "register-lineabuild.com",
