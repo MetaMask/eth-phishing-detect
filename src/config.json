@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ignitioncoredao.org",
     "apps-thrustler-finance.com",
     "rpcdomain.org",
     "wiienerdoog.vip",
