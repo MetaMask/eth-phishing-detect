@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "enter-rabbyio.com",
+    "v3-rabby.com",
     "allocate-taikos.net",
     "app-taiko.info",
     "check-taiko.xyz",
