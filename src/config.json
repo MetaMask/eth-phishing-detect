@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskandtrustwalletairddropclaims.pages.dev",
     "metamask.farbodmoradi.com",
     "metamask.p-edukul.org",
     "basenameapp.xyz",
