@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "eligibility-taiko.xyz",
+    "taiko-claim.pages.dev",
     "zerolend-one.com",
     "metamaskandtrustwalletairddropclaims.pages.dev",
     "metamask.farbodmoradi.com",
