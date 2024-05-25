@@ -45,6 +45,13 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "wsol.pages.dev",
+    "expo-pudgypenguinscom.pages.dev",
+    "allocate-scroll.com",
+    "pudgtest.pages.dev",
+    "future-gala.com",
+    "scroll-bridge.com",
+    "wormhome01.pages.dev",
     "curveoptions.com",
     "ditribute-lineabuild.app",
     "qorpoassets.com",
