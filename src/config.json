@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum.de",
+    "ciaim-curvefi.com",
+    "taikoclaim.pages.dev",
+    "whm.ad-curve.finance",
     "aiiocation-dop.com",
     "arbitrum-airdrop.club",
     "linea-aab.pages.dev",
