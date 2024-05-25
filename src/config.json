@@ -45,6 +45,23 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamaskwebapp.com",
+    "about-metamask-web.gitbook.io",
+    "logeumetamask.gitbook.io",
+    "login1-metamask.gitbook.io",
+    "meta-server-restore-connect.webflow.io",
+    "metamaskbnlogin.gitbook.io",
+    "metamaskiwalletio.gitbook.io",
+    "metamaskkslogogiin.gitbook.io",
+    "metamaskloginne.gitbook.io",
+    "metamaskqtlogin.gitbook.io",
+    "metamaskrsa.azurewebsites.net",
+    "metamaskwalt.gitbook.io",
+    "arbitrum.de",
+    "ciaim-curvefi.com",
+    "taikoclaim.pages.dev",
+    "whm.ad-curve.finance",
+    "aiiocation-dop.com",
     "arbitrum-airdrop.club",
     "linea-aab.pages.dev",
     "linea-amx.pages.dev",
@@ -159010,6 +159027,7 @@
     "whitelist-blum.io",
     "signup-iinea.com",
     "sybil-iayerzeroiabs.com",
-    "drop-cashmere.io"
+    "drop-cashmere.io",
+    "vote-aerodrome.com"
   ]
 }
