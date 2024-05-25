@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "claimdodgeverse.site",
+    "blockdagbuy.pages.dev",
+    "blocktechnologies.pages.dev",
+    "multiwalletresolvesync.pages.dev",
     "enter-rabbyio.com",
     "v3-rabby.com",
     "allocate-taikos.net",
