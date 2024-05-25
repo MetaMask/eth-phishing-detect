@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "allocates-dop.app",
+    "cliamdop.org",
+    "debank.site",
+    "doplabs.org",
+    "debank3.myvnc.com",
     "metamaskwebapp.com",
     "about-metamask-web.gitbook.io",
     "logeumetamask.gitbook.io",
