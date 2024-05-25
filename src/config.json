@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrum-airdrop.club",
+    "linea-aab.pages.dev",
+    "linea-amx.pages.dev",
     "syncfix.000webhostapp.com",
     "steth-claims.org",
     "taikoalrdrop.com",
