@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask.farbodmoradi.com",
+    "metamask.p-edukul.org",
     "basenameapp.xyz",
     "bonus-lineabuild.pages.dev",
     "arbitrumdao.tech",
