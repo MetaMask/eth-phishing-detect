@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "apps-thrustler-finance.com",
+    "rpcdomain.org",
     "wiienerdoog.vip",
     "claimdodgeverse.site",
     "blockdagbuy.pages.dev",
