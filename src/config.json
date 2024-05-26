@@ -45,6 +45,12 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "mainnet-taiko.xyz",
+    "reward-taiko.com",
+    "taiko-airdrop.xyz",
+    "taiko.ooo",
+    "taikoswap.net",
+    "taikoxyz-claim.pro",
     "app-taiko.digital",
     "app-taiko.eu",
     "app-taiko.world",
