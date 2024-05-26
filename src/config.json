@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "app-taiko.digital",
+    "app-taiko.eu",
+    "app-taiko.world",
+    "swaptaiko.xyz",
+    "taikoecosystem.com",
     "earn-curvefi.pages.dev",
     "earn-curvefiapp.pages.dev",
     "earn-curve.fi",
