@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "papenova.net",
     "join-lineabuild.app",
     "zksync.cfd",
     "zksync.tel",
