@@ -45,6 +45,15 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "univ3-frontend-git-fantom-stabl.vercel.app",
+    "magicedeniodev.com",
+    "blast-io.io",
+    "odects.com",
+    "solnodes.pages.dev",
+    "rpckaminofi.pages.dev",
+    "ciaim-hashflow.app",
+    "solana-backpackexchange.app",
+    "maqiceden-airdrop.web.app",
     "the-dogeverse.com",
     "tripplevalueadded.pages.dev",
     "ignitioncoredao.org",
