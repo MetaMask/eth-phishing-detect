@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "earn-curvefi.app",
     "papenova.net",
     "join-lineabuild.app",
     "zksync.cfd",
