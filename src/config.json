@@ -45,6 +45,9 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "consensys-pad.live",
+    "multiconsensys.com",
+    "poolconsensys.com",
     "arbitrumfoundation.dropx.one",
     "zksyncpad.com",
     "starknet.bar",
