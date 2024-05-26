@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "dop-airdrop.lol",
+    "quest-zkzync.io",
+    "zerolend-drop.com",
+    "zerolend-lp.com",
     "graphcoin.net",
     "metamaskdschromeswextennsion.gitbook.io",
     "metamaskwallletx.gitbook.io",
