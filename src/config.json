@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "ordialsynprotocol.pages.dev",
     "pauly-rich.com",
     "zonra.co",
     "mainnet-taiko.xyz",
