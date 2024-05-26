@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "metamask-l.farbodmoradi.com",
+    "metamask-verification.mafiamonkeys.xyz",
     "connect-metamask-airdrop-verify01c.com",
     "earn-curvefi.app",
     "papenova.net",
