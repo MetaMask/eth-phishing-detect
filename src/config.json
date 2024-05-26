@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "endgame-zksync.app",
     "metamask-l.farbodmoradi.com",
     "metamask-verification.mafiamonkeys.xyz",
     "connect-metamask-airdrop-verify01c.com",
