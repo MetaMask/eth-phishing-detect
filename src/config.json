@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "arbitrumfoundation.dropx.one",
     "zksyncpad.com",
     "starknet.bar",
     "endgame-zksync.app",
