@@ -45,6 +45,10 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "graphcoin.net",
+    "metamaskdschromeswextennsion.gitbook.io",
+    "metamaskwallletx.gitbook.io",
+    "synfutures.comapp.uocn.net",
     "app-metamask.xyz",
     "graphcoin-award.net",
     "metamask-wallei-us.gitbook.io",
