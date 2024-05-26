@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "auto-airdrop.com",
+    "migration-normiebase.app",
     "loopring-rewards.com",
     "loopringtoken.net",
     "ethxy.pro",
