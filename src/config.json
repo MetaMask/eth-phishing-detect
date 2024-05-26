@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "earn-curvefi.pages.dev",
+    "earn-curvefiapp.pages.dev",
     "earn-curve.fi",
     "auto-airdrop.com",
     "migration-normiebase.app",
