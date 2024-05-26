@@ -45,6 +45,11 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "join-lineabuild.app",
+    "zksync.cfd",
+    "zksync.tel",
+    "zksyncc.org",
+    "bafybeihzh7yzlix2z4a6kum7yd7dl7rxfyogwlb3zmsmc6efx6qgxhxmni.ipfs.cf-ipfs.com",
     "the-dogeverse.com",
     "tripplevalueadded.pages.dev",
     "ignitioncoredao.org",
@@ -18444,7 +18449,6 @@
     "zetachain.pro",
     "zetachainsairdrops.com",
     "zksyncxdrop.net",
-    "airdrop.zksync.tel",
     "claim.zksyno.io",
     "allocation-altlayer.io",
     "rewards-portalgaming.com",
