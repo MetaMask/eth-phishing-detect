@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "zonra.co",
     "mainnet-taiko.xyz",
     "reward-taiko.com",
     "taiko-airdrop.xyz",
