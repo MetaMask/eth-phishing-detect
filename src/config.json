@@ -45,6 +45,8 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "loopring-rewards.com",
+    "loopringtoken.net",
     "ethxy.pro",
     "dop-airdrop.lol",
     "quest-zkzync.io",
