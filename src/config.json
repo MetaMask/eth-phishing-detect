@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "connect-metamask-airdrop-verify01c.com",
     "earn-curvefi.app",
     "papenova.net",
     "join-lineabuild.app",
