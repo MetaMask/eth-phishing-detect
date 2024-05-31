@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "cryptomixer.ws",
     "ethmixer.to",
     "defi2cash.com",
     "eigenai.app",
