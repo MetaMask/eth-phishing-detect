@@ -50,20 +50,12 @@ class PhishingDetector {
   }
 
   _check (url) {
-    let domain = url;
-
-    try {
-      domain = new URL(url).host;
-    } catch(e) {
-      if(e instanceof TypeError) {
-        domain = new URL(["https://", url].join("")).host;
-      }
-    }
+    let domain = new URL(url).hostname;
 
     let fqdn = domain.substring(domain.length - 1) === "."
       ? domain.slice(0, -1)
       : domain;
-    
+
     const source = domainToParts(fqdn)
 
     for (const { allowlist, name, version } of this.configs) {

@@ -4,6 +4,7 @@ const test = require('tape')
 const PhishingDetector = require('../src/detector.js')
 
 const {
+  formatHostnameToUrl,
   testAllowlist,
   testBlocklist,
   testFuzzylist,
@@ -305,7 +306,7 @@ function startTests ({ config }) {
     testListIsPunycode(t, metamaskGaq)
     const detector = new PhishingDetector(config)
     metamaskGaq.forEach((domain) => {
-      const value = detector.check(domain)
+      const value = detector.check(formatHostnameToUrl(domain))
       // enforcing type is optional
       // if (value.type === 'all') {
       //   t.comment(`'${domain}' was NOT identified as phishing`)

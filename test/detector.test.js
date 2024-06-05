@@ -1,6 +1,9 @@
 const test = require('tape')
 const PhishingDetector = require('../src/detector.js')
-const { testDomain } = require('./test.util.js')
+const { 
+  testDomain, 
+  formatHostnameToUrl, 
+} = require('./test.util.js')
 
 function runTests () {
   test('config schema', (t) => {
@@ -853,7 +856,7 @@ function runTests () {
       // CID should be blocked
       expectedToBeBlocked.forEach((entry) => {
         testDomain(t, {
-          domain: entry,
+          domain: formatHostnameToUrl(entry),
           expected: true,
           options: [
             {

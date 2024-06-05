@@ -5,6 +5,18 @@ const parseCsv = require('csv-parse/sync')
 const { cleanAllowlist, cleanBlocklist } = require('../src/clean-config.js')
 const PhishingDetector = require('../src/detector.js')
 
+function formatHostnameToUrl (hostname) {
+  let url;
+    try {
+      url = new URL(hostname).href;
+  } catch(e) {
+      if(e instanceof TypeError) {
+        url = new URL(["https://", hostname].join("")).href;
+      }
+  }
+  return url;
+}
+
 function loadMetamaskGaq () {
   // extract hits from Google Analytics data from metamask.io phishing warning
   // fetch from https://analytics.google.com/analytics/web/#my-reports/N6OapMZATf-zAzHjpa9Wcw/a37075177w102798190p106879314/%3F_u.dateOption%3Dlast7days%26454-table.plotKeys%3D%5B%5D%26454-table.rowStart%3D0%26454-table.rowCount%3D250/
@@ -22,7 +34,7 @@ function testBlocklist (t, domains, options) {
 
   domains.forEach((domain) => {
     testDomainWithDetector(t, {
-      domain: domain,
+      domain: formatHostnameToUrl(domain),
       type: options && Array.isArray(options) ? 'blocklist' : 'blacklist',
       expected: true,
       detector,
@@ -35,7 +47,7 @@ function testAllowlist (t, domains, options) {
 
   domains.forEach((domain) => {
     testDomainWithDetector(t, {
-      domain: domain,
+      domain: formatHostnameToUrl(domain),
       type: options && Array.isArray(options) ? 'allowlist' : 'whitelist',
       expected: false,
       detector,
@@ -48,7 +60,7 @@ function testFuzzylist (t, domains, options) {
 
   domains.forEach((domain) => {
     testDomainWithDetector(t, {
-      domain: domain,
+      domain: formatHostnameToUrl(domain),
       type: 'fuzzy',
       expected: true,
       detector,
@@ -131,7 +143,7 @@ function testNoMatch (t, domains, options) {
 
   domains.forEach((domain) => {
     testDomainWithDetector(t, {
-      domain: domain,
+      domain: formatHostnameToUrl(domain),
       type: 'all',
       expected: false,
       detector,
@@ -144,7 +156,7 @@ function testAnyType (t, expected, domains, options) {
 
   domains.forEach((domain) => {
     testDomainWithDetector(t, {
-      domain: domain,
+      domain: formatHostnameToUrl(domain),
       expected,
       detector,
     })
@@ -157,7 +169,7 @@ function testDomain (t, { domain, name, type, expected, options, version }) {
 }
 
 function testDomainWithDetector (t, { domain, name, type, expected, detector, version }) {
-  const value = detector.check(domain)
+  const value = detector.check(formatHostnameToUrl(domain))
   // log fuzzy match for debugging
   // if (value.type === 'fuzzy') {
   //   t.comment(`"${domain}" fuzzy matches against "${value.match}"`)
@@ -188,6 +200,7 @@ async function loadRemoteJson (url) {
 }
 
 module.exports = {
+  formatHostnameToUrl,
   loadMetamaskGaq,
   loadRemoteJson,
   testAllowlist,
