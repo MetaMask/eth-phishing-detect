@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 
-const { runTests: runDetectorTests } = require("./detector.test.js");
 const { runTests: runConfigTests } = require("./config.test.js");
-const { runTests: runCleanConfigTests } = require("./clean-config.test.js");
+
 const {
   runTests: runConfirmBlocklistTests,
 } = require("./confirm-blocklist.test.js");
@@ -11,7 +10,7 @@ const config = require("../src/config.json");
 
 const SUITES = {
   config: [() => runConfigTests({ config })],
-  unit: [runDetectorTests, runCleanConfigTests],
+  unit: [],
   confirmBlocklist: [() => runConfirmBlocklistTests(config)],
 };
 

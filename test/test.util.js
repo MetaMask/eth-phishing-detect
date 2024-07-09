@@ -2,8 +2,15 @@ const fs = require('fs')
 const punycode = require('punycode/')
 const needle = require('needle')
 const parseCsv = require('csv-parse/sync')
-const { cleanAllowlist, cleanBlocklist } = require('../src/clean-config.js')
-const PhishingDetector = require('../src/detector.js')
+
+function ipfsCidRegex(startEndMatch = true) {
+  // regex from https://stackoverflow.com/a/67176726
+  let reg = "Qm[1-9A-HJ-NP-Za-km-z]{44,}|b[A-Za-z2-7]{58,}|B[A-Z2-7]{58,}|z[1-9A-HJ-NP-Za-km-z]{48,}|F[0-9A-F]{50,}";
+  if(startEndMatch) {
+    reg = ["^", reg, "$"].join("");
+  }
+  return new RegExp(reg, "");
+}
 
 function formatHostnameToUrl (hostname) {
   let url;
@@ -29,50 +36,11 @@ function loadMetamaskGaq () {
   return result
 }
 
-function testBlocklist (t, domains, options) {
-  const detector = new PhishingDetector(options);
-
-  domains.forEach((domain) => {
-    testDomainWithDetector(t, {
-      domain: formatHostnameToUrl(domain),
-      type: options && Array.isArray(options) ? 'blocklist' : 'blacklist',
-      expected: true,
-      detector,
-    })
-  })
-}
-
-function testAllowlist (t, domains, options) {
-  const detector = new PhishingDetector(options);
-
-  domains.forEach((domain) => {
-    testDomainWithDetector(t, {
-      domain: formatHostnameToUrl(domain),
-      type: options && Array.isArray(options) ? 'allowlist' : 'whitelist',
-      expected: false,
-      detector,
-    })
-  })
-}
-
-function testFuzzylist (t, domains, options) {
-  const detector = new PhishingDetector(options);
-
-  domains.forEach((domain) => {
-    testDomainWithDetector(t, {
-      domain: formatHostnameToUrl(domain),
-      type: 'fuzzy',
-      expected: true,
-      detector,
-    })
-  })
-}
-
 // 2024-05-08: harrydenley: we also allow ipfs CID blocking
 function testListOnlyIncludesDomains (t, domains) {
   domains.forEach((domain) => {
     // If the entry is an IPFS CID, then pass it
-    if(domain.match(PhishingDetector.ipfsCidRegex())) {
+    if(domain.match(ipfsCidRegex())) {
       return true;
     }
 
@@ -128,66 +96,6 @@ function testListNoConflictingEntries (t, config) {
   }
 }
 
-function testListNoBlocklistRedundancies (t, config) {
-  const cleanConfig = cleanBlocklist(config)
-  t.ok(cleanConfig.blacklist.length === config.blacklist.length, `blocklist contains ${config.blacklist.length-cleanConfig.blacklist.length} redundant entries. run 'yarn clean:blocklist'.`)
-}
-
-function testListNoAllowlistRedundancies (t, config) {
-  const cleanConfig = cleanAllowlist(config)
-  t.ok(cleanConfig.whitelist.length === config.whitelist.length, `allowlist contains ${config.whitelist.length-cleanConfig.whitelist.length} redundant entries. run 'yarn clean:allowlist'.`)
-}
-
-function testNoMatch (t, domains, options) {
-  const detector = new PhishingDetector(options);
-
-  domains.forEach((domain) => {
-    testDomainWithDetector(t, {
-      domain: formatHostnameToUrl(domain),
-      type: 'all',
-      expected: false,
-      detector,
-    })
-  })
-}
-
-function testAnyType (t, expected, domains, options) {
-  const detector = new PhishingDetector(options);
-
-  domains.forEach((domain) => {
-    testDomainWithDetector(t, {
-      domain: formatHostnameToUrl(domain),
-      expected,
-      detector,
-    })
-  })
-}
-
-function testDomain (t, { domain, name, type, expected, options, version }) {
-  const detector = new PhishingDetector(options)
-  testDomainWithDetector(t, { domain, name, type, expected, detector, version })
-}
-
-function testDomainWithDetector (t, { domain, name, type, expected, detector, version }) {
-  const value = detector.check(formatHostnameToUrl(domain))
-  // log fuzzy match for debugging
-  // if (value.type === 'fuzzy') {
-  //   t.comment(`"${domain}" fuzzy matches against "${value.match}"`)
-  // }
-  // enforcing type is optional
-  if (type) {
-    t.equal(value.type, type, `type: "${domain}" should be "${type}"`)
-  }
-  if (name) {
-    t.equal(value.name, name, `name: "${domain}" should return result from config "${name}"`)
-  }
-  if (version) {
-    t.equal(value.version, version, `version: "${domain}" should return result from config version '${version}'`)
-  }
-  // enforcing result is required
-  t.equal(value.result, expected, `result: "${domain}" should be match "${expected}"`)
-}
-
 async function loadRemoteJson (url) {
   const res = await needle('get', url).catch(err => {
     throw new Error(`Trouble loading list at "${url}":\n${err.stack}`)
@@ -203,17 +111,9 @@ module.exports = {
   formatHostnameToUrl,
   loadMetamaskGaq,
   loadRemoteJson,
-  testAllowlist,
-  testBlocklist,
-  testDomain,
-  testFuzzylist,
-  testAnyType,
   testListDoesntContainRepeats,
   testListIsContained,
   testListIsPunycode,
   testListNoConflictingEntries,
-  testListNoAllowlistRedundancies,
-  testListNoBlocklistRedundancies,
   testListOnlyIncludesDomains,
-  testNoMatch,
 }
