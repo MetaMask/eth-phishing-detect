@@ -4,6 +4,18 @@ const path = require('path');
 const PhishingDetector = require('./detector');
 const punycode = require('punycode/');
 
+function formatHostnameToUrl (hostname) {
+  let url;
+    try {
+      url = new URL(hostname).origin;
+  } catch(e) {
+      if(e instanceof TypeError) {
+        url = new URL(["https://", hostname].join("")).origin;
+      }
+  }
+  return url;
+}
+
 const SECTION_KEYS = {
   blocklist: 'blacklist',
   allowlist: 'whitelist',
@@ -45,7 +57,7 @@ const cleanAllowlist = config => {
       }
     }
 
-    if (fuzzyDetector.check(domain).result) {
+    if (fuzzyDetector.check(formatHostnameToUrl(domain)).result) {
       return true;
     }
 
