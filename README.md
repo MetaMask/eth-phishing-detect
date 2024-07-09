@@ -14,56 +14,16 @@ We are constantly evolving the ideal policy that guides this list, but a few cle
 
 There are other grounds for blocking, and we will ultimately do our best to keep our users safe.
 
+### Usage
 
-### Basic usage
+As of v2.0.0, the detector logic has been moved to [`@metamask/phishing-controller`](https://github.com/MetaMask/core/tree/main/packages/phishing-controller) and this repo only holds the list of entries.
 
-```js
-const checkForPhishing = require('eth-phishing-detect')
-
-const value = checkForPhishing('etherclassicwallet.com')
-console.log(value) // true
-```
-
-### Advanced usage
-
-```js
-const PhishingDetector = require('eth-phishing-detect/src/detector')
-
-const config = [
-      { blocklist: [/* blacklist */], name: 'blocklist', version: 2 },
-      { allowlist: [/* whitelist */], name: 'allowlist', version: 2 },
-      { fuzzylist: [/* fuzzylist */], name: 'fuzzylist', version: 2, tolerance: 2 },
-  ];
-const detector = new PhishingDetector(config)
-const value = detector.check('etherclassicwallet.com')
-console.log(value)
-/*
-{
-  type: "blacklist",
-  result: true,
-}
-*/
-```
 
 ## Contributions
 
 
 For understanding the lists, see [`doc/lists-ref.md`](doc/lists-ref.md).
 Contributors are encouraged to read [`CONTRIBUTING.md`](./CONTRIBUTING.md) for tips, pointers, and guidelines before reporting or collaborating.
-
-To keep a tidy file, use the following CLI to make changes to the list:
-
-### Adding hosts to blocklist
-
-```
-yarn add:blocklist crypto-phishing-site.tld
-```
-
-### Adding hosts to allowlist
-
-```
-yarn add:allowlist crypto-phishing-site.tld
-```
 
 ## Databases
 
