@@ -25,7 +25,6 @@ if (process.argv.length !== 4) {
 
 (async () => {
   try {
-    console.log("starting validate-new-config");
     const [baseConfig, newConfig] = process.argv
       .slice(2)
       .map((p) => JSON.parse(readFileSync(p)));
@@ -55,20 +54,15 @@ if (process.argv.length !== 4) {
         (h) => !baseConfig.blacklist.includes(h)
       );
 
-      const chainpatrolAPIoptions = {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: '{"content":"<string>"}',
-      };
-
-      console.log(
-        "Running blocklist additions against ChainPatrol Allowlist API",
-        blocklistAdditions
-      );
-
       // Check that they are not in the allowlist
       for (const blocklistAddition of blocklistAdditions) {
         //call chainpatrol api asset-check
+        const chainpatrolAPIoptions = {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ content: blocklistAddition }),
+        };
+
         const response = await fetch(
           "https://app.chainpatrol.io/api/v2/asset/check",
           chainpatrolAPIoptions
