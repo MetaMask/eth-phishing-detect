@@ -70,7 +70,7 @@ if (process.argv.length !== 4) {
         const data = await response.json();
         if (data.status === "ALLOWED") {
           exitWithFail(
-            `new blocklist entry "${blocklistAddition}" is in the allowlist`
+            `new blocklist entry "${blocklistAddition}" is in the chainpatrol allowlist`
           );
         }
       }
