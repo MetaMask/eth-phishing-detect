@@ -15,7 +15,8 @@ const excludeList = [
   "890m.com",
   "b5z.net",
   "test.com",
-  "multichain.org", //https://twitter.com/MultichainOrg/status/1677180114227056641
+  "multichain.org", //https://twitter.com/MultichainOrg/status/1677180114227056641,
+  "dydx.exchange" //https://x.com/dydx/status/1815780835473129702
 ];
 
 function runTests(config) {
