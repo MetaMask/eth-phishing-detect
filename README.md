@@ -69,6 +69,9 @@ yarn add:allowlist crypto-phishing-site.tld
 
 We have added sqlite databases in `test/db` directory. These will be committed to the working tree periodically to try reduce the amount of false positives being blocklisted. We will pull in domains from various third party sources - right now: CoinMarketCap and Tranco. 
 
+The URL for downloading from Tranco is dynamically generated, therefore you must update the `TRANCO_LIST` variable with the latest. You can get
+the latest list URL from [here.](https://tranco-list.eu/latest_list)
+
 Update the database files:
 
 ```terminal

@@ -1,9 +1,9 @@
 name: Build and Test
 
 on:
+  pull_request:
   push:
     branches: [ main ]
-  pull_request:
 
 jobs:
   build-test:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-20.04
     strategy:
       matrix:
-        node-version: [16.x, 18.x, 20.x]
+        node-version: [20.x]
     steps:
     - name: Set Environment Variables
       run: |
@@ -37,6 +37,7 @@ jobs:
     - run: yarn buildSample
     - run: yarn ci
     - run: src/compare-git-configs.sh "$BASE_COMMIT" "$HEAD_COMMIT"
+    - run: yarn test
   all-jobs-pass:
     name: All jobs pass
     runs-on: ubuntu-20.04
@@ -44,3 +45,19 @@ jobs:
       - build-test
     steps:
     - run: echo "Great success!"
+  manual_review:
+    if: ${{ needs.build-test.result == 'failure' }}
+    needs: build-test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v5
+        with:
+          script: |
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Manual Review Required',
+              body: 'A test has failed and manual review is required. Please check the workflow run.',
+            });
+            console.log(`Issue created: ${issue.data.html_url}`);
+        name: Notify for Manual Review
