@@ -30,7 +30,6 @@
     "fastest-levenshtein": "^1.0.16"
   },
   "devDependencies": {
-    "@types/tape": "^5.6.4",
     "browserify": "^17.0.0",
     "csv-parse": "^5.3.6",
     "dotenv": "^16.3.1",
