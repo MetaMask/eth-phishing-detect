@@ -45,19 +45,3 @@ jobs:
       - build-test
     steps:
     - run: echo "Great success!"
-  manual_review:
-    if: ${{ needs.build-test.result == 'failure' }}
-    needs: build-test
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/github-script@v5
-        with:
-          script: |
-            const issue = await github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: 'Manual Review Required',
-              body: 'A test has failed and manual review is required. Please check the workflow run.',
-            });
-            console.log(`Issue created: ${issue.data.html_url}`);
-        name: Notify for Manual Review
