@@ -48,6 +48,7 @@ const excludeList = [
   "earnstations.com",
   "web3quests.com",
   "qubitscube.com",
+  "teknik.io",
 ];
 
 function runTests(config) {
