@@ -1,9 +1,9 @@
 name: Build and Test
 
 on:
-  pull_request:
   push:
     branches: [ main ]
+  pull_request:
 
 jobs:
   build-test:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-20.04
     strategy:
       matrix:
-        node-version: [20.x]
+        node-version: [16.x, 18.x, 20.x]
     steps:
     - name: Set Environment Variables
       run: |
@@ -37,7 +37,6 @@ jobs:
     - run: yarn buildSample
     - run: yarn ci
     - run: src/compare-git-configs.sh "$BASE_COMMIT" "$HEAD_COMMIT"
-    - run: yarn test
   all-jobs-pass:
     name: All jobs pass
     runs-on: ubuntu-20.04
