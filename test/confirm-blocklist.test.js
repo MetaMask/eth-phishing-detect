@@ -15,45 +15,33 @@ const excludeList = [
   "890m.com",
   "b5z.net",
   "test.com",
-  "multichain.org", //https://twitter.com/MultichainOrg/status/1677180114227056641
+  "multichain.org", // https://twitter.com/MultichainOrg/status/1677180114227056641
+  "dydx.exchange", // https://x.com/dydx/status/1815780835473129702
 ];
 
 function runTests(config) {
-  test("check config blocklist against Tranco domains", (t) => {
-    const trancos = new Set(
-      fs
-        .readFileSync(path.join(DB_PATH, "trancos.txt"), { encoding: "utf-8" })
-        .split("\n")
-    );
-    const foundOverlapping = config.blacklist.filter(
-      (d) => trancos.has(d) && !excludeList.includes(d)
-    );
-    t.equal(
-      foundOverlapping.length,
-      0,
-      `Following domains found in Tranco domains: "${foundOverlapping}"`
-    );
-    t.end();
-  });
+  testList = (listname, filename) => {
+    test(`check config blocklist against ${listname} list`, (t) => {
+      const domains = new Set(
+        fs
+          .readFileSync(path.join(DB_PATH, filename), { encoding: "utf-8" })
+          .split("\n")
+      );
+      const foundOverlapping = config.blacklist.filter(
+        (d) => domains.has(d) && !excludeList.includes(d)
+      );
+      t.equal(
+        foundOverlapping.length,
+        0,
+        `Following domains found in ${listname} list: "${foundOverlapping}"`
+      );
+      t.end();
+    });
+  }
 
-  test("check config blocklist against Coinmarketcap coins domains", (t) => {
-    const coinmarketcaps = new Set(
-      fs
-        .readFileSync(path.join(DB_PATH, "coinmarketcaps.txt"), {
-          encoding: "utf-8",
-        })
-        .split("\n")
-    );
-    const foundOverlapping = config.blacklist.filter((d) =>
-      coinmarketcaps.has(d) && !excludeList.includes(d)
-    );
-    t.equal(
-      foundOverlapping.length,
-      0,
-      `Following domains found in Coinmarketcap coins domains: "${foundOverlapping}"`
-    );
-    t.end();
-  });
+  testList("Tranco", "trancos.txt");
+  testList("CoinMarketCap", "coinmarketcaps.txt");
+  testList("MetaMask Snaps Registry", "snapsregistry.txt");
 }
 
 module.exports = {

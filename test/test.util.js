@@ -18,34 +18,40 @@ function loadMetamaskGaq () {
 }
 
 function testBlocklist (t, domains, options) {
+  const detector = new PhishingDetector(options);
+
   domains.forEach((domain) => {
-    testDomain(t, {
+    testDomainWithDetector(t, {
       domain: domain,
       type: options && Array.isArray(options) ? 'blocklist' : 'blacklist',
       expected: true,
-      options,
+      detector,
     })
   })
 }
 
 function testAllowlist (t, domains, options) {
+  const detector = new PhishingDetector(options);
+
   domains.forEach((domain) => {
-    testDomain(t, {
+    testDomainWithDetector(t, {
       domain: domain,
       type: options && Array.isArray(options) ? 'allowlist' : 'whitelist',
       expected: false,
-      options,
+      detector,
     })
   })
 }
 
 function testFuzzylist (t, domains, options) {
+  const detector = new PhishingDetector(options);
+
   domains.forEach((domain) => {
-    testDomain(t, {
+    testDomainWithDetector(t, {
       domain: domain,
       type: 'fuzzy',
       expected: true,
-      options,
+      detector,
     })
   })
 }
@@ -71,10 +77,18 @@ function testListIsPunycode (t, list) {
 }
 
 function testListDoesntContainRepeats (t, list) {
-  list.forEach((domain) => {
-    const count = list.filter(item => item === domain).length
-    t.ok(count === 1, `domain '${domain}' is duplicated. Domains can only appear in list once`)
-  })
+  const clone = new Set(list);
+  if (clone.size === list.length) {
+    return;
+  }
+  
+  for (const item of list) {
+    if (clone.has(item)) {
+      clone.delete(item);
+    } else {
+      t.fail(`domain ${item} is duplicated. Domains can only appear in the list once`);
+    }
+  }
 }
 
 function testListIsContained (t, needles, stack) {
@@ -83,6 +97,17 @@ function testListIsContained (t, needles, stack) {
       t.fail(`${domain} in fuzzylist but not present in allowlist`, domain)
     }
   });
+}
+
+function testListNoConflictingEntries (t, config) {
+  const allowlistSet = new Set(config['whitelist']);
+  const blocklistSet = new Set(config['blacklist']);
+
+  const intersection = Array.from(allowlistSet).filter(v => blocklistSet.has(v));
+
+  for (const item of intersection) {
+    t.fail(`domain ${item} appears on both the allowlist and blocklist`);
+  }
 }
 
 function testListNoBlocklistRedundancies (t, config) {
@@ -96,28 +121,36 @@ function testListNoAllowlistRedundancies (t, config) {
 }
 
 function testNoMatch (t, domains, options) {
+  const detector = new PhishingDetector(options);
+
   domains.forEach((domain) => {
-    testDomain(t, {
+    testDomainWithDetector(t, {
       domain: domain,
       type: 'all',
       expected: false,
-      options,
+      detector,
     })
   })
 }
 
 function testAnyType (t, expected, domains, options) {
+  const detector = new PhishingDetector(options);
+
   domains.forEach((domain) => {
-    testDomain(t, {
+    testDomainWithDetector(t, {
       domain: domain,
       expected,
-      options,
+      detector,
     })
   })
 }
 
 function testDomain (t, { domain, name, type, expected, options, version }) {
   const detector = new PhishingDetector(options)
+  testDomainWithDetector(t, { domain, name, type, expected, detector, version })
+}
+
+function testDomainWithDetector (t, { domain, name, type, expected, detector, version }) {
   const value = detector.check(domain)
   // log fuzzy match for debugging
   // if (value.type === 'fuzzy') {
@@ -159,6 +192,7 @@ module.exports = {
   testListDoesntContainRepeats,
   testListIsContained,
   testListIsPunycode,
+  testListNoConflictingEntries,
   testListNoAllowlistRedundancies,
   testListNoBlocklistRedundancies,
   testListOnlyIncludesDomains,
