@@ -17,6 +17,38 @@ const excludeList = [
   "test.com",
   "multichain.org", // https://twitter.com/MultichainOrg/status/1677180114227056641
   "dydx.exchange", // https://x.com/dydx/status/1815780835473129702
+
+  /* 
+  // Below are unknown websites that should stay on the blocklist for brevity but make tests fail. This is likely because they exist on the
+  // Tranco list and for one reason or another have a high repuatation score.
+
+  // NOTE: If it is on the Tranco list, please CONFIRM that you are NOT adding a false positive. This will trigger a manual review within the CICD pipeline.
+  Only once it is confirmed not to be a false positive can it be added to this list.
+  */ 
+  "azureserv.com",
+  "dnset.com",
+  "dnsrd.com",
+  "prohoster.biz",
+  "kucoin.plus",
+  "ewp.live",
+  "sdstarfx.com",
+  "1mobile.com",
+  "v6.rocks",
+  "linkpc.net",
+  "bookmanga.com",
+  "lihi.cc",
+  "mytradift.com",
+  "anondns.net",
+  "bitkeep.vip",
+  "temporary.site",
+  "misecure.com",
+  "myz.info",
+  "ton-claim.org",
+  "servehalflife.com",
+  "earnstations.com",
+  "web3quests.com",
+  "qubitscube.com",
+  "teknik.io",
 ];
 
 function runTests(config) {
