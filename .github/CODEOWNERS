@@ -2,7 +2,7 @@
 # Each line is a file pattern followed by one or more owners.
 
 *.js                                 @kumavis @409H @FrederikBolding @MetaMask/product-safety
-*.sh                                 @kumavis @409H @FrederikBolding
-package.json                         @kumavis @409H @FrederikBolding
+*.sh                                 @kumavis @409H @FrederikBolding @MetaMask/product-safety
+package.json                         @kumavis @409H @FrederikBolding @MetaMask/product-safety
 .github/                             @kumavis @409H @FrederikBolding @MetaMask/product-safety
-test/                                @kumavis @409H @FrederikBolding
+test/                                @kumavis @409H @FrederikBolding @MetaMask/product-safety
