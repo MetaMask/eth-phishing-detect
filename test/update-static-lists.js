@@ -6,7 +6,7 @@ require("dotenv").config({ path: join(__dirname, "/.update-lists.env") });
 const DB_PATH = join(__dirname) + "/db";
 
 const ENDPOINTS = {
-  TRANCO_LIST: "https://tranco-list.eu/download/K25GW/100000",
+  TRANCO_LIST: "https://tranco-list.eu/download/KJ3KW/200000",
   COINMARKETCAP:
     "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=5000&start=1&sort=market_cap_strict&market_cap_min=10000000",
   COINMARKETCAP_COIN_INFO:
@@ -48,6 +48,7 @@ async function updateTrancoList() {
 
   try {
     fs.writeFileSync(DB_PATH + "/trancos.txt", trancoDomains);
+    console.log("Successfully updated tranco list");
     process.exit(0);
   } catch (err) {
     console.error(err);
