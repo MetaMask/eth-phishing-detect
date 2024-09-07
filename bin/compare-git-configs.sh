@@ -16,7 +16,7 @@ git show ${base_ref}:src/config.json    > ${oldcfg}
 git show ${target_ref}:src/config.json  > ${newcfg}
 
 # run invariant check on head commit version vs staged version
-node src/validate-new-config.js "${oldcfg}" "${newcfg}"
+node --import tsx bin/validate-new-config.js "${oldcfg}" "${newcfg}"
 
 ## check for invalid line-endings
 grep -q $'\r' "${newcfg}" \

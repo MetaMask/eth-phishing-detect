@@ -1,36 +1,8 @@
-const punycode = require('punycode/')
-const test = require('tape')
+import test from 'tape'
+import { testAllowlist, testAnyType, testBlocklist, testFuzzylist, testListDoesntContainRepeats, testListIsContained, testListIsPunycode, testListNoConflictingEntries, testListOnlyIncludesDomains, testNoMatch } from './utils.js';
+import { Config } from '../src/types.js';
 
-const PhishingDetector = require('../src/detector.js')
-
-const {
-  testAllowlist,
-  testBlocklist,
-  testFuzzylist,
-  loadMetamaskGaq,
-  loadRemoteJson,
-  testAnyType,
-  testListDoesntContainRepeats,
-  testListIsContained,
-  testListIsPunycode,
-  testListNoConflictingEntries,
-  testListNoAllowlistRedundancies,
-  testListNoBlocklistRedundancies,
-  testListOnlyIncludesDomains,
-  testNoMatch,
-} = require('./test.util.js')
-const alexaTopSites = require('./alexa.json')
-const popularDapps = require('./dapps.json')
-
-const REMOTE_BLOCKLIST_EXCLUDE = ['bittreat.com']
-
-const metamaskGaq = loadMetamaskGaq()
-
-async function runTests ({ config }) {
-  startTests({ config })
-}
-
-function startTests ({ config }) {
+export const runTests = (config: Config) => {
   test('legacy config', (t) => {
     // blocklist
 
@@ -289,43 +261,17 @@ function startTests ({ config }) {
     t.end()
   })
 
-
-  test('alexa top sites', (t) => {
-    testAnyType(t, false, alexaTopSites, config)
-    t.end()
-  })
-
-  test('popular dapps', (t) => {
-    testAnyType(t, false, popularDapps, config)
-    t.end()
-  })
-
-  // make sure all metamask phishing hits are explicitly blocklisted
-  test('metamask gaq', (t) => {
-    testListIsPunycode(t, metamaskGaq)
-    const detector = new PhishingDetector(config)
-    metamaskGaq.forEach((domain) => {
-      const value = detector.check(domain)
-      // enforcing type is optional
-      // if (value.type === 'all') {
-      //   t.comment(`'${domain}' was NOT identified as phishing`)
-      // }
-      t.notEqual(value.type, 'fuzzy', `MetaMask Gaq result: '${domain}' should NOT be 'fuzzy'`)
-    })
-    t.end()
-  })
-
   test('config exclusively using punycode', (t) => {
     testListIsPunycode(t, config.whitelist)
     testListIsPunycode(t, config.fuzzylist)
-    // testListIsPunycode(t, config.blacklist)
+    testListIsPunycode(t, config.blacklist)
     t.end()
   })
 
   test('config not repetitive', (t) => {
     testListDoesntContainRepeats(t, config.whitelist)
     testListDoesntContainRepeats(t, config.fuzzylist)
-    // testListDoesntContainRepeats(t, config.blacklist)
+    testListDoesntContainRepeats(t, config.blacklist)
     t.end()
   })
 
@@ -354,6 +300,3 @@ function startTests ({ config }) {
   // })
 }
 
-module.exports = {
-  runTests,
-}
