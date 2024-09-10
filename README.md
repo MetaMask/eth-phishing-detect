@@ -2,7 +2,7 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/eth-phishing-detect.svg)](https://greenkeeper.io/)
 
-Utility for detecting phishing domains targeting Web3 users.
+List of malicious domains targeting Web3 users.
 
 For checking why a given domain was blocked, there is a third-party [search tool](https://app.chainpatrol.io/search) maintained by ChainPatrol.
 
@@ -17,69 +17,38 @@ There are other grounds for blocking, and we will ultimately do our best to keep
 
 ### Basic usage
 
-```js
-const checkForPhishing = require('eth-phishing-detect')
-
-const value = checkForPhishing('etherclassicwallet.com')
-console.log(value) // true
-```
-
-### Advanced usage
-
-```js
-const PhishingDetector = require('eth-phishing-detect/src/detector')
-
-const config = [
-      { blocklist: [/* blacklist */], name: 'blocklist', version: 2 },
-      { allowlist: [/* whitelist */], name: 'allowlist', version: 2 },
-      { fuzzylist: [/* fuzzylist */], name: 'fuzzylist', version: 2, tolerance: 2 },
-  ];
-const detector = new PhishingDetector(config)
-const value = detector.check('etherclassicwallet.com')
-console.log(value)
-/*
-{
-  type: "blacklist",
-  result: true,
-}
-*/
-```
+UPDATE: The phishing detector has been moved [here](https://github.com/MetaMask/core/tree/main/packages/phishing-controller).
 
 ## Contributions
 
+To keep a tidy file, use the CLI or library functions to modify the list.
 
-For understanding the lists, see [`doc/lists-ref.md`](doc/lists-ref.md).
-Contributors are encouraged to read [`CONTRIBUTING.md`](./CONTRIBUTING.md) for tips, pointers, and guidelines before reporting or collaborating.
+### Adding new domains
 
-To keep a tidy file, use the following CLI to make changes to the list:
-
-### Adding hosts to blocklist
-
-```
+```bash
 yarn add:blocklist crypto-phishing-site.tld
+yarn add:allowlist legitimate-site.tld
 ```
 
-### Adding hosts to allowlist
-
-```
-yarn add:allowlist crypto-phishing-site.tld
-```
-
-## Databases
-
-We have added sqlite databases in `test/db` directory. These will be committed to the working tree periodically to try reduce the amount of false positives being blocklisted. We will pull in domains from various third party sources - right now: CoinMarketCap and Tranco. 
-
-The URL for downloading from Tranco is dynamically generated, therefore you must update the `TRANCO_LIST` variable with the latest. You can get
-the latest list URL from [here.](https://tranco-list.eu/latest_list)
-
-Update the database files:
-
-```terminal
-yarn update:db
-
-yarn update:db:tranco
-yarn update:db:coinmarketcap
-yarn update:db:snapsregistry
+```js
+addDomains(config, 'blocklist', ['crypto-phishing-site.tld']);
+addDomains(config, 'allowlist', ['legitimate-site.tld']);
 ```
 
-These sqlite databases will be checked against in `yarn run test` to ensure nothing is on the blocklist that is also in these databases.
+### Removing existing domains
+
+```bash
+yarn remove:blocklist legitimate-site.tld
+yarn remove:allowlist malicious-site.tld
+```
+
+```js
+removeDomains(config, 'blocklist', ['legitimate-site.tld']);
+removeDomains(config, 'allowlist', ['crypto-phishing-site.tld']);
+```
+
+## Safeguards
+
+We maintain a list of domains pulled from various sources in `test/resources`. Each file is plaintext with one host per domain. These domains are used to reduce the risk of false positives. If you need to block a domain that is featured on one of these lists, you'll need to add a bypass to `test/test-lists.ts`.
+
+To update the lists, run `yarn update:lists`. Note that you'll need a CoinMarketCap Pro API key.

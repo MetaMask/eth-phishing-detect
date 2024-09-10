@@ -5,20 +5,20 @@
   "main": "src/index.js",
   "scripts": {
     "prepare": "simple-git-hooks",
-    "test": "node test | tap-summary",
-    "test:unit": "node test unit | tap-summary",
-    "test:config": "node test config | tap-summary",
-    "buildSample": "browserify example/index.js -o example/bundle.js",
-    "ci": "node test | tap-summary --no-progress",
-    "clean:blocklist": "node src/clean-config.js blocklist",
-    "clean:allowlist": "node src/clean-config.js allowlist",
-    "add:blacklist": "node src/blacklist.js",
-    "add:blocklist": "node src/add-hosts.js src/config.json blocklist",
-    "add:allowlist": "node src/add-hosts.js src/config.json allowlist",
-    "update:db": "npm run update:db:tranco && npm run update:db:coinmarketcap && npm run update:db:snapsregistry",
-    "update:db:tranco": "node test/update-static-lists.js tranco",
-    "update:db:coinmarketcap": "node test/update-static-lists.js coinmarketcap",
-    "update:db:snapsregistry": "node test/update-static-lists.js snapsregistry"
+    "test": "node --import tsx test | tap-summary",
+    "test:config": "node --import tsx test config | tap-summary",
+    "ci": "node --import tsx test | tap-summary --no-progress",
+    "clean:blocklist": "node --import tsx bin/clean-config.ts blocklist",
+    "clean:allowlist": "node --import tsx bin/clean-config.ts allowlist",
+    "add:blocklist": "node --import tsx bin/update-config.js blocklist add",
+    "add:allowlist": "node --import tsx bin/update-config.js allowlist add",
+    "remove:blocklist": "node --import tsx bin/update-config.js blocklist remove",
+    "remove:allowlist": "node --import tsx bin/update-config.js allowlist remove",
+    "update:lists": "node --import tsx bin/update-test-lists.ts all",
+    "update:list:tranco": "node --import tsx bin/update-test-lists.ts tranco",
+    "update:list:coinmarketcap": "node --import tsx bin/update-test-lists.ts coinmarketcap",
+    "update:list:snapsregistry": "node --import tsx bin/update-test-lists.ts snapsregistry",
+    "update:list:coingecko": "node --import tsx bin/update-test-lists.ts coingecko"
   },
   "author": "kumavis",
   "license": "DBAD",
@@ -30,20 +30,21 @@
     "fastest-levenshtein": "^1.0.16"
   },
   "devDependencies": {
-    "browserify": "^17.0.0",
+    "@types/punycode": "^2.1.4",
+    "@types/tape": "^5.6.4",
     "csv-parse": "^5.3.6",
     "dotenv": "^16.3.1",
-    "needle": "^3.2.0",
     "punycode": "^2.3.0",
     "simple-git-hooks": "^2.8.1",
     "tap-summary": "^4.0.0",
-    "tape": "^5.6.3"
+    "tape": "^5.6.3",
+    "tsx": "^4.19.0"
   },
   "directories": {
     "test": "test"
   },
   "simple-git-hooks": {
-    "pre-commit": "src/compare-git-configs.sh"
+    "pre-commit": "bin/compare-git-configs.sh"
   },
   "repository": {
     "type": "git",
@@ -53,7 +54,7 @@
     "url": "https://github.com/MetaMask/eth-phishing-detect/issues"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.0.0"
   },
   "homepage": "https://github.com/MetaMask/eth-phishing-detect#readme"
 }
