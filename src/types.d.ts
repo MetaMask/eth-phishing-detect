@@ -1,1 +1,4 @@
-export type { LegacyPhishingDetectorList as LegacyPhishingDetectorConfiguration, PhishingDetectorConfiguration } from "@metamask/phishing-controller";
+export type {
+    LegacyPhishingDetectorList as LegacyPhishingDetectorConfiguration,
+    PhishingDetectorConfiguration,
+} from "@metamask/phishing-controller";

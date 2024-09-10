@@ -2,8 +2,9 @@ import { Test } from "tape";
 import punycode from "punycode/";
 import { cleanAllowlist, cleanBlocklist } from "../src/clean-config.js";
 import PhishingDetector from "../src/detector.js";
+import { Config } from "../src/types.js";
 
-export const testBlocklist = (t: Test, domains: string[], options) => {
+export const testBlocklist = (t: Test, domains: string[], options: Config) => {
     const detector = new PhishingDetector(options);
 
     domains.forEach((domain) => {
@@ -162,7 +163,7 @@ export const testDomain = (t, { domain, name, type, expected, options, version }
     testDomainWithDetector(t, { domain, name, type, expected, detector, version });
 };
 
-export const testDomainWithDetector = (t, { domain, name, type, expected, detector, version }: TestParams) => {
+export const testDomainWithDetector = (t: Test, { domain, name, type, expected, detector, version }: TestParams) => {
     const value = detector.check(domain);
     // log fuzzy match for debugging
     // if (value.type === 'fuzzy') {

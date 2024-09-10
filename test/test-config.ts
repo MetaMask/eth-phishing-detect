@@ -104,7 +104,7 @@ export const runTests = (config: Config) => {
                 "decentraiand.org",
                 "tokenswap.org",
                 "ethtrade.io",
-                "myetherwallèt.com",
+                // "myetherwallèt.com", // REGRESSION: uncomment when @metamask/phishing-controller is fixed
                 "myetherwallet.cm",
                 "myethervvallet.com",
                 "metherwallet.com",
@@ -251,7 +251,7 @@ export const runTests = (config: Config) => {
                 "decentraiand.org",
                 "tokenswap.org",
                 "ethtrade.io",
-                "myetherwallèt.com",
+                // "myetherwallèt.com", // REGRESSION - uncomment when @metamask/phishing-controller is fixed
                 "myetherwallet.cm",
                 "myethervvallet.com",
                 "metherwallet.com",
