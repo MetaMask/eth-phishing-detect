@@ -4,8 +4,8 @@ export type Config = {
     fuzzylist: string[];
     whitelist: string[];
     blacklist: string[];
-}
+};
 
-export type InternalKey = 'blacklist' | 'whitelist' | 'fuzzylist';
+export type InternalKey = "blacklist" | "whitelist" | "fuzzylist";
 
-export type ExternalKey = 'allowlist' | 'blocklist' | 'fuzzylist';
+export type ExternalKey = "allowlist" | "blocklist" | "fuzzylist";

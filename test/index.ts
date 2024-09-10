@@ -13,12 +13,12 @@ const SUITES = {
 };
 
 const runTests = (target: string) => {
-    const suites = target === 'all' ? Object.values(SUITES).flatMap(v => v) : SUITES[target];
-    
+    const suites = target === "all" ? Object.values(SUITES).flatMap((v) => v) : SUITES[target];
+
     for (const suite of suites) {
         suite(config);
     }
-}
+};
 
 const target = process.argv[2] || "all";
 runTests(target);
