@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const { readFileSync } = require('fs');
+import { readFileSync } from 'fs';
 
 const exitWithUsage = (exitCode) => {
   console.error(`Usage: ${
@@ -20,7 +20,7 @@ if (process.argv.length !== 4) {
 }
 
 try {
-  const [baseConfig, newConfig] = process.argv.slice(2).map(p => JSON.parse(readFileSync(p)));
+  const [baseConfig, newConfig] = process.argv.slice(2).map(p => JSON.parse(readFileSync(p, { encoding: 'utf-8' })));
   {
     // 1. Fuzzylist is remove-only
     let result;
@@ -31,7 +31,7 @@ try {
   {
     // 2. Fuzzy-tolerance is strictly bounded to not grow
     if (!(newConfig.tolerance <= baseConfig.tolerance)) {
-      exitWithFail(`new tolerance ${newConfig.tolerance} must be <= old tolerance ${oldConfig.tolerance}`);
+      exitWithFail(`new tolerance ${newConfig.tolerance} must be <= old tolerance ${baseConfig.tolerance}`);
     }
   }
   // TODO: enable once lists are sorted in `config.json`
