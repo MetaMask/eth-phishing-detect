@@ -5,6 +5,7 @@ import { Config } from '../src/types';
 
 // This is a list of "bad domains" (false positive) that we don't want to include in the Tranco test
 const bypass = new Set([
+    "mystrikingly.com",
     "simdif.com",
     "gb.net",
     "btcs.love",
