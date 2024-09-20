@@ -1,11 +1,9 @@
-export type Config = {
+import { LegacyPhishingDetectorList } from "@metamask/phishing-controller";
+
+export type Config = LegacyPhishingDetectorList & {
     version: number;
-    tolerance: number;
-    fuzzylist: string[];
-    whitelist: string[];
-    blacklist: string[];
-}
+};
 
-export type InternalKey = 'blacklist' | 'whitelist' | 'fuzzylist';
+export type InternalKey = "blacklist" | "whitelist" | "fuzzylist";
 
-export type ExternalKey = 'allowlist' | 'blocklist' | 'fuzzylist';
+export type ExternalKey = "allowlist" | "blocklist" | "fuzzylist";

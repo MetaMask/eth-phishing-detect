@@ -20,10 +20,10 @@ This repository aims to manage domain lists for MetaMask, ensuring that our user
 
 The `eth-phishing-detect` repository is organized as follows:
 
-- `src/`: contains the source code and core logic for managing domain lists
-- `src/config.json`: contains the domain lists, including Fuzzy list, allow list, and block list
-- `test/`: contains test cases and test utilities
-- `docs/`: contains documentation and guidelines
+-   `src/`: contains the source code and core logic for managing domain lists
+-   `src/config.json`: contains the domain lists, including Fuzzy list, allow list, and block list
+-   `test/`: contains test cases and test utilities
+-   `docs/`: contains documentation and guidelines
 
 # Contribution Guidelines
 
@@ -31,16 +31,16 @@ External contributors are encouraged to contribute to the project by submitting 
 
 1. Fork the repository and create a new branch for your contribution.
 2. Develop your changes and ensure that they adhere to the project's coding standards and best practices.
-Create a pull request with a clear and concise description of your changes, including any relevant issue numbers.
-Engage with maintainers and other contributors to address feedback and iterate on your changes.
+   Create a pull request with a clear and concise description of your changes, including any relevant issue numbers.
+   Engage with maintainers and other contributors to address feedback and iterate on your changes.
 
 # Communication and Support
 
 We encourage open communication and collaboration among contributors. To facilitate this, we have set up the following channels:
 
-- [GitHub Discussions](https://github.com/MetaMask/eth-phishing-detect/discussions): Use GitHub Discussions for asynchronous communication, project announcements, and general questions related to the repository.
-- [GitHub Issues](https://github.com/MetaMask/eth-phishing-detect/issues): Submit issues for bug reports, feature requests, or other improvements you would like to see in the project.
-Maintainers will provide support and guidance to external contributors through these channels.
+-   [GitHub Discussions](https://github.com/MetaMask/eth-phishing-detect/discussions): Use GitHub Discussions for asynchronous communication, project announcements, and general questions related to the repository.
+-   [GitHub Issues](https://github.com/MetaMask/eth-phishing-detect/issues): Submit issues for bug reports, feature requests, or other improvements you would like to see in the project.
+    Maintainers will provide support and guidance to external contributors through these channels.
 
 # Code of Conduct
 
