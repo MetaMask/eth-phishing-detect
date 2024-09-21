@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-20.04
     strategy:
       matrix:
-        node-version: [16.x, 18.x, 20.x]
+        node-version: [18.x, 20.x, 22.x]
     steps:
     - name: Set Environment Variables
       run: |
@@ -34,13 +34,5 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'yarn'
     - run: yarn --frozen-lockfile
-    - run: yarn buildSample
     - run: yarn ci
-    - run: src/compare-git-configs.sh "$BASE_COMMIT" "$HEAD_COMMIT"
-  all-jobs-pass:
-    name: All jobs pass
-    runs-on: ubuntu-20.04
-    needs:
-      - build-test
-    steps:
-    - run: echo "Great success!"
+    - run: bin/compare-git-configs.sh "$BASE_COMMIT" "$HEAD_COMMIT"
