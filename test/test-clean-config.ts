@@ -95,6 +95,56 @@ export const runTests = () => {
         t.deepEqual(cleanBlocklist(input), expected);
         t.end();
     });
+    test("cleanBlocklist normalizes ipfs subpath gateway links to CID", (t) => {
+        const input = {
+            version: 2,
+            tolerance: 2,
+            fuzzylist: ["bar.localhost"],
+            whitelist: ["foo.example.com"],
+            blacklist: [
+                "https://ipfs.io/ipfs/bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq/wiki/Vincent_van_Gogh.html",
+                "https://ipfs.io/ipfs/bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq",
+                "https://ipfs.io/ipfs/bafybeia7cu2axyyxsarmaemvlpdpofa4q23lzpltbl4jbrnfixdn573h4y",
+            ],
+        };
+        const expected = {
+            version: 2,
+            tolerance: 2,
+            fuzzylist: ["bar.localhost"],
+            whitelist: ["foo.example.com"],
+            blacklist: [
+                "bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq",
+                "bafybeia7cu2axyyxsarmaemvlpdpofa4q23lzpltbl4jbrnfixdn573h4y",
+            ],
+        };
+        t.deepEqual(cleanBlocklist(input), expected);
+        t.end();
+    });
+    test("cleanBlocklist normalizes ipfs subdomain gateway links to CID", (t) => {
+        const input = {
+            version: 2,
+            tolerance: 2,
+            fuzzylist: ["bar.localhost"],
+            whitelist: ["foo.example.com"],
+            blacklist: [
+                "bafybeia7cu2axyyxsarmaemvlpdpofa4q23lzpltbl4jbrnfixdn573h4y.ipfs.dweb.link",
+                "bafybeia7cu2axyyxsarmaemvlpdpofa4q23lzpltbl4jbrnfixdn573h4y.ipfs.cf-ipfs.com",
+                "bafybeifktatrljxysseq6w7kz55v2kgmy3krs7rqh4xh7uu6kv2rcfq6dy.ipfs.dweb.link",
+            ],
+        };
+        const expected = {
+            version: 2,
+            tolerance: 2,
+            fuzzylist: ["bar.localhost"],
+            whitelist: ["foo.example.com"],
+            blacklist: [
+                "bafybeia7cu2axyyxsarmaemvlpdpofa4q23lzpltbl4jbrnfixdn573h4y",
+                "bafybeifktatrljxysseq6w7kz55v2kgmy3krs7rqh4xh7uu6kv2rcfq6dy",
+            ],
+        };
+        t.deepEqual(cleanBlocklist(input), expected);
+        t.end();
+    });
     // test('cleanAllowlist removes domain not matched in other lists', (t) => {
     //     const input = {
     //         version: 2,
