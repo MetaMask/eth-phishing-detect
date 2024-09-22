@@ -1,6 +1,6 @@
 import punycode from "punycode/";
 import PhishingDetector from "../src/detector";
-import { Config, ExternalKey } from "./types";
+import { Config } from "./types";
 
 export const cleanConfig = (config: Config) => {
     return cleanAllowlist(cleanBlocklist(config));
@@ -42,15 +42,17 @@ export const cleanAllowlist = (config: Config): Config => {
 };
 
 export const cleanBlocklist = (config: Config): Config => {
-    // when cleaning the blocklist, we want to remove domains that are:
-    // - already present on the blocklist through an equal or less specific match
-    // we also want to:
+    // when cleaning the blocklist, we want to:
+    // - remove domains that are already present on the blocklist through an equal or less specific match
     // - convert all unicode domains to punycode
+    // - find IPFS subdomain or subpath gateway links and store only the CIDs
+    // - remove duplicate entries
 
     const blocklistSet = new Set(config.blacklist);
 
     const newBlocklist = Array.from(blocklistSet)
         .filter((domain) => {
+            // Remove subdomains of blocklisted domains
             const parts = domain.split(".");
             for (let i = 1; i < parts.length - 1; i++) {
                 if (blocklistSet.has(parts.slice(i).join("."))) {
@@ -61,11 +63,31 @@ export const cleanBlocklist = (config: Config): Config => {
             return true;
         })
         .map((domain) => {
-            return punycode.toASCII(domain);
+            // Convert to punycode
+            const punycodeDomain = punycode.toASCII(domain);
+            return punycodeDomain;
+        })
+        .map((domain) => {
+            // Extract CID from IPFS subdomain gateway links
+            const ipfsSubdomainMatch = domain.match(/^(.+)\.ipfs\..+$/);
+            if (ipfsSubdomainMatch) {
+                return ipfsSubdomainMatch[1];
+            }
+
+            // Extract CID from IPFS subpath gateway links
+            const ipfsSubpathMatch = domain.match(/^.+\/ipfs\/([^\/]+).*$/);
+            if (ipfsSubpathMatch) {
+                return ipfsSubpathMatch[1];
+            }
+
+            return domain;
         });
+
+    // Remove duplicate entries
+    const uniqueBlocklist = Array.from(new Set(newBlocklist));
 
     return {
         ...config,
-        blacklist: newBlocklist,
+        blacklist: uniqueBlocklist,
     };
 };
