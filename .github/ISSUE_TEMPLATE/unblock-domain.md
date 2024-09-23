@@ -2,8 +2,8 @@
 name: Unblock Domain
 about: Choose this template if you want to report a domain being blocked by error
 title: "Legitimate domain(s) report"
-labels: blocklist removal
-assignees: @MetaMask/user-safety
+labels: ["blocklist removal"]
+assignees: ["@MetaMask/user-safety"]
 
 ---
 
