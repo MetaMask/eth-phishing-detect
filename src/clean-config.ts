@@ -1,13 +1,12 @@
-import punycode from 'punycode/';
-import PhishingDetector from '../src/detector';
-import { Config, ExternalKey } from './types';
+import punycode from "punycode/";
+import PhishingDetector from "../src/detector";
+import { Config, ExternalKey } from "./types";
 
 export const cleanConfig = (config: Config) => {
     return cleanAllowlist(cleanBlocklist(config));
 };
 
 export const cleanAllowlist = (config: Config): Config => {
-
     // when cleaning the allowlist, we want to remove domains that are not:
     // - subdomains of entries in the blocklist
     // - otherwise detected via the fuzzylist
@@ -21,7 +20,7 @@ export const cleanAllowlist = (config: Config): Config => {
     const blocklistSet = new Set(config.blacklist);
     const allowlistSet = new Set(config.whitelist);
 
-    const newAllowlist = Array.from(allowlistSet).filter(domain => {
+    const newAllowlist = Array.from(allowlistSet).filter((domain) => {
         const parts = domain.split(".");
         for (let i = 1; i < parts.length - 1; i++) {
             if (blocklistSet.has(parts.slice(i).join("."))) {
@@ -40,7 +39,7 @@ export const cleanAllowlist = (config: Config): Config => {
         ...config,
         whitelist: newAllowlist,
     };
-}
+};
 
 export const cleanBlocklist = (config: Config): Config => {
     // when cleaning the blocklist, we want to remove domains that are:
@@ -50,21 +49,23 @@ export const cleanBlocklist = (config: Config): Config => {
 
     const blocklistSet = new Set(config.blacklist);
 
-    const newBlocklist = Array.from(blocklistSet).filter(domain => {
-        const parts = domain.split(".");
-        for (let i = 1; i < parts.length - 1; i++) {
-            if (blocklistSet.has(parts.slice(i).join("."))) {
-                return false;
+    const newBlocklist = Array.from(blocklistSet)
+        .filter((domain) => {
+            const parts = domain.split(".");
+            for (let i = 1; i < parts.length - 1; i++) {
+                if (blocklistSet.has(parts.slice(i).join("."))) {
+                    return false;
+                }
             }
-        }
 
-        return true;
-    }).map(domain => {
-        return punycode.toASCII(domain);
-    });
+            return true;
+        })
+        .map((domain) => {
+            return punycode.toASCII(domain);
+        });
 
     return {
         ...config,
         blacklist: newBlocklist,
     };
-}
+};

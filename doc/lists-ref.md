@@ -1,4 +1,5 @@
 # Blocklist vs Fuzzylist vs Allowlist
+
 The **blocklist** redirects MetaMask users to a red warning screen instead of the website in question.
 It was originally developed so that we had our own version of Chrome's "malicious website ahead!" page that we could update more quickly in response to our users. We primarily block sites that are actively attempting to phish our users, (i.e., look-alike sites targeting those who hold crypto, DeFi degens, NFT lovers, etc.).
 
@@ -18,9 +19,9 @@ Note: Opening a valid pull request to add a website to the allowlist will genera
 
 The `allowlist` object defined in src/config.json is a list of domains or subdomains vetted and confirmed non-malicious.
 
-Contributors may also call the `allowlist` object the *allowlist* for clarity.
+Contributors may also call the `allowlist` object the _allowlist_ for clarity.
 
-The only requirement for allowlist addition is that the domain or subdomain is *not* a *phishing scam*, as this repository's sole goal is to stop phishing scams.
+The only requirement for allowlist addition is that the domain or subdomain is _not_ a _phishing scam_, as this repository's sole goal is to stop phishing scams.
 Adding additional goals can put unnecessary strain on contributors; other projects may indeed have broader objectives and helping with those as well is a great way to fight scammers.
 
 Generally the process of adding an allowlist entry is as follows:
@@ -30,6 +31,7 @@ Generally the process of adding an allowlist entry is as follows:
 3. File a pull request for this addition or multiple additions. Make sure this PR includes `Fixes #[issue]` if the PR fixes any relevant issues, and hyperlinks any relevant but unfixed issues.
 
 The process of adding a site to the allowlist may look like the following or these steps may be very different for you, depending on your tooling:
+
 ```
 $ git clone git@github.com:MetaMask/eth-phishing-detect.git
 Cloning into 'eth-phishing-detect'...
@@ -78,75 +80,96 @@ the site is flagged as a potential phishing site.
 This list may not be complete.
 Please correct any mistakes if found.
 
-- *ethereum.org*
-  - commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
-  - removed [1f89580](https://github.com/MetaMask/eth-phishing-detect/commit/1f89580) (2017-08-06)
+-   _ethereum.org_
 
-- metamask.io
-  - commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
+    -   commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
+    -   removed [1f89580](https://github.com/MetaMask/eth-phishing-detect/commit/1f89580) (2017-08-06)
 
-- myetherwallet.com
-  - commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
+-   metamask.io
 
-- cryptokitties.co
-  - commit [3112e8d](https://github.com/MetaMask/eth-phishing-detect/commit/3112e8d) (2017-12-12)
+    -   commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
 
-- *mycrypto.com*
-  - commit [7c7fbaa51](https://github.com/MetaMask/eth-phishing-detect/commit/7c7fbaa51) (2018-02-09)
-  - removed [97d6514](https://github.com/MetaMask/eth-phishing-detect/commit/97d6514) (2021-01-29)
+-   myetherwallet.com
 
-- localethereum.com
-  - commit [8931f9b](https://github.com/MetaMask/eth-phishing-detect/commit/8931f9b) (2018-02-24)
+    -   commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
 
-- dfinity.org
-  - commit [045b1c5](https://github.com/MetaMask/eth-phishing-detect/commit/045b1c5) (2018-03-01)
+-   cryptokitties.co
 
-- hederahashgraph.com
-  - commit [a37fc6d](https://github.com/MetaMask/eth-phishing-detect/commit/a37fc6d) (2018-03-22)
+    -   commit [3112e8d](https://github.com/MetaMask/eth-phishing-detect/commit/3112e8d) (2017-12-12)
 
-- auctus.org
-  - commit [2eb1e8a](https://github.com/MetaMask/eth-phishing-detect/commit/2eb1e8a) (2018-03-27)
+-   _mycrypto.com_
 
-- etherscan.io
-  - commit [5e0e11e](https://github.com/MetaMask/eth-phishing-detect/commit/5e0e11e) (2018-04-16)
+    -   commit [7c7fbaa51](https://github.com/MetaMask/eth-phishing-detect/commit/7c7fbaa51) (2018-02-09)
+    -   removed [97d6514](https://github.com/MetaMask/eth-phishing-detect/commit/97d6514) (2021-01-29)
 
-- originprotocol.com
-  - commit [07350b8](https://github.com/MetaMask/eth-phishing-detect/commit/07350b8) (2018-04-21)
+-   localethereum.com
 
-- localcryptos.com
-  - commit [c50c8be](https://github.com/MetaMask/eth-phishing-detect/commit/c50c8be) (2019-12-20)
+    -   commit [8931f9b](https://github.com/MetaMask/eth-phishing-detect/commit/8931f9b) (2018-02-24)
 
-- *makerdao.com*
-  - commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
-  - removed [d5fc3f5](https://github.com/MetaMask/eth-phishing-detect/commit/d5fc3f5) (2021-07-06)
+-   dfinity.org
 
-- makerfoundation.com
-  - commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
+    -   commit [045b1c5](https://github.com/MetaMask/eth-phishing-detect/commit/045b1c5) (2018-03-01)
 
-- *mkr.tools*
-  - commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
-  - removed [5c03787](https://github.com/MetaMask/eth-phishing-detect/commit/5c03787) (2021-01-21)
+-   hederahashgraph.com
 
-- *oasis.app*
-  - commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
-  - removed [8176449](https://github.com/MetaMask/eth-phishing-detect/commit/8176449) (2020-03-02)
+    -   commit [a37fc6d](https://github.com/MetaMask/eth-phishing-detect/commit/a37fc6d) (2018-03-22)
 
-- fulcrum.trade
-  - commit [e066f83](https://github.com/MetaMask/eth-phishing-detect/commit/e066f83) (2020-07-19)
+-   auctus.org
 
-- *uniswap.org*
-  - commit [63e146a](https://github.com/MetaMask/eth-phishing-detect/commit/63e146a) (2020-08-04)
-  - removed [24c3d67](https://github.com/MetaMask/eth-phishing-detect/commit/24c3d67) (2020-11-10)
+    -   commit [2eb1e8a](https://github.com/MetaMask/eth-phishing-detect/commit/2eb1e8a) (2018-03-27)
 
-- *ledger.com*
-  - commit [ea60277](https://github.com/MetaMask/eth-phishing-detect/commit/ea60277) (2020-10-31)
-  - removed [e90c5de](https://github.com/MetaMask/eth-phishing-detect/commit/e90c5de) (2020-11-06)
+-   etherscan.io
 
-- launchpad.ethereum.org
-  - commit [ae7b882](https://github.com/MetaMask/eth-phishing-detect/commit/ae7b882) (2020-11-04)
+    -   commit [5e0e11e](https://github.com/MetaMask/eth-phishing-detect/commit/5e0e11e) (2018-04-16)
 
-- maskmeta.org
-  - commit [1783765](https://github.com/MetaMask/eth-phishing-detect/commit/1783765) (2020-12-16)
+-   originprotocol.com
 
-- opensea.io
-  - commit [c8c52f8](https://github.com/MetaMask/eth-phishing-detect/commit/c8c52f8) (2021-09-22)
+    -   commit [07350b8](https://github.com/MetaMask/eth-phishing-detect/commit/07350b8) (2018-04-21)
+
+-   localcryptos.com
+
+    -   commit [c50c8be](https://github.com/MetaMask/eth-phishing-detect/commit/c50c8be) (2019-12-20)
+
+-   _makerdao.com_
+
+    -   commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
+    -   removed [d5fc3f5](https://github.com/MetaMask/eth-phishing-detect/commit/d5fc3f5) (2021-07-06)
+
+-   makerfoundation.com
+
+    -   commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
+
+-   _mkr.tools_
+
+    -   commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
+    -   removed [5c03787](https://github.com/MetaMask/eth-phishing-detect/commit/5c03787) (2021-01-21)
+
+-   _oasis.app_
+
+    -   commit [acbe1a3](https://github.com/MetaMask/eth-phishing-detect/commit/acbe1a3) (2020-01-21)
+    -   removed [8176449](https://github.com/MetaMask/eth-phishing-detect/commit/8176449) (2020-03-02)
+
+-   fulcrum.trade
+
+    -   commit [e066f83](https://github.com/MetaMask/eth-phishing-detect/commit/e066f83) (2020-07-19)
+
+-   _uniswap.org_
+
+    -   commit [63e146a](https://github.com/MetaMask/eth-phishing-detect/commit/63e146a) (2020-08-04)
+    -   removed [24c3d67](https://github.com/MetaMask/eth-phishing-detect/commit/24c3d67) (2020-11-10)
+
+-   _ledger.com_
+
+    -   commit [ea60277](https://github.com/MetaMask/eth-phishing-detect/commit/ea60277) (2020-10-31)
+    -   removed [e90c5de](https://github.com/MetaMask/eth-phishing-detect/commit/e90c5de) (2020-11-06)
+
+-   launchpad.ethereum.org
+
+    -   commit [ae7b882](https://github.com/MetaMask/eth-phishing-detect/commit/ae7b882) (2020-11-04)
+
+-   maskmeta.org
+
+    -   commit [1783765](https://github.com/MetaMask/eth-phishing-detect/commit/1783765) (2020-12-16)
+
+-   opensea.io
+    -   commit [c8c52f8](https://github.com/MetaMask/eth-phishing-detect/commit/c8c52f8) (2021-09-22)
