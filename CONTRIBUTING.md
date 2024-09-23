@@ -11,6 +11,7 @@ Please follow these guidelines to ensure a smooth collaboration process and help
 3. [Contribution Guidelines](#contribution-guidelines)
 4. [Communication and Support](#communication-and-support)
 5. [Code of Conduct](#code-of-conduct)
+6. [Policies](#policies)
 
 # Introduction
 
@@ -47,3 +48,7 @@ We encourage open communication and collaboration among contributors. To facilit
 All contributors are expected to conduct themselves in a way that promotes a welcoming and inclusive environment. Violations of our [code of conduct](https://github.com/MetaMask/.github/blob/main/CODE_OF_CONDUCT.md) may lead to the rejection of future contributions to this repository.
 
 By following these guidelines, we hope to foster a collaborative and inclusive community that contributes to the ongoing improvement and security of the `eth-phishing-detect` repository. Thank you for your interest in contributing, and we look forward to working with you!
+
+# Policies
+
+* [Blocking False Positives](./doc/fp-policy.md)
