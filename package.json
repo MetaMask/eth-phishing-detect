@@ -29,9 +29,12 @@
     },
     "dependencies": {
         "@metamask/phishing-controller": "^12.0.2",
-        "fastest-levenshtein": "^1.0.16"
+        "fastest-levenshtein": "^1.0.16",
+        "psl": "^1.9.0",
+        "tldts": "^6.1.43"
     },
     "devDependencies": {
+        "@types/psl": "^1.1.3",
         "@types/punycode": "^2.1.4",
         "@types/tape": "^5.6.4",
         "csv-parse": "^5.3.6",

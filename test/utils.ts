@@ -3,6 +3,8 @@ import punycode from "punycode/";
 import { cleanAllowlist, cleanBlocklist } from "../src/clean-config.js";
 import PhishingDetector from "../src/detector.js";
 import { Config } from "../src/types.js";
+import { parse } from 'tldts';
+import { customTlds } from './custom-tlds.js';
 
 export const testBlocklist = (t: Test, domains: string[], options: Config) => {
     const detector = new PhishingDetector(options);
@@ -182,3 +184,33 @@ export const testDomainWithDetector = (t: Test, { domain, name, type, expected, 
     // enforcing result is required
     t.equal(value.result, expected, `result: "${domain}" should be match "${expected}"`);
 };
+
+interface CustomParseResult {
+    domain: string | null;
+    subdomain: string | null;
+    publicSuffix: string | null;
+}
+// Create a wrapper function for PSL parsing
+export function parseDomainWithCustomPSL(domain: string): CustomParseResult {
+    // Check if the domain ends with any custom suffix
+    const customSuffix = customTlds.find(suffix => domain.endsWith(suffix));
+    if (customSuffix) {
+        const parts = domain.split('.');
+        const suffixParts = customSuffix.split('.');
+        const domainParts = parts.slice(0, parts.length - suffixParts.length).join('.');
+        return {
+            domain: `${domainParts}.${customSuffix}`,
+            subdomain: domainParts,
+            publicSuffix: customSuffix,
+        }
+    }
+    // Fallback to tldts parse
+    const parsedDomain = parse(domain, {
+        allowPrivateDomains: true,
+    });
+    return {
+        domain: parsedDomain.domain,
+        subdomain: parsedDomain.subdomain,
+        publicSuffix: parsedDomain.publicSuffix,
+    }
+}
