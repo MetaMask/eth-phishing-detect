@@ -219,7 +219,6 @@ export const customTlds = [
   "creator-spring.com",
   "app.com",
   "meowrpc.com",
-  "outlook.com",
   "splashthat.com",
   "000.pe",
   "free.nf",
