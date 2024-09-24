@@ -67,17 +67,18 @@ export const runTests = (config: Config) => {
 
             const blocked = config.blacklist.filter(domain => {
                 const parsedDomain = parseDomainWithCustomPSL(domain);
-                return domains.has(parsedDomain.domain || "") && !bypass.has(domain);
+                return domains.has(parsedDomain.domain || "") && !bypass.has(parsedDomain.domain || "");
             });
 
             t.equal(blocked.length, 0, `The following domains should not be blocked: ${blocked}`);
+
             t.end();
         });
-    }
+    };
 
     testList("tranco");
     testList("coinmarketcap");
     testList("snapsregistry");
     testList("coingecko");
     testList("dapps");
-}
+};

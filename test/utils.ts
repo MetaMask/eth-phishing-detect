@@ -190,6 +190,7 @@ interface CustomParseResult {
     subdomain: string | null;
     publicSuffix: string | null;
 }
+
 // Create a wrapper function for PSL parsing
 export function parseDomainWithCustomPSL(domain: string): CustomParseResult {
     // Check if the domain ends with any custom suffix
@@ -213,4 +214,4 @@ export function parseDomainWithCustomPSL(domain: string): CustomParseResult {
         subdomain: parsedDomain.subdomain,
         publicSuffix: parsedDomain.publicSuffix,
     }
-}
+};
