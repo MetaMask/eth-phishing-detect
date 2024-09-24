@@ -112,16 +112,16 @@ export const testListNoConflictingEntries = (t, config) => {
 export const testListNoBlocklistRedundancies = (t, config) => {
     const cleanConfig = cleanBlocklist(config);
     t.ok(
-        cleanConfig.blacklist.length === config.blacklist.length,
-        `blocklist contains ${config.blacklist.length - cleanConfig.blacklist.length} redundant entries. run 'yarn clean:blocklist'.`,
+        cleanConfig.blacklist!.length === config.blacklist.length,
+        `blocklist contains ${config.blacklist.length - cleanConfig.blacklist!.length} redundant entries. run 'yarn clean:blocklist'.`,
     );
 };
 
 export const testListNoAllowlistRedundancies = (t, config) => {
     const cleanConfig = cleanAllowlist(config);
     t.ok(
-        cleanConfig.whitelist.length === config.whitelist.length,
-        `allowlist contains ${config.whitelist.length - cleanConfig.whitelist.length} redundant entries. run 'yarn clean:allowlist'.`,
+        cleanConfig.whitelist!.length === config.whitelist.length,
+        `allowlist contains ${config.whitelist.length - cleanConfig.whitelist!.length} redundant entries. run 'yarn clean:allowlist'.`,
     );
 };
 

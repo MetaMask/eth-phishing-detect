@@ -66,9 +66,9 @@ export const runTests = (config: Config) => {
 
             const domains = new Set(contents.split("\n"));
 
-            const blocked = config.blacklist.filter(domain => {
-                const parsedDomain = parseDomainWithCustomPSL(domain);
-                return domains.has(parsedDomain.domain || "") && !bypass.has(domain);
+            const blocked = config.blacklist!.filter(hostname => {
+                const parsedDomain = parseDomainWithCustomPSL(hostname);
+                return domains.has(parsedDomain.domain || "") && !bypass.has(hostname);
             });
 
             t.equal(blocked.length, 0, `The following domains should not be blocked: ${blocked}`);
