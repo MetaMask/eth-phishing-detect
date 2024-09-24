@@ -1,7 +1,9 @@
-/* Extend this list with any additional hosting providers in order to extend the public suffix list. 
-  This can include any website that allows user-generated content such as medium.com, wordpress.com, etc.
-  Do not add real businesses that are using subdomains that are created by the company itself. You will enable false positives.
-  If too many obscure hosting providers become a problem, we should reduce the tranco threshold from 200,000 to filter these out.
+/* 
+  Extend public suffix list by adding to this list.
+  This can include any website that allows user-generated content such as medium.com, wordpress.com, gitbook.io, etc.
+  Do not add real businesses that are using subdomains that are created by the company itself. You will enable false positives. 
+  If you see a website that is not a hosting provider on this list, please remove it.
+  If too many obscure hosting providers become a problem, we should reduce the tranco threshold from 200,000 to help filter these out.
 */
 export const customTlds = [
   "gitbook.io",
