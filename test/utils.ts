@@ -1,4 +1,4 @@
-import { Test } from "tape";
+import test, { Test } from "tape";
 import punycode from "punycode/";
 import { cleanAllowlist, cleanBlocklist } from "../src/clean-config.js";
 import PhishingDetector from "../src/detector.js";
@@ -185,25 +185,28 @@ export const testDomainWithDetector = (t: Test, { domain, name, type, expected, 
     t.equal(value.result, expected, `result: "${domain}" should be match "${expected}"`);
 };
 
-interface CustomParseResult {
+type CustomParseResult = {
     domain: string | null;
     subdomain: string | null;
     publicSuffix: string | null;
-}
+};
 
 // Create a wrapper function for PSL parsing
 export function parseDomainWithCustomPSL(domain: string): CustomParseResult {
     // Check if the domain ends with any custom suffix
-    const customSuffix = customTlds.find(suffix => domain.endsWith(suffix));
+    const customSuffix = customTlds.find(suffix => domain === suffix || domain.endsWith('.' + suffix));
+
     if (customSuffix) {
         const parts = domain.split('.');
         const suffixParts = customSuffix.split('.');
-        const domainParts = parts.slice(0, parts.length - suffixParts.length).join('.');
+        const domainParts = parts.slice(0, parts.length - suffixParts.length);
+        const mainDomain = domainParts.length > 0 ? domainParts.join('.') : '';
+
         return {
-            domain: `${domainParts}.${customSuffix}`,
-            subdomain: domainParts,
+            domain: mainDomain ? `${mainDomain}.${customSuffix}` : customSuffix,
+            subdomain: mainDomain,
             publicSuffix: customSuffix,
-        }
+        };
     }
     // Fallback to tldts parse
     const parsedDomain = parse(domain, {
@@ -215,3 +218,103 @@ export function parseDomainWithCustomPSL(domain: string): CustomParseResult {
         publicSuffix: parsedDomain.publicSuffix,
     }
 };
+
+test("parseDomainWithCustomPSL", (t) => {
+    const testCases = [
+        {
+            domain: 'app.gitbook.io',
+            expected: {
+                domain: 'app.gitbook.io',
+                subdomain: 'app',
+                publicSuffix: 'gitbook.io',
+            },
+            description: 'Subdomain should match custom TLD gitbook.io'
+        },
+        {
+            domain: 'test.app.gitbook.io',
+            expected: {
+                domain: 'test.app.gitbook.io',
+                subdomain: 'test.app',
+                publicSuffix: 'gitbook.io',
+            },
+            description: 'Subdomain should match custom TLD gitbook.io with multiple subdomains'
+        },
+        {
+            domain: 'gitbook.io',
+            expected: {
+                domain: 'gitbook.io',
+                subdomain: '',
+                publicSuffix: 'gitbook.io',
+            },
+            description: 'Exact match for custom TLD gitbook.io with no subdomain'
+        },
+        {
+            domain: 'metamask-gitbook.io',
+            expected: {
+                domain: 'metamask-gitbook.io',
+                subdomain: '',
+                publicSuffix: 'io',
+            },
+            description: 'No match for custom TLD, fallback expected'
+        },
+        {
+            domain: 'app.mypinata.cloud',
+            expected: {
+                domain: 'app.mypinata.cloud',
+                subdomain: 'app',
+                publicSuffix: 'mypinata.cloud',
+            },
+            description: 'Subdomain should match custom TLD mypinata.cloud'
+        },
+        {
+            domain: 'mypinata.cloud',
+            expected: {
+                domain: 'mypinata.cloud',
+                subdomain: '',
+                publicSuffix: 'mypinata.cloud',
+            },
+            description: 'Exact match for custom TLD mypinata.cloud with no subdomain'
+        },
+        {
+            domain: 'example.com',
+            expected: {
+                domain: 'example.com',
+                subdomain: '',
+                publicSuffix: 'com',
+            },
+            description: 'Fallback to tldts for standard TLD .com'
+        },
+        {
+            domain: 'sub.example.com',
+            expected: {
+                domain: 'example.com',
+                subdomain: 'sub',
+                publicSuffix: 'com',
+            },
+            description: 'Fallback to tldts for standard TLD .com plus subdomain'
+        },
+        {
+            domain: 'sub.gitbook.example.com',
+            expected: {
+                domain: 'example.com',
+                subdomain: 'sub.gitbook',
+                publicSuffix: 'com',
+            },
+            description: 'Fallback to tldts for standard TLD .com plus multiple subdomain'
+        }
+    ];
+
+    testCases.forEach(({ domain, expected, description }) => {
+        t.test(description, (st) => {
+            const result = parseDomainWithCustomPSL(domain);
+
+            st.equal(result.domain, expected.domain, 'Correct domain');
+            st.equal(result.subdomain, expected.subdomain, 'Correct subdomain');
+            st.equal(result.publicSuffix, expected.publicSuffix, 'Correct public suffix');
+
+            st.end();
+        });
+    });
+
+    t.end();
+});
