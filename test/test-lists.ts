@@ -57,6 +57,7 @@ const bypass = new Set([
     "cloud.dbank.com",
     "bybi75-alternate.app.link",
     "mz4t6.rdtk.io",
+    "ether.fi" // https://x.com/ether_fi/status/1838643492102283571
 ]);
 
 export const runTests = (config: Config) => {
