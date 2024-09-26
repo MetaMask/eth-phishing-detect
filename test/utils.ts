@@ -318,3 +318,70 @@ test("parseDomainWithCustomPSL", (t) => {
 
     t.end();
 });
+
+export function detectFalsePositives(blocklist: string[], comparisonList: Set<string>, bypassList: Set<string>): string[] {
+    const blocked = blocklist.filter(hostname => {
+        const parsedDomain = parseDomainWithCustomPSL(hostname);
+        return comparisonList.has(parsedDomain.domain || "") && !bypassList.has(hostname);
+    });
+
+    return blocked;
+}
+
+test("detectFalsePositives", (t) => {
+    const testCases = [
+        {
+            mockBlocklist: ['examplescam.com', 'scamsite.xyz'],
+            mockComparisonList: new Set<string>(['google.com', 'youtube.com']),
+            mockBypassList: new Set<string>(['mystrikingly.com']),
+            expectedLength: 0,
+            description: 'Happy path - no URLs exist on the comparison list',
+        },
+        {
+            mockBlocklist: ['auth.magic.link'],
+            mockComparisonList: new Set<string>(['magic.link']),
+            mockBypassList: new Set<string>(),
+            expectedLength: 1,
+            description: 'Should parse correctly to prevent additions that exist on comparison list',
+        },
+        {
+            mockBlocklist: ['gitbook.io'],
+            mockComparisonList: new Set<string>(['google.com', 'gitbook.io']),
+            mockBypassList: new Set<string>(),
+            expectedLength: 1,
+            description: 'Hosting providers are prevented from being added',
+        },
+        {
+            mockBlocklist: ['scam.netlify.app'],
+            mockComparisonList: new Set<string>(['google.com', 'netlify.app']),
+            mockBypassList: new Set<string>(),
+            expectedLength: 0,
+            description: 'Hosting providers with a real PSL are parsed correctly and skipped',
+        },
+        {
+            mockBlocklist: ['scam.gitbook.io'],
+            mockComparisonList: new Set<string>(['google.com', 'gitbook.io']),
+            mockBypassList: new Set<string>(),
+            expectedLength: 0,
+            description: 'Hosting providers with a custom PSL are parsed correctly and skipped',
+        },
+        {
+            mockBlocklist: ['scam.com'],
+            mockComparisonList: new Set<string>(['scam.com']),
+            mockBypassList: new Set<string>(['scam.com']),
+            expectedLength: 0,
+            description: 'Bypass list works when a potential scam exists on tranco',
+        },
+    ];
+
+    testCases.forEach(({ mockBlocklist, mockComparisonList, mockBypassList, expectedLength, description }) => {
+        t.test(description, (st) => {
+            const result = detectFalsePositives(mockBlocklist, mockComparisonList, mockBypassList);
+
+            st.equal(result.length, expectedLength, 'Correct length');
+            st.end();
+        });
+    });
+
+    t.end();
+});

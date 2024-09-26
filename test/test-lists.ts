@@ -2,7 +2,7 @@ import { readFile } from 'node:fs/promises';
 import path from 'node:path';
 import test from "tape";
 import { Config } from '../src/types';
-import { parseDomainWithCustomPSL } from './utils';
+import { detectFalsePositives, parseDomainWithCustomPSL } from './utils';
 
 // This is a list of "bad domains" (false positive) that we don't want to include in the Tranco test
 const bypass = new Set([
@@ -66,12 +66,9 @@ export const runTests = (config: Config) => {
 
             const domains = new Set(contents.split("\n"));
 
-            const blocked = config.blacklist!.filter(hostname => {
-                const parsedDomain = parseDomainWithCustomPSL(hostname);
-                return domains.has(parsedDomain.domain || "") && !bypass.has(hostname);
-            });
+            const falsePositives = detectFalsePositives(config.blacklist!, domains, bypass);
 
-            t.equal(blocked.length, 0, `The following domains should not be blocked: ${blocked}`);
+            t.equal(falsePositives.length, 0, `The following domains should not be blocked: ${falsePositives}`);
 
             t.end();
         });
@@ -83,3 +80,4 @@ export const runTests = (config: Config) => {
     testList("coingecko");
     testList("dapps");
 };
+
