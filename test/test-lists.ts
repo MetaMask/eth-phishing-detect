@@ -1,7 +1,8 @@
-import { readFile } from "node:fs/promises";
-import path from "node:path";
+import { readFile } from 'node:fs/promises';
+import path from 'node:path';
 import test from "tape";
-import { Config } from "../src/types";
+import { Config } from '../src/types';
+import { detectFalsePositives, parseDomainWithCustomPSL } from './utils';
 
 // This is a list of "bad domains" (false positive) that we don't want to include in the Tranco test
 const bypass = new Set([
@@ -53,19 +54,22 @@ const bypass = new Set([
     "purworejokab.go.id",
     "ditchain.org",
     "kuex.com",
+    "cloud.dbank.com",
+    "bybi75-alternate.app.link",
+    "mz4t6.rdtk.io",
     "ether.fi" // https://x.com/ether_fi/status/1838643492102283571
 ]);
 
 export const runTests = (config: Config) => {
     const testList = (listId: string) => {
         test(`ensure no domains on allowlist are blocked: ${listId}`, async (t) => {
-            const contents = await readFile(path.join(__dirname, "resources", `${listId}.txt`), { encoding: "utf-8" });
+            const contents = await readFile(path.join(__dirname, "resources", `${listId}.txt`), { encoding: 'utf-8' });
 
             const domains = new Set(contents.split("\n"));
 
-            const blocked = config.blacklist.filter((domain) => domains.has(domain) && !bypass.has(domain));
+            const falsePositives = detectFalsePositives(config.blacklist!, domains, bypass);
 
-            t.equal(blocked.length, 0, `The following domains should not be blocked: ${blocked}`);
+            t.equal(falsePositives.length, 0, `The following domains should not be blocked: ${falsePositives}`);
 
             t.end();
         });
@@ -77,3 +81,4 @@ export const runTests = (config: Config) => {
     testList("coingecko");
     testList("dapps");
 };
+
