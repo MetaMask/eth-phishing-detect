@@ -19,6 +19,7 @@ const bypass = new Set([
     "multichain.org", // https://twitter.com/MultichainOrg/status/1677180114227056641
     "dydx.exchange", // https://x.com/dydx/status/1815780835473129702
     "ambient.finance", // https://x.com/pcaversaccio/status/1846851269207392722
+    "xyz.cutestat.com",
 
     /* 
     // Below are unknown websites that should stay on the blocklist for brevity but make tests fail. This is likely because they exist on the
