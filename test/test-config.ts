@@ -59,6 +59,8 @@ export const runTests = (config: Config) => {
             t,
             false,
             [
+                "localhost",
+                "127.0.0.1",
                 "example.com",
                 "ethereum.org",
                 "etherid.org",
@@ -144,7 +146,7 @@ export const runTests = (config: Config) => {
 
         // etc...
 
-        testNoMatch(t, ["MetaMask", "localhost", "bancor", "127.0.0.1"], config);
+        testNoMatch(t, ["MetaMask", "bancor"], config);
 
         t.end();
     });
@@ -206,6 +208,8 @@ export const runTests = (config: Config) => {
             t,
             false,
             [
+                "localhost",
+                "127.0.0.1",
                 "example.com",
                 "ethereum.org",
                 "etherid.org",
@@ -291,7 +295,7 @@ export const runTests = (config: Config) => {
 
         // etc...
 
-        testNoMatch(t, ["MetaMask", "localhost", "bancor", "127.0.0.1"], currentConfig);
+        testNoMatch(t, ["MetaMask", "bancor"], currentConfig);
 
         t.end();
     });
