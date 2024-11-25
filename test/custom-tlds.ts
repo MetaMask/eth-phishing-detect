@@ -233,4 +233,5 @@ export const customTlds = [
   "fleek.cool",
   "serv00.net",
   "keenetic.pro",
+  "epizy.com",
 ];
