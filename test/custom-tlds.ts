@@ -234,4 +234,5 @@ export const customTlds = [
   "serv00.net",
   "keenetic.pro",
   "epizy.com",
+  "ampproject.org",
 ];
