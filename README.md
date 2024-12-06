@@ -52,3 +52,9 @@ removeDomains(config, "allowlist", ["crypto-phishing-site.tld"]);
 We maintain a list of domains pulled from various sources in `test/resources`. Each file is plaintext with one host per domain. These domains are used to reduce the risk of false positives. If you need to block a domain that is featured on one of these lists, you'll need to add a bypass to `test/test-lists.ts`.
 
 To update the lists, run `yarn update:lists`. Note that you'll need a CoinMarketCap Pro API key.
+
+## Auditing submissions & removals
+
+Running the command below will pull all pull requests associated to example.com.
+
+`git log -S "example.com" -- src/config.json`
