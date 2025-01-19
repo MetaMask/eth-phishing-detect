@@ -2,8 +2,8 @@
 name: Block Domain
 about: Choose this template if you want to report a malicious domain
 title: "Malicious domain(s) report"
-labels: blocklist addition
-assignees: @MetaMask/user-safety
+labels: ["blocklist addition"]
+assignees: ["@MetaMask/user-safety"]
 
 ---
 
