@@ -235,4 +235,5 @@ export const customTlds = [
   "keenetic.pro",
   "epizy.com",
   "ampproject.org",
+  "zohosites.com",
 ];
