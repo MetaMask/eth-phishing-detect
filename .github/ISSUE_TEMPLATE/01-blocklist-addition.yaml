@@ -12,6 +12,13 @@ body:
       placeholder: "https://evil.com/?ga=1\nhttps://malicious.io/\nhttps://127.13.37.1\nQmT5NvUtoM5nWFfrQdVrFtvGfKFmG7AHE8P34isapyhCxX"
     validations:
       required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Please explain why this content is malicious
+      description: If the content is not obviously malicious, please explain why it should be blocked
+    validations:
+      required: false
   - type: checkboxes
     id: duplicate
     attributes:
