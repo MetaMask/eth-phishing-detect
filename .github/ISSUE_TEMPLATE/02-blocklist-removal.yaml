@@ -12,6 +12,13 @@ body:
       placeholder: "https://good.com\nhttps://1.1.1.1\nQmT5NvUtoM5nWFfrQdVrFtvGfKFmG7AHE8P34isapyhCxX"
     validations:
       required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Please explain why this content is legitimate
+      description: If the content is not an obvious false positive, please include enough detail so we can evaluate your request
+    validations:
+      required: false
   - type: checkboxes
     id: duplicate
     attributes:
