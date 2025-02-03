@@ -1,0 +1,28 @@
+name: Request blocklist addition
+description: Creates a request to block some web content
+title: "Blocklist addition request"
+labels: ["blocklist addition"]
+assignees: ["@MetaMask/user-safety"]
+body:
+  - type: textarea
+    id: domains
+    attributes:
+      label: Malicious domains, IPs, IPFS hashes, or IPNS names
+      description: Please include one per line, including any query params
+      placeholder: "https://evil.com/?ga=1\nhttps://malicious.io/\nhttps://127.13.37.1\nQmT5NvUtoM5nWFfrQdVrFtvGfKFmG7AHE8P34isapyhCxX"
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Please explain why this content is malicious
+      description: If the content is not obviously malicious, please explain why it should be blocked
+    validations:
+      required: false
+  - type: checkboxes
+    id: duplicate
+    attributes:
+      label: Is this a duplicate request?
+      options:
+        - label: I have checked the issues page and confirmed this is not a duplicate request
+          required: true

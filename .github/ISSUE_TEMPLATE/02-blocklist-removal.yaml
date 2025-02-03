@@ -1,0 +1,28 @@
+name: Request blocklist removal
+description: Creates a request to unblock some web content
+title: "Blocklist removal request"
+labels: ["blocklist removal"]
+assignees: ["@MetaMask/user-safety"]
+body:
+  - type: textarea
+    id: domains
+    attributes:
+      label: Legitimate domains, IPs, IPFS hashes, or IPNS names
+      description: Please include one per line, including any query params
+      placeholder: "https://good.com\nhttps://1.1.1.1\nQmT5NvUtoM5nWFfrQdVrFtvGfKFmG7AHE8P34isapyhCxX"
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Please explain why this content is legitimate
+      description: If the content is not an obvious false positive, please include enough detail so we can evaluate your request
+    validations:
+      required: false
+  - type: checkboxes
+    id: duplicate
+    attributes:
+      label: Is this a duplicate request?
+      options:
+        - label: I have checked the issues page and confirmed this is not a duplicate request
+          required: true
