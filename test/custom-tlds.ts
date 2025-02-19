@@ -237,4 +237,5 @@ export const customTlds = [
   "ampproject.org",
   "zohosites.com",
   "webador.com",
+  "groovehq.com",
 ];
