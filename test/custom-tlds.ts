@@ -238,4 +238,8 @@ export const customTlds = [
   "zohosites.com",
   "webador.com",
   "groovehq.com",
+  "ns01.info",
+  "kinsta.cloud",
+  "app.link",
+  "25u.com",
 ];
