@@ -60,6 +60,8 @@ export const runTests = (config: Config) => {
             false,
             [
                 "localhost",
+                "http",
+                "https",
                 "127.0.0.1",
                 "example.com",
                 "ethereum.org",
@@ -209,6 +211,8 @@ export const runTests = (config: Config) => {
             false,
             [
                 "localhost",
+                "http",
+                "https",
                 "127.0.0.1",
                 "example.com",
                 "ethereum.org",
