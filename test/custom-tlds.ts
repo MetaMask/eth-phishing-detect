@@ -240,4 +240,5 @@ export const customTlds = [
   "kinsta.cloud",
   "app.link",
   "25u.com",
+  "graphy.com",
 ];
