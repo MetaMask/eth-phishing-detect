@@ -175,6 +175,7 @@ export const runTests = (config: Config) => {
                 "walletconnect.to",
                 "etherclassicwallet.com",
                 "walletconnect.to.", //Test for absolute fully-qualified domain name
+                "tornadoeth.cash",
             ],
             currentConfig,
         );
