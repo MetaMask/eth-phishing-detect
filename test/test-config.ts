@@ -20,7 +20,7 @@ export const runTests = (config: Config) => {
         testBlocklist(
             t,
             [
-                "tornadoeth.cash.",
+                "tornadoeth.cash",
                 "tornadoeth.cash.", //Test for absolute fully-qualified domain name
             ],
             config,
