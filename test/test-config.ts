@@ -20,6 +20,7 @@ export const runTests = (config: Config) => {
         testBlocklist(
             t,
             [
+                "metamask.com",
                 "tornadoeth.cash",
                 "tornadoeth.cash.", //Test for absolute fully-qualified domain name
             ],
@@ -132,6 +133,7 @@ export const runTests = (config: Config) => {
         testBlocklist(
             t,
             [
+                "metamask.com",
                 "tornadoeth.cash",
                 "tornadoeth.cash.", //Test for absolute fully-qualified domain name
             ],
