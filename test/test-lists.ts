@@ -60,7 +60,8 @@ const bypass = new Set([
     "bybi75-alternate.app.link",
     "mz4t6.rdtk.io",
     "tornadoeth.cash",
-    "ether.fi" // https://x.com/ether_fi/status/1838643492102283571
+    "ether.fi", // https://x.com/ether_fi/status/1838643492102283571
+    "curve.fi" // https://x.com/CurveFinance/status/1922040492121829678
 ]);
 
 export const runTests = (config: Config) => {

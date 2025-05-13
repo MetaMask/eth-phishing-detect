@@ -241,4 +241,5 @@ export const customTlds = [
   "app.link",
   "25u.com",
   "graphy.com",
+  "dora.run",
 ];
