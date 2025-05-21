@@ -23,6 +23,7 @@ export const runTests = (config: Config) => {
                 "metamask.com",
                 "tornadoeth.cash",
                 "tornadoeth.cash.", //Test for absolute fully-qualified domain name
+                "test.metamask-phishing.io",
             ],
             config,
         );
@@ -136,6 +137,7 @@ export const runTests = (config: Config) => {
                 "metamask.com",
                 "tornadoeth.cash",
                 "tornadoeth.cash.", //Test for absolute fully-qualified domain name
+                "test.metamask-phishing.io",
             ],
             currentConfig,
         );
