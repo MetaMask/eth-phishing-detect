@@ -61,8 +61,7 @@ const bypass = new Set([
     "mz4t6.rdtk.io",
     "tornadoeth.cash",
     "ether.fi", // https://x.com/ether_fi/status/1838643492102283571
-    "curve.fi", // https://x.com/CurveFinance/status/1922040492121829678
-    "coinmarketcap.com" // https://x.com/Auri_0x/status/1936173321244066273
+    "curve.fi" // https://x.com/CurveFinance/status/1922040492121829678
 ]);
 
 export const runTests = (config: Config) => {
