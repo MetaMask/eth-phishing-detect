@@ -1,7 +1,10 @@
 name: Sync with SEAL blocklists
 
-on:
-  workflow_dispatch:
+on: workflow_dispatch
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   sync:
