@@ -9,19 +9,19 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout eth-phishing-detect
       uses: actions/checkout@v4
       with:
         path: eth-phishing-detect
-        
+
     - name: Checkout blocklists
       uses: actions/checkout@v4
       with:
         repository: security-alliance/blocklists
         path: blocklists
-        
+
     - name: Sync
       run: |
         cd $GITHUB_WORKSPACE/eth-phishing-detect
@@ -33,11 +33,18 @@ jobs:
           > temp.json
 
         mv temp.json src/config.json
-        
+
+        git add .
+
+        if git diff-index --quiet HEAD; then
+          echo "no changes to commit"
+          exit 0
+        fi
+
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         
-        git commit -am "sync blocklist"
+        git commit -m "sync blocklist"
         
         git push
 
