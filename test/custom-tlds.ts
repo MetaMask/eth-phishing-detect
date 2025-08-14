@@ -242,4 +242,5 @@ export const customTlds = [
   "25u.com",
   "graphy.com",
   "dora.run",
+  "site.pro",
 ];
