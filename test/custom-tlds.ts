@@ -243,4 +243,11 @@ export const customTlds = [
   "graphy.com",
   "dora.run",
   "site.pro",
+  "kesug.com",
+  "infy.uk",
+  "lovestoblog.com",
+  "infinityfreeapp.com",
+  "ct.ws",
+  "freecluster.eu",
+  "page.gd"
 ];
