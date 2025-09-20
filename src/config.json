@@ -130935,6 +130935,7 @@
     "integrityfirst-watchdog-pipeline.website",
     "idempotent-proof.site",
     "blockstreetxyz.vercel.app",
-    "pluggableinspector.store"
+    "pluggableinspector.store",
+    "audited-router.online"
   ]
 }
