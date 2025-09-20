@@ -130934,6 +130934,7 @@
     "coinomi.vercel.app",
     "integrityfirst-watchdog-pipeline.website",
     "idempotent-proof.site",
-    "blockstreetxyz.vercel.app"
+    "blockstreetxyz.vercel.app",
+    "pluggableinspector.store"
   ]
 }
