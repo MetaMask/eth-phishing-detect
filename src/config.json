@@ -131331,6 +131331,7 @@
     "soneium.digital",
     "user-swap-v3.cc",
     "usercontract-swapchain.cc",
-    "apps-upheld-io.pages.dev"
+    "apps-upheld-io.pages.dev",
+    "trade-with-uphldwallet.pages.dev"
   ]
 }
