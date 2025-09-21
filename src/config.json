@@ -131318,6 +131318,7 @@
     "swap-usercontract.cc",
     "meteora.vip",
     "core-chainswap.cc",
-    "reveet.finance"
+    "reveet.finance",
+    "onchainscore.site"
   ]
 }
