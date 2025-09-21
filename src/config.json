@@ -131332,6 +131332,8 @@
     "user-swap-v3.cc",
     "usercontract-swapchain.cc",
     "apps-upheld-io.pages.dev",
-    "trade-with-uphldwallet.pages.dev"
+    "trade-with-uphldwallet.pages.dev",
+    "web-upheld.pages.dev",
+    "start-uphldwallet-exchange.pages.dev"
   ]
 }
