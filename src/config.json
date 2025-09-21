@@ -131320,6 +131320,8 @@
     "core-chainswap.cc",
     "reveet.finance",
     "onchainscore.site",
-    "gitcoin-developers.com"
+    "gitcoin-developers.com",
+    "v4-onchain-userpermit.cc",
+    "checker-mask.com"
   ]
 }
