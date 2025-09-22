@@ -131403,6 +131403,9 @@
     "metamasq-login-us.pages.dev",
     "auth-meta-mask-login.pages.dev",
     "sso-metamashk-login.pages.dev",
-    "protel-mtamsk-login.pages.dev"
+    "protel-mtamsk-login.pages.dev",
+    "metmsk-login.pages.dev",
+    "sso-meta-mask-wallet.pages.dev",
+    "io-metamsk-logini.pages.dev"
   ]
 }
