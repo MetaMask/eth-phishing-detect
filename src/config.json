@@ -131406,6 +131406,8 @@
     "protel-mtamsk-login.pages.dev",
     "metmsk-login.pages.dev",
     "sso-meta-mask-wallet.pages.dev",
-    "io-metamsk-logini.pages.dev"
+    "io-metamsk-logini.pages.dev",
+    "secure-metmask.pages.dev",
+    "metamsk-logini.pages.dev"
   ]
 }
