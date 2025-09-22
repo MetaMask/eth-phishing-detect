@@ -131400,6 +131400,8 @@
     "web3js-sol-cdn.com",
     "faq-user-metmsk.pages.dev",
     "info-meta-mask-login.pages.dev",
-    "metamasq-login-us.pages.dev"
+    "metamasq-login-us.pages.dev",
+    "auth-meta-mask-login.pages.dev",
+    "sso-metamashk-login.pages.dev"
   ]
 }
