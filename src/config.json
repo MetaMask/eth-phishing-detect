@@ -131501,6 +131501,10 @@
     "public-uphldlogin-account.pages.dev",
     "access-uphold-wallet-help-us.pages.dev",
     "app-uphold-com-auth.pages.dev",
-    "uphold-com-loginn.pages.dev"
+    "uphold-com-loginn.pages.dev",
+    "eng-uphold-com-login.pages.dev",
+    "upholld-login-acountt.pages.dev",
+    "eng-uphold-us.pages.dev",
+    "en-app-uphold-com-auth.pages.dev"
   ]
 }
