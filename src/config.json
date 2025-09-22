@@ -131528,6 +131528,11 @@
     "home-metamask-io.pages.dev",
     "help-metamask-log.pages.dev",
     "help-metamask-log-x.pages.dev",
-    "metamask-io-en.pages.dev"
+    "metamask-io-en.pages.dev",
+    "aster-dex-auth.web.app",
+    "metamask-login-faq.pages.dev",
+    "supprt-metamask.pages.dev",
+    "help-metamask-log-feq.pages.dev",
+    "maplestory-resolution-portal.vercel.app"
   ]
 }
