@@ -132383,6 +132383,7 @@
     "core-interface-multichain.cc",
     "user-account-interface.cc",
     "kenvoaer.com",
-    "help-kraken-login-dmb.pages.dev"
+    "help-kraken-login-dmb.pages.dev",
+    "kraken-app-login.pages.dev"
   ]
 }
