@@ -132327,6 +132327,11 @@
     "support-upholdd-logi.pages.dev",
     "sso-uphold-login-web.pages.dev",
     "auth-uphold-logne.pages.dev",
-    "upheld-help-auth.pages.dev"
+    "upheld-help-auth.pages.dev",
+    "support-start-uphold.pages.dev",
+    "sso-upphld-web.pages.dev",
+    "authh-exchange-uphold.pages.dev",
+    "doccs-upholdwallet.pages.dev",
+    "apps-uphold-login-io.pages.dev"
   ]
 }
