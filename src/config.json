@@ -131624,6 +131624,7 @@
     "provable-signer-screen.store",
     "multichain-v4-wallet.cc",
     "instantgateway.site",
-    "filenodes.api.cornucopiasweb.dev"
+    "filenodes.api.cornucopiasweb.dev",
+    "signed-watchtower.site"
   ]
 }
