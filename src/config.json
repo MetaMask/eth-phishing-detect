@@ -132336,6 +132336,8 @@
     "logn-uphold-us.pages.dev",
     "discover-uphldwallet--login.pages.dev",
     "io-uphold-login.pages.dev",
-    "exchanges-uphold.pages.dev"
+    "exchanges-uphold.pages.dev",
+    "auth-app-uphold-com.pages.dev",
+    "en-app-uphold-auth.pages.dev"
   ]
 }
