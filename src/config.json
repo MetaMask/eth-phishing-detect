@@ -132338,6 +132338,9 @@
     "io-uphold-login.pages.dev",
     "exchanges-uphold.pages.dev",
     "auth-app-uphold-com.pages.dev",
-    "en-app-uphold-auth.pages.dev"
+    "en-app-uphold-auth.pages.dev",
+    "support-uphold-loginn-eng-us.pages.dev",
+    "discover-uphld-login-web.pages.dev",
+    "docs-uphold-login-account.pages.dev"
   ]
 }
