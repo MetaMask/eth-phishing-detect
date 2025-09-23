@@ -132393,6 +132393,8 @@
     "secure-krakan-us-io.pages.dev",
     "home-krkn-login.pages.dev",
     "meme.christmas",
-    "sso-kraken.pages.dev"
+    "sso-kraken.pages.dev",
+    "web-kraken-auth.pages.dev",
+    "feq-kraken-learn.pages.dev"
   ]
 }
