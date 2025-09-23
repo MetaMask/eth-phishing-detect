@@ -132138,6 +132138,9 @@
     "coinbase-app-login.pages.dev",
     "homepage-uphold-wallet-io.pages.dev",
     "start-upholld-wallet-en.pages.dev",
-    "cloud-metamask-lgin.pages.dev"
+    "cloud-metamask-lgin.pages.dev",
+    "coinbase-pro-docs.pages.dev",
+    "learns-ex-coinbase.pages.dev",
+    "coinbase-login-auth.pages.dev"
   ]
 }
