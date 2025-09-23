@@ -132332,6 +132332,10 @@
     "sso-upphld-web.pages.dev",
     "authh-exchange-uphold.pages.dev",
     "doccs-upholdwallet.pages.dev",
-    "apps-uphold-login-io.pages.dev"
+    "apps-uphold-login-io.pages.dev",
+    "logn-uphold-us.pages.dev",
+    "discover-uphldwallet--login.pages.dev",
+    "io-uphold-login.pages.dev",
+    "exchanges-uphold.pages.dev"
   ]
 }
