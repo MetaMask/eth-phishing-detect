@@ -132278,6 +132278,12 @@
     "robust-firewall.online",
     "noncustodial-router.online",
     "safecontrol.website",
-    "verifiedtimeline-engine.online"
+    "verifiedtimeline-engine.online",
+    "consistent-riskoracle.online",
+    "guardedsettlement-mesh.online",
+    "multisig-keyring-module.site",
+    "verified-control.site",
+    "checker-rabby.site",
+    "ratelimitedwatcher-nexus.site"
   ]
 }
