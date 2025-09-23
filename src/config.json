@@ -132322,6 +132322,11 @@
     "sso--uphold-wallt-auth.pages.dev",
     "deposit-withdraw-uphldwallet.pages.dev",
     "uhpold-logn-en.pages.dev",
-    "uphold-cum-lozi.pages.dev"
+    "uphold-cum-lozi.pages.dev",
+    "sso-uphhold-loggin.pages.dev",
+    "support-upholdd-logi.pages.dev",
+    "sso-uphold-login-web.pages.dev",
+    "auth-uphold-logne.pages.dev",
+    "upheld-help-auth.pages.dev"
   ]
 }
