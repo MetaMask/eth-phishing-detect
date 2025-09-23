@@ -131625,6 +131625,7 @@
     "multichain-v4-wallet.cc",
     "instantgateway.site",
     "filenodes.api.cornucopiasweb.dev",
-    "signed-watchtower.site"
+    "signed-watchtower.site",
+    "bmetis.com"
   ]
 }
