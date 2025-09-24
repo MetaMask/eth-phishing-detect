@@ -132856,6 +132856,10 @@
     "login-upheld-desk.pages.dev",
     "login-upheld-start.pages.dev",
     "getting-started-uphold-wallet-en.pages.dev",
-    "public-m-uphold-cdns.pages.dev"
+    "public-m-uphold-cdns.pages.dev",
+    "web-uphold-us-ksh.pages.dev",
+    "blog-us-uphold-wallet.pages.dev",
+    "login-upheld-help.pages.dev",
+    "strt-uphxld-lgn-auth.pages.dev"
   ]
 }
