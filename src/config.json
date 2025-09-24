@@ -132580,6 +132580,7 @@
     "coinbase.website",
     "coinbase-login-docs.pages.dev",
     "coin-extn-web.pages.dev",
-    "sso-coinbase-login-guide.pages.dev"
+    "sso-coinbase-login-guide.pages.dev",
+    "sso-metamask-login-extension.pages.dev"
   ]
 }
