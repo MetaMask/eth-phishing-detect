@@ -132523,6 +132523,7 @@
     "euler.airdropalert.sbs",
     "compound.airdropalert.sbs",
     "threshold.airdropalert.sbs",
-    "zircuit.airdropalert.sbs"
+    "zircuit.airdropalert.sbs",
+    "aethir.airdropalert.sbs"
   ]
 }
