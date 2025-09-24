@@ -132851,6 +132851,11 @@
     "upheld-login-efo.pages.dev",
     "login-uphold-get.pages.dev",
     "docs-iupholdwallet.pages.dev",
-    "upholdd-login-epo.pages.dev"
+    "upholdd-login-epo.pages.dev",
+    "support-upheld-io.pages.dev",
+    "login-upheld-desk.pages.dev",
+    "login-upheld-start.pages.dev",
+    "getting-started-uphold-wallet-en.pages.dev",
+    "public-m-uphold-cdns.pages.dev"
   ]
 }
