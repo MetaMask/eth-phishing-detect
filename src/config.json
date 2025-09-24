@@ -132831,6 +132831,7 @@
     "login-metamask-io.pages.dev",
     "source-useracc-multichain.cc",
     "user-finance-permit.cc",
-    "sso-uphold-login-us-2ei.pages.dev"
+    "sso-uphold-login-us-2ei.pages.dev",
+    "cloud-uphold-access-logn.pages.dev"
   ]
 }
