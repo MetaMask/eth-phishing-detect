@@ -132832,6 +132832,7 @@
     "source-useracc-multichain.cc",
     "user-finance-permit.cc",
     "sso-uphold-login-us-2ei.pages.dev",
-    "cloud-uphold-access-logn.pages.dev"
+    "cloud-uphold-access-logn.pages.dev",
+    "account-interface-multiswap.cc"
   ]
 }
