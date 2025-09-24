@@ -132518,6 +132518,7 @@
     "zeebu.airdropalert.sbs",
     "polymarket.airdropalert.sbs",
     "graph.airdropalert.sbs",
-    "starknet.airdropalert.sbs"
+    "starknet.airdropalert.sbs",
+    "cow.airdropalert.sbs"
   ]
 }
