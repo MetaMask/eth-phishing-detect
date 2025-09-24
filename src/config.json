@@ -132519,6 +132519,8 @@
     "polymarket.airdropalert.sbs",
     "graph.airdropalert.sbs",
     "starknet.airdropalert.sbs",
-    "cow.airdropalert.sbs"
+    "cow.airdropalert.sbs",
+    "euler.airdropalert.sbs",
+    "compound.airdropalert.sbs"
   ]
 }
