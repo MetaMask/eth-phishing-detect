@@ -132521,6 +132521,7 @@
     "starknet.airdropalert.sbs",
     "cow.airdropalert.sbs",
     "euler.airdropalert.sbs",
-    "compound.airdropalert.sbs"
+    "compound.airdropalert.sbs",
+    "threshold.airdropalert.sbs"
   ]
 }
