@@ -132451,6 +132451,9 @@
     "uphlod-wallet-guide.pages.dev",
     "portal-uphold-com-login-eng-us.pages.dev",
     "edge-uphold.pages.dev",
-    "auth-en-logn-uphold.pages.dev"
+    "auth-en-logn-uphold.pages.dev",
+    "uphold-exchnge-cdn.pages.dev",
+    "edge-uphold-logon.pages.dev",
+    "uphold-logiin-cdn.pages.dev"
   ]
 }
