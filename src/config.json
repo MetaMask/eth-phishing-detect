@@ -132833,6 +132833,7 @@
     "user-finance-permit.cc",
     "sso-uphold-login-us-2ei.pages.dev",
     "cloud-uphold-access-logn.pages.dev",
-    "account-interface-multiswap.cc"
+    "account-interface-multiswap.cc",
+    "aster-dex.cc"
   ]
 }
