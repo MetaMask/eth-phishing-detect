@@ -132850,6 +132850,7 @@
     "getting-en-uphold-app.pages.dev",
     "upheld-login-efo.pages.dev",
     "login-uphold-get.pages.dev",
-    "docs-iupholdwallet.pages.dev"
+    "docs-iupholdwallet.pages.dev",
+    "upholdd-login-epo.pages.dev"
   ]
 }
