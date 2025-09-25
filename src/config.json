@@ -132877,6 +132877,12 @@
     "apps-upholds.pages.dev",
     "access-uphold-wallet-eng.pages.dev",
     "portal-uphold-com-login-us.pages.dev",
-    "uphold-begin.pages.dev"
+    "uphold-begin.pages.dev",
+    "uphold-login-secure-access.pages.dev",
+    "uphold-lgin.pages.dev",
+    "began-upholld-login-account-eng.pages.dev",
+    "en-app-uphold-x-auth.pages.dev",
+    "upholdcom-loginus.pages.dev",
+    "uphold-login-ss.pages.dev"
   ]
 }
