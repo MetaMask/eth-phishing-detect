@@ -133130,6 +133130,9 @@
     "tokenspace.pages.dev",
     "nav-opensea-walet.pages.dev",
     "celestiadexapp.vercel.app",
-    "koin-bes-login.pages.dev"
+    "koin-bes-login.pages.dev",
+    "help-coinbase-us.pages.dev",
+    "verify-coinbasehelp-learn.pages.dev",
+    "coinbase-pro-auth.pages.dev"
   ]
 }
