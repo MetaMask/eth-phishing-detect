@@ -133364,6 +133364,8 @@
     "welcoinbase-login.pages.dev",
     "insert-opensea.pages.dev",
     "login-up-hold-web.pages.dev",
-    "meta-mask-login-en.pages.dev"
+    "meta-mask-login-en.pages.dev",
+    "opensearewards.com",
+    "get-opensea-sso.pages.dev"
   ]
 }
