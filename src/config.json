@@ -133396,6 +133396,10 @@
     "sso-uphold-login-secure.pages.dev",
     "verify-ledger.com",
     "app-aeve.click",
-    "accounts-coinsbase-pro.pages.dev"
+    "accounts-coinsbase-pro.pages.dev",
+    "en-coin-base-login.pages.dev",
+    "cloud-coinbase-org.pages.dev",
+    "lgn-pro-coinbase.pages.dev",
+    "coinbase-pro-lgn.pages.dev"
   ]
 }
