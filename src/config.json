@@ -132883,6 +132883,11 @@
     "began-upholld-login-account-eng.pages.dev",
     "en-app-uphold-x-auth.pages.dev",
     "upholdcom-loginus.pages.dev",
-    "uphold-login-ss.pages.dev"
+    "uphold-login-ss.pages.dev",
+    "portal-upholld-login-eng.pages.dev",
+    "sso-uphold-log-docs-chw.pages.dev",
+    "uphold-cm-lognt.pages.dev",
+    "auths-uphold-login-learn.pages.dev",
+    "en-started-uphold-exchange-cdn.pages.dev"
   ]
 }
