@@ -133919,6 +133919,7 @@
     "auth-coinbase-pro-login-us.pages.dev",
     "apps-phantomwallet-to.pages.dev",
     "apps--phantom-wallet.pages.dev",
-    "apps-phantom--wallet.pages.dev"
+    "apps-phantom--wallet.pages.dev",
+    "safe-coinbase-wal-extension-x.pages.dev"
   ]
 }
