@@ -133911,6 +133911,7 @@
     "wallet-next-silk.vercel.app",
     "grants-stack-builder.vercel.app",
     "aa-bridge-v3.app",
-    "venus.portocol.run"
+    "venus.portocol.run",
+    "now-coinbase-ext-browsers.pages.dev"
   ]
 }
