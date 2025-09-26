@@ -46,36 +46,65 @@ export const testFuzzylist = (t, domains, options) => {
     });
 };
 
-export const testListOnlyIncludesDomains = (t: Test, domains: string[]) => {
-    const failed = domains.filter((domain) => {
-        try {
-            // For entries that contain paths, validate as full URLs
-            if (domain.includes("/")) {
-                const url = new URL(`https://${domain}`);
-                // Ensure the hostname + pathname matches the original domain
-                const expectedPath = domain.substring(domain.indexOf("/"));
-                if (url.pathname !== expectedPath) return true;
-                // Ensure the hostname part is valid
-                const hostname = domain.substring(0, domain.indexOf("/"));
-                if (url.hostname !== hostname) return true;
-            } else {
-                // For entries without paths, validate as domains only
-                const url = new URL(`https://${domain}`);
-                if (url.hostname !== domain) return true;
-                
-                // Check if this domain requires a path
-                if (PATH_REQUIRED_DOMAINS.includes(domain)) {
-                    return true; // Fail validation - this domain requires a path
-                }
-            }
-        } catch {
-            return true;
+// Validate a domain without path
+function validateDomainOnly(domain: string): { isValid: boolean; reason?: string } {
+    try {
+        const url = new URL(`https://${domain}`);
+        if (url.hostname !== domain) {
+            return { isValid: false, reason: 'invalid domain format' };
         }
+        
+        // Check if this domain requires a path but doesn't have one
+        if (PATH_REQUIRED_DOMAINS.includes(domain)) {
+            return { isValid: false, reason: 'domain requires a path' };
+        }
+        
+        return { isValid: true };
+    } catch {
+        return { isValid: false, reason: 'invalid domain format' };
+    }
+}
 
-        return false;
+// Validate a domain with path
+function validateDomainWithPath(domainWithPath: string): { isValid: boolean; reason?: string } {
+    try {
+        const url = new URL(`https://${domainWithPath}`);
+        
+        // Check if the path part matches
+        const expectedPath = domainWithPath.substring(domainWithPath.indexOf("/"));
+        if (url.pathname !== expectedPath) {
+            return { isValid: false, reason: 'path mismatch' };
+        }
+        
+        // Check if the hostname part matches
+        const hostname = extractHostname(domainWithPath);
+        if (url.hostname !== hostname) {
+            return { isValid: false, reason: 'hostname mismatch' };
+        }
+        
+        return { isValid: true };
+    } catch {
+        return { isValid: false, reason: 'invalid URL format' };
+    }
+}
+
+export const testListOnlyIncludesDomains = (t: Test, domains: string[]) => {
+    const failedDomains: string[] = [];
+    
+    domains.forEach((domain) => {
+        const hasPath = domain.includes("/");
+        const validation = hasPath ? validateDomainWithPath(domain) : validateDomainOnly(domain);
+        
+        if (!validation.isValid) {
+            failedDomains.push(`${domain} (${validation.reason})`);
+        }
     });
 
-    t.equal(failed.length, 0, `list must only contain domains or valid URLs with paths. Domains ${PATH_REQUIRED_DOMAINS.join(', ')} require paths: ${failed}`);
+    t.equal(
+        failedDomains.length, 
+        0, 
+        `List contains invalid entries. PATH_REQUIRED_DOMAINS: ${PATH_REQUIRED_DOMAINS.join(', ')}. Failed: ${failedDomains.join(', ')}`
+    );
 };
 
 export const testListIsPunycode = (t: Test, list: string[]) => {
@@ -335,34 +364,50 @@ test("parseDomainWithCustomPSL", (t) => {
     t.end();
 });
 
-export function detectFalsePositives(blocklist: string[], comparisonList: Set<string>, bypassList: Set<string>): string[] {
-    const blocked = blocklist.filter(hostname => {
-        // Extract the hostname from URLs that contain paths
-        let domainToCheck = hostname;
-        let hasPath = hostname.includes("/");
-        
-        if (hasPath) {
-            try {
-                const url = new URL(`https://${hostname}`);
-                domainToCheck = url.hostname;
-            } catch {
-                // If URL parsing fails, use the original hostname
-                domainToCheck = hostname.substring(0, hostname.indexOf("/"));
-            }
-            
-            // If hostname has a path but is not in PATH_REQUIRED_DOMAINS, it's a false positive
-            if (!PATH_REQUIRED_DOMAINS.includes(domainToCheck)) {
-                return true;
-            }
+// Helper function to extract hostname from URL with path
+function extractHostname(domainWithPath: string): string {
+    try {
+        const url = new URL(`https://${domainWithPath}`);
+        return url.hostname;
+    } catch {
+        return domainWithPath.substring(0, domainWithPath.indexOf("/"));
+    }
+}
 
-            return false;
+// Check if a domain with path is invalid (not in allowed path domains)
+function isInvalidPathDomain(hostname: string): boolean {
+    const hasPath = hostname.includes("/");
+    if (!hasPath) return false;
+    
+    const domainPart = extractHostname(hostname);
+    return !PATH_REQUIRED_DOMAINS.includes(domainPart);
+}
+
+// Check if a domain WITHOUT path is on the comparison list but not bypassed
+function isOnComparisonListNotBypassed(hostname: string, comparisonList: Set<string>, bypassList: Set<string>): boolean {
+    if (bypassList.has(hostname)) return false;
+    
+    // Only check domains without paths - domains with paths are allowed to be blocked specifically
+    if (hostname.includes("/")) return false;
+    
+    const parsedDomain = parseDomainWithCustomPSL(hostname);
+    return comparisonList.has(parsedDomain.domain || "");
+}
+
+export function detectFalsePositives(blocklist: string[], comparisonList: Set<string>, bypassList: Set<string>): string[] {
+    return blocklist.filter(hostname => {
+        // Case 1: Domain has path but isn't in PATH_REQUIRED_DOMAINS = false positive
+        if (isInvalidPathDomain(hostname)) {
+            return true;
         }
         
-        const parsedDomain = parseDomainWithCustomPSL(domainToCheck);
-        return comparisonList.has(parsedDomain.domain || "") && !bypassList.has(hostname);
+        // Case 2: Domain is on comparison list but not bypassed = false positive
+        if (isOnComparisonListNotBypassed(hostname, comparisonList, bypassList)) {
+            return true;
+        }
+        
+        return false;
     });
-
-    return blocked;
 }
 
 test("detectFalsePositives", (t) => {
