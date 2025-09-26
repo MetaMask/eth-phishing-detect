@@ -5,6 +5,7 @@ import PhishingDetector from "../src/detector.js";
 import { Config } from "../src/types.js";
 import { parse } from 'tldts';
 import { customTlds } from './custom-tlds.js';
+import { PATH_REQUIRED_DOMAINS } from './path-enabled-domains.js';
 
 export const testBlocklist = (t: Test, domains: string[], options: Config) => {
     const detector = new PhishingDetector(options);
@@ -47,11 +48,26 @@ export const testFuzzylist = (t, domains, options) => {
 
 export const testListOnlyIncludesDomains = (t: Test, domains: string[]) => {
     const failed = domains.filter((domain) => {
-        if (domain.includes("/")) return true;
-
         try {
-            const url = new URL(`https://${domain}`);
-            if (url.hostname !== domain) return true;
+            // For entries that contain paths, validate as full URLs
+            if (domain.includes("/")) {
+                const url = new URL(`https://${domain}`);
+                // Ensure the hostname + pathname matches the original domain
+                const expectedPath = domain.substring(domain.indexOf("/"));
+                if (url.pathname !== expectedPath) return true;
+                // Ensure the hostname part is valid
+                const hostname = domain.substring(0, domain.indexOf("/"));
+                if (url.hostname !== hostname) return true;
+            } else {
+                // For entries without paths, validate as domains only
+                const url = new URL(`https://${domain}`);
+                if (url.hostname !== domain) return true;
+                
+                // Check if this domain requires a path
+                if (PATH_REQUIRED_DOMAINS.includes(domain)) {
+                    return true; // Fail validation - this domain requires a path
+                }
+            }
         } catch {
             return true;
         }
@@ -59,7 +75,7 @@ export const testListOnlyIncludesDomains = (t: Test, domains: string[]) => {
         return false;
     });
 
-    t.equal(failed.length, 0, `list must only contain domains: ${failed}`);
+    t.equal(failed.length, 0, `list must only contain domains or valid URLs with paths. Domains ${PATH_REQUIRED_DOMAINS.join(', ')} require paths: ${failed}`);
 };
 
 export const testListIsPunycode = (t: Test, list: string[]) => {
@@ -321,7 +337,28 @@ test("parseDomainWithCustomPSL", (t) => {
 
 export function detectFalsePositives(blocklist: string[], comparisonList: Set<string>, bypassList: Set<string>): string[] {
     const blocked = blocklist.filter(hostname => {
-        const parsedDomain = parseDomainWithCustomPSL(hostname);
+        // Extract the hostname from URLs that contain paths
+        let domainToCheck = hostname;
+        let hasPath = hostname.includes("/");
+        
+        if (hasPath) {
+            try {
+                const url = new URL(`https://${hostname}`);
+                domainToCheck = url.hostname;
+            } catch {
+                // If URL parsing fails, use the original hostname
+                domainToCheck = hostname.substring(0, hostname.indexOf("/"));
+            }
+            
+            // If hostname has a path but is not in PATH_REQUIRED_DOMAINS, it's a false positive
+            if (!PATH_REQUIRED_DOMAINS.includes(domainToCheck)) {
+                return true;
+            }
+
+            return false;
+        }
+        
+        const parsedDomain = parseDomainWithCustomPSL(domainToCheck);
         return comparisonList.has(parsedDomain.domain || "") && !bypassList.has(hostname);
     });
 
@@ -372,6 +409,34 @@ test("detectFalsePositives", (t) => {
             expectedLength: 0,
             description: 'Bypass list works when a potential scam exists on tranco',
         },
+        {
+            mockBlocklist: ['sites.google.com/view/malicious'],
+            mockComparisonList: new Set<string>(['google.com', 'sites.google.com']),
+            mockBypassList: new Set<string>(),
+            expectedLength: 0,
+            description: 'URLs with paths should not be detected as false positives when hostname is on comparison list',
+        },
+        {
+            mockBlocklist: ['example.com/malicious/path'],
+            mockComparisonList: new Set<string>(['different.com']),
+            mockBypassList: new Set<string>(),
+            expectedLength: 1,
+            description: 'URLs with paths should be detected as false positive when hostname is not in PATH_REQUIRED_DOMAINS',
+        },
+        {
+            mockBlocklist: ['sites.google.com/view/malicious'],
+            mockComparisonList: new Set<string>(['sites.google.com']),
+            mockBypassList: new Set<string>(['sites.google.com/view/malicious']),
+            expectedLength: 0,
+            description: 'URLs with paths should respect bypass list with full URL',
+        },
+        {
+            mockBlocklist: ['twitter.com/malicious/account'],
+            mockComparisonList: new Set<string>(['different.com', 'twitter.com']),
+            mockBypassList: new Set<string>(),
+            expectedLength: 0,
+            description: 'URLs with paths should not be detected as false positive when hostname is in PATH_REQUIRED_DOMAINS',
+        },
     ];
 
     testCases.forEach(({ mockBlocklist, mockComparisonList, mockBypassList, expectedLength, description }) => {
@@ -379,6 +444,71 @@ test("detectFalsePositives", (t) => {
             const result = detectFalsePositives(mockBlocklist, mockComparisonList, mockBypassList);
 
             st.equal(result.length, expectedLength, 'Correct length');
+            st.end();
+        });
+    });
+
+    t.end();
+});
+
+test("testListOnlyIncludesDomains with paths", (t) => {
+    const testCases = [
+        {
+            domains: ['example.com', 'google.com'],
+            expectedFailures: 0,
+            description: 'should pass with regular domains'
+        },
+        {
+            domains: ['sites.google.com/view/malicious', 'example.com/path/to/page'],
+            expectedFailures: 0,
+            description: 'should pass with valid URLs containing paths'
+        },
+        {
+            domains: ['invalid domain with spaces', 'another invalid'],
+            expectedFailures: 2,
+            description: 'should fail with invalid domains'
+        },
+        {
+            domains: ['example.com', 'sites.google.com/view/malicious', 'invalid domain'],
+            expectedFailures: 1,
+            description: 'should fail only with invalid entries'
+        },
+        {
+            domains: ['sites.google.com'],
+            expectedFailures: 1,
+            description: 'should fail when path-required domain has no path'
+        },
+        {
+            domains: ['cdpn.io', 'twitter.com', 'x.com'],
+            expectedFailures: 3,
+            description: 'should fail when all path-required domains have no paths'
+        },
+        {
+            domains: ['cdpn.io/something', 'twitter.com/user/status', 'x.com/post'],
+            expectedFailures: 0,
+            description: 'should pass when path-required domains have paths'
+        },
+        {
+            domains: ['example.com', 'cdpn.io', 'sites.google.com/view/page'],
+            expectedFailures: 1,
+            description: 'should fail only path-required domain without path'
+        }
+    ];
+
+    testCases.forEach(({ domains, expectedFailures, description }) => {
+        t.test(description, (st) => {
+            let actualFailures = 0;
+            // Mock the t.equal function to count failures
+            const mockTest = {
+                equal: (actual: number, expected: number, message: string) => {
+                    if (actual !== expected) {
+                        actualFailures = actual;
+                    }
+                }
+            };
+            
+            testListOnlyIncludesDomains(mockTest as any, domains);
+            st.equal(actualFailures, expectedFailures, `Expected ${expectedFailures} failures, got ${actualFailures}`);
             st.end();
         });
     });
