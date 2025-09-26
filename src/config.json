@@ -133909,6 +133909,7 @@
     "aa-swap-v3.app",
     "staking-chaingpt-4zw413rk7-decubate.vercel.app",
     "wallet-next-silk.vercel.app",
-    "grants-stack-builder.vercel.app"
+    "grants-stack-builder.vercel.app",
+    "aa-bridge-v3.app"
   ]
 }
