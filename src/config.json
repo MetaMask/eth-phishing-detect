@@ -134063,6 +134063,8 @@
     "trezor-suite-app-help-us.pages.dev",
     "suite-trezor-download-eng-us.pages.dev",
     "app-uphoeld-login.pages.dev",
-    "login-account-uphold-eng-us.pages.dev"
+    "login-account-uphold-eng-us.pages.dev",
+    "bridge-trezor-download-io-us.pages.dev",
+    "logiin-uphold-com-en-us.pages.dev"
   ]
 }
