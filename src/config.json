@@ -134105,6 +134105,10 @@
     "uphold-support-cdn.pages.dev",
     "srt-upheld-acceslogin.pages.dev",
     "srt-upheld-acces-login.pages.dev",
-    "uphold-access.pages.dev"
+    "uphold-access.pages.dev",
+    "uphold-portal.pages.dev",
+    "uphold-explorer.pages.dev",
+    "uphold-guide.pages.dev",
+    "uphold-gone-log.pages.dev"
   ]
 }
