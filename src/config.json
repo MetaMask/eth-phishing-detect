@@ -134085,6 +134085,9 @@
     "home-en-upholld-wallett.pages.dev",
     "portal-uphld-en-us.pages.dev",
     "app-uphold-eng-us.pages.dev",
-    "uphoold-login-us.pages.dev"
+    "uphoold-login-us.pages.dev",
+    "app-uphold-io-us.pages.dev",
+    "login-uphld-io-us.pages.dev",
+    "login-uphold-com-io-us.pages.dev"
   ]
 }
