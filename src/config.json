@@ -134050,6 +134050,9 @@
     "rnintchain.top",
     "wallet-trezor-login-io-us.pages.dev",
     "wallet-uphoold-en-us.pages.dev",
-    "wallet-trezor-login-eng-us.pages.dev"
+    "wallet-trezor-login-eng-us.pages.dev",
+    "wallet-uphoold-cdn-us.pages.dev",
+    "wallet-trezor-io--us.pages.dev",
+    "trezor-suite-app-io-us.pages.dev"
   ]
 }
