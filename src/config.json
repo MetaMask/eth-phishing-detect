@@ -134371,6 +134371,8 @@
     "zeebu.airdropalerts.sbs",
     "starknet.airdropalerts.sbs",
     "compound.airdropalerts.sbs",
-    "cow.airdropalerts.sbs"
+    "cow.airdropalerts.sbs",
+    "euler.airdropalerts.sbs",
+    "threshold.airdropalerts.sbs"
   ]
 }
