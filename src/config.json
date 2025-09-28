@@ -134375,6 +134375,7 @@
     "euler.airdropalerts.sbs",
     "threshold.airdropalerts.sbs",
     "stellar.airdropalerts.sbs",
-    "polymarket.airdropalerts.sbs"
+    "polymarket.airdropalerts.sbs",
+    "zircuit.airdropalerts.sbs"
   ]
 }
