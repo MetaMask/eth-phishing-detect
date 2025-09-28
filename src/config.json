@@ -134373,6 +134373,7 @@
     "compound.airdropalerts.sbs",
     "cow.airdropalerts.sbs",
     "euler.airdropalerts.sbs",
-    "threshold.airdropalerts.sbs"
+    "threshold.airdropalerts.sbs",
+    "stellar.airdropalerts.sbs"
   ]
 }
