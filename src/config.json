@@ -134787,6 +134787,7 @@
     "usa-trezor-login-auth.pages.dev",
     "us-wallet-trezor-auth.pages.dev",
     "v2exchange.bond",
-    "coinomi.store"
+    "coinomi.store",
+    "sparklend.buzz"
   ]
 }
