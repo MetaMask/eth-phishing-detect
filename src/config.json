@@ -134786,6 +134786,7 @@
     "us-live-ledger-auth.pages.dev",
     "usa-trezor-login-auth.pages.dev",
     "us-wallet-trezor-auth.pages.dev",
-    "v2exchange.bond"
+    "v2exchange.bond",
+    "coinomi.store"
   ]
 }
