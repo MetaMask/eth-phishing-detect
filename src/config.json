@@ -136718,6 +136718,9 @@
     "id-kraken-en.pages.dev",
     "welcome-io-kraken-sso.pages.dev",
     "support-faq-kraken-com.pages.dev",
-    "start-kraken-logi-page.pages.dev"
+    "start-kraken-logi-page.pages.dev",
+    "homepage-kraken-us.pages.dev",
+    "sso-log-kraken.pages.dev",
+    "support-krakencom-auth.pages.dev"
   ]
 }
