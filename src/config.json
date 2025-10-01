@@ -136792,6 +136792,7 @@
     "project-metamaskcom-auth.pages.dev",
     "project-metamask-com-sso.pages.dev",
     "faq-metamask-extension.pages.dev",
-    "explain-coinpro-base-en.pages.dev"
+    "explain-coinpro-base-en.pages.dev",
+    "home-metamask-start-auth.pages.dev"
   ]
 }
