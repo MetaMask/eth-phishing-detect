@@ -137717,6 +137717,7 @@
     "secure-mtamask-app.pages.dev",
     "app-metamsk-login.pages.dev",
     "pengudrop.cc",
-    "en-phantumio-wallet.pages.dev"
+    "en-phantumio-wallet.pages.dev",
+    "en-iophantmwallet.pages.dev"
   ]
 }
