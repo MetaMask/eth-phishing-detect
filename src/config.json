@@ -137711,6 +137711,10 @@
     "chrom-metamsk-extension.pages.dev",
     "secure-mtamask-login.pages.dev",
     "support-metmask-io-extension.pages.dev",
-    "x-mtamask-app.pages.dev"
+    "x-mtamask-app.pages.dev",
+    "learn-mtamask-app.pages.dev",
+    "metamaak-login-web.pages.dev",
+    "secure-mtamask-app.pages.dev",
+    "app-metamsk-login.pages.dev"
   ]
 }
