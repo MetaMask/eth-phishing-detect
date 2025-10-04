@@ -137963,6 +137963,20 @@
     "help-metamask-sso-app.pages.dev",
     "layer-l2.digital",
     "start-opensea.pages.dev",
-    "metamask-gmo.com"
+    "metamask-gmo.com",
+    "com-api-auth-online-gateway.app",
+    "com-online-dex-api-prod.app",
+    "com-app-beta-online-edge.com",
+    "com-org.icu",
+    "com-prod-edge-alpha-api-gateway.app",
+    "com-prod-secure-online-auth.app",
+    "com-secure-alpha-api-online.app",
+    "com-sign.in",
+    "finance-connect-api-v3.com",
+    "io-wallets-beta-cdn-edge.app",
+    "io-v3.click",
+    "personal-finance-bnpparibas.com.cn",
+    "support-verif-auth.com",
+    "usdc-v4-test.cc"
   ]
 }
