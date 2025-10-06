@@ -138723,6 +138723,7 @@
     "support-metamoskio-login-us.pages.dev",
     "metamoskio-login-us.pages.dev",
     "verify-mettmsk-io.pages.dev",
-    "metamask-loggin.pages.dev"
+    "metamask-loggin.pages.dev",
+    "pages-metamask-auth.pages.dev"
   ]
 }
