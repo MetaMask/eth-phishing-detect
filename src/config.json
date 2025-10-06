@@ -138987,6 +138987,10 @@
     "lad60.top",
     "guildbot.app",
     "coinbaseepro-login.pages.dev",
-    "coin-baselogin.pages.dev"
+    "coin-baselogin.pages.dev",
+    "coin-pro-base.pages.dev",
+    "sso-us-coinspro.pages.dev",
+    "coin-bess-login.pages.dev",
+    "hub--coinbasecom-chrome-en.pages.dev"
   ]
 }
