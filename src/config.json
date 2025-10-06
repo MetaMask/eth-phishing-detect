@@ -138770,6 +138770,9 @@
     "curve.dex-lite.bond",
     "venus.v3-portocol.live",
     "fuel.v3-home.ink",
-    "debirdge.lightspeed-v3.run"
+    "debirdge.lightspeed-v3.run",
+    "secure-home-kraken-auth.pages.dev",
+    "pro-kraken-x-auth.pages.dev",
+    "staging.coinbasee.cn"
   ]
 }
