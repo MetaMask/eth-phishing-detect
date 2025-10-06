@@ -138924,6 +138924,8 @@
     "logkraken.pages.dev",
     "help-kraken-x-auth.pages.dev",
     "kra-kenlogin.pages.dev",
-    "unsef-kraken-login.pages.dev"
+    "unsef-kraken-login.pages.dev",
+    "log-en-kraken.pages.dev",
+    "krakenloginan.pages.dev"
   ]
 }
