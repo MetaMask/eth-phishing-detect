@@ -138923,6 +138923,7 @@
     "sso-eng-kra-ken-secure.pages.dev",
     "logkraken.pages.dev",
     "help-kraken-x-auth.pages.dev",
-    "kra-kenlogin.pages.dev"
+    "kra-kenlogin.pages.dev",
+    "unsef-kraken-login.pages.dev"
   ]
 }
