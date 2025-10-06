@@ -138666,6 +138666,9 @@
     "monad-testnet-drop.live",
     "swap-jupiter.app",
     "check-monad-airdrop.netlify.app",
-    "coinbase-extension-view.pages.dev"
+    "coinbase-extension-view.pages.dev",
+    "metamask-llogin.pages.dev",
+    "dao-v3.digital",
+    "home-metamask-log.pages.dev"
   ]
 }
