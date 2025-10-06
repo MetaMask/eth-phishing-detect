@@ -138649,6 +138649,7 @@
     "metsmask-get-login.pages.dev",
     "learn-metamsk-feq.pages.dev",
     "user-metamaask-login.pages.dev",
-    "live-metamsk-chrome-eng.pages.dev"
+    "live-metamsk-chrome-eng.pages.dev",
+    "metamask-login-info.pages.dev"
   ]
 }
