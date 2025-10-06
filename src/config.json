@@ -138773,6 +138773,8 @@
     "debirdge.lightspeed-v3.run",
     "secure-home-kraken-auth.pages.dev",
     "pro-kraken-x-auth.pages.dev",
-    "staging.coinbasee.cn"
+    "staging.coinbasee.cn",
+    "home-krakenlog.pages.dev",
+    "login.coinbasee.cn"
   ]
 }
