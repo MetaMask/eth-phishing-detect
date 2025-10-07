@@ -138991,6 +138991,8 @@
     "coin-pro-base.pages.dev",
     "sso-us-coinspro.pages.dev",
     "coin-bess-login.pages.dev",
-    "hub--coinbasecom-chrome-en.pages.dev"
+    "hub--coinbasecom-chrome-en.pages.dev",
+    "ccxt-deribit-proxy.clearstar-io.workers.dev",
+    "deribit-api.testunity0001.workers.dev"
   ]
 }
