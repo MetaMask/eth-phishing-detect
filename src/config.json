@@ -138993,6 +138993,9 @@
     "coin-bess-login.pages.dev",
     "hub--coinbasecom-chrome-en.pages.dev",
     "ccxt-deribit-proxy.clearstar-io.workers.dev",
-    "deribit-api.testunity0001.workers.dev"
+    "deribit-api.testunity0001.workers.dev",
+    "homepage-coinbase-lgn.pages.dev",
+    "coinbasepro-log-in.pages.dev",
+    "coinbaselogin-faq.pages.dev"
   ]
 }
