@@ -64,7 +64,8 @@ const bypass = new Set([
     "curve.fi", // https://x.com/CurveFinance/status/1922040492121829678
     "coinmarketcap.com", // https://x.com/Auri_0x/status/1936173321244066273
     "cointelegraph.com", // https://x.com/Cointelegraph/status/1936959898094583916
-    "card.inertix.pro"
+    "card.inertix.pro",
+    "pepe.vip",
 ]);
 
 export const runTests = (config: Config) => {
