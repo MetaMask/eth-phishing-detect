@@ -65,7 +65,8 @@ const bypass = new Set([
     "coinmarketcap.com", // https://x.com/Auri_0x/status/1936173321244066273
     "cointelegraph.com", // https://x.com/Cointelegraph/status/1936959898094583916
     "card.inertix.pro",
-    "pepe.vip",
+    "pepe.vip", // FE Compromise
+    "kuroro.com", // FE Compromise?
 ]);
 
 export const runTests = (config: Config) => {
