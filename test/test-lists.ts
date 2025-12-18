@@ -67,6 +67,7 @@ const bypass = new Set([
     "card.inertix.pro",
     "pepe.vip", // FE Compromise
     "kuroro.com", // FE Compromise?
+    "maxidogetoken.com",
 ]);
 
 export const runTests = (config: Config) => {
