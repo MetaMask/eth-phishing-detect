@@ -68,6 +68,7 @@ const bypass = new Set([
     "pepe.vip", // FE Compromise
     "kuroro.com", // FE Compromise?
     "maxidogetoken.com",
+    "bondex.app", // XSS
 ]);
 
 export const runTests = (config: Config) => {
