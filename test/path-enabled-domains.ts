@@ -3,5 +3,6 @@ export const PATH_REQUIRED_DOMAINS = [
   'cdpn.io',
   'sites.google.com',
   'twitter.com',
-  'x.com'
+  'x.com',
+  'uploader.irys.xyz'
 ];
