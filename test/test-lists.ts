@@ -69,6 +69,7 @@ const bypass = new Set([
     "kuroro.com", // FE Compromise?
     "maxidogetoken.com",
     "bondex.app", // XSS
+    "irys.xyz", // Drainer frontends being hosted on IPFS
 ]);
 
 export const runTests = (config: Config) => {
