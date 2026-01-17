@@ -249,5 +249,6 @@ export const customTlds = [
   "infinityfreeapp.com",
   "ct.ws",
   "freecluster.eu",
-  "page.gd"
+  "page.gd",
+  "uploader.irys.xyz",
 ];
