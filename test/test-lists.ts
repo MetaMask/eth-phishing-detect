@@ -71,6 +71,7 @@ const bypass = new Set([
     "bondex.app", // XSS
     "irys.xyz", // Drainer frontends being hosted on IPFS
     "25u.com", // DNS may be hijacked.
+    "decentreland.live", // somehow on tranco
 ]);
 
 export const runTests = (config: Config) => {
