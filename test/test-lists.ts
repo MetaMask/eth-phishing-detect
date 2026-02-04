@@ -72,6 +72,7 @@ const bypass = new Set([
     "irys.xyz", // Drainer frontends being hosted on IPFS
     "25u.com", // DNS may be hijacked.
     "decentreland.live", // somehow on tranco
+    "mssg.me", // hosting drainers
 ]);
 
 export const runTests = (config: Config) => {
