@@ -250,6 +250,5 @@ export const customTlds = [
   "ct.ws",
   "freecluster.eu",
   "page.gd",
-  "uploader.irys.xyz",
   "mssg.me"
 ];
