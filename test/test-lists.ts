@@ -70,6 +70,9 @@ const bypass = new Set([
     "maxidogetoken.com",
     "bondex.app", // XSS
     "irys.xyz", // Drainer frontends being hosted on IPFS
+    "25u.com", // DNS may be hijacked.
+    "decentreland.live", // somehow on tranco
+    "mssg.me", // hosting drainers
 ]);
 
 export const runTests = (config: Config) => {
