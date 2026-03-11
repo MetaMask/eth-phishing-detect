@@ -4,5 +4,6 @@ export const PATH_REQUIRED_DOMAINS = [
   'sites.google.com',
   'twitter.com',
   'x.com',
-  'uploader.irys.xyz'
+  'uploader.irys.xyz',
+  'arweave.mainnet.irys.xyz',
 ];
