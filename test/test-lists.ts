@@ -73,6 +73,7 @@ const bypass = new Set([
     "25u.com", // DNS may be hijacked.
     "decentreland.live", // somehow on tranco
     "mssg.me", // hosting drainers
+    "defi2026.z13.web.core.windows.net",
 ]);
 
 export const runTests = (config: Config) => {
