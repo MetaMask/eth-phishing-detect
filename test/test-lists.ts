@@ -74,6 +74,7 @@ const bypass = new Set([
     "decentreland.live", // somehow on tranco
     "mssg.me", // hosting drainers
     "defi2026.z13.web.core.windows.net",
+    "samouraiwallet.com", // https://x.com/econoalchemist/status/2035735206691315848
 ]);
 
 export const runTests = (config: Config) => {
