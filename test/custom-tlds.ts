@@ -251,4 +251,5 @@ export const customTlds = [
   "freecluster.eu",
   "page.gd",
   "mssg.me"
+  "gotoip1.com",
 ];
