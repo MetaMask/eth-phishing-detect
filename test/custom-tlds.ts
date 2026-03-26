@@ -250,6 +250,6 @@ export const customTlds = [
   "ct.ws",
   "freecluster.eu",
   "page.gd",
-  "mssg.me"
+  "mssg.me",
   "gotoip1.com",
 ];
