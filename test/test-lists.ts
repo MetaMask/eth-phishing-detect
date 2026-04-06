@@ -75,6 +75,7 @@ const bypass = new Set([
     "mssg.me", // hosting drainers
     "defi2026.z13.web.core.windows.net",
     "samouraiwallet.com", // https://x.com/econoalchemist/status/2035735206691315848
+    "chainge.finance",
 ]);
 
 export const runTests = (config: Config) => {
