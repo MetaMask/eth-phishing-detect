@@ -253,4 +253,5 @@ export const customTlds = [
   "mssg.me",
   "gotoip1.com",
   "arweave.net",
+  "se.net",
 ];
