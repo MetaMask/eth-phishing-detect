@@ -76,7 +76,7 @@ const bypass = new Set([
     "defi2026.z13.web.core.windows.net",
     "samouraiwallet.com", // https://x.com/econoalchemist/status/2035735206691315848
     "chainge.finance",
-    "cow.fi",
+    "cow.fi", // https://x.com/CoWSwap/status/2044078590514327888
 ]);
 
 export const runTests = (config: Config) => {
