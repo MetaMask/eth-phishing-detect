@@ -77,6 +77,7 @@ const bypass = new Set([
     "samouraiwallet.com", // https://x.com/econoalchemist/status/2035735206691315848
     "chainge.finance",
     "cow.fi", // https://x.com/CoWSwap/status/2044078590514327888
+    "eth.limo", // https://x.com/eth_limo/status/2045413512986411467
 ]);
 
 export const runTests = (config: Config) => {
