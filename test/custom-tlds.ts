@@ -254,4 +254,5 @@ export const customTlds = [
   "gotoip1.com",
   "arweave.net",
   "se.net",
+  "trendmicro.com", // attackers are using trendmicro subdomains
 ];
