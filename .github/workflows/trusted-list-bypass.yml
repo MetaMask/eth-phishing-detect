@@ -82,6 +82,9 @@ jobs:
       - name: Commit trusted-list bypass
         if: steps.pr.outputs.is_fork == 'false'
         working-directory: pull-request
+        env:
+          HEAD_REF: ${{ steps.pr.outputs.head_ref }}
+          PR_NUMBER: ${{ github.event.issue.number }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -90,8 +93,8 @@ jobs:
             echo "No trusted-list bypass changes to commit."
             exit 0
           fi
-          git commit -m "Add trusted list bypass for PR #${{ github.event.issue.number }}"
-          git push origin HEAD:${{ steps.pr.outputs.head_ref }}
+          git commit -m "Add trusted list bypass for PR #${PR_NUMBER}"
+          git push origin "HEAD:${HEAD_REF}"
 
       - name: Report completion
         if: steps.pr.outputs.is_fork == 'false'
