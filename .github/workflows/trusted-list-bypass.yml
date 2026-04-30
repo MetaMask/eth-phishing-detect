@@ -80,7 +80,7 @@ jobs:
         run: node --import tsx bin/apply-trusted-list-bypass.ts
 
       - name: Commit trusted-list bypass
-        if: steps.pr.outputs.is_fork == 'false'
+        if: success() && steps.pr.outputs.is_fork == 'false'
         working-directory: pull-request
         env:
           HEAD_REF: ${{ steps.pr.outputs.head_ref }}
@@ -97,7 +97,7 @@ jobs:
           git push origin "HEAD:${HEAD_REF}"
 
       - name: Report completion
-        if: steps.pr.outputs.is_fork == 'false'
+        if: success() && steps.pr.outputs.is_fork == 'false'
         uses: actions/github-script@v7
         with:
           script: |

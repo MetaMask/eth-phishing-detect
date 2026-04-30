@@ -4,7 +4,7 @@ export function parseTrustedListBypass(contents: string): Set<string> {
     return new Set(
         contents
             .split(/\r?\n/u)
-            .map((line) => line.replace(/\s+#.*$/u, "").trim())
+            .map((line) => line.replace(/^\s*#.*$/u, "").replace(/\s+#.*$/u, "").trim())
             .filter(Boolean),
     );
 }
