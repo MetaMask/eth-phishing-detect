@@ -6,7 +6,7 @@ import { detectFalsePositives, parseTrustedListBypass } from "../test/trusted-li
 import { Config } from "../src/types.js";
 
 const TRUSTED_LIST_IDS = ["tranco", "coinmarketcap", "snapsregistry", "coingecko", "dapps"];
-const COMMANDS = new Set(["/skip-trusted-lists", "Skip trusted lists"]);
+const COMMANDS = new Set(["/skip-trusted-lists", "skip trusted lists"]);
 
 const policyRoot = path.dirname(__dirname);
 const targetRoot = process.env.TRUSTED_LIST_BYPASS_TARGET || policyRoot;
@@ -39,12 +39,13 @@ const readExistingBypass = async (): Promise<string> => {
 
 const getCommand = (): string => {
     const firstLine = (process.env.TRUSTED_LIST_BYPASS_COMMENT || "").trim().split(/\r?\n/u)[0]?.trim() || "";
+    const normalizedFirstLine = firstLine.toLowerCase();
 
-    if (firstLine.startsWith("/skip-trusted-lists")) {
+    if (normalizedFirstLine.startsWith("/skip-trusted-lists")) {
         return "/skip-trusted-lists";
     }
 
-    return firstLine;
+    return normalizedFirstLine;
 };
 
 const getApprovedBy = (): string => {
