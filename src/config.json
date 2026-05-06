@@ -3309,8 +3309,6 @@
     "coin-base-intro-eng-lggin.pages.dev",
     "ai-coinbasepro-en-us.pages.dev",
     "llamasswap.org",
-    "legionx.gitbook.io",
-    "780f70bf.magma-staging.pages.dev",
     "magma-next.vercel.app",
     "legion5.vercel.app",
     "nemo-relate.webflow.io",
@@ -113677,6 +113675,8 @@
     "platform-metumask.wixstudio.com",
     "io-mattamask.wixstudio.com",
     "meatamskio-logn.wixstudio.com",
-    "appsmetamskcdn.wixstudio.com"
+    "appsmetamskcdn.wixstudio.com",
+    "metamaskconnect-auth.online",
+    "metamask-wallet.site"
   ]
 }
