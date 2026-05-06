@@ -20,6 +20,7 @@ export const runTests = (config: Config) => {
         testBlocklist(
             t,
             [
+                "metamask.money", // Test for fuzzylist entry
                 "tornadoeth.cash",
                 "tornadoeth.cash.", //Test for absolute fully-qualified domain name
                 "test.metamask-phishing.io",
@@ -136,6 +137,7 @@ export const runTests = (config: Config) => {
         testBlocklist(
             t,
             [
+                "metamask.money", // Test for fuzzylist entry
                 "tornadoeth.cash",
                 "tornadoeth.cash.", //Test for absolute fully-qualified domain name
                 "test.metamask-phishing.io",
