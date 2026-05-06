@@ -3281,7 +3281,6 @@
     "krakenlogin-cgf.pages.dev",
     "coinbase-login-pro-guide.pages.dev",
     "app-coin-bess-pro-io.pages.dev",
-    "coin-extension-nav-auth.pages.dev",
     "execute-coinbasepro.pages.dev",
     "wallet-raydium-en.pages.dev",
     "coin-base-intro-eng-lggin.pages.dev",
@@ -113645,6 +113644,7 @@
     "secure-core.top",
     "pumpfungift.fun",
     "claim-esl.cfd",
-    "proposals-firelight.app"
+    "proposals-firelight.app",
+    "polyreg.icu"
   ]
 }
