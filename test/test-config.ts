@@ -38,7 +38,7 @@ export const runTests = (config: Config) => {
                 "etherscan.io",
                 // allowlist subdomains
                 "www.metamask.io",
-                    
+                "portfolio.metamask.com",
                 "faucet.metamask.io",
                 "zero.metamask.io",
                 "zero-faucet.metamask.io",
