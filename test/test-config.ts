@@ -20,7 +20,6 @@ export const runTests = (config: Config) => {
         testBlocklist(
             t,
             [
-                "metamask.com",
                 "tornadoeth.cash",
                 "tornadoeth.cash.", //Test for absolute fully-qualified domain name
                 "test.metamask-phishing.io",
@@ -35,9 +34,11 @@ export const runTests = (config: Config) => {
             t,
             [
                 "metamask.io",
+                "metamask.com",
                 "etherscan.io",
                 // allowlist subdomains
                 "www.metamask.io",
+                    
                 "faucet.metamask.io",
                 "zero.metamask.io",
                 "zero-faucet.metamask.io",
@@ -135,7 +136,6 @@ export const runTests = (config: Config) => {
         testBlocklist(
             t,
             [
-                "metamask.com",
                 "tornadoeth.cash",
                 "tornadoeth.cash.", //Test for absolute fully-qualified domain name
                 "test.metamask-phishing.io",
@@ -150,9 +150,11 @@ export const runTests = (config: Config) => {
             t,
             [
                 "metamask.io",
+                "metamask.com",
                 "etherscan.io",
                 // allowlist subdomains
                 "www.metamask.io",
+                "portfolio.metamask.com",
                 "faucet.metamask.io",
                 "zero.metamask.io",
                 "zero-faucet.metamask.io",
