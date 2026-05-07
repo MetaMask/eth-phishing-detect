@@ -67,7 +67,9 @@
     "satoshilabs.design",
     "storage.googleapis.com",
     "127.0.0.1",
-    "localhost"
+    "localhost",
+    "solidusdao.com",
+    "app.solidusdao.com"
   ],
   "blacklist": [
     "poly-mark.xyz",
