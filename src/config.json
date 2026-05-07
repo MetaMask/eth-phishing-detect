@@ -2893,14 +2893,6 @@
     "389291coinbase.com",
     "baselogin-coinbase.pages.dev",
     "webpages-kraken.pages.dev",
-    "phantom--wallet-pro.pages.dev",
-    "portal-sso---opensealogs.pages.dev",
-    "opensea--login-a.pages.dev",
-    "metamask--login-us.pages.dev",
-    "start-sign-in-coinbase-web.pages.dev",
-    "coin-base-com--nav-auth.pages.dev",
-    "loggin-coinbased-start-us.pages.dev",
-    "logincoinnbase-access.pages.dev",
     "page-coinbase-io.pages.dev",
     "guide-coin-extension-com-authh.pages.dev",
     "coin-based--pro--login.pages.dev",
@@ -109082,6 +109074,7 @@
     "solcloudpro.cyou",
     "trustedvolumes.com",
     "trustwalletextension-auth.framer.ai",
-    "trustwallettokens8.wordpress.com"
+    "trustwallettokens8.wordpress.com",
+    "how-to-hold-bitcoin-using-trust-wallet.webflow.io"
   ]
 }
