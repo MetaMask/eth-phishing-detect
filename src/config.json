@@ -2888,22 +2888,7 @@
     "baselogin-coinbase.pages.dev",
     "webpages-kraken.pages.dev",
     "llamamswap.org",
-    "app-ledger-security.com",
-    "com-api-gateway-swap-connect-cdn.cloud",
-    "com-prod-swap-online-v2.cloud",
-    "com-app-prod-api-gateway-online.cloud",
-    "com-prod-trade-api-gateway-edge.cloud",
-    "com-wallet-v1-secure-prod.cloud",
-    "fi-alpha-app-service-auth.cloud",
-    "finance-v3-wallet-secure-services.cloud",
-    "finance-swap-api-gateway-wallets-services.cloud",
-    "free-email-claim.shop",
-    "io-api-gateway-gateway-cdn-beta.cloud",
-    "io-v3-auth-edge-services.cloud",
     "lamanswap.com",
-    "org-portal-auth-edge-v4.cloud",
-    "pumpfungame.com",
-    "ripio-rapido-acess.com",
     "swapsllama.org",
     "secrw.com",
     "pattern-nexus-5789-460.vercel.app",
@@ -109059,6 +109044,7 @@
     "trustwallettokens8.wordpress.com",
     "how-to-hold-bitcoin-using-trust-wallet.webflow.io",
     "krakssylka.cc",
-    "enter-zama.org"
+    "enter-zama.org",
+    "coinbasextension.vercel.app"
   ]
 }
