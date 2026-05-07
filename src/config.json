@@ -2941,8 +2941,6 @@
     "help-krakne-login-us.pages.dev",
     "raydium-wallet-rv.pages.dev",
     "raydium-wallet-io.pages.dev",
-    "591419-gemini.com",
-    "ag-app-secure-cdn-connect.cloud",
     "secure-krakeen-docs.pages.dev",
     "uphold-services.pages.dev",
     "authd-uphld-learn.pages.dev",
@@ -108811,6 +108809,9 @@
     "88750-cb.com",
     "chiliz.lol",
     "redirectpengu.pages.dev",
-    "penguins.home-dapp.com"
+    "penguins.home-dapp.com",
+    "redirect.home-dapp.com",
+    "pudgy.home-dapp.com",
+    "blur-io-eth.pages.dev"
   ]
 }
