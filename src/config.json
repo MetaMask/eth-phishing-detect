@@ -2946,8 +2946,6 @@
     "kraken--logn-web.pages.dev",
     "coinmbase-learn--edge.pages.dev",
     "view-extnstion-coinbse.pages.dev",
-    "qualifiedbaseclaim.org",
-    "nft-login-guide.pages.dev",
     "jit0.com",
     "argocd.tooling-2.metis-internal.com",
     "coin-crypto-login.pages.dev",
@@ -108812,6 +108810,7 @@
     "uphold-login-16.gitbook.io",
     "claim-pudgypenguins.icu",
     "1inchdefi.com",
-    "ethers.fi"
+    "ethers.fi",
+    "coinbasepiextension.gitbook.io"
   ]
 }
