@@ -2950,7 +2950,6 @@
     "in-coin-browser-extension.pages.dev",
     "extension-coinbasa.pages.dev",
     "us-en-coin-base-sign-inn.pages.dev",
-    "nodehub.limited",
     "sign-in-coinbase-io.pages.dev",
     "jupags.pages.dev",
     "support-uphldlogin.pages.dev",
@@ -108800,6 +108799,7 @@
     "vexonexio.net",
     "sites.google.com/view/relay-link-bridge-v1",
     "deficryptosolutions.com",
-    "vote-citrea.com"
+    "vote-citrea.com",
+    "stoptrxfee.asia"
   ]
 }
