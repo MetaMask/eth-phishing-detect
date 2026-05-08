@@ -2944,10 +2944,6 @@
     "signerpro.limited",
     "views-coinbase-en.pages.dev",
     "support-un-us-exten.pages.dev",
-    "cloud-log--in-upzhold-us-en.pages.dev",
-    "pumpfunearn.com",
-    "sso-upheld-wallt.pages.dev",
-    "faq-metamask-get.pages.dev",
     "airdrop-sign-global.xyz",
     "capital-top-finboost.sbs",
     "capital-top-finlayer.sbs",
@@ -108954,6 +108950,7 @@
     "exodus-io-cpp.pages.dev",
     "enter-relay.xyz",
     "exodes-platforms.wixstudio.com",
-    "en-usexoduswallet.framer.ai"
+    "en-usexoduswallet.framer.ai",
+    "stellar-base.pages.dev"
   ]
 }
