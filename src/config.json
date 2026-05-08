@@ -2935,8 +2935,6 @@
     "kra-ken-log-in.pages.dev",
     "learn-app-kraken-co.pages.dev",
     "kraken-web-login.pages.dev",
-    "uphod-io-auth.pages.dev",
-    "dot.beefyhubs.lol",
     "coiin-basse-wallet-extenon-us.pages.dev",
     "arb.beefyhubs.cfd",
     "wallet3-coin.com",
@@ -108846,6 +108844,7 @@
     "app-phantom.com",
     "cash-phantom.com",
     "access-phantom.com",
-    "isolatingestimate.sgp1.digitaloceanspaces.com"
+    "isolatingestimate.sgp1.digitaloceanspaces.com",
+    "faq-live-ledger-desktop-io-us.pages.dev"
   ]
 }
