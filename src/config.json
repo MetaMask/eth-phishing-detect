@@ -2942,9 +2942,6 @@
     "gateway-krakenlog.pages.dev",
     "kra-ken-log-in.pages.dev",
     "learn-app-kraken-co.pages.dev",
-    "sso-home-uphold.pages.dev",
-    "eth-burner.xyz",
-    "abstract.airdrpsalert.club",
     "official-site-uphold.pages.dev",
     "claimportal-monad.xyz",
     "metis.airdrpsalert.club",
@@ -108894,6 +108891,9 @@
     "thena.fi",
     "terminals-megaeth.com",
     "asteroideth.pro",
-    "ehterscan.com"
+    "ehterscan.com",
+    "vote-firelight.app",
+    "aave-checker.app",
+    "join-flare.network"
   ]
 }
