@@ -2942,10 +2942,6 @@
     "gateway-krakenlog.pages.dev",
     "kra-ken-log-in.pages.dev",
     "learn-app-kraken-co.pages.dev",
-    "morpho.beefyhubs.lol",
-    "jupiter-org.pages.dev",
-    "abstract.beefyhubs.lol",
-    "zircuit.beefyhubs.lol",
     "cow.beefyhubs.lol",
     "verification-plasma.io",
     "sso-home-uphold.pages.dev",
@@ -108893,6 +108889,13 @@
     "coinbase-exchange.info",
     "web3airdrop.website",
     "io-suites.app",
-    "www-trezor-suite.io"
+    "www-trezor-suite.io",
+    "saphyre.exchange",
+    "cyberratai.com",
+    "testeth-three.vercel.app",
+    "thena.fi",
+    "terminals-megaeth.com",
+    "asteroideth.pro",
+    "ehterscan.com"
   ]
 }
