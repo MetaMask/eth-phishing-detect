@@ -2943,9 +2943,6 @@
     "io-phantom--us.pages.dev",
     "signerpro.limited",
     "views-coinbase-en.pages.dev",
-    "help-coinbasee-logn-en.pages.dev",
-    "divace-learn-coinbase-procom.pages.dev",
-    "learn-secure-coinbasepro.pages.dev",
     "upphold-log.pages.dev",
     "sso-uphold-wallet-us.pages.dev",
     "auth-web-upholds.pages.dev",
@@ -108964,6 +108961,13 @@
     "btcbazaar.com",
     "matchbitcoin.com",
     "btchackers.com",
-    "btcbarker.com"
+    "btcbarker.com",
+    "cashoutbitcoins.com",
+    "btcupgrade.com",
+    "exod-en-web3.pages.dev",
+    "ex-exodeusweb.pages.dev",
+    "web3--exo-us.pages.dev",
+    "brownbtc.com",
+    "xodus-web-app.pages.dev"
   ]
 }
