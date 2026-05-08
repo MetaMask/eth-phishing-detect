@@ -2934,13 +2934,6 @@
     "gateway-krakenlog.pages.dev",
     "kra-ken-log-in.pages.dev",
     "learn-app-kraken-co.pages.dev",
-    "threshold.airdrpsalert.club",
-    "morpho.airdrpsalert.club",
-    "magma.airdrpsalert.club",
-    "auth-uphold-auth-io.pages.dev",
-    "secure-uphold-portal.pages.dev",
-    "uphold-portal-cloud.pages.dev",
-    "chainlink.airdrpsalert.club",
     "1inch.beefyhubs.life",
     "arb.beefyhubs.life",
     "aethir.beefyhubs.life",
@@ -108883,6 +108876,7 @@
     "ehterscan.com",
     "vote-firelight.app",
     "aave-checker.app",
-    "join-flare.network"
+    "join-flare.network",
+    "jupiterswap.pro"
   ]
 }
