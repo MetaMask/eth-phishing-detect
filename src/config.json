@@ -92970,7 +92970,6 @@
     "w.airdropsalert.sbs",
     "akt.airdropsalert.sbs",
     "akt.airdropsalert.cfd",
-    "ewt.airdropsalert.sbs",
     "ewt.airdropsalert.cfd",
     "kai.airdropsalert.sbs",
     "7kdefi.airdropsalert.sbs",
@@ -101230,7 +101229,6 @@
     "zircuit.portal-drops.dev",
     "chainlink.portal-drops.dev",
     "sca.portal-drops.club",
-    "ewt.portal-drops.club",
     "eth.portal-drops.dev",
     "compound.portal-drops.icu",
     "pyth.portal-drops.app",
@@ -108614,6 +108612,7 @@
     "portal-firelight.finance",
     "vote-aero.xyz",
     "vote-solv.xyz",
-    "flare-network.info"
+    "flare-network.info",
+    "flarefdn.com"
   ]
 }
