@@ -101230,8 +101230,6 @@
     "zircuit.portal-drops.dev",
     "chainlink.portal-drops.dev",
     "sca.portal-drops.club",
-    "ewt.portal-drops.cfd",
-    "ewt.portal-drops.dev",
     "ewt.portal-drops.club",
     "eth.portal-drops.dev",
     "compound.portal-drops.icu",
@@ -108614,6 +108612,8 @@
     "signup-firelight.xyz",
     "fire-lightbase.live",
     "portal-firelight.finance",
-    "vote-aero.xyz"
+    "vote-aero.xyz",
+    "vote-solv.xyz",
+    "flare-network.info"
   ]
 }
