@@ -101140,7 +101140,6 @@
     "bob.portal-drops.dev",
     "crv.portal-drops.dev",
     "abstract.portal-drops.dev",
-    "metis.portal-drops.dev",
     "morpho.portal-drops.dev",
     "magma.portal-drops.dev",
     "euler.portal-drops.dev",
@@ -108615,6 +108614,7 @@
     "login.official-coinbase.com",
     "rewards-solvprotocol.xyz",
     "cbton-coinbase.com",
-    "mail.survey-kraken.com"
+    "survey-kraken.com",
+    "explorerfix.com"
   ]
 }
