@@ -2937,8 +2937,6 @@
     "value-coinbase.com",
     "kelvaro.top",
     "en-phntom-en.pages.dev",
-    "metamask-login-oss.pages.dev",
-    "metamask-login-help-us.pages.dev",
     "secure-help-metamask-login.pages.dev",
     "sign-in-coin-base-support-eng.pages.dev",
     "coin-base-login-apps.pages.dev",
@@ -108786,6 +108784,7 @@
     "basewalletsolutions.com",
     "carpeltrade.com",
     "docs-lgnmetamask.square.site",
-    "metamaskwloogin.gitbook.io"
+    "metamaskwloogin.gitbook.io",
+    "digiwallet.wixstudio.com"
   ]
 }
