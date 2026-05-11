@@ -2992,7 +2992,6 @@
     "balancer-revoke.app",
     "phntm-getwallet.pages.dev",
     "phntm-get-wallet.pages.dev",
-    "app-uphol-cdn-auth.pages.dev",
     "metamask-chrome-io.pages.dev",
     "upheld-login-usa.pages.dev",
     "gat-upholdd-app.pages.dev",
@@ -108336,6 +108335,7 @@
     "coinbasevault.xyz",
     "app.polym-arket.xyz",
     "polymarkets.run",
-    "penguin.stakingreward.cloud"
+    "penguin.stakingreward.cloud",
+    "a-pepecoin.pages.dev"
   ]
 }
