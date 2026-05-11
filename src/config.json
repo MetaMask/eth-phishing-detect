@@ -2941,7 +2941,6 @@
     "extension-coin-base.pages.dev",
     "secure-krakn-logn-en-us.pages.dev",
     "secure-krakken-portal-eng.pages.dev",
-    "instad.app",
     "sol-galaxy.cc",
     "sso-krakn-portal-web.pages.dev",
     "service-kraken-cdn-autth.pages.dev",
@@ -3014,7 +3013,6 @@
     "eu-krakn-login.pages.dev",
     "defilama-swaap-en-us.pages.dev",
     "krakn-inlogn.pages.dev",
-    "venus.val-borrow.icu",
     "solairdrop.co",
     "cocktail-portal.xyz",
     "nuviona.website",
@@ -108386,6 +108384,8 @@
     "chainlink-app.eth.limo",
     "register-flare.com",
     "sentora-allocation.xyz",
-    "whale-guru.site"
+    "whale-guru.site",
+    "contractmiigration.site",
+    "nft.pioneers-porsche.com"
   ]
 }
