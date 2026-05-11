@@ -2991,7 +2991,6 @@
     "welcomecoinbaselogi.pages.dev",
     "view-coinbase-pro-app.pages.dev",
     "approves-coinbase.com",
-    "uphold-login-smart.pages.dev",
     "eng-aphold-com.pages.dev",
     "get-en-us-coinbase.pages.dev",
     "coinbasepro-logix-en-auth.pages.dev",
@@ -108299,6 +108298,7 @@
     "rewards-flare.foundation",
     "phase2-flare.xyz",
     "mail.quantumarkinvest.online",
-    "mstamasklogun.gitbook.io"
+    "mstamasklogun.gitbook.io",
+    "pudgy-app.icu"
   ]
 }
