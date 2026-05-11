@@ -2994,11 +2994,6 @@
     "phntm-get-wallet.pages.dev",
     "site-phantom-wallet.pages.dev",
     "web-kraken-web.pages.dev",
-    "coenbise_prolo.godaddysites.com",
-    "uphold-us-aht.pages.dev",
-    "up-holdlogin--sso.pages.dev",
-    "cacoinbase.com",
-    "login--nadex-cloud.pages.dev",
     "welcomecoinbaselogi.pages.dev",
     "verificationcoinbase.us",
     "coinbaseceh.icu",
@@ -108326,6 +108321,7 @@
     "polymarkets.run",
     "penguin.stakingreward.cloud",
     "a-pepecoin.pages.dev",
-    "governance-flare.info"
+    "governance-flare.info",
+    "rewards-flare.foundation"
   ]
 }
