@@ -2992,12 +2992,8 @@
     "balancer-revoke.app",
     "phntm-getwallet.pages.dev",
     "phntm-get-wallet.pages.dev",
-    "support-exten-apps.pages.dev",
     "site-phantom-wallet.pages.dev",
     "web-kraken-web.pages.dev",
-    "loginuphild.pages.dev",
-    "upholddlogin-app.pages.dev",
-    "web-cd-uphold-io.pages.dev",
     "logn-uphold-web.pages.dev",
     "coenbise_prolo.godaddysites.com",
     "uphold-us-aht.pages.dev",
@@ -108330,6 +108326,7 @@
     "app.polym-arket.xyz",
     "polymarkets.run",
     "penguin.stakingreward.cloud",
-    "a-pepecoin.pages.dev"
+    "a-pepecoin.pages.dev",
+    "governance-flare.info"
   ]
 }
