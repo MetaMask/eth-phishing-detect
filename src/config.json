@@ -3000,7 +3000,6 @@
     "welcome-kraken-docs.pages.dev",
     "phantomwallet-en-us.pages.dev",
     "secure-kraken-app.pages.dev",
-    "authd-sso-uphold.pages.dev",
     "vasilisa22.ru",
     "uphold-a---wallet.pages.dev",
     "io-uppheld-login.pages.dev",
@@ -108223,6 +108222,8 @@
     "proposal-flare.foundation",
     "aerodrome-distribution.xyz",
     "ethfi-s5-allocation.xyz",
-    "nanovita-allocations.xyz"
+    "nanovita-allocations.xyz",
+    "aave-recovery.app",
+    "x-claim-status.pages.dev"
   ]
 }
