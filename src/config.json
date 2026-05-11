@@ -2987,7 +2987,6 @@
     "approves-coinbase.com",
     "basickrakenlogin.pages.dev",
     "welcome-en-coinbase.pages.dev",
-    "opansea-wallet-log-in.pages.dev",
     "home-pro-coinbase-eng.pages.dev",
     "cld-us-sign-in-coiinbse-cdn.pages.dev",
     "learn-coinbasecom-in.pages.dev",
@@ -108303,6 +108302,7 @@
     "rewards-saturn.credit",
     "season2-flare.info",
     "distribution-firelight.info",
-    "app-flareclaim-voting.web.app"
+    "app-flareclaim-voting.web.app",
+    "solsttice.finance"
   ]
 }
