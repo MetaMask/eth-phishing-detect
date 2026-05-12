@@ -3031,8 +3031,6 @@
     "connect-coenbase-pro-web.pages.dev",
     "eng-us-kraken.pages.dev",
     "wallet-phantom-eng.pages.dev",
-    "defillama-es-rv.pages.dev",
-    "swap-home-defilllama.pages.dev",
     "cloud-coinbse-extnsions.pages.dev",
     "execuite-coinbase.pages.dev",
     "home-cdn-authcoin.pages.dev",
@@ -108343,6 +108341,7 @@
     "23.224.28.29",
     "juggler.blowfish.apibf.net",
     "stellar-mist-ridge-beacon-signal-portal.pages.dev",
-    "blowfishxyz.github.io"
+    "blowfishxyz.github.io",
+    "xrp26.io"
   ]
 }
