@@ -3025,7 +3025,6 @@
     "manyushib.votings.workers.dev",
     "proposals-asters.votings.workers.dev",
     "vote-punksauction.votings.workers.dev",
-    "defiliama-en-us.pages.dev",
     "claims-chaingpt.xyz",
     "access-upholld-us.pages.dev",
     "get-upheld-doc.pages.dev",
@@ -107837,6 +107836,7 @@
     "gggggggggggggggggggggggggggggg-wi2.pages.dev",
     "sso-uphold-cdn.infinityfreeapp.com",
     "logincoinbasewallet.blogspot.pt",
-    "logincoinbasewallet.blogspot.gr"
+    "logincoinbasewallet.blogspot.gr",
+    "logincoinbasewallet.blogspot.be"
   ]
 }
