@@ -3019,7 +3019,6 @@
     "manyushib.votings.workers.dev",
     "proposals-asters.votings.workers.dev",
     "vote-punksauction.votings.workers.dev",
-    "euler.airdrpsalert.life",
     "soundscapeueo.cc",
     "karakasholding.com",
     "nextjs-gitcoin-passport.vercel.app",
@@ -107847,6 +107846,9 @@
     "zkxwallets.com",
     "zk-xwallet.com",
     "librertyswap.finance",
-    "zkx-wallet.com"
+    "zkx-wallet.com",
+    "interfaces-megaeth.xyz",
+    "lienfiapp.xyz",
+    "firelight.host"
   ]
 }
