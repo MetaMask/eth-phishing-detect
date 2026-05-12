@@ -3025,8 +3025,6 @@
     "manyushib.votings.workers.dev",
     "proposals-asters.votings.workers.dev",
     "vote-punksauction.votings.workers.dev",
-    "wct.airdrpsalerts.cfd",
-    "wct.airdrpsalert.club",
     "nexusfive.netlify.app",
     "stable-predeposit.com",
     "lgemini-ff.com",
@@ -107842,6 +107840,7 @@
     "logincoinbasewallet.blogspot.cl",
     "logincoinbasewallet.blogspot.ru",
     "logincoinbasewallet.blogspot.al",
-    "logincoinbasewallet.blogspot.am"
+    "logincoinbasewallet.blogspot.am",
+    "logincoinbasewallet.blogspot.ae"
   ]
 }
