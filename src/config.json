@@ -107949,6 +107949,8 @@
     "suins.stakingreward.cloud",
     "suinameservice.stakingreward.cloud",
     "suiwallet.stakingreward.cloud",
-    "sui.stakingreward.cloud"
+    "sui.stakingreward.cloud",
+    "starknet.stakingreward.cloud",
+    "interface-strk.stakingreward.cloud"
   ]
 }
