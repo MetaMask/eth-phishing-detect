@@ -3028,9 +3028,6 @@
     "us03webzoom.top",
     "usi-phantom.pages.dev",
     "usi--phantom.pages.dev",
-    "account-coinbasepr-login.pages.dev",
-    "en-coinbase-faq.pages.dev",
-    "sso-coinbase-log.pages.dev",
     "guide-coinbasepro-login-en.pages.dev",
     "help-coinbase-login.pages.dev",
     "ind-live-wallet.pages.dev",
@@ -107757,6 +107754,7 @@
     "uniswap-2-0.vercel.app",
     "trustwallet.flow-network.cloud",
     "lido.fi-connect-api-gateway-secure-app.cloud",
-    "coinbase-pro-login.framer.ai"
+    "coinbase-pro-login.framer.ai",
+    "solsdice.finance"
   ]
 }
