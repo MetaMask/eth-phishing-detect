@@ -3033,10 +3033,6 @@
     "doc-krack-faq.pages.dev",
     "sso-en-kraken-app.pages.dev",
     "coinbsae-extansion-start.pages.dev",
-    "home-coinbase-login-ee.pages.dev",
-    "cds-coinbase-login-en.pages.dev",
-    "site-uphold-wallet.pages.dev",
-    "uphold-wallet-start.pages.dev",
     "lognn-coin-base--pro.pages.dev",
     "extnsion-mask-en.pages.dev",
     "metamask-en-view.typedream.app",
@@ -107972,6 +107968,7 @@
     "claim-crymbo.com",
     "accountupdate-x.com",
     "accountreview-x.com",
-    "restless-sunset-fbf6.doragblok.workers.dev"
+    "restless-sunset-fbf6.doragblok.workers.dev",
+    "lido.fi-main.at"
   ]
 }
