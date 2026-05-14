@@ -3038,8 +3038,6 @@
     "basic-krakelogin.pages.dev",
     "newkraken-log.pages.dev",
     "doc-krack-faq.pages.dev",
-    "114559coinbase.com",
-    "doc-extension-coibase.pages.dev",
     "bluefin.beefyhubs.click",
     "migrate.new-pepe-unchained.com",
     "sym.beefyhubs.click",
@@ -108064,6 +108062,7 @@
     "regamb.at",
     "rabbyiwallet.wordpress.com",
     "defri.us",
-    "exoduswallet-extension.pages.dev"
+    "exoduswallet-extension.pages.dev",
+    "exodus-wallut.pages.dev"
   ]
 }
