@@ -3034,16 +3034,6 @@
     "basic-krakelogin.pages.dev",
     "newkraken-log.pages.dev",
     "doc-krack-faq.pages.dev",
-    "www.coinbase-onramp.com",
-    "nebkjm.coinbase.earth",
-    "ww38.mail.casestatus-coinbase.com",
-    "wallet.coinbase.property",
-    "wallet.coinbase.deal",
-    "a7rmm8.coinbase.property",
-    "fraudcoinbase.com",
-    "accounts.coinbase.page",
-    "accounts.coinbase.property",
-    "coinbase.now",
     "localtmp.coinbase.earth",
     "localtmp.coinbase.property",
     "supportmetamask.pages.dev",
@@ -108055,6 +108045,7 @@
     "monad-participate.xyz",
     "arcmarkets.xyz",
     "zama-eligibility.xyz",
-    "trezr-suit.pages.dev"
+    "trezr-suit.pages.dev",
+    "www.firstcoinbase.net"
   ]
 }
