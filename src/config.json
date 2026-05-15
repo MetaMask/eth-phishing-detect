@@ -3081,8 +3081,6 @@
     "listed-livegrabs38.vercel.app",
     "listed-livegrabs19.vercel.app",
     "listed-livegrabs30.vercel.app",
-    "apps-coinbase-exts.pages.dev",
-    "main-coinbase-extension.pages.dev",
     "access-help-base-extension.pages.dev",
     "plume.beefyhubs.click",
     "wormhole-prereg.com",
@@ -107972,6 +107970,7 @@
     "trustwalletpaycard.com",
     "trustwallet-card.xyz",
     "tw-protocol.com",
-    "trust-wallet-eng-cdn.pages.dev"
+    "trust-wallet-eng-cdn.pages.dev",
+    "trustwallet.management"
   ]
 }
