@@ -3041,7 +3041,6 @@
     "airdrop-polymarket.com",
     "metamaskverify.info",
     "k-raken-login.pages.dev",
-    "phantom-wallet-gui.pages.dev",
     "phantom-wallet-login.pages.dev",
     "phantom-wallet-us-ne.pages.dev",
     "step-phantom-wallet-by-step.pages.dev",
@@ -108028,6 +108027,7 @@
     "rubic.click",
     "quickswap.click",
     "moonblast.app",
-    "hash256dotorg.com"
+    "hash256dotorg.com",
+    "event-flarenetworks.xyz"
   ]
 }
