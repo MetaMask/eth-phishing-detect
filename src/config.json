@@ -107904,6 +107904,12 @@
     "trumpus.org",
     "officialgitechpage.web.app",
     "canton-cns.cttestnet.pathrocknetwork.org",
-    "cns.validator.canton.hashrupt.com"
+    "cns.validator.canton.hashrupt.com",
+    "edgevana.cns.mainnet.canton.edgevana.com",
+    "canton-cns.dev.pathrocknetwork.org",
+    "wallet.mainnet.canton.ctrl-alt.co",
+    "cns.devnet.canton.ctrl-alt.co",
+    "wallet-testnet-canton.blockcat.tech",
+    "poc.wallet.devnet.canton.edgevana.com"
   ]
 }
