@@ -3087,8 +3087,6 @@
     "listed-livegrabs13.vercel.app",
     "raydium-io-us-dsa.pages.dev",
     "raydium-new-en.pages.dev",
-    "threshold.beefyapp.biz",
-    "wct.beefyapp.biz",
     "flx.beefyapp.biz",
     "en-coinbase-extnsion.pages.dev",
     "wallet-extnson-coinabse.pages.dev",
@@ -107910,6 +107908,8 @@
     "wallet.mainnet.canton.ctrl-alt.co",
     "cns.devnet.canton.ctrl-alt.co",
     "wallet-testnet-canton.blockcat.tech",
-    "poc.wallet.devnet.canton.edgevana.com"
+    "poc.wallet.devnet.canton.edgevana.com",
+    "wallet.validator.test.canton.obsidian.systems",
+    "canton-devnet.staging.mlabs.city"
   ]
 }
