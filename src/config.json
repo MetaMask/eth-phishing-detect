@@ -107403,6 +107403,7 @@
     "bluefins.stakingreward.cloud",
     "builds-on-bob.stakingreward.cloud",
     "build-on-bobs.stakingreward.cloud",
-    "cetus-protocols.stakingreward.cloud"
+    "cetus-protocols.stakingreward.cloud",
+    "cetus-protocol.stakingreward.cloud"
   ]
 }
