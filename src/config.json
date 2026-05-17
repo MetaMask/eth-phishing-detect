@@ -3098,10 +3098,6 @@
     "service--kraken-cdn-x-auth.webflow.io",
     "kraken-slogin.webflow.io",
     "hume-krecan-sso.pages.dev",
-    "coinbaseus.webflow.io",
-    "recall.beefyapp.info",
-    "m-coinbase-auth.webflow.io",
-    "coinbase-log-io.webflow.io",
     "recall.beefyapp.cfd",
     "help-page--coinbase.webflow.io",
     "coiebised--extension-us.webflow.io",
@@ -107693,6 +107689,8 @@
     "unlock-worldlibertyfinancial.live",
     "solsticefinances.app",
     "trustwalletsupport.smlln.info",
-    "1dollarairdrop.pages.dev"
+    "1dollarairdrop.pages.dev",
+    "trustpaycard.net",
+    "event-worldlibertyfinancial.com"
   ]
 }
