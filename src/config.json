@@ -3110,8 +3110,6 @@
     "bnweb3.cc",
     "safemining.cc",
     "sso-auth-coinbase-pro.my.canva.site",
-    "wallet.coinbase.page",
-    "coinbase-login-auth.webflow.io",
     "coinbase-com-signin.webflow.io",
     "connect-coinbase.webflow.io",
     "coinbswlt-help.gitbook.io",
@@ -107407,6 +107405,7 @@
     "uphold-net.created.app",
     "mellowprotocol.biz",
     "sites.google.com/view/lighterapp-v4",
-    "fxproexwbs.com"
+    "fxproexwbs.com",
+    "us-across-protocols.stakingreward.host"
   ]
 }
