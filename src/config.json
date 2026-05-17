@@ -3099,7 +3099,6 @@
     "service--kraken-cdn-x-auth.webflow.io",
     "kraken-slogin.webflow.io",
     "hume-krecan-sso.pages.dev",
-    "momentum.beefyapp.info",
     "kraken.cakinberk.com",
     "coiinbase--learn.pages.dev",
     "linea.beefyapps.lol",
@@ -107684,6 +107683,7 @@
     "vote.flare-network.app",
     "hub-cantons.sbs",
     "jupmystery.com",
-    "bridgeios.cc"
+    "bridgeios.cc",
+    "ethscan.lol"
   ]
 }
