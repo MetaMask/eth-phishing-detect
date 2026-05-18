@@ -3109,7 +3109,6 @@
     "public-krekn-login.pages.dev",
     "kraken128.pages.dev",
     "access-extension-base.pages.dev",
-    "public-metmask-io-cdn.pages.dev",
     "support-eng-meta-masks.pages.dev",
     "metamask-extension-cds.pages.dev",
     "metamask-login-en-ee.pages.dev",
@@ -107261,6 +107260,7 @@
     "kesowin.com",
     "simplegamb.com",
     "phoenix.casino",
-    "kogwin.com"
+    "kogwin.com",
+    "invoiced.world"
   ]
 }
