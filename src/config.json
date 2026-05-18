@@ -1336,7 +1336,6 @@
     "dapp-raydium-club.com",
     "multichainlink.xyz",
     "phantomfastrestore.pages.dev",
-    "om-checker.live",
     "kraken-logins.webflow.io",
     "krakenloginqo.webflow.io",
     "helps-en-kraken--cdn.webflow.io",
@@ -1363,7 +1362,6 @@
     "coinlist-registration.github.io",
     "coin-list.pro",
     "mailserver14-coinbase.com",
-    "zone-checker.world",
     "delivery-coinbase.com",
     "queue-coinbase.com",
     "coinbasewx.com",
@@ -3108,15 +3106,6 @@
     "public-krekn-login.pages.dev",
     "kraken128.pages.dev",
     "finance-r.eu.com",
-    "metmseklogien.webflow.io",
-    "metamask-wallet-strt-uss.pages.dev",
-    "metamask-wallet-en-cds.pages.dev",
-    "start-metamask-loginn.pages.dev",
-    "omupgrade-drop-checker.pages.dev",
-    "metamask-wallet-start.pages.dev",
-    "metamask-extension-io-support.pages.dev",
-    "mantra.icu",
-    "mantra-zome.icu",
     "checker-mantra.icu",
     "mantrazone.co",
     "chekers-mantra.org",
@@ -107185,6 +107174,7 @@
     "rujlranetwork.pro",
     "arc-developer-assistant.vercel.app",
     "arc-analytics-indol.vercel.app",
-    "steakhousefi-rewards.xyz"
+    "steakhousefi-rewards.xyz",
+    "treasury-starknet.xyz"
   ]
 }
