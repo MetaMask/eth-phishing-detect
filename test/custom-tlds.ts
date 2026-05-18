@@ -1,6 +1,7 @@
 /* 
   Extend public suffix list by adding to this list.
   This can include any website that allows user-generated content such as medium.com, wordpress.com, gitbook.io, etc.
+  Example: scam1.gitbook.io, scam2.gitbook.io is when you SHOULD add a domain to this website.
   Do not add real businesses that are using subdomains that are created by the company itself. You will enable false positives. 
   If you see a website that is not a hosting provider on this list, please remove it.
   If too many obscure hosting providers become a problem, we should reduce the tranco threshold from 200,000 to help filter these out.
@@ -255,4 +256,6 @@ export const customTlds = [
   "arweave.net",
   "se.net",
   "trendmicro.com", // attackers are using trendmicro subdomains
+  "zapier.app",
+  "hashnode.dev",
 ];
