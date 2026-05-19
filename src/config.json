@@ -95716,7 +95716,6 @@
     "trust-wallet.coupons",
     "op.portal-drops.dev",
     "soph.portal-drops.dev",
-    "plume.portal-drops.cfd",
     "compound.portal-drops.icu",
     "pyth.portal-drops.app",
     "chz.portal-drops.app",
@@ -107523,6 +107522,7 @@
     "replicasitiocoinbasebootstrap.netlify.app",
     "eng-suiet-terezor.pages.dev",
     "785976-kraken.com",
-    "app.z-i-r.sbs"
+    "app.z-i-r.sbs",
+    "voting-flarenetwork.app"
   ]
 }
