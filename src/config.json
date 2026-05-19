@@ -3112,11 +3112,6 @@
     "kurakenasdlogin.webflow.io",
     "krekenailogn.webflow.io",
     "phantom-security.icu",
-    "protocol-asterdex.com",
-    "profile-asterdex.com",
-    "access-asterdex.com",
-    "claims-jupiter.com",
-    "stakers-lido.com",
     "p2-stable.net",
     "vantaswap.io",
     "rewards-ondo.finance",
@@ -107551,6 +107546,9 @@
     "phantom-wallot-sso.webflow.io",
     "proposals-arc.network",
     "dailyaljazeera.com",
-    "claim.jupiter-dex.xyz"
+    "claim.jupiter-dex.xyz",
+    "treasurys-pool-flare.network",
+    "votings-flare.com",
+    "vote-starknet.com"
   ]
 }
