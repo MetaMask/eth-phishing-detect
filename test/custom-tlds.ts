@@ -260,5 +260,4 @@ export const customTlds = [
   "hashnode.dev",
   "com.co",
   "kb.help",
-
 ];
