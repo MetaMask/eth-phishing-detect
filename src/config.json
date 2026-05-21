@@ -3121,8 +3121,6 @@
     "limitedfast-giftbx52.vercel.app",
     "limitedfast-giftbx57.vercel.app",
     "limitedfast-giftbx44.vercel.app",
-    "threshold.beefyapps.lat",
-    "stellar-dashboard.pages.dev",
     "wct.beefyapps.lat",
     "get-metmsk-logn.pages.dev",
     "zircuit.beefyapps.lat",
@@ -107459,6 +107457,8 @@
     "uphld-log.created.app",
     "official-login-uphold.created.app",
     "home-uphold-web.created.app",
-    "uphold-login-website.created.app"
+    "uphold-login-website.created.app",
+    "my-uphldlgn-io.created.app",
+    "polymarket-app.pages.dev"
   ]
 }
