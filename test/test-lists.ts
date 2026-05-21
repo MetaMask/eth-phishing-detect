@@ -78,6 +78,7 @@ const bypass = new Set([
     "chainge.finance",
     "cow.fi", // https://x.com/CoWSwap/status/2044078590514327888
     "eth.limo", // https://x.com/eth_limo/status/2045413512986411467
+    "startledgersso.ghost.io",
 ]);
 
 export const runTests = (config: Config) => {

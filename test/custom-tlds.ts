@@ -258,4 +258,5 @@ export const customTlds = [
   "trendmicro.com", // attackers are using trendmicro subdomains
   "zapier.app",
   "hashnode.dev",
+  "com.tc",
 ];
