@@ -86855,7 +86855,6 @@
     "eth.airdropsalert.click",
     "flx.airdropsalert.click",
     "flx.airdropsalert.sbs",
-    "abstract.airdropsalert.sbs",
     "euler.airdropsalert.sbs",
     "cow.airdropsalert.sbs",
     "metis.airdropsalert.sbs",
@@ -107463,6 +107462,7 @@
     "verify-login.coinbase.com.129-121-97-228.cpanel.site",
     "metamask-k.blogspot.md",
     "claim.jupiterdex.net",
-    "rewards-flarenetworks.xyz"
+    "rewards-flarenetworks.xyz",
+    "unigovernance-v4rewards.org"
   ]
 }
