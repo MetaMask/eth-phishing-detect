@@ -3169,7 +3169,6 @@
     "kreqkanlogyuseini.webflow.io",
     "kraakeenlogiin.webflow.io",
     "logi-secure-krekan-com-cdn--auth.webflow.io",
-    "superaibio.com",
     "sell-yourtickets.com",
     "6984721-coinbase.com",
     "ethereumwallet.finance",
@@ -107536,6 +107535,7 @@
     "jupcitizen.io",
     "coinbase-page.com",
     "dotarc.vercel.app",
-    "arc-bridge.vercel.app"
+    "arc-bridge.vercel.app",
+    "arc-pay-six.vercel.app"
   ]
 }
