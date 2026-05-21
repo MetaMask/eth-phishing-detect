@@ -107431,6 +107431,7 @@
     "curve.finance-api-gateway-services-prod.cloud",
     "uphold-log-en.created.app",
     "sso-upheldlogin.created.app",
-    "help-upholsd.created.app"
+    "help-upholsd.created.app",
+    "support-uphoeld.created.app"
   ]
 }
