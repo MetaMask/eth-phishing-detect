@@ -107431,6 +107431,7 @@
     "uphold-loges.created.app",
     "en-upheld-io.created.app",
     "uphold-login-docs.created.app",
-    "welcome-en-uphold-login.created.app"
+    "welcome-en-uphold-login.created.app",
+    "sso-uphuld-nav-x-auth.created.app"
   ]
 }
