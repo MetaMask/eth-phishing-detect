@@ -3,9 +3,8 @@ import punycode from "punycode/";
 import { cleanAllowlist, cleanBlocklist } from "../src/clean-config.js";
 import PhishingDetector from "../src/detector.js";
 import { Config } from "../src/types.js";
-import { parse } from 'tldts';
-import { customTlds } from './custom-tlds.js';
-import { PATH_REQUIRED_DOMAINS } from './path-enabled-domains.js';
+import { PATH_REQUIRED_DOMAINS } from "./path-enabled-domains.js";
+import { detectFalsePositives, extractHostname, parseDomainWithCustomPSL } from "./trusted-list-detection.js";
 
 export const testBlocklist = (t: Test, domains: string[], options: Config) => {
     const detector = new PhishingDetector(options);
@@ -230,40 +229,6 @@ export const testDomainWithDetector = (t: Test, { domain, name, type, expected, 
     t.equal(value.result, expected, `result: "${domain}" should be match "${expected}"`);
 };
 
-type CustomParseResult = {
-    domain: string | null;
-    subdomain: string | null;
-    publicSuffix: string | null;
-};
-
-// Create a wrapper function for PSL parsing
-export function parseDomainWithCustomPSL(domain: string): CustomParseResult {
-    // Check if the domain ends with any custom suffix
-    const customSuffix = customTlds.find(suffix => domain === suffix || domain.endsWith('.' + suffix));
-
-    if (customSuffix) {
-        const parts = domain.split('.');
-        const suffixParts = customSuffix.split('.');
-        const domainParts = parts.slice(0, parts.length - suffixParts.length);
-        const mainDomain = domainParts.length > 0 ? domainParts.join('.') : '';
-
-        return {
-            domain: mainDomain ? `${mainDomain}.${customSuffix}` : customSuffix,
-            subdomain: mainDomain,
-            publicSuffix: customSuffix,
-        };
-    }
-    // Fallback to tldts parse
-    const parsedDomain = parse(domain, {
-        allowPrivateDomains: true,
-    });
-    return {
-        domain: parsedDomain.domain,
-        subdomain: parsedDomain.subdomain,
-        publicSuffix: parsedDomain.publicSuffix,
-    }
-};
-
 test("parseDomainWithCustomPSL", (t) => {
     const testCases = [
         {
@@ -363,52 +328,6 @@ test("parseDomainWithCustomPSL", (t) => {
 
     t.end();
 });
-
-// Helper function to extract hostname from URL with path
-function extractHostname(domainWithPath: string): string {
-    try {
-        const url = new URL(`https://${domainWithPath}`);
-        return url.hostname;
-    } catch {
-        return domainWithPath.substring(0, domainWithPath.indexOf("/"));
-    }
-}
-
-// Check if a domain with path is invalid (not in allowed path domains)
-function isInvalidPathDomain(hostname: string): boolean {
-    const hasPath = hostname.includes("/");
-    if (!hasPath) return false;
-    
-    const domainPart = extractHostname(hostname);
-    return !PATH_REQUIRED_DOMAINS.includes(domainPart);
-}
-
-// Check if a domain WITHOUT path is on the comparison list but not bypassed
-function isOnComparisonListNotBypassed(hostname: string, comparisonList: Set<string>, bypassList: Set<string>): boolean {
-    if (bypassList.has(hostname)) return false;
-    
-    // Only check domains without paths - domains with paths are allowed to be blocked specifically
-    if (hostname.includes("/")) return false;
-    
-    const parsedDomain = parseDomainWithCustomPSL(hostname);
-    return comparisonList.has(parsedDomain.domain || "");
-}
-
-export function detectFalsePositives(blocklist: string[], comparisonList: Set<string>, bypassList: Set<string>): string[] {
-    return blocklist.filter(hostname => {
-        // Case 1: Domain has path but isn't in PATH_REQUIRED_DOMAINS = false positive
-        if (isInvalidPathDomain(hostname)) {
-            return true;
-        }
-        
-        // Case 2: Domain is on comparison list but not bypassed = false positive
-        if (isOnComparisonListNotBypassed(hostname, comparisonList, bypassList)) {
-            return true;
-        }
-        
-        return false;
-    });
-}
 
 test("detectFalsePositives", (t) => {
     const testCases = [

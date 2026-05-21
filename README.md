@@ -49,7 +49,24 @@ removeDomains(config, "allowlist", ["crypto-phishing-site.tld"]);
 
 ## Safeguards
 
-We maintain a list of domains pulled from various sources in `test/resources`. Each file is plaintext with one host per domain. These domains are used to reduce the risk of false positives. If you need to block a domain that is featured on one of these lists, you'll need to add a bypass to `test/test-lists.ts`.
+We maintain trusted comparison lists in `test/resources`. Each file is plaintext with one host per line and is used by CI to reduce the risk of false positives. These lists include sources such as Tranco, CoinMarketCap, CoinGecko, the Snaps registry, and known dapps.
+
+During `yarn test` / `yarn ci`, the list tests compare `src/config.json`'s `blacklist` entries against these trusted lists. If a blocklisted domain appears on one of the trusted lists and is not already bypassed, CI fails with the domain in the failure message. This is intentional: domains on these lists are often legitimate, so blocking them should require extra review.
+
+Sometimes a trusted domain still needs to be blocked, for example during a DNS compromise, frontend compromise, or active malicious takeover. In those cases, add the exact blocklist entry to `test/resources/trusted-list-bypass.txt` with evidence or a short reason when possible:
+
+```text
+example.com # DNS compromise confirmed: https://example.com/evidence
+```
+
+Reviewers listed in `.github/trusted-list-bypass-reviewers.json` can also comment `/skip-trusted-lists` on a pull request. The automation will:
+
+1. Confirm that the commenter is approved to request trusted-list bypasses.
+2. Find trusted-list failures caused by the PR's current blocklist changes.
+3. Append the required entries to `test/resources/trusted-list-bypass.txt`.
+4. Commit the bypass file update back to the pull request branch so CI can rerun.
+
+The automation can only push updates to pull request branches in this repository. For forked pull requests, a maintainer must apply the bypass file update manually.
 
 To update the lists, run `yarn update:lists`. Note that you'll need a CoinMarketCap Pro API key.
 
