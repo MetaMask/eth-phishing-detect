@@ -259,4 +259,5 @@ export const customTlds = [
   "zapier.app",
   "hashnode.dev",
   "com.tc",
+  "kb.help",
 ];
