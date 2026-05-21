@@ -3121,9 +3121,6 @@
     "limitedfast-giftbx52.vercel.app",
     "limitedfast-giftbx57.vercel.app",
     "limitedfast-giftbx44.vercel.app",
-    "home-metmsk-us.pages.dev",
-    "metmask-login.pages.dev",
-    "us-meta-log.pages.dev",
     "overview-metmaskio-en-help.pages.dev",
     "magma.beefyapps.lat",
     "limitedfast-giftbx54.vercel.app",
@@ -107459,6 +107456,14 @@
     "uphold-lgagin.created.app",
     "upholdlogn.created.app",
     "uphod-login.created.app",
-    "upholld.created.app"
+    "upholld.created.app",
+    "uphold-login-org.created.app",
+    "support-uphold.created.app",
+    "sso-uphld-com-auth.created.app",
+    "en-upholdapp.created.app",
+    "uphold-logn-en.created.app",
+    "uphold-wallet-oauth.created.app",
+    "up-hold-log-en.created.app",
+    "auth-upheld-us.created.app"
   ]
 }
