@@ -1,0 +1,171 @@
+{
+  "additions_to_review": [
+    {
+      "issue": 248540,
+      "domain": "alchemixfi-allocations.xyz",
+      "all_domains": [
+        "alchemixfi-allocations.xyz"
+      ],
+      "reporter": "imimim-username",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/248540",
+      "title": "Blocklist addition request"
+    },
+    {
+      "issue": 247395,
+      "domain": "safepal.com.co",
+      "all_domains": [
+        "safepal.com.co"
+      ],
+      "reporter": "abaev020-svg",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/247395",
+      "title": "Blocklist addition request | safepal.com.co"
+    },
+    {
+      "issue": 247053,
+      "domain": "startledgersso.ghost.io",
+      "all_domains": [
+        "startledgersso.ghost.io"
+      ],
+      "reporter": "rimesandy3-beep",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/247053",
+      "title": "Blocklist addition request"
+    },
+    {
+      "issue": 246907,
+      "domain": "safepol.com.co",
+      "all_domains": [
+        "safepol.com.co"
+      ],
+      "reporter": "rimesandy3-beep",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/246907",
+      "title": "Blocklist addition request Subject: Urgent: Phishing Site Report - https://safepol.com.co/"
+    },
+    {
+      "issue": 246704,
+      "domain": "safepal.com.co",
+      "all_domains": [
+        "safepal.com.co"
+      ],
+      "reporter": "abaev020-svg",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/246704",
+      "title": "The domain safepal.com.co is a phishing website"
+    }
+  ],
+  "bulk_additions": [
+    {
+      "issue": 248531,
+      "domain": "global.kb.help",
+      "all_domains": [
+        "global.kb.help",
+        "learn-started.kb.help"
+      ],
+      "reporter": "abaev020-svg",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/248531",
+      "title": "Blocklist addition request global.kb.help and learn-started.kb.help"
+    },
+    {
+      "issue": 247861,
+      "domain": "coinmarketcap.com",
+      "all_domains": [
+        "coinmarketcap.com",
+        "datachain.one",
+        "www.datachain.one"
+      ],
+      "reporter": "KazeONGUENE",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/247861",
+      "title": "Token Misclassification Report \u2013 DC Token (Datachain Foundation) Incorrectly Flagged as Malicious"
+    },
+    {
+      "issue": 246685,
+      "domain": "tronlink.com.co",
+      "all_domains": [
+        "tronlink.com.co",
+        "www.tronlink.org",
+        "chatgpt.com"
+      ],
+      "reporter": "abaev020-svg",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/246685",
+      "title": "Phishing domain Reported domain:  tronlink.com.co"
+    }
+  ],
+  "removals_not_in_list": [
+    {
+      "issue": 248512,
+      "domain": "prodigy.fi",
+      "reporter": "brt-developer",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/248512",
+      "title": "Blocklist removal request"
+    },
+    {
+      "issue": 248283,
+      "domain": "app.newmarkettrading.com",
+      "reporter": "austinolig",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/248283",
+      "title": "Blocklist removal request"
+    },
+    {
+      "issue": 247768,
+      "domain": "sliqpay.io",
+      "reporter": "SliqPay-Africa",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/247768",
+      "title": "Blocklist removal request"
+    },
+    {
+      "issue": 247427,
+      "domain": "app.hyperpnl.com",
+      "reporter": "6ku491M7CAwYGAk28oKL",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/247427",
+      "title": "Blocklist removal request"
+    }
+  ],
+  "removals_in_list": [
+    {
+      "issue": 248545,
+      "domain": "bbuseruploads.s3.amazonaws.com",
+      "reporter": "tiberiusconsulting",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/248545",
+      "title": "[Legitimate Site Blocked] bbuseruploads.s3.amazonaws.com"
+    },
+    {
+      "issue": 248365,
+      "domain": "tradewithorca.com",
+      "reporter": "tminot18-web",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/248365",
+      "title": "[Legitimate Site Blocked] www.tradewithorca.com"
+    }
+  ],
+  "duplicate_alerts": {},
+  "stale_closed": [
+    {
+      "issue": 247754,
+      "title": "Blocklist removal request",
+      "reporter": "valeriyFrontend",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/247754",
+      "hours_elapsed": 39.5
+    },
+    {
+      "issue": 247427,
+      "title": "Blocklist removal request",
+      "reporter": "6ku491M7CAwYGAk28oKL",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/247427",
+      "hours_elapsed": 39.2
+    },
+    {
+      "issue": 247768,
+      "title": "Blocklist removal request",
+      "reporter": "SliqPay-Africa",
+      "url": "https://github.com/MetaMask/eth-phishing-detect/issues/247768",
+      "hours_elapsed": 39.6
+    }
+  ],
+  "stats": {
+    "closed_duplicate": 0,
+    "closed_no_context": 1,
+    "slack_addition": 5,
+    "slack_bulk": 3,
+    "slack_removal": 6,
+    "skipped": 0
+  },
+  "timestamp": "2026-05-20 12:29 UTC",
+  "dry_run": false
+}
