@@ -3181,11 +3181,6 @@
     "krinrakenlngin.webflow.io",
     "us04webzoom.info",
     "kra--ken-login.pages.dev",
-    "sso-support-coinbase-cdn.webflow.io",
-    "coinbase-secure-sso-help.webflow.io",
-    "auth-exchange-coinbase.webflow.io",
-    "cdn-login-coinbase-pro.webflow.io",
-    "sso-verify-coinbase-help.webflow.io",
     "coinbase-help-pro-sso.webflow.io",
     "cdn-sso-pro-coinbase.webflow.io",
     "help-auth-coinbase-wallet.webflow.io",
@@ -107885,6 +107880,9 @@
     "zestprotocol-distribution.xyz",
     "treasury-monad.xyz",
     "bq7kmvkvqjf2ixlkkqpj54l7lz5lhxtmiymy3igsyrbylbk4twlq.arweave.net",
-    "dashboards-flarenetworks.xyz"
+    "dashboards-flarenetworks.xyz",
+    "prjx.gift",
+    "quipnetwork.events",
+    "grvtfoundation.co"
   ]
 }
