@@ -3181,10 +3181,6 @@
     "krinrakenlngin.webflow.io",
     "us04webzoom.info",
     "kra--ken-login.pages.dev",
-    "coinbase-help-pro-sso.webflow.io",
-    "cdn-sso-pro-coinbase.webflow.io",
-    "help-auth-coinbase-wallet.webflow.io",
-    "wallet-coinbase-pro-auth.webflow.io",
     "support-pro-coinbase-login.webflow.io",
     "secure-help-coinbase-cdn.webflow.io",
     "auth-verify-coinbase.webflow.io",
@@ -86076,7 +86072,6 @@
     "tia.airdropsalert.click",
     "dot.airdropsalert.click",
     "vvv.airdropsalert.click",
-    "ton.airdropsalert.sbs",
     "revert.airdropsalert.click",
     "krkenio.wixstudio.com",
     "lawlove.cn",
@@ -94206,7 +94201,6 @@
     "sca.portal-drops.dev",
     "stellar.portal-drops.dev",
     "polkadot.portal-drops.dev",
-    "ton.portal-drops.dev",
     "s.portal-drops.club",
     "fil.portal-drops.dev",
     "sites.google.com/view/v4-uniswap-v5-ads-cid",
@@ -107883,6 +107877,7 @@
     "dashboards-flarenetworks.xyz",
     "prjx.gift",
     "quipnetwork.events",
-    "grvtfoundation.co"
+    "grvtfoundation.co",
+    "sat-supporters.info"
   ]
 }
