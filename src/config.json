@@ -3201,7 +3201,6 @@
     "proj-massgft3.vercel.app",
     "login-coenbase-io.framer.ai",
     "14coinbase.com",
-    "cbblast.vercel.app",
     "uniaswup.org",
     "aareeeve.com",
     "aboreon.finance",
@@ -106883,6 +106882,7 @@
     "coinbase-china.info",
     "wallcon.alt-token.sbs",
     "staking-app-lime.vercel.app",
-    "quickbuild-wallet.vercel.app"
+    "quickbuild-wallet.vercel.app",
+    "sso-cdn--coinbasepro--visit-auth.webflow.io"
   ]
 }
