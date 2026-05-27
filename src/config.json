@@ -2084,7 +2084,6 @@
     "web-coinbase-login-security-us.pages.dev",
     "k-ion-base-login.pages.dev",
     "coinbase-pro-logn-bog.pages.dev",
-    "coinbase-pro-secure-access.pages.dev",
     "login-coinbase-ask.pages.dev",
     "coinbase-login-people.pages.dev",
     "sign-coinbase-en.pages.dev",
@@ -2966,10 +2965,6 @@
     "exclusive-mints06.vercel.app",
     "exclusive-mints08.vercel.app",
     "exclusive-mints09.vercel.app",
-    "sso-coin-base-coms-x-auth.pages.dev",
-    "welcome-en-coin-wallit.pages.dev",
-    "koinbase-pro.pages.dev",
-    "secure-coinbas-en-auth.pages.dev",
     "coinbase-account.one",
     "notificationcoinbase.com",
     "coinbasesupport24.com",
@@ -106562,6 +106557,7 @@
     "bravee.asia",
     "portal-naviprotocol.xyz",
     "plasmaseason.pro",
-    "polyfill.online"
+    "polyfill.online",
+    "skymoney.sbs"
   ]
 }
