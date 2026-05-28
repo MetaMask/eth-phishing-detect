@@ -106013,6 +106013,7 @@
     "qrcode-ledger.vg",
     "qrcode-ledger.cc",
     "qrcode-ledger.gd",
-    "qrcode-ledger.tv"
+    "qrcode-ledger.tv",
+    "uphold-login-secure.meku.app"
   ]
 }
