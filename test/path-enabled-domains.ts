@@ -6,4 +6,5 @@ export const PATH_REQUIRED_DOMAINS = [
   'x.com',
   'uploader.irys.xyz',
   'arweave.mainnet.irys.xyz',
+  'mainnet.irys.xyz',
 ];
