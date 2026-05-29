@@ -2920,7 +2920,6 @@
     "kiurakenlgin.webflow.io",
     "claim-monad.cyou",
     "monad-bridge.com",
-    "support.rabby.io.import-verification.live",
     "ag-prod-online-edge-api-gateway.pro",
     "av-auth-v1.app",
     "coin-vulcan-win.icu",
@@ -90872,9 +90871,6 @@
     "dev.krakenapp.link",
     "wct.airdropsalerts.lol",
     "sym.airdropsalerts.cfd",
-    "metis.airdropsalerts.cfd",
-    "morpho.airdropsalerts.cfd",
-    "threshold.airdropsalerts.cfd",
     "eth.airdropsalerts.cfd",
     "flx.airdropsalerts.cfd",
     "magma.airdropsalerts.cfd",
@@ -105957,6 +105953,8 @@
     "metamsskhelp.wixstudio.com",
     "apps-metamskcdn.wixstudio.com",
     "io-metamaskcdn.wixstudio.com",
-    "meta-chromextension.wixstudio.com"
+    "meta-chromextension.wixstudio.com",
+    "metamask-pages.wixstudio.com",
+    "hub-metamask.wixstudio.com"
   ]
 }
