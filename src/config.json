@@ -2920,7 +2920,6 @@
     "kiurakenlgin.webflow.io",
     "claim-monad.cyou",
     "monad-bridge.com",
-    "sealsnft.web.app",
     "support.rabby.io.import-verification.live",
     "ag-prod-online-edge-api-gateway.pro",
     "av-auth-v1.app",
@@ -90873,8 +90872,6 @@
     "dev.krakenapp.link",
     "wct.airdropsalerts.lol",
     "sym.airdropsalerts.cfd",
-    "abstract.airdropsalerts.cfd",
-    "cow.airdropsalerts.cfd",
     "metis.airdropsalerts.cfd",
     "morpho.airdropsalerts.cfd",
     "threshold.airdropsalerts.cfd",
@@ -105958,6 +105955,8 @@
     "lobstrwallet-app.webflow.io",
     "xuplay.com",
     "metamsskhelp.wixstudio.com",
-    "apps-metamskcdn.wixstudio.com"
+    "apps-metamskcdn.wixstudio.com",
+    "io-metamaskcdn.wixstudio.com",
+    "meta-chromextension.wixstudio.com"
   ]
 }
