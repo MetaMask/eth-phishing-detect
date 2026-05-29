@@ -105933,7 +105933,6 @@
     "crypto-exoduswallet.pages.dev",
     "exodus-backup-center.vercel.app",
     "portal-exodus-web3-us.pages.dev",
-    "app.appuniswaps.org",
     "exodus--wallet-io.pages.dev",
     "docs-exodust-walet.pages.dev",
     "exoduss-walet-uss.pages.dev",
@@ -105957,6 +105956,7 @@
     "sites.google.com/view/barkingham-barn-human-v3/",
     "cdpiler.com",
     "jupiter-allocation.net",
-    "baseuniswap.app"
+    "baseuniswap.app",
+    "appuniswaps.org"
   ]
 }
