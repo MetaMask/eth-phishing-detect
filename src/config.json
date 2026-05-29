@@ -2905,11 +2905,6 @@
     "dropinfo.vercel.app",
     "usa-interact-chrome-base.pages.dev",
     "xn--krken9-xoc.com",
-    "list-moonshot.xyz",
-    "grinch-rewards.xyz",
-    "vibecoin-rewards.xyz",
-    "event-useless.xyz",
-    "cnbstran.live",
     "dappsol.com",
     "allocationx.live",
     "solfix.cc",
@@ -106069,6 +106064,7 @@
     "nav-krakkencdn.wixstudio.com",
     "cpcalendars.98-70-36-140.cprapid.com",
     "solidity-compiler.vercel.app",
-    "evmhub.sbs"
+    "evmhub.sbs",
+    "ethercompiler.vercel.app"
   ]
 }
