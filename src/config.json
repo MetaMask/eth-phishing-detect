@@ -2921,9 +2921,6 @@
     "my-sol.trade",
     "monadconnect.pages.dev",
     "airdropsalert.pro",
-    "base-extension-dev.pages.dev",
-    "extension-koinbase-browser.pages.dev",
-    "main-extension-docs.pages.dev",
     "access-extension-help.pages.dev",
     "support-chrome-extension.pages.dev",
     "connect-coinbas--wallet.pages.dev",
@@ -105985,6 +105982,7 @@
     "jupiter.sol-world.cc",
     "join-variational.com",
     "migrate.padre.company",
-    "usdc.vvvvw.me"
+    "usdc.vvvvw.me",
+    "claimdog.pages.dev"
   ]
 }
