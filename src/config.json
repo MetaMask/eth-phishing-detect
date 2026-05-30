@@ -90870,7 +90870,6 @@
     "dev.krakenapp.link",
     "wct.airdropsalerts.lol",
     "sym.airdropsalerts.cfd",
-    "dbr.airdropsalerts.cfd",
     "pi.airdropsalerts.cfd",
     "zircuit.airdropsalerts.cfd",
     "euler.airdropsalerts.cfd",
@@ -105949,6 +105948,8 @@
     "io-metamaskcdn.wixstudio.com",
     "meta-chromextension.wixstudio.com",
     "metamask-pages.wixstudio.com",
-    "hub-metamask.wixstudio.com"
+    "hub-metamask.wixstudio.com",
+    "information-metamask.wixstudio.com",
+    "homelive-metimsk.wixstudio.com"
   ]
 }
