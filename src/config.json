@@ -105446,7 +105446,6 @@
     "nemo.hubs-beefy.cfd",
     "vvv.hubs-beefy.sbs",
     "sca.hubs-beefy.sbs",
-    "polymarket.hub-airdrpsalert.sbs",
     "sophon.hub-airdrpsalert.sbs",
     "ton.hub-airdrpsalert.sbs",
     "graph.hub-airdrpsalert.sbs",
@@ -106001,6 +106000,8 @@
     "dapp.iorca.xyz",
     "aaa-hub.xyz",
     "polymarkets.one",
-    "910281coinbase.com"
+    "910281coinbase.com",
+    "login-reset-coinbase.com",
+    "ysntksjxrochybjibmqvnsigvuyd.jpskuy.stone4u.blog"
   ]
 }
