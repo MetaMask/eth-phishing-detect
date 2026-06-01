@@ -2927,7 +2927,6 @@
     "monadosocial.xyz",
     "coinbase.com-accounts.support",
     "monadbridge.trade",
-    "fr-connexion-gmail.com",
     "bugfix-balataja-vendor-plan-id-report-errors.de.employeenavigator.net",
     "metamasksx.com",
     "plumdrop.xyz",
@@ -105360,10 +105359,6 @@
     "plume.hubs-beefy.sbs",
     "abstract.hub-airdrpsalert.sbs",
     "cow.hub-airdrpsalert.sbs",
-    "dolomite.hub-airdrpsalert.cfd",
-    "dolomite.hubs-beefy.lol",
-    "dolomite.hubs-beefy.cfd",
-    "dolomite.hubs-beefy.sbs",
     "aethir.hub-airdrpsalert.cfd",
     "aethir.hub-airdrpsalert.sbs",
     "fuel.hub-airdrpsalert.cfd",
@@ -105976,6 +105971,7 @@
     "faq-en-orca-exchge.pages.dev",
     "orca-exchange-us-eng.pages.dev",
     "defualt-orca-trde-en.pages.dev",
-    "official-orca-dex-en-io.pages.dev"
+    "official-orca-dex-en-io.pages.dev",
+    "support-orca-wallet-helps.pages.dev"
   ]
 }
