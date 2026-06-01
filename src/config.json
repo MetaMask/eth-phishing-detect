@@ -105550,7 +105550,6 @@
     "nemo.hubs-beefy.cfd",
     "vvv.hubs-beefy.sbs",
     "sca.hubs-beefy.sbs",
-    "euler.hubs-beefy.cfd",
     "ton.hubs-beefy.cfd",
     "fuel.hubs-beefy.cfd",
     "polymarket.hubs-beefy.cfd",
@@ -105963,6 +105962,16 @@
     "6a1afb81f62ccf0008736162--allora-claimdrop.netlify.app",
     "login-backpack-exchange.com",
     "1inch-dex-v3.com",
-    "reallocation-katana.xyz"
+    "reallocation-katana.xyz",
+    "appid-service-v8.sbs",
+    "appid-service-v8.lol",
+    "appid-service-v8.cfd",
+    "v9-v9.cc",
+    "appid-verification-v8.cfd",
+    "v66768.cyou",
+    "v98.onl",
+    "v33.onl",
+    "v68.onl",
+    "appid-verification-v8.sbs"
   ]
 }
