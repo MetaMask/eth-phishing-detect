@@ -2920,9 +2920,6 @@
     "aml-tap.com",
     "monadmix.cash",
     "monmonad.xyz",
-    "com-api-gateway-management-portal-ci.pro",
-    "com-backend-cd-cluster-ci.pro",
-    "com-beta-apps-partner-node.pro",
     "com-cdn-corp-prod-gateway.pro",
     "com-cluster-beta-dev-secure.pro",
     "com-gateway-online-auth-portal.pro",
@@ -106002,6 +105999,7 @@
     "autodiscover.stellar-buy.com",
     "exodus-eden.com",
     "echof17.com",
-    "sol.tpsolana.xyz"
+    "sol.tpsolana.xyz",
+    "sites.google.com/view/official-trezorsuite/home"
   ]
 }
