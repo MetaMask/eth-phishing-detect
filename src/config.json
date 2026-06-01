@@ -106173,6 +106173,8 @@
     "devchainprotocols.web.app",
     "dapp.iorca.online",
     "dapp.iorca.site",
-    "dapp.iorca.me"
+    "dapp.iorca.me",
+    "mail.check-coinbase-verify.com",
+    "login.lcoinbase.com"
   ]
 }
