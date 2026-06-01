@@ -105384,7 +105384,6 @@
     "plume.hubs-beefy.sbs",
     "abstract.hub-airdrpsalert.sbs",
     "cow.hub-airdrpsalert.sbs",
-    "omni.hubs-beefy.cfd",
     "1inch.hubs-beefy.cfd",
     "sophon.hubs-beefy.cfd",
     "op.hubs-beefy.cfd",
@@ -105973,6 +105972,11 @@
     "wof-3682.jdwe.live",
     "metamask-sepia-psi.vercel.app",
     "meta-consensys.limited",
-    "login-coilnbase.lalicemed.com"
+    "login-coilnbase.lalicemed.com",
+    "364982-blockfi.com",
+    "895732-cb.com",
+    "371942-bittrex.com",
+    "843029-cb.com",
+    "463829-celsius.com"
   ]
 }
