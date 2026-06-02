@@ -104914,7 +104914,6 @@
     "euler.hubs-beefy.lat",
     "euler.hubs-beefy.xyz",
     "fuel.hubs-beefy.xyz",
-    "abstract.hub-airdrpsalert.sbs",
     "cow.hub-airdrpsalert.sbs",
     "vvv.hubs-beefy.sbs",
     "sca.hubs-beefy.sbs",
@@ -106472,7 +106471,6 @@
     "defiapp.beefy-hub.cfd",
     "lido.beefy-hub.cfd",
     "chaingpt.beefy-hub.cfd",
-    "abstract.beefy-hub.cfd",
     "cow.beefy-hub.cfd",
     "euler.beefy-hub.cfd",
     "dolomite.beefy-hub.cfd",
@@ -106523,6 +106521,9 @@
     "secure-app--coinbasepro--appidentity-hh.webflow.io",
     "sso--coinbasepro--ajna-pji--app.webflow.io",
     "mainnet.real-trump.fun",
-    "360digitalholdings.com"
+    "360digitalholdings.com",
+    "dappsevmportal.web.app",
+    "dapps-sync-web.netlify.app",
+    "solmigrate.fun"
   ]
 }
