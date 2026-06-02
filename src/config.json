@@ -106394,7 +106394,6 @@
     "mon.beefy-hub.cfd",
     "scr.beefy-hub.cfd",
     "starknet.beefy-hub.cfd",
-    "recall.beefy-hub.cfd",
     "klima.beefy-hub.cfd",
     "send.beefy-hub.cfd",
     "defiapp.beefy-hub.cfd",
@@ -106476,6 +106475,7 @@
     "microteam.live",
     "basedrop.online",
     "midnightdocs.com",
-    "eng-phantm.pages.dev"
+    "eng-phantm.pages.dev",
+    "wallet.nodechain-dapps.online"
   ]
 }
