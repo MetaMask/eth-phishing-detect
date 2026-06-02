@@ -106468,7 +106468,6 @@
     "defiapp.beefy-hub.cfd",
     "lido.beefy-hub.cfd",
     "chaingpt.beefy-hub.cfd",
-    "dolomite.beefy-hub.cfd",
     "dydx.beefy-hub.cfd",
     "spaceandtime.beefy-hub.cfd",
     "sca.beefy-hub.cfd",
@@ -106520,6 +106519,7 @@
     "dappsevmportal.web.app",
     "dapps-sync-web.netlify.app",
     "solmigrate.fun",
-    "uphldlog.created.app"
+    "uphldlog.created.app",
+    "oinbase.xyz"
   ]
 }
