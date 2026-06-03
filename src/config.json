@@ -103071,7 +103071,6 @@
     "recall.beefy-hub.sbs",
     "infura.beefy-hub.lol",
     "zksync.airdrpsalerts.sbs",
-    "send.beefy-hub.lat",
     "scr.beefy-hub.lat",
     "chaingpt.beefy-hub.lat",
     "usual.beefy-hub.lat",
@@ -103395,6 +103394,7 @@
     "io-trust-tool.pages.dev",
     "pags-trust-i.pages.dev",
     "kreekn-login.pages.dev",
-    "coinbasesupport.bn1i2.com"
+    "coinbasesupport.bn1i2.com",
+    "support-panel.site"
   ]
 }
