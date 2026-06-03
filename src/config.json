@@ -106753,6 +106753,7 @@
     "uphold-logio-web.created.app",
     "uphold-ilogin-account.created.app",
     "dentry.pages.dev",
-    "check.search-stats.com"
+    "check.search-stats.com",
+    "x-claim-burst-hub.pages.dev"
   ]
 }
