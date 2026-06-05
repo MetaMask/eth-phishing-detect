@@ -2289,10 +2289,6 @@
     "coinbase-review.net",
     "coinbase-care.com",
     "official-coinbase-pro-eng.framer.media",
-    "livesimple-session43.vercel.app",
-    "new-extensons.pages.dev",
-    "livesimple-session44.vercel.app",
-    "livesimple-session45.vercel.app",
     "livesimple-session46.vercel.app",
     "livesimple-session47.vercel.app",
     "livesimple-session48.vercel.app",
@@ -100149,7 +100145,6 @@
     "recall.hub-airdrpsalert.sbs",
     "recall.hub-airdrpsalert.cfd",
     "recall.hubs-beefy.cfd",
-    "klima.hub-airdrpsalert.sbs",
     "hydration.hubs-beefy.cfd",
     "golem.hubs-beefy.xyz",
     "rls.hubs-beefy.xyz",
@@ -102141,8 +102136,6 @@
     "recall.beefy-hub.sbs",
     "infura.beefy-hub.lol",
     "zksync.airdrpsalerts.sbs",
-    "klima.beefy-hub.sbs",
-    "klima.beefy-hub.lol",
     "mole.beefy-hub.lol",
     "momentum.airdrpsalerts.sbs",
     "momentum.beefy-hub.sbs",
@@ -103192,6 +103185,7 @@
     "funds-verify.shop",
     "teams-integration.org",
     "secure1-robinhood.com",
-    "smarter-claim.com"
+    "smarter-claim.com",
+    "login-coinbase.signin-myaccount.coinbase-setting.fraservalleysecurity.com"
   ]
 }
