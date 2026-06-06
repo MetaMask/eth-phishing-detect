@@ -2293,7 +2293,6 @@
     "coinbase-pro.framer.media",
     "eng-coinbasehelp-cdn.framer.ai",
     "help-coin-en-ai.framer.media",
-    "procoinbase.framer.ai",
     "base-coins-public-en.framer.ai",
     "curvel.finance",
     "secure-en-us-kraken-log.framer.ai",
@@ -102862,6 +102861,8 @@
     "polymarket.polydrop.us",
     "mylogin-coinbasepro.gitbook.io",
     "var-earn.com",
-    "exodus.compliance-clarity-verify.com"
+    "exodus.compliance-clarity-verify.com",
+    "arc-dao.pages.dev",
+    "arc-vote-fat.pages.dev"
   ]
 }
