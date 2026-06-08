@@ -2286,7 +2286,6 @@
     "auralynx.xyz",
     "guildwho.net",
     "auth-coinbasse-x-cdn.daftpage.com",
-    "web-lido-finance.typedream.app",
     "krkenloggi.webflow.io",
     "lido-finance-fi.typedream.app",
     "eth-lido-ethereum.typedream.app",
@@ -102717,6 +102716,7 @@
     "minglo.cc",
     "smithassembly.vercel.app",
     "linkcore-iota.vercel.app",
-    "forgekit-azure.vercel.app"
+    "forgekit-azure.vercel.app",
+    "daemonruntime.vercel.app"
   ]
 }
