@@ -2147,7 +2147,6 @@
     "claim-summerfi.pages.dev",
     "secure-sso-kraken--auth.webflow.io",
     "trxline.org",
-    "coinbase-extnsion-auth.typedream.app",
     "fontmaxplugin.cc",
     "walet-phantom-eng.pages.dev",
     "web-us-phantom.pages.dev",
@@ -2286,8 +2285,6 @@
     "auralynx.xyz",
     "guildwho.net",
     "auth-coinbasse-x-cdn.daftpage.com",
-    "cloud-krekeen-login-cdn.typedream.app",
-    "event.solana-coin.store",
     "solana-event.coin-reward.online",
     "datacipher-ai17t11d-datatrustx.pages.dev",
     "platform-jh-k8s-fix-sas-token.de.employeenavigator.net",
@@ -102714,6 +102711,7 @@
     "smithassembly.vercel.app",
     "linkcore-iota.vercel.app",
     "forgekit-azure.vercel.app",
-    "daemonruntime.vercel.app"
+    "daemonruntime.vercel.app",
+    "handlerflow.vercel.app"
   ]
 }
