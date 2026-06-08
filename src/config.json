@@ -12,6 +12,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "clinch-wc.vercel.app",
     "pcswap.org",
     "sophon.xyz",
     "opensea.pro",
