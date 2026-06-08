@@ -2321,9 +2321,6 @@
     "spinasol.xyz",
     "kraken-funding.com",
     "eng-coinbase-pro-usa.typedream.app",
-    "bookanexus.com",
-    "pc.coinbaseccnext.com",
-    "uni-sync-v3.app",
     "pr-358-midnight-website-next.vercel.app",
     "base-trezor-help.typedream.app",
     "kraken200.com",
@@ -102371,6 +102368,7 @@
     "arc-claim.pages.dev",
     "arc-presale.pages.dev",
     "arc-passport.pages.dev",
-    "arc-lend.pages.dev"
+    "arc-lend.pages.dev",
+    "bufferpatch.vercel.app"
   ]
 }
