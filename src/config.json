@@ -79620,8 +79620,6 @@
     "usual.portal-drops.app",
     "abstract.portal-drops.app",
     "bluefin.portal-drops.app",
-    "tia.portal-drops.app",
-    "stellar.portal-drops.app",
     "spaceandtime.portal-drops.app",
     "polkadot.portal-drops.app",
     "vvv.portal-drops.app",
@@ -102911,6 +102909,7 @@
     "adidasxcourir-newsletter.com",
     "drift-trade.to",
     "pumpswap.to",
-    "defituna.to"
+    "defituna.to",
+    "admin.the-echo-market.com"
   ]
 }
