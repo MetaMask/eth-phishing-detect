@@ -78706,8 +78706,6 @@
     "eul.portal-drops.app",
     "ksm.portal-drops.app",
     "soph.portal-drops.app",
-    "hydration.portal-drops.app",
-    "mmt.portal-drops.app",
     "klima.portal-drops.app",
     "rls.portal-drops.app",
     "zksync.portal-drops.app",
@@ -102330,6 +102328,8 @@
     "coinbase_x_login.godaddysites.com",
     "official-coinbase.wixstudio.com",
     "conobse_prologe.godaddysites.com",
-    "io.available-nft.com"
+    "io.available-nft.com",
+    "haedal.airdropalert.pro",
+    "railgun.airdropalert.pro"
   ]
 }
