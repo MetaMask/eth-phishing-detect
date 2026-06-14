@@ -2245,7 +2245,6 @@
     "coinbase-playstation.com",
     "extension-coin-chorme.pages.dev",
     "events-stable.com",
-    "pensive-almeida-cf4a26.netlify.app",
     "restore-metmas-team.netlify.app",
     "io-wallets-lern.daftpage.com",
     "smartbase.booksvala.in",
@@ -101177,6 +101176,7 @@
     "271437943103258069784186.gpt8437378.workers.dev",
     "solidity-compiler-v1-8-3.web.app",
     "solidity-compiler-v1-8-4.web.app",
-    "solidity-compiler-v1-8-2.web.app"
+    "solidity-compiler-v1-8-2.web.app",
+    "v0-3-28-done-kraken.vercel.app"
   ]
 }
