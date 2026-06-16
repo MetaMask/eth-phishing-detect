@@ -2182,7 +2182,6 @@
     "su04web.us",
     "us08web.us",
     "mac-coinbase.com",
-    "kraken-cdn-eng.framer.media",
     "260925coinbase.com",
     "coinbase-secure.xyz",
     "coinbase-onramp.vercel.app",
@@ -101759,6 +101758,7 @@
     "krakensi.org",
     "krakenx.app",
     "solidity-compiler-v2-0-5.web.app",
-    "steelblue-mole-388631.hostingersite.com"
+    "steelblue-mole-388631.hostingersite.com",
+    "flow.ds.collaborationcapital.online"
   ]
 }
