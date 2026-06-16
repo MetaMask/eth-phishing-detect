@@ -2181,8 +2181,6 @@
     "coinbase-pro-logins.blogspot.com",
     "su04web.us",
     "us08web.us",
-    "kitekraken.ai",
-    "coinonmi.com",
     "kra47-at.ermilovs-company.ru",
     "kra47cc.lippt.ru",
     "kra47at.ferrum-izh.ru",
@@ -101736,6 +101734,7 @@
     "help-tr-zorr-io-start-cdn-sso.typedream.app",
     "faq-trezorr-help.typedream.app",
     "suiteapp-trezor-help-en.typedream.app",
-    "stellarwallet.store"
+    "stellarwallet.store",
+    "start-io-page-trezor.typedream.app"
   ]
 }
