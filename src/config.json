@@ -102006,6 +102006,7 @@
     "mail.c1-coinbase.com",
     "webmail.c1-coinbase.com",
     "cpanel.c1-coinbase.com",
-    "_domainkey.c1-coinbase.com"
+    "_domainkey.c1-coinbase.com",
+    "flarefoundation-votes.com"
   ]
 }
