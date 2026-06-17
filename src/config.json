@@ -93273,7 +93273,6 @@
     "xcav.beefy-hub.lol",
     "eul.beefy-hub.lol",
     "xcav.beefy-hub.sbs",
-    "slx.beefy-hub.lat",
     "dolo.beefy-hub.lat",
     "coinlist.beefy-hub.lat",
     "jumperexchange.beefy-hub.lat",
@@ -101738,6 +101737,7 @@
     "cavepay.app",
     "trezor-io-start-web-ledger-us.typedream.app",
     "near-earn.pages.dev",
-    "kraken-aktivnie-ssylki.kraken-ssylka.net"
+    "kraken-aktivnie-ssylki.kraken-ssylka.net",
+    "tokens.band"
   ]
 }
