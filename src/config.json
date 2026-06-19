@@ -2180,7 +2180,6 @@
     "krakenauth.cc",
     "krakentodaylink.cc",
     "903901coinbase.com",
-    "treasurypool-zora.com",
     "tap-coinbase.com",
     "polkadot.lol",
     "xmonad.xyz",
@@ -101884,6 +101883,7 @@
     "schorlf.cyou",
     "regreso.cyou",
     "cognac.coinbase.pl",
-    "netflixsnd.coinbase.pl"
+    "netflixsnd.coinbase.pl",
+    "linkedinaudiorooms.coinbase.pl"
   ]
 }
