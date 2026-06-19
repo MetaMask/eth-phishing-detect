@@ -2180,7 +2180,6 @@
     "krakenauth.cc",
     "krakentodaylink.cc",
     "903901coinbase.com",
-    "linea.exchange",
     "dashboard.phantom-support-verification.com",
     "phantom-us-en.pages.dev",
     "uat.phantom-support-verification.net",
@@ -101927,6 +101926,7 @@
     "connect-interface-v4.cc",
     "season1-arcium.com",
     "kraken-handover-tracker.pages.dev",
-    "com-live-start.app"
+    "com-live-start.app",
+    "coinbase.am.in"
   ]
 }
