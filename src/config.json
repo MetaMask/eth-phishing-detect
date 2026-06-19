@@ -2183,8 +2183,6 @@
     "krakentodaylink.cc",
     "903901coinbase.com",
     "treasury-jupiter.fun",
-    "profile-dydx-exchange.pages.dev",
-    "home-dydx-exchange-us.pages.dev",
     "basewallet.walletverificationservice.online",
     "app-defilam-app.umso.co",
     "degenplace.fun",
@@ -101796,6 +101794,8 @@
     "gamefin.company",
     "genesispool.org",
     "genesis-pool.org",
-    "en--trezorstart-starting-io-cdn-us.typedream.app"
+    "en--trezorstart-starting-io-cdn-us.typedream.app",
+    "homepage-trzo.framer.ai",
+    "web-auth-trezor-wallet.typedream.app"
   ]
 }
