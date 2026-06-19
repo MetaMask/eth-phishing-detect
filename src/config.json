@@ -2180,10 +2180,6 @@
     "krakenauth.cc",
     "krakentodaylink.cc",
     "903901coinbase.com",
-    "bid.market",
-    "comment.trade",
-    "order.market",
-    "protected.market",
     "position.market",
     "trades.market",
     "monad-v2.xyz",
@@ -101885,6 +101881,7 @@
     "nibsol.lol",
     "shrkcoin.vu",
     "upgradegoogle.net",
-    "onchian.cyou"
+    "onchian.cyou",
+    "polymarket.orkneyman.com"
   ]
 }
