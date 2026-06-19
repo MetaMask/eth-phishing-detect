@@ -2183,13 +2183,6 @@
     "krakenauth.cc",
     "krakentodaylink.cc",
     "903901coinbase.com",
-    "kraken_signin13.godaddysites.com",
-    "kraken_signin14godaddysites.com",
-    "kraken_signin15.godaddysites.com",
-    "kraken_signin18.godaddysites.com",
-    "kraken_signin19.godaddysites.com",
-    "kraken_signin9.godaddysites.com",
-    "kraken_signin17.godaddysites.com",
     "kraken_signin16.godaddysites.com",
     "kraken_signin20.godaddysites.com",
     "kraken_signin21.godaddysites.com",
@@ -101778,6 +101771,7 @@
     "en-uphuld-sso.created.app",
     "suite-trezear.typedream.app",
     "welcome--suite-trezr-io.typedream.app",
-    "home-trxzor-nav.wixstudio.com"
+    "home-trxzor-nav.wixstudio.com",
+    "support-trezor-io-start-starting-cdn-enn.typedream.app"
   ]
 }
