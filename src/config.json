@@ -2183,8 +2183,6 @@
     "krakenauth.cc",
     "krakentodaylink.cc",
     "903901coinbase.com",
-    "dydxfi.xyz",
-    "monetizer.kraken.id",
     "feq-wallet--sui.pages.dev",
     "help-dydx-trade.typedream.app",
     "dydx-trrades.pages.dev",
@@ -101787,6 +101785,7 @@
     "faq-public-trezrstart.typedream.app",
     "briedges-trzerr-guide.framer.ai",
     "trezoor-io-learn-cdn.typedream.app",
-    "trezrio-startt.framer.ai"
+    "trezrio-startt.framer.ai",
+    "faq-trezr-public-en.typedream.app"
   ]
 }
