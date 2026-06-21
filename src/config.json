@@ -2173,8 +2173,6 @@
     "kztkraken.com",
     "egvoysupport.coinbase.wallets.help",
     "usdcup.fun",
-    "mmonpay.wordpress.com",
-    "premarketoracle.blogspot.com",
     "momentumleaks.netlify.app",
     "worldlibertyfinancial.co.in",
     "kraken03.com",
@@ -101408,6 +101406,18 @@
     "season1-ventuals.live",
     "pharosnetwork-vote.xyz",
     "injective-voting.xyz",
-    "acrium.xyz"
+    "acrium.xyz",
+    "runtime-signal.vercel.app",
+    "runtime-nexus.vercel.app",
+    "runtime-module.vercel.app",
+    "runtime-build.vercel.app",
+    "runtime-pulse.vercel.app",
+    "runtime-library.vercel.app",
+    "runtime-deploy.vercel.app",
+    "runtime-workflow.vercel.app",
+    "runtime-package.vercel.app",
+    "runtime-prism.vercel.app",
+    "runtime-matrix.vercel.app",
+    "main-orbit-hub.pages.dev"
   ]
 }
