@@ -101089,6 +101089,8 @@
     "votes-flarefdns.xyz",
     "arc-quantum.vercel.app",
     "base-checklist.vercel.app",
-    "arc-multichain-wallet.vercel.app"
+    "arc-multichain-wallet.vercel.app",
+    "arc-p2p-payments.vercel.app",
+    "arc-commerce-rho.vercel.app"
   ]
 }
