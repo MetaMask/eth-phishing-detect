@@ -2178,7 +2178,6 @@
     "cbase-help.xyz",
     "trongas.net",
     "krakens.trade",
-    "theoriqai-claim.com",
     "usdcsaving.com",
     "pro-coinbase-com.codedesign.app",
     "simwallet.co.com",
@@ -100905,8 +100904,10 @@
     "en-us-trezor-help.pages.dev",
     "en-us-trezor-helps.pages.dev",
     "start--ios--trezre.webflow.io",
-    "mail.arciumcoin.network",
     "system-obit.up.railway.app",
-    "home-trezor-io.pages.dev"
+    "home-trezor-io.pages.dev",
+    "arciumcoin.network",
+    "trezor-io-start-help.pages.dev",
+    "strt-trezor-helps.pages.dev"
   ]
 }
