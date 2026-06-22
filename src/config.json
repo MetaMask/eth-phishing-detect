@@ -101089,6 +101089,8 @@
     "arc-p2p-payments.vercel.app",
     "arc-commerce-rho.vercel.app",
     "base-explorelogin.site",
-    "coinbase.com-session.support"
+    "coinbase.com-session.support",
+    "restriction-coinbase.com",
+    "status-ledger.com"
   ]
 }
