@@ -100932,6 +100932,17 @@
     "web-trezor-wallet-sso.webflow.io",
     "trezor.app-wallet.store",
     "trezorstartioination.webflow.io",
-    "trezor.contactsupport.io"
+    "trezor.contactsupport.io",
+    "web-cdn--moonpay----login.webflow.io",
+    "https-auth--moonpay-login.webflow.io",
+    "https-auth-moonpay-login.webflow.io",
+    "gettrezorsuite.webflow.io",
+    "autth--sso-moonpay-cdn.webflow.io",
+    "support--moonpay-com--net.webflow.io",
+    "secure-cdn-sso-moonpay-usa.webflow.io",
+    "secure--cdn--sso--moonpay-auth.webflow.io",
+    "node-tulsonents.pages.dev",
+    "trtrezohardwarwait.webflow.io",
+    "auths-org-moonpay-login.webflow.io"
   ]
 }
