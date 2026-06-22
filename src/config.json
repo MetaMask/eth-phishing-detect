@@ -73910,8 +73910,6 @@
     "metamask-io-secure.tem3.io",
     "metmask-io-extension.tem3.io",
     "w-public-metamsk.tem3.io",
-    "login-metamask-io.tem3.io",
-    "secure-meta-mask-faq.tem3.io",
     "home-meta-mask-login-auth.tem3.io",
     "metammsk-io.tem3.io",
     "gateway-info-metamask-tech.tem3.io",
@@ -100890,6 +100888,8 @@
     "trezor.io-suitc.app",
     "distributions-arcium.com",
     "reallocations-arcium.com",
-    "trezor.pages.dev"
+    "trezor.pages.dev",
+    "desktop-trezor-login-eng.pages.dev",
+    "trezor-io-start-aap.pages.dev"
   ]
 }
