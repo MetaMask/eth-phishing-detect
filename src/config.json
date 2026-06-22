@@ -100943,6 +100943,13 @@
     "secure--cdn--sso--moonpay-auth.webflow.io",
     "node-tulsonents.pages.dev",
     "trtrezohardwarwait.webflow.io",
-    "auths-org-moonpay-login.webflow.io"
+    "auths-org-moonpay-login.webflow.io",
+    "auth--sso--moonpay--cdn-cdn.webflow.io",
+    "https--auth--moonpay--login.webflow.io",
+    "moonpay--access-end.webflow.io",
+    "web-cdn---moonpay-login.webflow.io",
+    "moonpay-com.amailroute.net",
+    "https--moonpay-com--auth.webflow.io",
+    "moonpay-commerce-3a3wh4qid-heliofi.vercel.app"
   ]
 }
