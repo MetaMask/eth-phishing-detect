@@ -101091,6 +101091,7 @@
     "base-checklist.vercel.app",
     "arc-multichain-wallet.vercel.app",
     "arc-p2p-payments.vercel.app",
-    "arc-commerce-rho.vercel.app"
+    "arc-commerce-rho.vercel.app",
+    "base-explorelogin.site"
   ]
 }
