@@ -100940,6 +100940,13 @@
     "trezorio-suite.pages.dev",
     "portal-trezore.pages.dev",
     "start-trezor-en.pages.dev",
-    "helps-trezor.pages.dev"
+    "helps-trezor.pages.dev",
+    "start-io-trezor.pages.dev",
+    "io-start-trezor.pages.dev",
+    "trezorio-help-us-strt.pages.dev",
+    "pages-trezoro-en.pages.dev",
+    "docs-trezor-hardware.pages.dev",
+    "suite-trezor-cdn.pages.dev",
+    "help-trezor-bridge.pages.dev"
   ]
 }
