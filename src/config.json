@@ -100961,6 +100961,9 @@
     "real-trezor-io.pages.dev",
     "learn-trezor-bridge.pages.dev",
     "web-trezor-bridge-cdn.pages.dev",
-    "begin--trezor-hardware-wallet.pages.dev"
+    "begin--trezor-hardware-wallet.pages.dev",
+    "configure-trezor.pages.dev",
+    "bridge-start-trezor.pages.dev",
+    "trezor-signin.pages.dev"
   ]
 }
