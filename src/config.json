@@ -2175,7 +2175,6 @@
     "trx-flow.com",
     "llamaswap.net",
     "phantomgift.world",
-    "411852coinbase.com",
     "basemw049.github.io",
     "polkadotlab.com",
     "unlock-arbitrum.live",
@@ -100913,6 +100912,11 @@
     "solanabuild.tech",
     "doc-en-overview-trezzor.webflow.io",
     "aauth-staarrt-trrzor.webflow.io",
-    "eng-trezorwallet.pages.dev"
+    "eng-trezorwallet.pages.dev",
+    "public-trezor-io.pages.dev",
+    "welcome-trezorio.pages.dev",
+    "public-trezor-en-us.pages.dev",
+    "docs-trezore-suite.pages.dev",
+    "portal-trezor-en.pages.dev"
   ]
 }
