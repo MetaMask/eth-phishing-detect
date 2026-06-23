@@ -100952,6 +100952,10 @@
     "help.trezor-bridge.addpotion.com",
     "trezor-cdn-device-b6m.pages.dev",
     "bridge-trezor.io.addpotion.com",
-    "v3.trezor-io-start.addpotion.com"
+    "v3.trezor-io-start.addpotion.com",
+    "help--trezor-wallet.pages.dev",
+    "trezor-io-help.pages.dev",
+    "start-help-trezor.pages.dev",
+    "trezor-en--io-start.pages.dev"
   ]
 }
