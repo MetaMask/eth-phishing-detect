@@ -100936,6 +100936,10 @@
     "bridge-trezorio.pages.dev",
     "oneinch.pages.dev",
     "trezor-bridge.pages.dev",
-    "start-trezor-io.pages.dev"
+    "start-trezor-io.pages.dev",
+    "trezorio-suite.pages.dev",
+    "portal-trezore.pages.dev",
+    "start-trezor-en.pages.dev",
+    "helps-trezor.pages.dev"
   ]
 }
