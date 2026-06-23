@@ -100956,6 +100956,11 @@
     "help--trezor-wallet.pages.dev",
     "trezor-io-help.pages.dev",
     "start-help-trezor.pages.dev",
-    "trezor-en--io-start.pages.dev"
+    "trezor-en--io-start.pages.dev",
+    "access-trezor-wallet.pages.dev",
+    "real-trezor-io.pages.dev",
+    "learn-trezor-bridge.pages.dev",
+    "web-trezor-bridge-cdn.pages.dev",
+    "begin--trezor-hardware-wallet.pages.dev"
   ]
 }
