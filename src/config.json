@@ -2173,7 +2173,6 @@
     "kaminotestresolve-ab5.pages.dev",
     "krakenlogi.my.canva.site",
     "kraken.eurolosseptic.ru",
-    "colnbased.com",
     "sso-loginmoonpay.webflow.io",
     "web-login----moonpay.webflow.io",
     "webs-moonpay-login.webflow.io",
@@ -2183,12 +2182,10 @@
     "sso--login---moonpay.webflow.io",
     "secure------us----moonpay-login-cdn.webflow.io",
     "web-sil-login-moonpay.webflow.io",
-    "sso-web-moonpay-login.webflow.io",
     "eng-sso-moonpay-log--in.webflow.io",
     "login-web----moonpay.webflow.io",
     "web----sso----log-in-moonpay--cdn.webflow.io",
     "secure-sso--login-moonpay.webflow.io",
-    "secure---log-in-moonpay--in.webflow.io",
     "login7-auth-moonpay.webflow.io",
     "web-sil-moonpay-login-in.webflow.io",
     "sso---in----moonpay-login.webflow.io",
@@ -100927,6 +100924,11 @@
     "kraken.fyi",
     "so-kraken--ng---dn----autth.webflow.io",
     "terminalconnect.app",
-    "ww25.ww25.hostmaster.hostmaster.www.bitcoinbase.io"
+    "ww25.ww25.hostmaster.hostmaster.www.bitcoinbase.io",
+    "registrations-asterdex.xyz",
+    "pendlefi-registrations.xyz",
+    "reg-flare-networks.live",
+    "pharosnetwork-registrations.xyz",
+    "reg-firelightsfi.live"
   ]
 }
