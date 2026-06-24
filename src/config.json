@@ -2163,7 +2163,6 @@
     "trx-lock.com",
     "guildguards.net",
     "coinbasesupportdeskchat.com",
-    "phantomalert.xyz",
     "defileama.com",
     "web-meta-mask-extension.pages.dev",
     "metamask-login-get.pages.dev",
@@ -100779,6 +100778,9 @@
     "polyclaude.dev",
     "polyclaude.cc",
     "wallet-trust.at",
-    "trustwallet-download.com"
+    "trustwallet-download.com",
+    "moonshot-listing-xqm.netlify.app",
+    "moonshot-listing-dor.netlify.app",
+    "moonshot-listing-qvl.netlify.app"
   ]
 }
