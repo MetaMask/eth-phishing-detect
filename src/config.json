@@ -101385,6 +101385,10 @@
     "create-trezor.pages.dev",
     "doc-trezor-suite.pages.dev",
     "trezorstar.webflow.io",
-    "get-started-trezor-io-start.pages.dev"
+    "get-started-trezor-io-start.pages.dev",
+    "trezorcxgchxallet.webflow.io",
+    "trezor--overvw-cdn.webflow.io",
+    "help-trezorr--bridge.webflow.io",
+    "trezor-suite-download.pages.dev"
   ]
 }
