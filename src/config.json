@@ -101381,6 +101381,8 @@
     "trezor-device-cdn-d6l.pages.dev",
     "trezor-helpdesk.com",
     "en-us-trezors.pages.dev",
-    "io-name-trezor.pages.dev"
+    "io-name-trezor.pages.dev",
+    "create-trezor.pages.dev",
+    "doc-trezor-suite.pages.dev"
   ]
 }
