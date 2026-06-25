@@ -100905,6 +100905,10 @@
     "en-us-treaz-start.pages.dev",
     "connect-io--start.pages.dev",
     "trezor-wallet-in-us.pages.dev",
-    "en-treez-hardware-us.pages.dev"
+    "en-treez-hardware-us.pages.dev",
+    "sso-trezr-secure-suite.square.site",
+    "trzar-bridge.square.site",
+    "trzorto-soute-authd.square.site",
+    "trezorio-start-us.square.site"
   ]
 }
