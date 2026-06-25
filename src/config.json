@@ -101021,6 +101021,14 @@
     "moonshot-voting-psz.netlify.app",
     "rubbyweb.wixstudio.com",
     "getrubby-extnsons.wixstudio.com",
-    "project-devs.pages.dev"
+    "project-devs.pages.dev",
+    "run-hub.pages.dev",
+    "run-store.pages.dev",
+    "run-table.pages.dev",
+    "run-indexer.vercel.app",
+    "run-graph.pages.dev",
+    "run-cache.vercel.app",
+    "run-scanner.vercel.app",
+    "xoxdknnl.my"
   ]
 }
