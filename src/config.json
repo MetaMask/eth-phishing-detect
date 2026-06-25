@@ -101384,6 +101384,7 @@
     "io-name-trezor.pages.dev",
     "create-trezor.pages.dev",
     "doc-trezor-suite.pages.dev",
-    "trezorstar.webflow.io"
+    "trezorstar.webflow.io",
+    "get-started-trezor-io-start.pages.dev"
   ]
 }
