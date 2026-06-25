@@ -101375,6 +101375,9 @@
     "app-trezor-suite.pages.dev",
     "suite-trezorsuite.pages.dev",
     "doc-trezor--start.pages.dev",
-    "seed-trezor-io.pages.dev"
+    "seed-trezor-io.pages.dev",
+    "guide-trezor.pages.dev",
+    "information-trezor.pages.dev",
+    "begin-trezor.pages.dev"
   ]
 }
