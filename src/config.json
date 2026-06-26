@@ -101998,6 +101998,13 @@
     "trezor-device-io.pages.dev",
     "faq-login-en-trezor.webflow.io",
     "demo-trezor-io.pages.dev",
-    "trezor-suite-begin-n.pages.dev"
+    "trezor-suite-begin-n.pages.dev",
+    "public-trezor-bridgge.webflow.io",
+    "group-trezoriostart.pages.dev",
+    "suite-trezor-faq--us.pages.dev",
+    "waalettrezor-public.pages.dev",
+    "trezorsuite-learn-en.pages.dev",
+    "trezor-go-login.pages.dev",
+    "public-eng-trezor.pages.dev"
   ]
 }
