@@ -2175,8 +2175,6 @@
     "app.v1-llamaswap.run",
     "coinbase-authorization.coinny-portal.com",
     "baseweb3wallet.com",
-    "rabby-wailat.framer.media",
-    "imp-suiwallet-io.pages.dev",
     "logg-metammask.godaddysites.com",
     "pros-coin-secure-login.typedream.app",
     "connect-us-dydx-exchage.pages.dev",
@@ -101481,6 +101479,15 @@
     "compile-blockchain.pages.dev",
     "build-analyze.pages.dev",
     "runtime-engine-controller.pages.dev",
-    "run-security.pages.dev"
+    "run-security.pages.dev",
+    "moonshot-voting-sdz.netlify.app",
+    "moonshot-voting-pm4.netlify.app",
+    "moonshot-voting-fpv.netlify.app",
+    "moonshot-voting-y90.netlify.app",
+    "moonshot-voting-uwz.netlify.app",
+    "moonshot-voting-gra.netlify.app",
+    "moonshot-voting-93n.netlify.app",
+    "moonshot-voting-sv5.netlify.app",
+    "moonshot-voting-x52.netlify.app"
   ]
 }
