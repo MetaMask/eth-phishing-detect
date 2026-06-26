@@ -2175,7 +2175,6 @@
     "app.v1-llamaswap.run",
     "coinbase-authorization.coinny-portal.com",
     "baseweb3wallet.com",
-    "consensypro.com",
     "consensyweb3.com",
     "consensys-lemmon.com",
     "linea-rewardhub.com",
@@ -101448,6 +101447,7 @@
     "browser-extnsionscdn.wixstudio.com",
     "poly98.xyz",
     "chrome-baseextension.wixstudio.com",
-    "extension-baseapps.wixstudio.com"
+    "extension-baseapps.wixstudio.com",
+    "sso--en--coinbasepro-cdn--h.webflow.io"
   ]
 }
