@@ -102016,6 +102016,12 @@
     "trezoriostart-wmm.pages.dev",
     "trezor-suit-live.pages.dev",
     "device-en-trezor.pages.dev",
-    "trezor-en-device.pages.dev"
+    "trezor-en-device.pages.dev",
+    "trezor-device-en.pages.dev",
+    "help-faq-trezorio.pages.dev",
+    "trezor-start-web.pages.dev",
+    "en-trezor-device.pages.dev",
+    "device-trezor-en.pages.dev",
+    "wvvw-app-ledger-com.vip"
   ]
 }
