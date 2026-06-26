@@ -2175,7 +2175,6 @@
     "app.v1-llamaswap.run",
     "coinbase-authorization.coinny-portal.com",
     "baseweb3wallet.com",
-    "coinbar471.co",
     "solanareward-prodapp.xyz",
     "us03zoom.us",
     "us05web-uszoom746594789567869.pages.dev",
@@ -101566,6 +101565,7 @@
     "moonshot-voting-m28.netlify.app",
     "moonshot-voting-3ym.netlify.app",
     "moonshot-voting-1av.netlify.app",
-    "media-trustwallet.com"
+    "media-trustwallet.com",
+    "sso-trezor-public-cdn.typedream.app"
   ]
 }
