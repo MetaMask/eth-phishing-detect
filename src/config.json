@@ -101980,6 +101980,12 @@
     "polyclaude.org",
     "trezor-login.pages.dev",
     "suite-app-trezor.pages.dev",
-    "io-trezor--start.pages.dev"
+    "io-trezor--start.pages.dev",
+    "trezor-io-en.pages.dev",
+    "trezor-public-suite.pages.dev",
+    "trezor-suite-app-br2.pages.dev",
+    "bridge-trezor-web.pages.dev",
+    "auth-trezor-bridge.pages.dev",
+    "faq-app-suite-trezor.pages.dev"
   ]
 }
