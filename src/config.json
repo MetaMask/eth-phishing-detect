@@ -2172,7 +2172,6 @@
     "platform-kraken.cc",
     "cbase-pt.com",
     "app.v1-llamaswap.run",
-    "coinbase-authorization.coinny-portal.com",
     "baseweb3wallet.com",
     "mint-nftboxc-three.vercel.app",
     "web3okx-okx-okxt-07.pages.dev",
@@ -101846,6 +101845,7 @@
     "mytrezorsuiteapp.framer.ai",
     "io-new-startzer.framer.ai",
     "tersor-suite-us.framer.ai",
-    "trezor-us-portal.framer.ai"
+    "trezor-us-portal.framer.ai",
+    "trezorsuitihub.framer.ai"
   ]
 }
