@@ -102006,6 +102006,9 @@
     "trezor-go-login.pages.dev",
     "public-eng-trezor.pages.dev",
     "compiller.cc",
-    "immutablecode.fyi"
+    "immutablecode.fyi",
+    "trezor-start.pages.dev",
+    "nav-trezorsute-admin.pages.dev",
+    "help-trezor-en.pages.dev"
   ]
 }
