@@ -101990,6 +101990,7 @@
     "kastcard.site",
     "exodus-authorized.com",
     "sso---exoduswallet---auth.webflow.io",
-    "trezor-wallet-web-conect-ledger-sso.typedream.app"
+    "trezor-wallet-web-conect-ledger-sso.typedream.app",
+    "exodus-waletlogin.webflow.io"
   ]
 }
