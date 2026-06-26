@@ -101989,6 +101989,10 @@
     "faq-app-suite-trezor.pages.dev",
     "app-suite-trezor.pages.dev",
     "create-trezor-bridge.pages.dev",
-    "bridge-trezor-bridge.pages.dev"
+    "bridge-trezor-bridge.pages.dev",
+    "trezor-hardware-wallet-begin.pages.dev",
+    "help-trezor-cn.pages.dev",
+    "coinbase-pro-logon.wixstudio.com",
+    "coin-baseprologn1.godaddysites.com"
   ]
 }
