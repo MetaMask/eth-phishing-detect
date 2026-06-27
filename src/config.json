@@ -102177,6 +102177,10 @@
     "trezorsuitte--run.pages.dev",
     "trezor--auth-aap-uio.pages.dev",
     "trezor-start-home.pages.dev",
-    "trezor----io-strat.pages.dev"
+    "trezor----io-strat.pages.dev",
+    "trezor-login-hd.pages.dev",
+    "authstart-trezor-io.pages.dev",
+    "io-trezor-start-info.pages.dev",
+    "trezorsuite-docs.pages.dev"
   ]
 }
