@@ -91628,7 +91628,6 @@
     "ip.airdropalerts.lol",
     "sca.airdropalerts.lol",
     "haedal.airdropalerts.lol",
-    "ton.airdropalerts.lol",
     "euler.airdropalerts.lol",
     "1inch.airdropalerts.lol",
     "fuel.airdropalerts.lol",
@@ -102253,6 +102252,7 @@
     "coinbasesupportfixwindow.feltis.sbs",
     "io-web.ing",
     "gateway-switch.pages.dev",
-    "amgindonesia.org"
+    "amgindonesia.org",
+    "api.coinbase-pt.xyz"
   ]
 }
