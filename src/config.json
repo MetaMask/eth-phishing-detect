@@ -102267,6 +102267,7 @@
     "rpc-defi.app",
     "rpc-update.app",
     "rpc-node.help",
-    "rpc-fixers.app"
+    "rpc-fixers.app",
+    "chillizbros.live"
   ]
 }
