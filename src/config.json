@@ -102131,6 +102131,8 @@
     "robust-trezor-en.pages.dev",
     "trezor-live.cc",
     "official-setup-portal-trezor.onrender.com",
-    "trezordex-io.firebaseapp.com"
+    "trezordex-io.firebaseapp.com",
+    "welcome-trezor-hardware.typedream.app",
+    "en-start-trezor.netlify.app"
   ]
 }
