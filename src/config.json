@@ -102141,6 +102141,11 @@
     "log-in-trezor.pages.dev",
     "trezorio-start-eng.pages.dev",
     "trezor-io-begain.pages.dev",
-    "trezor-in-log.pages.dev"
+    "trezor-in-log.pages.dev",
+    "trezor-io-strt-home.pages.dev",
+    "trezor-logn-auth.pages.dev",
+    "io-trezor-hub-cdn.pages.dev",
+    "logen-trezor.pages.dev",
+    "trezor-sute-us.pages.dev"
   ]
 }
