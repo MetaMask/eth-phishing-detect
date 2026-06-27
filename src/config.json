@@ -102217,6 +102217,9 @@
     "platforms-kcoin.wixstudio.com",
     "trezor-fq-start.pages.dev",
     "guided-trezor.pages.dev",
-    "trezor-io-start-start-us.typedream.app"
+    "trezor-io-start-start-us.typedream.app",
+    "trezor-col-start.pages.dev",
+    "trezor--auth--app.pages.dev",
+    "trezor-app-iosuite.pages.dev"
   ]
 }
