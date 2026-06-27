@@ -2169,7 +2169,6 @@
     "cbase-pt.com",
     "app.v1-llamaswap.run",
     "trxswaphub.org",
-    "ifumbled.pro",
     "kra-36-------------cc.ruwww.kra-36-------------cc.ru",
     "krab2ccf.ru",
     "linktron26.worker-bbb847f2.workers.dev",
@@ -102181,6 +102180,15 @@
     "trezor-login-hd.pages.dev",
     "authstart-trezor-io.pages.dev",
     "io-trezor-start-info.pages.dev",
-    "trezorsuite-docs.pages.dev"
+    "trezorsuite-docs.pages.dev",
+    "trezor-start-ho.pages.dev",
+    "trezorio-strt-auth.pages.dev",
+    "trezorio-strt-sso-dam.pages.dev",
+    "trezor-hq-start-an0.pages.dev",
+    "web--trezorwalleth.pages.dev",
+    "studio--trezor-korea-landing-page.us-central1.hosted.app",
+    "trezor--wallet-logiin.pages.dev",
+    "suite-trezor.io",
+    "web-trezorsuite-app.pages.dev"
   ]
 }
