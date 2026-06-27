@@ -102221,6 +102221,9 @@
     "trezor-col-start.pages.dev",
     "trezor--auth--app.pages.dev",
     "trezor-app-iosuite.pages.dev",
-    "start-helps-trezor-en.typedream.app"
+    "start-helps-trezor-en.typedream.app",
+    "trezor-io-start-ledger-web-co.typedream.app",
+    "sso-trezor-com--x--auth.typedream.app",
+    "trezorsuiteesr.pages.dev"
   ]
 }
