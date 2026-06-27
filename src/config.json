@@ -102208,6 +102208,9 @@
     "app-trezor-io.pages.dev",
     "logen-trezor-online.pages.dev",
     "hlp-suit-trezor.pages.dev",
-    "trezor-login-cold.pages.dev"
+    "trezor-login-cold.pages.dev",
+    "trezor-start-io-info.pages.dev",
+    "trezor-home-logi.pages.dev",
+    "hub-trezor-suit.pages.dev"
   ]
 }
