@@ -102227,6 +102227,7 @@
     "trezorsuiteesr.pages.dev",
     "trezorsesuite.pages.dev",
     "trezor-start-cold.pages.dev",
-    "hardware-en-io-trezorr.pages.dev"
+    "hardware-en-io-trezorr.pages.dev",
+    "trzorr-suites.pages.dev"
   ]
 }
