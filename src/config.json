@@ -102173,6 +102173,10 @@
     "cdn-trezor--start.pages.dev",
     "trezor-auth-app-start.pages.dev",
     "help--bridge-app-trezor.pages.dev",
-    "trezor--app-bridge.pages.dev"
+    "trezor--app-bridge.pages.dev",
+    "trezorsuitte--run.pages.dev",
+    "trezor--auth-aap-uio.pages.dev",
+    "trezor-start-home.pages.dev",
+    "trezor----io-strat.pages.dev"
   ]
 }
