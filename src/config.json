@@ -102261,6 +102261,8 @@
     "suite-trezer-access.pages.dev",
     "new-trzr-brdge.pages.dev",
     "get-trzrsuite.pages.dev",
-    "trez-lgin-pages-dev.pages.dev"
+    "trez-lgin-pages-dev.pages.dev",
+    "trez-suit-insert.pages.dev",
+    "conect-trzoriostart.pages.dev"
   ]
 }
