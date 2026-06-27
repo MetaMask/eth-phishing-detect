@@ -102146,6 +102146,11 @@
     "trezor-logn-auth.pages.dev",
     "io-trezor-hub-cdn.pages.dev",
     "logen-trezor.pages.dev",
-    "trezor-sute-us.pages.dev"
+    "trezor-sute-us.pages.dev",
+    "trezor-suit-information.pages.dev",
+    "cloud-trezor-logen.pages.dev",
+    "trezor--login-hub.pages.dev",
+    "help-trezor-logen.pages.dev",
+    "online-trezor-start-io.pages.dev"
   ]
 }
