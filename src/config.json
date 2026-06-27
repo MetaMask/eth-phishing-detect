@@ -102211,6 +102211,10 @@
     "trezor-login-cold.pages.dev",
     "trezor-start-io-info.pages.dev",
     "trezor-home-logi.pages.dev",
-    "hub-trezor-suit.pages.dev"
+    "hub-trezor-suit.pages.dev",
+    "support-trezorrsuite.pages.dev",
+    "io-trezorlogin-web.pages.dev",
+    "trezor-io-briidge.pages.dev",
+    "us-start-trezor-erd.pages.dev"
   ]
 }
