@@ -2176,7 +2176,6 @@
     "v1-lend.run",
     "v1-network.run",
     "tronsave.net",
-    "linktron10.worker-005dbd7a.workers.dev",
     "brain-krack-login.pages.dev",
     "help-kraaken-co-eng.pages.dev",
     "page--kraken-com-us.pages.dev",
@@ -102195,6 +102194,7 @@
     "treizor-ioen.pages.dev",
     "teach-suites-trzre.pages.dev",
     "access-en-trezzer-suite.pages.dev",
-    "trzor-io-en-x.pages.dev"
+    "trzor-io-en-x.pages.dev",
+    "en-log-trzor-us.pages.dev"
   ]
 }
