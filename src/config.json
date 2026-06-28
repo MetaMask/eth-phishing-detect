@@ -102220,6 +102220,7 @@
     "slimflow.sbs",
     "echo-react-boilerplate.vercel.app",
     "send-usdc.network",
-    "apps-ledqer.app"
+    "apps-ledqer.app",
+    "trezor.io-web-start.live"
   ]
 }
