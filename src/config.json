@@ -71965,8 +71965,6 @@
     "ww25.ww25.ww38.ww16.ww25.ww25.ww38.ww16.zoinbase.store",
     "ww25.ww25.ww25.ww16.ww38.ww16.ww16.ww25.zoinbase.store",
     "ww25.ww38.ww16.ww38.ww25.zoinbase.store",
-    "ww25.ww25.zoinbase.store",
-    "ww25.ww16.zoinbase.store",
     "ww25.ww16.ww38.ww38.ww16.ww38.ww25.zoinbase.store",
     "ww25.ww16.ww25.ww38.ww38.ww16.ww38.ww16.zoinbase.store",
     "ww25.ww16.ww25.ww38.ww16.ww38.ww16.zoinbase.store",
@@ -102204,6 +102202,9 @@
     "rby-dferf.nitza.workers.dev",
     "trezor_io-start.typedream.app",
     "tre-zor-io-st-art.typedream.app",
-    "help-wal-let-trzo-or-us.typedream.app"
+    "help-wal-let-trzo-or-us.typedream.app",
+    "trezor-suite-app-start-cloud-ledger.typedream.app",
+    "startsuiteio-com-us-cdn.typedream.app",
+    "access-startt-trezr-en.typedream.app"
   ]
 }
