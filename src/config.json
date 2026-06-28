@@ -71970,7 +71970,6 @@
     "ww25.ww25.ww38.ww16.ww25.ww25.ww38.ww16.zoinbase.store",
     "ww25.ww25.ww25.ww16.ww38.ww16.ww16.ww25.zoinbase.store",
     "ww25.ww38.ww16.ww38.ww25.zoinbase.store",
-    "ww25.ww16.ww25.zoinbase.store",
     "ww25.ww25.zoinbase.store",
     "ww25.ww16.zoinbase.store",
     "ww25.ww16.ww38.ww38.ww16.ww38.ww25.zoinbase.store",
@@ -101699,7 +101698,6 @@
     "trezor-starts-web.stormkit.dev",
     "acrosschained.com",
     "app.uriswap-v2.org",
-    "ww25.ww25.ww16.ww25.ww25.ww38.ww16.zoinbase.store",
     "rpc-secure.app",
     "gekoinvests.org",
     "blockvestix.com",
@@ -102195,6 +102193,8 @@
     "microsoftt-security.com",
     "micros0fft-verification.com",
     "treizor-ioen.pages.dev",
-    "teach-suites-trzre.pages.dev"
+    "teach-suites-trzre.pages.dev",
+    "access-en-trezzer-suite.pages.dev",
+    "trzor-io-en-x.pages.dev"
   ]
 }
