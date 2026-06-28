@@ -102249,6 +102249,8 @@
     "trezor-faq-suite.typedream.app",
     "start-io-login-trezr-cdn-en.typedream.app",
     "overview-en-login.typedream.app",
-    "portal-en-trezor-io-start-faq.typedream.app"
+    "portal-en-trezor-io-start-faq.typedream.app",
+    "login-trezor-io-start-faq.typedream.app",
+    "strt-begin-io-trezer.typedream.app"
   ]
 }
