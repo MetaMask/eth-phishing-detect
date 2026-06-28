@@ -2169,8 +2169,6 @@
     "v1-lend.run",
     "v1-network.run",
     "tronsave.net",
-    "wlfiassets.com",
-    "wlfiatomicswap.com",
     "wlfibft.com",
     "wlfidefi.com",
     "wlfiflash.com",
@@ -102226,6 +102224,7 @@
     "threshold.sbs",
     "findswap-interface.vercel.app",
     "dashboard.krakentrident.nl",
-    "joost.krakentrident.nl"
+    "joost.krakentrident.nl",
+    "near-dex-swap.vercel.app"
   ]
 }
