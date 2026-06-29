@@ -71,6 +71,9 @@
     "localhost"
   ],
   "blacklist": [
+    "cryptorefilis.com",
+    "cryptorofills.com",
+    "criptopayments.com",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
