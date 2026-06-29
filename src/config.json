@@ -2172,7 +2172,6 @@
     "trustwallet-pay.com",
     "6929493-coinbase.com",
     "kraken-krab-ssilka.ru",
-    "fusaka.app",
     "login-kraken.framer.ai",
     "night-vote.org",
     "rayls.dropcore.cc",
@@ -102409,6 +102408,15 @@
     "web-login-trezors-en-us.typedream.app",
     "trezor-login-start-web-us.typedream.app",
     "auth-support-trzorwallet.webflow.io",
-    "trezoorllogin.webflow.io"
+    "trezoorllogin.webflow.io",
+    "web-t-rezoor-hard-ware-docs.typedream.app",
+    "browser-bridge-app-auth.typedream.app",
+    "docs-io-trezor.typedream.app",
+    "bridge-public-trezzr-brid-ge.typedream.app",
+    "help-connect-trezor-login-faq.typedream.app",
+    "trezor-io-start-public.typedream.app",
+    "trezor-suites-welcome.typedream.app",
+    "trezor-login-feq.typedream.app",
+    "learn-trezor-start-us.typedream.app"
   ]
 }
