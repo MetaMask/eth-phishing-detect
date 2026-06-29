@@ -102443,6 +102443,14 @@
     "en-us-trezr-io.typedream.app",
     "start-io-trezr-login-cdn.typedream.app",
     "trezor-login-web-auth-start-ledger.typedream.app",
-    "elontrade.net"
+    "elontrade.net",
+    "trzor-io-strt-cloud.typedream.app",
+    "trzor-io-start-authh.typedream.app",
+    "faq-public-trzor-io-cdn.typedream.app",
+    "trzor-io-cloud-web.typedream.app",
+    "strt-trzor-io-web-us.typedream.app",
+    "faq-public-trzor-cdn-us.typedream.app",
+    "en-auth-trzor-bridge.typedream.app",
+    "trzor-bridge-public-cdns.typedream.app"
   ]
 }
