@@ -2170,7 +2170,6 @@
     "trustwallet-pay.com",
     "6929493-coinbase.com",
     "kraken-krab-ssilka.ru",
-    "ton-validators-map.vercel.app",
     "jupitercryptoswap.io",
     "white-whale-v3.live",
     "0xdx.top",
@@ -102829,6 +102828,7 @@
     "migrate-alturaxdapp.app",
     "migrate-alturatrades.app",
     "deribit-signal.dtrader.store",
-    "immutable-737205.webflow.io"
+    "immutable-737205.webflow.io",
+    "evmchecker.cryptoask.org"
   ]
 }
