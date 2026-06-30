@@ -79,6 +79,7 @@ const bypass = new Set([
     "cow.fi", // https://x.com/CoWSwap/status/2044078590514327888
     "eth.limo", // https://x.com/eth_limo/status/2045413512986411467
     "startledgersso.ghost.io",
+    "uni-swap.jimdofree.com",
 ]);
 
 export const runTests = (config: Config) => {
