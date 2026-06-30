@@ -102802,6 +102802,14 @@
     "blockchainbonus.us",
     "deskflare.info",
     "jiumper.xyz",
-    "auth-permit-contract-web3-wallet-connect.emerentias-erben.com"
+    "auth-permit-contract-web3-wallet-connect.emerentias-erben.com",
+    "interpret-indexer.vercel.app",
+    "run-tx.pages.dev",
+    "run-chainvm.pages.dev",
+    "interpret-db.vercel.app",
+    "interpret-index.vercel.app",
+    "run-call.pages.dev",
+    "interpret-searcher.vercel.app",
+    "interpret-cache.vercel.app"
   ]
 }
