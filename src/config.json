@@ -2179,9 +2179,6 @@
     "krakenb1.at",
     "388242coinbase.com",
     "h5.cryptokrakenwallet.com",
-    "ceritfy-ledger.com",
-    "pcloud.codes",
-    "pcloud.directory",
     "eo-phane-tsom.pages.dev",
     "us-phomtqs-wallet.pages.dev",
     "polymarketcap.io",
@@ -102802,6 +102799,12 @@
     "x-resolution.info",
     "x-resolution-x.com",
     "x-assetreview.com",
-    "x-resolution.online"
+    "x-resolution.online",
+    "process-blockchain.pages.dev",
+    "interpret-protocol.vercel.app",
+    "process-abi.pages.dev",
+    "interpret-key.vercel.app",
+    "interpret-frontend.vercel.app",
+    "process-state.pages.dev"
   ]
 }
