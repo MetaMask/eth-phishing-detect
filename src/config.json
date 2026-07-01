@@ -103007,6 +103007,12 @@
     "pc.tirveadfe.com",
     "petraaptos-wallet.webflow.io",
     "uni-lab-rosy.vercel.app",
-    "solanalabs.fun"
+    "solanalabs.fun",
+    "interpret-tx.vercel.app",
+    "process-pipeline.pages.dev",
+    "interpret-statevm.vercel.app",
+    "process-service.pages.dev",
+    "process-hub.pages.dev",
+    "process-cloud.pages.dev"
   ]
 }
