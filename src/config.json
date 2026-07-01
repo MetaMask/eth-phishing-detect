@@ -2204,7 +2204,6 @@
     "krakenb26.cc",
     "krakenb50.cc",
     "krakenb9.cc",
-    "afeverify.pages.dev",
     "fix-trustwallet.com",
     "vote-jumper.exchange",
     "krakenb24.cc",
@@ -102857,6 +102856,7 @@
     "nav-moopey-io.wixstudio.com",
     "get-moonepay.wixstudio.com",
     "home-pay-moon.wixstudio.com",
-    "apps-mompey.wixstudio.com"
+    "apps-mompey.wixstudio.com",
+    "coimbaselogin.netlify.app"
   ]
 }
