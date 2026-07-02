@@ -103117,6 +103117,7 @@
     "newworldwalletconn.wixsite.com",
     "wallet-connect-b1d.pages.dev",
     "hotfix-walletconnect-qr.gmx-interface.pages.dev",
-    "v0-walletconnect-v2-integration.vercel.app"
+    "v0-walletconnect-v2-integration.vercel.app",
+    "walletconnect-demo-2.vercel.app"
   ]
 }
