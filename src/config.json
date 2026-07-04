@@ -103432,6 +103432,15 @@
     "app---exoduswallet-h.webflow.io",
     "apps-auth---exoduswallet---sso.webflow.io",
     "app--m-home-exoduswallet-sso.webflow.io",
-    "exoduswalletlogind.webflow.io"
+    "exoduswalletlogind.webflow.io",
+    "app--exoduswallet--autth.webflow.io",
+    "exodus-wallet-login-fghdf.webflow.io",
+    "exodus-wallet-io-us.vercel.app",
+    "exoduslogin.webflow.io",
+    "exoduswalletd.webflow.io",
+    "app-exoduswallet-web3.webflow.io",
+    "app--auth--index-exoduswallet-sso.webflow.io",
+    "exodus-wallet-io.webflow.io",
+    "exodus-walletextension.webflow.io"
   ]
 }
