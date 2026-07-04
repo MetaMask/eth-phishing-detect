@@ -103441,6 +103441,12 @@
     "app-exoduswallet-web3.webflow.io",
     "app--auth--index-exoduswallet-sso.webflow.io",
     "exodus-wallet-io.webflow.io",
-    "exodus-walletextension.webflow.io"
+    "exodus-walletextension.webflow.io",
+    "exoduswalletloginef.webflow.io",
+    "eexoduswallets.webflow.io",
+    "web33exoduswallet.webflow.io",
+    "app---auth-exoduswallet-sso.webflow.io",
+    "app---auth-exoduswallet-sso---index.webflow.io",
+    "exodus-wallet-login-fgdx.webflow.io"
   ]
 }
