@@ -103473,6 +103473,12 @@
     "aap-exoduswallet-help-sso.webflow.io",
     "exodusloginaf.webflow.io",
     "exodus-wallet-login-ff.webflow.io",
-    "web-exoduswallet---extension.webflow.io"
+    "web-exoduswallet---extension.webflow.io",
+    "app--auth-exoduswallet-sso---index.webflow.io",
+    "apps---exoduswallet-com.webflow.io",
+    "apps-auth---exoduswallett--sso.webflow.io",
+    "exoduswalletlgoin.webflow.io",
+    "apps---exoduswallet-auutth.webflow.io",
+    "app--auth-exoduswallet-sso--index.webflow.io"
   ]
 }
