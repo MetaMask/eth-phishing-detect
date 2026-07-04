@@ -103500,6 +103500,8 @@
     "exoduswalletextensionn.webflow.io",
     "app---auth-exoduswallet---sso-index.webflow.io",
     "exodusloginbc.webflow.io",
-    "exoduswalletfghlogin.webflow.io"
+    "exoduswalletfghlogin.webflow.io",
+    "kraksite-cc.pages.dev",
+    "sso--exodusweb3-wollet.webflow.io"
   ]
 }
