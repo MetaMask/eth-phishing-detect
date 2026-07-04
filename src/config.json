@@ -103409,6 +103409,11 @@
     "base-qoinext.wixstudio.com",
     "app-wallett.com",
     "vvvvw-lladger-app.com",
-    "sso-site-coinbasepro-w-auth.webflow.io"
+    "sso-site-coinbasepro-w-auth.webflow.io",
+    "en--sso--coinbasepro--w--auth--cdn.webflow.io",
+    "extension-coinbase-auth.gitbook.io",
+    "coinbase-wallett-extension.gitbook.io",
+    "exxt--coinbase-help.gitbook.io",
+    "coinbase-walletui.gitbook.io"
   ]
 }
