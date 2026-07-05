@@ -84807,7 +84807,6 @@
     "buidl.beefy-hub.sbs",
     "jumper.beefy-hub.lol",
     "nemo.beefy-hub.lol",
-    "kusama.beefy-hub.lol",
     "comp.beefy-hub.sbs",
     "nemo.beefy-hub.sbs",
     "kusama.beefy-hub.sbs",
@@ -103494,6 +103493,7 @@
     "rabbyx.app",
     "bancor.nelwork.com",
     "debamk.site",
-    "flarefoundations-vote.live"
+    "flarefoundations-vote.live",
+    "fiarevotesevent.com"
   ]
 }
