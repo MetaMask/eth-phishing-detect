@@ -2218,7 +2218,6 @@
     "guildsign.net",
     "zoom7.icu",
     "security-checks-coinbase.com",
-    "secure-coinbase-explore.square.site",
     "moonpay-hei.io",
     "login-uphold-help.blogspot.com.uy",
     "uphold-logins.blogspot.com.ng",
@@ -104686,6 +104685,7 @@
     "apps-polymarket.web.app",
     "geminidappchain.web.app",
     "buyula.com",
-    "base-koinwallt.wixstudio.com"
+    "base-koinwallt.wixstudio.com",
+    "auths-cdn--coinbasepro-en-sso.webflow.io"
   ]
 }
