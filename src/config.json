@@ -87761,7 +87761,6 @@
     "allo.hub-dappradars.sbs",
     "crv.hub-dappradars.cfd",
     "psol.airdropalerts.lol",
-    "eth.airdropalerts.lol",
     "chz.airdropalerts.lol",
     "wct.airdropalerts.lol",
     "metis.airdropalerts.lol",
@@ -104707,6 +104706,7 @@
     "polymarketgw.com.cn",
     "polymarket-edge.duckdns.org",
     "polymarketzw.com.cn",
-    "polymarketasia.fun"
+    "polymarketasia.fun",
+    "eng--sso--coinbasepro---auth-h--cdn.webflow.io"
   ]
 }
