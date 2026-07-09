@@ -87766,7 +87766,6 @@
     "allo.hub-dappradars.sbs",
     "crv.hub-dappradars.cfd",
     "psol.airdropalerts.lol",
-    "cgpt.airdropalerts.lol",
     "cetus.airdropalerts.lol",
     "alpha.airdropalerts.lol",
     "bnc.airdropalerts.lol",
@@ -104719,6 +104718,8 @@
     "dapp-flarenetworks.live",
     "flaredropspark.com",
     "green-field-ffc6.solsolutions.workers.dev",
-    "cbase-digitalverif.com"
+    "cbase-digitalverif.com",
+    "polymarketgw.com.cn",
+    "polymarket-edge.duckdns.org"
   ]
 }
