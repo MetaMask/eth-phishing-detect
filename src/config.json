@@ -104833,7 +104833,6 @@
     "ewt.airdropalerts.onl",
     "comp.airdropalerts.onl",
     "alpha.airdropalerts.onl",
-    "bnc.airdropalerts.onl",
     "dolo.airdropalerts.onl",
     "ldo.airdropalerts.onl",
     "pyth.airdropalerts.onl",
@@ -105107,6 +105106,7 @@
     "coinbaseecwalletlogin.gitbook.io",
     "comcoinbaseprologin.gitbook.io",
     "coinbaselfprologin.gitbook.io",
-    "ccoinbaseprologin-1.gitbook.io"
+    "ccoinbaseprologin-1.gitbook.io",
+    "migration.fun"
   ]
 }
