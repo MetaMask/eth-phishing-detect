@@ -80928,7 +80928,6 @@
     "citrea.hub-airdrpsalert.sbs",
     "citrea.hub-airdrpsalert.cfd",
     "chainway.hub-airdrpsalert.cfd",
-    "backpack.hub-airdrpsalert.cfd",
     "playtron.hub-airdrpsalert.cfd",
     "chainway.hubs-beefy.lat",
     "fortressaccounting.hubs-beefy.lat",
@@ -105274,6 +105273,7 @@
     "solairdrops-eu.netlify.app",
     "repegs-apyxfi.app",
     "dex-event.xyz",
-    "rewards-flarefndn.live"
+    "rewards-flarefndn.live",
+    "raydiumsmart.world"
   ]
 }
