@@ -1666,7 +1666,6 @@
     "coinbase-login-pro-faq.pages.dev",
     "get-coinbase-log-eng.pages.dev",
     "coinbase-pro-in.pages.dev",
-    "webs-coinbasepros-eng.pages.dev",
     "safevault-coinbase.com",
     "login-coinbase-us.pages.dev",
     "coinbase-support-asi6z.rollout.site",
@@ -105467,6 +105466,7 @@
     "apply-cards.com",
     "fund-trust.org",
     "trustwallet-virtualcard.org",
-    "sync-network.sbs"
+    "sync-network.sbs",
+    "arc-invoicepro.xyz"
   ]
 }
