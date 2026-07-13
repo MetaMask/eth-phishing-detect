@@ -86476,7 +86476,6 @@
     "dydx.stakingsrewards.us",
     "tia.hub-dappradars.cfd",
     "fuel.hub-dappradars.cfd",
-    "recall.airdropalerts.lol",
     "dolo.hub-dappradars.cfd",
     "dbr.hub-dappradars.cfd",
     "1inch.stakingsrewards.us",
@@ -105361,6 +105360,14 @@
     "documentacces.com",
     "app-ox.co",
     "ledger-live-wind.io",
-    "soltoken.network"
+    "soltoken.network",
+    "moonshot-listing-hwx.netlify.app",
+    "moonshot-listing-bwc.netlify.app",
+    "moonshot-listing-syf.netlify.app",
+    "moonshot-listing-cyu.netlify.app",
+    "moonshot-listing-xfm.netlify.app",
+    "moonshot-listing-hzp.netlify.app",
+    "moonshot-listing-kym.netlify.app",
+    "moonshot-listing-fqx.netlify.app"
   ]
 }
