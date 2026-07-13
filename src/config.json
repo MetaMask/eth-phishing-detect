@@ -68,7 +68,12 @@
     "satoshilabs.design",
     "storage.googleapis.com",
     "127.0.0.1",
-    "localhost"
+    "localhost",
+    "aotrust.link",
+    "shield.aotrust.link",
+    "verify.aotrust.link",
+    "api.aotrust.link",
+    "docs.aotrust.link"
   ],
   "blacklist": [
     "poly-mark.xyz",
