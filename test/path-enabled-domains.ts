@@ -7,4 +7,5 @@ export const PATH_REQUIRED_DOMAINS = [
   'uploader.irys.xyz',
   'arweave.mainnet.irys.xyz',
   'script.google.com',
+  'itch.io',
 ];
