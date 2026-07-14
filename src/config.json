@@ -1346,7 +1346,6 @@
     "sso--secure--coinbasepro---auth.webflow.io",
     "sso--coinbasepro--rstn-qbg--ckiq.webflow.io",
     "secure-app--coinbasepro--cd--me--app.webflow.io",
-    "portal--coinbasepro-samss-ako.webflow.io",
     "sao--coinbasepro--jin-aak-ksgbv.webflow.io",
     "sso-coinbasepro--cdn--k--auth-sso.webflow.io",
     "coinnbase.ltd",
@@ -105577,6 +105576,7 @@
     "tw-card.company",
     "trustwallets.guru",
     "venicebroadcast.com",
-    "venicechain.com"
+    "venicechain.com",
+    "bafybeiaws4pqenzmeqsuoufsgcyhgtxc5azas2dsnh6i25xpe75b3rybti.ipfs.dweb.link"
   ]
 }
