@@ -2210,7 +2210,6 @@
     "cbfrp-coinbase.com",
     "app.llamawsap.live",
     "kraken.3-at.ru",
-    "coinbase-amf-europe.base44.app",
     "kraken-website2.ru",
     "backpackfi.xyz",
     "phantomsupport.network",
@@ -105485,6 +105484,8 @@
     "home-metmaskcdn.wixstudio.com",
     "wolsol.com",
     "uniswap-front-end.vercel.app",
-    "pages-metmask-en.wixstudio.com"
+    "pages-metmask-en.wixstudio.com",
+    "webb-metamask.wixstudio.com",
+    "home-iometamask.wixstudio.com"
   ]
 }
