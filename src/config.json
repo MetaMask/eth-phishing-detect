@@ -1431,7 +1431,6 @@
     "claim.edgelayer.today",
     "kraken.brksecurityug.com",
     "eigenlawyer.xyz.io-t2.bet",
-    "coinbaseassistant.pages.dev",
     "morpho-blue.net",
     "en-exodus.pro",
     "monadlab.fund",
@@ -1582,7 +1581,6 @@
     "ccoin-base-login.pages.dev",
     "start-coinbase.pages.dev",
     "guildcon.net",
-    "en-coinbase-sso.pages.dev",
     "sso-en-coinbase-pro-auth.pages.dev",
     "sso-en-coinbase-pro-help.pages.dev",
     "welcome-coin-base-auth.pages.dev",
@@ -2200,9 +2198,6 @@
     "exabits.info",
     "hoimesai.xyz",
     "securiteycoinbase.com",
-    "home-coinbase-pro-d5z.pages.dev",
-    "connectwallets.pages.dev",
-    "refunds-normieonbase.pages.dev",
     "metamask-chro-me-extension.pages.dev",
     "nexus-form.pages.dev",
     "auth-coinbasepro-login0.pages.dev",
@@ -105869,6 +105864,10 @@
     "com-webapp.live",
     "revolut-slots.es",
     "ledger-live-download-ledger.lv",
-    "firmware-update.com"
+    "firmware-update.com",
+    "bitcoin-qr.com",
+    "ledger-live-web.io",
+    "ledgertp.com",
+    "raydinm.github.io"
   ]
 }
