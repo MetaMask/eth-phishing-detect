@@ -80,6 +80,7 @@ const bypass = new Set([
     "eth.limo", // https://x.com/eth_limo/status/2045413512986411467
     "startledgersso.ghost.io",
     "uni-swap.jimdofree.com",
+    "coinbasesupportdisk.forumotion.com",
 ]);
 
 export const runTests = (config: Config) => {
