@@ -3,6 +3,6 @@ import config from "./config.json";
 
 const detector = new PhishingDetector(config);
 
-export default function checkDomain(domain: string) {
+export default function checkDomain(domain: string): boolean {
     return detector.check(domain).result;
 }
