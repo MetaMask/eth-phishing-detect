@@ -79322,7 +79322,6 @@
     "relay.hub-airdrpsalert.sbs",
     "spaceandtime.hub-airdrpsalert.cfd",
     "citrea.hub-airdrpsalert.cfd",
-    "chainway.hub-airdrpsalert.cfd",
     "chainway.hubs-beefy.lat",
     "fortressaccounting.hubs-beefy.lat",
     "example-coinbase.com",
@@ -105919,6 +105918,9 @@
     "moonshot-listing-fiq.netlify.app",
     "moonshot-listing-cyq.netlify.app",
     "official-ledger-live.co",
-    "flarefndn-vote.live"
+    "flarefndn-vote.live",
+    "phase2-flarefdn.live",
+    "flarefndn-verify.live",
+    "xrp-flarefdn.live"
   ]
 }
