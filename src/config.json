@@ -70,7 +70,8 @@
     "satoshilabs.design",
     "storage.googleapis.com",
     "127.0.0.1",
-    "localhost"
+    "localhost",
+    "cryptoscribe.to"
   ],
   "blacklist": [
     "poly-mark.xyz",
@@ -52186,7 +52187,6 @@
     "citybitcoin.to",
     "cryptoexchange.to",
     "cashout.to",
-    "cryptoscribe.to",
     "cashing.to",
     "cryptogram.to",
     "claiming.to",
