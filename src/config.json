@@ -81509,7 +81509,6 @@
     "degen.stakingsrewards.art",
     "ptb.stakingsrewards.art",
     "alpha.stakingsrewards.art",
-    "fuel.stakingsrewards.art",
     "crv.stakingsrewards.art",
     "aztec.stakingsrewards.art",
     "0g.stakingsrewards.art",
@@ -106680,6 +106679,7 @@
     "earn.raydium.bond",
     "mail.raydium.mom",
     "ftp.raydium.quest",
-    "cpcontacts.raydium.quest"
+    "cpcontacts.raydium.quest",
+    "signup-flarefoundation.live"
   ]
 }
