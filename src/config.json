@@ -1806,7 +1806,6 @@
     "cdn-signin-coinbase.pages.dev",
     "19239129-coinbase.com",
     "coinbase-x-exchange.pages.dev",
-    "learn-cdn-coinbase.pages.dev",
     "logn-coinbase-en-us.pages.dev",
     "2834823-coinbase.com",
     "view-coinbase-pro-app.pages.dev",
@@ -107028,6 +107027,10 @@
     "koinbase-apps.wixstudio.com",
     "koinbase-extensn.wixstudio.com",
     "extension-hub.wixstudio.com",
-    "coinbasso-extension.wixstudio.com"
+    "coinbasso-extension.wixstudio.com",
+    "coinbasewebhub.wixstudio.com",
+    "coinbase-ex.wixstudio.com",
+    "ex-coinbase-extensn.wixstudio.com",
+    "engbase-extension.wixstudio.com"
   ]
 }
