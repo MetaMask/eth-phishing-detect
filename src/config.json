@@ -106852,6 +106852,9 @@
     "flareevent-gain.live",
     "flarefoundation-access.live",
     "flarefoundation-delegate.live",
-    "flarefoundation-claim.live"
+    "flarefoundation-claim.live",
+    "gover-flarefoundation.live",
+    "flarefoundation-gov.live",
+    "entry-flarefoundation.live"
   ]
 }
