@@ -1569,7 +1569,6 @@
     "pro-coinbase-login-eng.pages.dev",
     "get-coinbasepro-login-us.pages.dev",
     "welcome-coinbase-com-in.pages.dev",
-    "pages-coinbase-cdn.pages.dev",
     "get-coinbasepro-login.pages.dev",
     "sso-coinbase-login.pages.dev",
     "sign-in-coinbase.pages.dev",
@@ -106969,6 +106968,7 @@
     "solanawallettracker.lovable.app",
     "solana-trail-blazer-tool.lovable.app",
     "solana-web-wallet-blond.vercel.app",
-    "solspin.vip"
+    "solspin.vip",
+    "dapp.solrta.com"
   ]
 }
