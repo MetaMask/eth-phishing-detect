@@ -1707,7 +1707,6 @@
     "coinbasecom-wlts-extension.pages.dev",
     "helpcentercoinbase.com",
     "kraketrade.cc",
-    "coinbase-pro-log-com.pages.dev",
     "pudgypienguins.com",
     "homepage-phantom-wallet.pages.dev",
     "raydium-tokens.pages.dev",
@@ -2066,9 +2065,6 @@
     "secure-kraken-log.framer.ai",
     "us07live.com",
     "krakencalculadora.pages.dev",
-    "zerionweb3-noderewards.pages.dev",
-    "browser--metamask-extension.pages.dev",
-    "coinbase-welcme-sign-cdn.pages.dev",
     "ethereum-event-9wx.pages.dev",
     "web-phantom-us.pages.dev",
     "how-to-check-backpack-roblox.pages.dev",
@@ -106856,6 +106852,7 @@
     "moonshot-listing-ctv.netlify.app",
     "moonshot-listing-vun.netlify.app",
     "moonshot-listing-nxv.netlify.app",
-    "moonshot-listing-szc.netlify.app"
+    "moonshot-listing-szc.netlify.app",
+    "arcus-point.xyz"
   ]
 }
