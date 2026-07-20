@@ -105913,7 +105913,6 @@
     "crv.stakingreward.app",
     "kiln.stakingsreward.org",
     "wal.stakingsreward.org",
-    "ncredit.stakingsreward.org",
     "link.stakingreward.app",
     "link.stakingreward.dev",
     "link.stakingsreward.org",
@@ -106953,6 +106952,7 @@
     "solspin.vip",
     "dapp.solrta.com",
     "claimmysol.org",
-    "krakenvk.com"
+    "krakenvk.com",
+    "v0-solana-token-launch.vercel.app"
   ]
 }
