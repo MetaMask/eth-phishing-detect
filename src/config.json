@@ -106849,6 +106849,9 @@
     "claim-flarefdn.live",
     "flarefdn-drop.live",
     "flarefdn-phase1.live",
-    "flareevent-gain.live"
+    "flareevent-gain.live",
+    "flarefoundation-access.live",
+    "flarefoundation-delegate.live",
+    "flarefoundation-claim.live"
   ]
 }
