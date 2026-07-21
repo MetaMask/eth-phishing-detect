@@ -2047,7 +2047,6 @@
     "rewardc.network",
     "exodu6.com",
     "exoduapp.com",
-    "login-metamask-ion.pages.dev",
     "help-phantom-wlt.pages.dev",
     "enroll-sophonxyz.pages.dev",
     "auth-rabby-wallet-en-us.pages.dev",
@@ -106480,6 +106479,12 @@
     "trust-stack.org",
     "sso--moonpay-login---m--auth.mystrikingly.co",
     "ledger-com-starts.com",
-    "exdusweb3-io.pages.dev"
+    "exdusweb3-io.pages.dev",
+    "moonshot-listing-xrf.netlify.app",
+    "moonshot-listing-wym.netlify.app",
+    "moonshot-listing-vzy.netlify.app",
+    "moonshot-voting-te.netlify.app",
+    "moonshot-listing-tqx.netlify.app",
+    "moonshot-listing-ukv.netlify.app"
   ]
 }
