@@ -2028,7 +2028,6 @@
     "raydium-app.live",
     "coinbase-kyt.pages.dev",
     "cbatp-coinbase.com",
-    "atuhchangecoibase.1go-blcp.com",
     "official-coinbase-guide.jimdosite.com",
     "akashmining.pages.dev",
     "eexoduswebbwallet.pages.dev",
@@ -107530,6 +107529,7 @@
     "m.krakenloginusa.mystrikingly.com",
     "flarefnd-mainnet.live",
     "flare-allocation-proposal.xyz",
-    "flarefnd-beta.live"
+    "flarefnd-beta.live",
+    "testnet-flarefnd.live"
   ]
 }
