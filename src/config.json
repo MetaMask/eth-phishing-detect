@@ -70,7 +70,8 @@
     "satoshilabs.design",
     "storage.googleapis.com",
     "127.0.0.1",
-    "localhost"
+    "localhost",
+    "trench.express"
   ],
   "blacklist": [
     "poly-mark.xyz",
