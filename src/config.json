@@ -2019,14 +2019,6 @@
     "coinbase-kyt.pages.dev",
     "cbatp-coinbase.com",
     "billingzoominfo.online",
-    "us01web-windows.net",
-    "us02web-zoom-conference-meeting.site",
-    "us02web-zoom.icu",
-    "us03web-zoom-conference-meeting.site",
-    "us03web-zoom.sbs",
-    "us03web-zoom.my.id",
-    "us05web-zoom-conference-meeting.site",
-    "us04web-windows.net",
     "us05web-zoom.my.id",
     "us05web-zoom.top",
     "us05web-zoom.uno",
@@ -107537,6 +107529,8 @@
     "rainbet.co.nz",
     "rainbetcasino.com.de",
     "opensea.io.bids-listing.com",
-    "openseafree-mint37.vercel.app"
+    "openseafree-mint37.vercel.app",
+    "sso--en--coinbasepro-cdn--h--auth.webflow.io",
+    "mint-openseapro45.vercel.app"
   ]
 }
