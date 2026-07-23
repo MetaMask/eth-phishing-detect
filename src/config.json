@@ -1628,7 +1628,6 @@
     "237581us-coinbase.com",
     "mie-coinbase-login.pages.dev",
     "authmgr-amg67430.coinbasedevelopers-activity.workers.dev",
-    "help-kraken-doc.pages.dev",
     "coinbaseusprologin.pages.dev",
     "4939143-coinbase.com",
     "cloud-kraken.pages.dev",
@@ -2020,10 +2019,6 @@
     "raydium-app.live",
     "coinbase-kyt.pages.dev",
     "cbatp-coinbase.com",
-    "kraken-login-welcome.pages.dev",
-    "login-kraken.pages.dev",
-    "krakenmusic-net.pages.dev",
-    "coinbasehelpcare.pages.dev",
     "joinzoommeetingcall.com",
     "uso5web.us",
     "zeriondesktop.com",
@@ -107542,6 +107537,7 @@
     "rainbet-casino.gr",
     "rainbet-casino.us",
     "rainbet-nz.com",
-    "rainbet.games"
+    "rainbet.games",
+    "genesis-flarefnd.live"
   ]
 }
