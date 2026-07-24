@@ -8,4 +8,5 @@ export const PATH_REQUIRED_DOMAINS = [
   'arweave.mainnet.irys.xyz',
   'script.google.com',
   'itch.io',
+  'storage.googleapis.com',
 ];
