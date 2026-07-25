@@ -107854,6 +107854,9 @@
     "apps-metmaskext-web.wixstudio.com",
     "connect-metamsk.wixstudio.com",
     "ext-metaamsk.wixstudio.com",
-    "io-apps-metmask.wixstudio.com"
+    "io-apps-metmask.wixstudio.com",
+    "access-metamask-io.wixstudio.com",
+    "connect-chrome-ext.wixstudio.com",
+    "ext-metamaskcdn.wixstudio.com"
   ]
 }
