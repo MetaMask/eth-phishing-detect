@@ -2011,7 +2011,6 @@
     "guildpost.org",
     "coinbase-gigs-demo.webflow.io",
     "kraken-exchange.net",
-    "coinbase-help-logun-en.pages.dev",
     "ecliptica-nexus.pages.dev",
     "cloud-exodusweb3.pages.dev",
     "polymarket-pages.pages.dev",
@@ -107806,6 +107805,8 @@
     "help-upholdcom-io.tem3.io",
     "webb-uphold-login-cdn.tem3.io",
     "portal-enhelp-uphold.tem3.io",
-    "secure-uphold-y-auth.tem3.io"
+    "secure-uphold-y-auth.tem3.io",
+    "help-uphold-com-authd.tem3.io",
+    "portal-up-hold-docs.tem3.io"
   ]
 }
