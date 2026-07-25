@@ -107824,6 +107824,7 @@
     "help-us-secure-web-uphold-login.typedream.app",
     "route-traffic-relay.vercel.app",
     "traffic-pulse-manager.vercel.app",
-    "source-path-node.vercel.app"
+    "source-path-node.vercel.app",
+    "route-redirect-channel.vercel.app"
   ]
 }
