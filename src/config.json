@@ -107831,6 +107831,7 @@
     "trust-walllet.pages.dev",
     "addons-extension-trust-wallet-com.pages.dev",
     "trustd-wallet.pages.dev",
-    "extension-moz-trust-wallet-com.pages.dev"
+    "extension-moz-trust-wallet-com.pages.dev",
+    "ledger-com-apps.cloud"
   ]
 }
