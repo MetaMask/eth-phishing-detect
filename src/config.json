@@ -70,7 +70,9 @@
     "satoshilabs.design",
     "storage.googleapis.com",
     "127.0.0.1",
-    "localhost"
+    "localhost",
+    "str8swap.app",
+    "str8swap.xyz"
   ],
   "blacklist": [
     "poly-mark.xyz",
