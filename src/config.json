@@ -107782,6 +107782,7 @@
     "uniswap-eth-chain-gateaway-v26.vercel.app",
     "adflow-browser-usage.vercel.app",
     "pancakeswap-router-dapp-connect-v1027.vercel.app",
-    "com-restore.id"
+    "com-restore.id",
+    "com-recover.id"
   ]
 }
