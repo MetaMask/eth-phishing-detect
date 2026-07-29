@@ -107779,6 +107779,7 @@
     "pancakeswap-router-dapp-connect-v1102.vercel.app",
     "route-entry-offer.vercel.app",
     "bridge-v5.app",
-    "inkchaindocusign.icu"
+    "inkchaindocusign.icu",
+    "pulse-node-channel.vercel.app"
   ]
 }
