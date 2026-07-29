@@ -1971,7 +1971,6 @@
     "8584829-coinbase.com",
     "coinbaserestoremainnet.pages.dev",
     "zoom-meeting.video",
-    "coinbase-production.petra-wallet.workers.dev",
     "metamask-auths.pages.dev",
     "metamask-io-en-auth.pages.dev",
     "connect-login-metamaskio.pages.dev",
@@ -107563,6 +107562,7 @@
     "dogecoinnews.org.caraccidentlawyer-philadelphia.com",
     "flare-phase2.xyz",
     "phase2-flarenetwork.xyz",
-    "support.flaremainnet-dapps.com"
+    "support.flaremainnet-dapps.com",
+    "dogecoin-doge.com"
   ]
 }
