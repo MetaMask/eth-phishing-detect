@@ -1969,9 +1969,6 @@
     "8584829-coinbase.com",
     "coinbaserestoremainnet.pages.dev",
     "zoom-meeting.video",
-    "auth-metamask-sso-en.pages.dev",
-    "sso-metamask-login-en.pages.dev",
-    "xmtp-quickstart-metamask.pages.dev",
     "ethagsfoundation.org",
     "ethgasfoundationn.org",
     "kra35-cc-web.cc",
@@ -107556,6 +107553,7 @@
     "flare-phase2.xyz",
     "phase2-flarenetwork.xyz",
     "support.flaremainnet-dapps.com",
-    "dogecoin-doge.com"
+    "dogecoin-doge.com",
+    "dogecoin.vision"
   ]
 }
