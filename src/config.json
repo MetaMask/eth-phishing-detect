@@ -1481,7 +1481,6 @@
     "114296coinbase.com",
     "coinbeshh-login.pages.dev",
     "coinbase-login-doc.pages.dev",
-    "pro-coinbase-login-eng.pages.dev",
     "get-coinbasepro-login-us.pages.dev",
     "get-coinbasepro-login.pages.dev",
     "sso-coinbase-login.pages.dev",
@@ -1947,10 +1946,6 @@
     "trckng.run",
     "uu01webzoom.us",
     "uz05web.us",
-    "coinbase-extension-us-een.pages.dev",
-    "exten-metamask-io.pages.dev",
-    "exodus-web3wallet-cdn.pages.dev",
-    "nexus-mcp.pages.dev",
     "exodus-div-wallet.pages.dev",
     "exodus-webexo.pages.dev",
     "stellar-take.pages.dev",
@@ -107736,6 +107731,7 @@
     "us39webzoom.us",
     "solstoce.finance",
     "soltice.check-rewards.xyz",
-    "flarenetwork-proposal.xyz"
+    "flarenetwork-proposal.xyz",
+    "moonshot-listing-xyf.netlify.app"
   ]
 }
