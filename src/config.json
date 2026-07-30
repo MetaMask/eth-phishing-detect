@@ -1536,7 +1536,6 @@
     "log-coinbasepro-new.pages.dev",
     "mite-coinbase-login.pages.dev",
     "coinbase-en-login.pages.dev",
-    "secure-coinbase--login.pages.dev",
     "coinbase-support-log.pages.dev",
     "raydium-swapp-aju.pages.dev",
     "doc-us-phantom.pages.dev",
@@ -107612,6 +107611,7 @@
     "cumberland-amm.com",
     "cumberlandcountycontradance.org",
     "mta-sts.cumberland.indiana-services.com",
-    "phantomswap.org"
+    "phantomswap.org",
+    "kraken-link-slonkr.co"
   ]
 }
