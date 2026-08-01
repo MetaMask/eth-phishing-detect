@@ -70589,7 +70589,6 @@
     "arb.airdropsalerts.vip",
     "eth.airdropsalerts.vip",
     "nxm.airdropsalerts.vip",
-    "dot.airdropsalerts.vip",
     "camp.airdropsalerts.vip",
     "sca.airdropsalerts.vip",
     "avt.airdropsalerts.vip",
@@ -107373,6 +107372,7 @@
     "coincapmarketlistinghub-dfa62.netlify.app",
     "moonshot-voting-oy.netlify.app",
     "zamaprotocol.news",
-    "chainlinkhashrate.xyz"
+    "chainlinkhashrate.xyz",
+    "trxfee.net"
   ]
 }
