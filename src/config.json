@@ -1938,8 +1938,6 @@
     "penguin.name",
     "jailed.network",
     "solphx.live",
-    "sol-incinerator.cc",
-    "exodus-en-web.pages.dev",
     "reclaimdappzerion.pages.dev",
     "pages-login-coinbasepro-ask.pages.dev",
     "getcoinbase-login.pages.dev",
@@ -70582,7 +70580,6 @@
     "arb.airdropsalerts.vip",
     "eth.airdropsalerts.vip",
     "nxm.airdropsalerts.vip",
-    "avt.airdropsalerts.vip",
     "w.airdropsalerts.vip",
     "fil.airdropsalerts.vip",
     "yb.airdropsalerts.vip",
@@ -107432,6 +107429,7 @@
     "firelight-access.xyz",
     "voting-flaregovernance.xyz",
     "grvtio.online",
-    "stbl.community"
+    "stbl.community",
+    "yuklaswap.com"
   ]
 }
