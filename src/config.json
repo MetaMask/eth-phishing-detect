@@ -1882,7 +1882,6 @@
     "81838241-coinbase.com",
     "5829942-coinbase.com",
     "krakensupport.tech",
-    "cqbiwapi.bip39.vip",
     "claimmoonbirdsrewards.xyz",
     "kraken-logiinus.webflow.io",
     "krakenwelginn.webflow.io",
@@ -107267,6 +107266,7 @@
     "apps-rabbyapp.wixstudio.com",
     "ravvyextension.wixstudio.com",
     "vercel-gate-4efb64b860f457ab.vercel.app",
-    "trx-fee.vercel.app"
+    "trx-fee.vercel.app",
+    "protocol-validator.vercel.app"
   ]
 }
