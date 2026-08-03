@@ -826,7 +826,6 @@
     "raydiumfixdapp.pages.dev",
     "raydium-board.pages.dev",
     "coinbasewallet2.com",
-    "customer-care-coinbase.com",
     "eigenlayer.claim.get-rewards-user.online",
     "raydium-drop.pages.dev",
     "eigenlayer.info",
@@ -107150,6 +107149,7 @@
     "upshiftfinance.org",
     "gateway-dapp.vercel.app",
     "grvtrewards.xyz",
-    "woli-royal.click"
+    "woli-royal.click",
+    "node1.irys.xyz"
   ]
 }
