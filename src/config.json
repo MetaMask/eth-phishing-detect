@@ -1881,7 +1881,6 @@
     "events-coinbase.fun",
     "app-uniswap-trade.cc",
     "com-connect-wallet.trade",
-    "echo-3mj.pages.dev",
     "1inch.exchange.aqanu.org",
     "445-test-444.com",
     "kraken-de.pages.dev",
@@ -107253,6 +107252,7 @@
     "moonshot-voting-ij.netlify.app",
     "router-connect-eta.vercel.app",
     "rewards.petra.bio",
-    "app.proposals-flr.xyz"
+    "app.proposals-flr.xyz",
+    "flarenetwork.click"
   ]
 }
