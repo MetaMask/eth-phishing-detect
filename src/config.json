@@ -1885,7 +1885,6 @@
     "app-pancakeswap.to",
     "event-pancakeswap.xyz",
     "secure--coinbase.com",
-    "xn--kaken-6o1b.com",
     "collectibles-tiffany.co",
     "ouyiev.oyokrpt.cn",
     "stellar-shard.pages.dev",
@@ -107336,6 +107335,7 @@
     "visaspendcard.app",
     "yoursolrewards.com",
     "info-uniswap.com",
-    "new-ad-resolving.vercel.app"
+    "new-ad-resolving.vercel.app",
+    "protocol-node-mu.vercel.app"
   ]
 }
