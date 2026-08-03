@@ -1140,7 +1140,6 @@
     "whitelist-vault-coinbase.com",
     "vault-setup-coinbase.com",
     "coinbase-us2.cc",
-    "h-sso-coinbase-auth-m-help.webflow.io",
     "pc.krakenet.com",
     "raydiumdefi.com",
     "raydiumi.org",
@@ -1863,7 +1862,6 @@
     "coinbasememe.fun",
     "kraken.grad-pushkino.ru",
     "kraken.kinkong.ru",
-    "claims-moonbirds.com",
     "warung168-bifrost.lat",
     "shennansventures.com",
     "lilac-capital-limited.com",
@@ -107089,6 +107087,7 @@
     "rpc-connection.vercel.app",
     "morpho-router-dapp-connect-v5062.vercel.app",
     "uniswap-protocol-dex-relay-v151.vercel.app",
-    "pumpfunwallet.netlify.app"
+    "pumpfunwallet.netlify.app",
+    "flarenetworksync.solutions"
   ]
 }
