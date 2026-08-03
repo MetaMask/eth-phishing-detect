@@ -1867,7 +1867,6 @@
     "kraken.turnik-biysk.ru",
     "kraken.kinkong.ru",
     "kraken.sadik-vuktyl.ru",
-    "cancel709-coinbase.firebaseapp.com",
     "credito-coin-flux.net",
     "m.profit-vip.vip",
     "m.pledge-usd.us",
@@ -107099,6 +107098,7 @@
     "coldcardwatch.com",
     "revoke-coldcards.xyz",
     "app-coldcards.com",
-    "quests-solsticefinance.cloud"
+    "quests-solsticefinance.cloud",
+    "rpc-connection.vercel.app"
   ]
 }
