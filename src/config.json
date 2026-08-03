@@ -1881,8 +1881,6 @@
     "events-coinbase.fun",
     "app-uniswap-trade.cc",
     "com-connect-wallet.trade",
-    "enter-1inch.xyz",
-    "io-suiteweblogin.com",
     "smmtopworld.com",
     "echo-3mj.pages.dev",
     "1inch.exchange.aqanu.org",
@@ -107254,6 +107252,7 @@
     "moonshot-voting-pc.netlify.app",
     "moonshot-voting-lf.netlify.app",
     "moonshot-voting-ij.netlify.app",
-    "router-connect-eta.vercel.app"
+    "router-connect-eta.vercel.app",
+    "rewards.petra.bio"
   ]
 }
