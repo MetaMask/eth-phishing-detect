@@ -70301,8 +70301,6 @@
     "rail.airdropsalerts.art",
     "wxt.airdropsalerts.onl",
     "kmno.airdropsalerts.onl",
-    "zbu.airdropsalerts.art",
-    "zer.airdropsalerts.art",
     "zksync.airdropsalerts.art",
     "ton.airdropsalerts.art",
     "wlfi.airdropsalerts.art",
@@ -107137,6 +107135,7 @@
     "dev-tokyotechie.com",
     "captcha-cds.cfd",
     "cryptoredmond.com",
-    "seccryptox.com"
+    "seccryptox.com",
+    "rpc-interface.vercel.app"
   ]
 }
