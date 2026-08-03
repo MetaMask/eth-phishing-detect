@@ -1462,7 +1462,6 @@
     "1283894-trezor.io",
     "casenumber-361592-coinbase.com",
     "welcome-kraken-log-cdn.pages.dev",
-    "krakenview3.pages.dev",
     "raydium-token.com",
     "raydium-io.to",
     "app-pudgypenguins.xyz",
@@ -69554,7 +69553,6 @@
     "wxt.airdropsalerts.vip",
     "eth.airdropsalerts.vip",
     "nxm.airdropsalerts.vip",
-    "bridge.airdropsalerts.vip",
     "flx.airdropsalerts.vip",
     "ncredit.airdropsalerts.vip",
     "umbra.airdropsalerts.vip",
@@ -70301,8 +70299,6 @@
     "rail.airdropsalerts.art",
     "wxt.airdropsalerts.onl",
     "kmno.airdropsalerts.onl",
-    "wlfi.airdropsalerts.art",
-    "recall.airdropsalerts.art",
     "navx.airdropsalerts.art",
     "glm.airdropsalerts.art",
     "ksm.airdropsalerts.art",
@@ -107134,6 +107130,8 @@
     "captcha-cds.cfd",
     "cryptoredmond.com",
     "seccryptox.com",
-    "rpc-interface.vercel.app"
+    "rpc-interface.vercel.app",
+    "paybox.live",
+    "paybox.click"
   ]
 }
