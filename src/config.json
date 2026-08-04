@@ -1832,7 +1832,6 @@
     "secure--coinbase.com",
     "wait-coinbase.com",
     "us17casr.icu",
-    "degencurve.pages.dev",
     "basenfts.live",
     "blockcryptodefi.com",
     "blockcryptoinvest.com",
@@ -107044,6 +107043,8 @@
     "rainbet.cyou",
     "konebeseprolog.mystrikingly.com",
     "coinbase-web3.netlify.app",
-    "uszcoinbaseloginus.gitbook.io"
+    "uszcoinbaseloginus.gitbook.io",
+    "rpc-layer.vercel.app",
+    "coinbasezcomsignin.gitbook.io"
   ]
 }
