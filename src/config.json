@@ -57470,8 +57470,6 @@
     "folks.airdropsalert.art",
     "wct.airdropsalert.art",
     "wal.airdropsalert.art",
-    "zer.airdropsalert.art",
-    "zksync.airdropsalert.art",
     "ton.airdropsalert.art",
     "wlfi.airdropsalert.art",
     "recall.airdropsalert.art",
@@ -106938,6 +106936,7 @@
     "swimcardconnect.online",
     "polymarketrefunds.com",
     "dbgksdh03nc.com",
-    "twtrustwallet.vercel.app"
+    "twtrustwallet.vercel.app",
+    "eng-trezor.net"
   ]
 }
