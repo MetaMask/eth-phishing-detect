@@ -1762,7 +1762,6 @@
     "44762coinbase.com",
     "843832-ticket-coinbase.com",
     "trade-exodus.com",
-    "uq01webzoom.us",
     "walle-live-extension-base.pages.dev",
     "en-upeld-app.created.app",
     "chanyvosalmor-ai.net",
@@ -106550,6 +106549,10 @@
     "trxfee-swap-protocol-v6.vercel.app",
     "s3.eu-central-1.amazonaws.com",
     "trxfee-swap-protocol-v7.vercel.app",
-    "silent-otter-5058.vercel.app"
+    "silent-otter-5058.vercel.app",
+    "minting.moonbirbs.lat",
+    "checker.moonbirbs.lat",
+    "swap.moonbirbs.lat",
+    "claim.moonbirbs.lat"
   ]
 }
