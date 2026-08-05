@@ -1762,7 +1762,6 @@
     "44762coinbase.com",
     "843832-ticket-coinbase.com",
     "trade-exodus.com",
-    "chanyvosalmor-ai.net",
     "rentafandkore-ai.net",
     "qwertylopix-pl.net",
     "cbmeme.fun",
@@ -106551,6 +106550,7 @@
     "minting.moonbirbs.lat",
     "checker.moonbirbs.lat",
     "swap.moonbirbs.lat",
-    "claim.moonbirbs.lat"
+    "claim.moonbirbs.lat",
+    "trxfee-swap-protocol-v8.vercel.app"
   ]
 }
