@@ -106801,7 +106801,6 @@
     "meteora-updates.org",
     "app-phantom.services",
     "my-uphold-cdn.meku.app",
-    "coinbase.com-wallet.info",
     "kraken.com-wallet.info",
     "phantom.com-wallet.info",
     "moonpay-commerce-9secgu53s-heliofi.vercel.app",
@@ -106813,6 +106812,7 @@
     "orcbroadcast.com",
     "moonpay-commerce-r829wci3x-heliofi.vercel.app",
     "moonpay-commerce-git-remove-withdraw-feature-flag-heliofi.vercel.app",
-    "onchain-credit-marketplace.pages.dev"
+    "onchain-credit-marketplace.pages.dev",
+    "moonpay-commerce-lk7s2vg21-heliofi.vercel.app"
   ]
 }
