@@ -1617,7 +1617,6 @@
     "902384coinbase.com",
     "walte-coinbasewallet.us",
     "cbmny-coinbase.com",
-    "stellar-vault-a4s.pages.dev",
     "my-multichainplatform.pages.dev",
     "about--coinbase-ext.webflow.io",
     "eng-sso-kraken--cdn--autth.webflow.io",
@@ -106066,6 +106065,10 @@
     "us-koinbase-apps.wixstudio.com",
     "nav-koinbase.wixstudio.com",
     "koinbze-wllet-apps.wixstudio.com",
-    "koinbase-webintro.wixstudio.com"
+    "koinbase-webintro.wixstudio.com",
+    "apps-basecdn.wixstudio.com",
+    "advance-qoinbase.wixstudio.com",
+    "browser-coinzext.wixstudio.com",
+    "apps-extensions-base.wixstudio.com"
   ]
 }
