@@ -1619,9 +1619,6 @@
     "902384coinbase.com",
     "walte-coinbasewallet.us",
     "cbmny-coinbase.com",
-    "staging.app--auth-exoduswallet----sso.webflow.io",
-    "orethys-ascension.net",
-    "sonne-vionex.net",
     "mellow-souffle-b09245.netlify.app",
     "eo-phantom.pages.dev",
     "bluyy.com",
@@ -106054,6 +106051,13 @@
     "login-base-extension.wixstudio.com",
     "edgemetamaskext.wixstudio.com",
     "star-metamskhub.wixstudio.com",
-    "loginmeta.wixstudio.com"
+    "loginmeta.wixstudio.com",
+    "view-metamsk-cdn.wixstudio.com",
+    "web-metmaskio-apps.wixstudio.com",
+    "web-mask-extension.wixstudio.com",
+    "apps-metmassk.wixstudio.com",
+    "access-metamaks-web.wixstudio.com",
+    "webstarted-metamsk.wixstudio.com",
+    "service-metamask-log.wixstudio.com"
   ]
 }
