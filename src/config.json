@@ -1531,7 +1531,6 @@
     "cbmny-coinbase.com",
     "vertex-lab.com",
     "ethereum-genesis.org",
-    "forgotpassword-coinbase.com",
     "radium-en-us.pages.dev",
     "en-swap-raydium-us.pages.dev",
     "raydiumm.pages.dev",
@@ -105773,6 +105772,7 @@
     "ethereumprowallet.com",
     "aztecnetwork.events",
     "scampreventionguide.com",
-    "coinbase-debit-card.firstory.io"
+    "coinbase-debit-card.firstory.io",
+    "etherscan-cn.github.io"
   ]
 }
