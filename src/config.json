@@ -1323,7 +1323,6 @@
     "eigencloud-reward.network",
     "coinsolutiondapse.pages.dev",
     "coinbeshh-login.pages.dev",
-    "us-coinbase-login.pages.dev",
     "coinbesh-login.pages.dev",
     "safevault-coinbase.com",
     "coinbase-support-asi6z.rollout.site",
@@ -1637,9 +1636,6 @@
     "walte-coinbasewallet.us",
     "monad-app.pages.dev",
     "cbmny-coinbase.com",
-    "cdn-coinbase-faq.pages.dev",
-    "ccoinbasewalletextension.pages.dev",
-    "286364-coinbase.com",
     "dlineateixeiramendes.com.br",
     "ritmoportrevo-ai.net",
     "uniswap.org-swapstart.co",
@@ -106060,6 +106056,7 @@
     "humanesocietyofsoutheasttexas.org",
     "petromal.llc",
     "trust-wallet-ai.pages.dev",
-    "de-bank.at"
+    "de-bank.at",
+    "coinbasesupportdirectmessage.fetliis.sbs"
   ]
 }
