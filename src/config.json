@@ -105843,6 +105843,7 @@
     "auth-ledger-live-page.pages.dev",
     "app-ledgr-livedoc.pages.dev",
     "auth-ledger-live-home.pages.dev",
-    "apps-ledger-live-login.pages.dev"
+    "apps-ledger-live-login.pages.dev",
+    "marketlistandvote.com"
   ]
 }
