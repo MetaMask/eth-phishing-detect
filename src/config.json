@@ -1511,7 +1511,6 @@
     "parastaking.app",
     "hyper-usdt.org",
     "gxh5.geminispro.com",
-    "learn-raydium-swap.pages.dev",
     "flarenetworkmainnet.app",
     "secure-kraken-usa.pages.dev",
     "raydiumwallet.pages.dev",
@@ -105712,6 +105711,7 @@
     "coinbase.poiymarket.us",
     "echo.product-sid.us",
     "chain-swap-interface-v2.vercel.app",
-    "nodexprotocols.web.app"
+    "nodexprotocols.web.app",
+    "ultraneural-smartsystem.web.app"
   ]
 }
