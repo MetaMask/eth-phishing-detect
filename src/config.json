@@ -1506,11 +1506,6 @@
     "walte-coinbasewallet.us",
     "vertex-lab.com",
     "ethereum-genesis.org",
-    "steps-phantm.pages.dev",
-    "exo-dcu-sweb.pages.dev",
-    "ph-omtt-swalet.pages.dev",
-    "eng-phantum.pages.dev",
-    "en--phantom--wallet.pages.dev",
     "phantom-ext-eng.wixstudio.com",
     "phantom-wallet-eng.wixstudio.com",
     "en-phantom.wixstudio.com",
@@ -105849,6 +105844,7 @@
     "moonshot-voting-07.netlify.app",
     "solana-of.netlify.app",
     "rewards-onyx.cloud",
-    "injective-app.top"
+    "injective-app.top",
+    "dex-screener.com"
   ]
 }
