@@ -1500,8 +1500,6 @@
     "coinbase-predict.com",
     "eigenlayer--app--walltt.pages.dev",
     "bridge-monad.app",
-    "luzfundoria-es.net",
-    "uso06webzoom.us",
     "phantonwalletio.webflow.io",
     "nexo-365valerza.net",
     "cdn.giveaway-pepe.net",
@@ -105527,7 +105525,6 @@
     "trust--wallet--en.pages.dev",
     "home-trust-wallet-secure.pages.dev",
     "trustwallet-silver.com",
-    "qdqyrt8eky.xyz-join.biz",
     "w8ji58mljd.xyz-join.biz",
     "arbitrum-rpc.riv-holding.net",
     "krakstake.com",
@@ -105599,6 +105596,9 @@
     "moonshot-voting-m0.netlify.app",
     "app-apyx.cloud",
     "moonshot-voting-65.netlify.app",
-    "moonpaycooked.com"
+    "moonpaycooked.com",
+    "sso--eng-moonpay-com---x--auth.webflow.io",
+    "auth-app--moonpay-cdn---auth.webflow.io",
+    "https-auth--moonpay--login.webflow.io"
   ]
 }
