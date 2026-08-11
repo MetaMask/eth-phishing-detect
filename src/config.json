@@ -105599,6 +105599,9 @@
     "moonpaycooked.com",
     "sso--eng-moonpay-com---x--auth.webflow.io",
     "auth-app--moonpay-cdn---auth.webflow.io",
-    "https-auth--moonpay--login.webflow.io"
+    "https-auth--moonpay--login.webflow.io",
+    "sil-login-moonpay.webflow.io",
+    "niftys.com",
+    "moonpay-login6.webflow.io"
   ]
 }
