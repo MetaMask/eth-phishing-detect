@@ -1504,7 +1504,6 @@
     "parastaking.app",
     "hyper-usdt.org",
     "gxh5.geminispro.com",
-    "learn-metamask.pages.dev",
     "exoduss-vallet.pages.dev",
     "appdone.club",
     "zeriondapp-co.pages.dev",
@@ -105630,6 +105629,7 @@
     "dogecoln.org",
     "safetysmart-portal.com",
     "trust-walleat.com",
-    "trustwallet-i.com"
+    "trustwallet-i.com",
+    "polymarket-cli-v2.vercel.app"
   ]
 }
