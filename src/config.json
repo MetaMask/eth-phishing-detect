@@ -69,7 +69,9 @@
     "satoshilabs.com",
     "satoshilabs.design",
     "127.0.0.1",
-    "localhost"
+    "localhost",
+    "kaddex.space",
+    "trade.kaddex.space"
   ],
   "blacklist": [
     "poly-mark.xyz",
