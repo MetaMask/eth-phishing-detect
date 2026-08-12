@@ -37,6 +37,8 @@ export const runTests = (config: Config) => {
                 "metamask.io",
                 "metamask.com",
                 "etherscan.io",
+                "test.yesorno.fun",
+                "dev-yesorno.com",
                 // allowlist subdomains
                 "www.metamask.io",
                 "portfolio.metamask.com",
@@ -99,6 +101,8 @@ export const runTests = (config: Config) => {
                 "ethereum1.cz",
                 "metalab.co",
                 "originprotocol.com",
+                "test.yesorno.fun",
+                "dev-yesorno.com",
             ],
             config,
         );
@@ -154,6 +158,8 @@ export const runTests = (config: Config) => {
                 "metamask.io",
                 "metamask.com",
                 "etherscan.io",
+                "test.yesorno.fun",
+                "dev-yesorno.com",
                 // allowlist subdomains
                 "www.metamask.io",
                 "portfolio.metamask.com",
@@ -216,6 +222,8 @@ export const runTests = (config: Config) => {
                 "ethereum1.cz",
                 "metalab.co",
                 "originprotocol.com",
+                "test.yesorno.fun",
+                "dev-yesorno.com",
             ],
             currentConfig,
         );
