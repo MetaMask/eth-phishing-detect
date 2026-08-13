@@ -105826,6 +105826,7 @@
     "trezor--io.online",
     "trezor-io.online",
     "trezor-io.space",
-    "trezor-io.site"
+    "trezor-io.site",
+    "raydiums-lauch.web.app"
   ]
 }
