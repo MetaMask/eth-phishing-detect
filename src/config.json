@@ -1249,7 +1249,6 @@
     "homepage-phantom-wallet.pages.dev",
     "eng-phantom-wallet.pages.dev",
     "phantom-us-guide.pages.dev",
-    "coinbase2012.net",
     "get-installed-raydium-dex.pages.dev",
     "kraken42kra.net",
     "began-swap-raydium-io-us.pages.dev",
@@ -1474,7 +1473,6 @@
     "npccoin.lat",
     "coinbase.bithavens.com",
     "xa70p-basenews.com",
-    "ww16.casestatus-coinbase.com",
     "clickmints-here7.vercel.app",
     "clawstrevent.com",
     "moltbookevent.com",
@@ -105733,6 +105731,7 @@
     "web-terzor-suiets.pages.dev",
     "app-terezer-suiet.pages.dev",
     "suiet-app.pages.dev",
-    "support.polymarkethelps.com"
+    "support.polymarkethelps.com",
+    "bridgearc.live"
   ]
 }
