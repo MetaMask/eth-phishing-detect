@@ -1473,8 +1473,6 @@
     "npccoin.lat",
     "coinbase.bithavens.com",
     "xa70p-basenews.com",
-    "secure--app-coinbasepro--view--auth.webflow.io",
-    "eng--sso--coinbasepro--cdn--n---auth.webflow.io",
     "secure-sso-coinbasepro-d-cdn.webflow.io",
     "sol-monitor.dycrypto.top",
     "plume-foundation-landing.pages.dev",
@@ -105810,6 +105808,7 @@
     "moonshot-voting-1g.netlify.app",
     "withdraw-neutrl.finance",
     "signup-lighter.info",
-    "claim-1e.netlify.app"
+    "claim-1e.netlify.app",
+    "ww25.zksync.live"
   ]
 }
