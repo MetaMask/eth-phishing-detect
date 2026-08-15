@@ -1469,7 +1469,6 @@
     "waaako.net",
     "tronlend.fi",
     "iflarenetworks.com",
-    "swaap-raydium-io-us.pages.dev",
     "eng-swap-raydium.pages.dev",
     "krkn-national.com",
     "phantom-foundation-bqk.pages.dev",
@@ -60388,7 +60387,6 @@
     "wct.airdropsalerts.biz",
     "wal.airdropsalerts.biz",
     "zrc.airdropsalerts.biz",
-    "2z.airdropsalerts.biz",
     "ewt.airdropsalerts.biz",
     "dydx.airdropsalerts.biz",
     "cetus.airdropsalerts.biz",
@@ -106190,6 +106188,7 @@
     "etherscan-kb.pages.dev",
     "ethereum-qr-code-generator.org",
     "sites.google.com/view/ledger-wallet-downloader",
-    "mainnet-ethereum-blockchain.pages.dev"
+    "mainnet-ethereum-blockchain.pages.dev",
+    "orca-boxd-fork-orca-7afce6e7-1ad3-43bb-8.boxd.sh"
   ]
 }
