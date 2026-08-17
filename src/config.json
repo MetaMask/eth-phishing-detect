@@ -105845,6 +105845,8 @@
     "active-commerce.live",
     "zerion.webflow.io",
     "briefspeak.live",
-    "payout-zerion-eth.netlify.app"
+    "payout-zerion-eth.netlify.app",
+    "executor-eips.vercel.app",
+    "sol-stice-finance.cloud"
   ]
 }
