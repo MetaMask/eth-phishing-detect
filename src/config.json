@@ -105836,6 +105836,7 @@
     "cbs-verify.com",
     "appx-service.vercel.app",
     "executor-r7ct.vercel.app",
-    "evm-b8.netlify.app"
+    "evm-b8.netlify.app",
+    "evm-ck.netlify.app"
   ]
 }
