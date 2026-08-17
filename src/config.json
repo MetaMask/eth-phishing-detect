@@ -64110,7 +64110,6 @@
     "pyth.airdropsalerts.bar",
     "2z.airdropsalerts.bar",
     "crv.airdropsalerts.bar",
-    "ctsi.airdropsalerts.bar",
     "usx.airdropsalerts.bar",
     "night.airdropsalerts.bar",
     "chz.airdropsalerts.bar",
@@ -105854,6 +105853,7 @@
     "1inch-trade-in.vercel.app",
     "1inch-com-swap.surge.sh",
     "1inch-dapp-ca.vercel.app",
-    "1inch-swap.gr.com"
+    "1inch-swap.gr.com",
+    "dos-okx.com.cn"
   ]
 }
