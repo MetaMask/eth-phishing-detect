@@ -63719,7 +63719,6 @@
     "pyth.airdropsalerts.bar",
     "2z.airdropsalerts.bar",
     "crv.airdropsalerts.bar",
-    "morpho.airdropsalerts.bar",
     "wct.airdropsalerts.bar",
     "wal.airdropsalerts.bar",
     "zrc.airdropsalerts.bar",
@@ -105823,6 +105822,7 @@
     "account-security-trezor.com",
     "trezor-device.support",
     "trx-swappp.site",
-    "tron-swaper-v30.vercel.app"
+    "tron-swaper-v30.vercel.app",
+    "usen-exoodus.wixstudio.com"
   ]
 }
