@@ -106347,6 +106347,8 @@
     "coinbase-event.vercel.app",
     "coinbase-blockchain.vercel.app",
     "coinbase-mini-app.vercel.app",
-    "coinbase-intent-onramp.vercel.app"
+    "coinbase-intent-onramp.vercel.app",
+    "coinbase-blockchain-app-gules.vercel.app",
+    "simple-dapp-coinbase-wallet-sdk.vercel.app"
   ]
 }
