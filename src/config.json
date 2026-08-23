@@ -1428,10 +1428,6 @@
     "requests-kraken.com",
     "smovecoinbase.com",
     "strategygive.io",
-    "us19web-zoom.us",
-    "us235webs-zoom.us",
-    "us10webs-zoom.us",
-    "us011web-zoom.us",
     "en-phantom-com.pages.dev",
     "phantom-us-io.pages.dev",
     "extansion-chroma-metamask.pages.dev",
@@ -56989,7 +56985,6 @@
     "rls.airdropsalerts.biz",
     "soph.airdropsalerts.biz",
     "celo.airdropsalerts.biz",
-    "strk.airdropsalerts.biz",
     "pyth.airdropsalerts.biz",
     "wxt.airdropsalerts.biz",
     "crv.airdropsalerts.biz",
@@ -60406,9 +60401,6 @@
     "scr.airdropsalerts.onl",
     "ath.airdropsalerts.onl",
     "celo.airdropsalerts.onl",
-    "strk.airdropsalerts.onl",
-    "ns.airdropsalerts.onl",
-    "cgpt.airdropsalerts.xyz",
     "nxm.airdropsalerts.onl",
     "dydx.airdropsalerts.xyz",
     "pyth.airdropsalerts.xyz",
@@ -61488,7 +61480,6 @@
     "celo.airdropsalerts.cyou",
     "celo.airdropsalerts.bar",
     "bnt.airdropsalerts.bar",
-    "strk.airdropsalerts.bar",
     "cgpt.airdropsalerts.bar",
     "dydx.airdropsalerts.bar",
     "pyth.airdropsalerts.bar",
@@ -106081,6 +106072,7 @@
     "ai.midnight-pd.org",
     "cowswap-dapp-interface-router-v164.vercel.app",
     "chubby.fish",
-    "claim.espreesso.lol"
+    "claim.espreesso.lol",
+    "hybriditpoint.com"
   ]
 }
