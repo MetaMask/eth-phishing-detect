@@ -96232,7 +96232,6 @@
     "trxfee-swap-protocol-v6.vercel.app",
     "trxfee-swap-protocol-v7.vercel.app",
     "silent-otter-5058.vercel.app",
-    "minting.moonbirbs.lat",
     "checker.moonbirbs.lat",
     "swap.moonbirbs.lat",
     "claim.moonbirbs.lat",
@@ -105731,6 +105730,7 @@
     "guardian-oihe.vercel.app",
     "sites.google.com/view/connect-ledger-live",
     "fi.en-int.us",
-    "stake-pendlefinance.pages.dev"
+    "stake-pendlefinance.pages.dev",
+    "sites.google.com/view/app-installations/ledger-wallet"
   ]
 }
