@@ -105695,12 +105695,11 @@
     "830427-coinbase.com",
     "818144coinbase.com",
     "cpcontacts.servicios-en-linea.com",
-    "mta-sts.reviewsupport-coinbase.com",
-    "smtp1.reviewsupport-coinbase.com",
     "wap.reviewsupport-coinbase.com",
     "smtp.reviewsupport-coinbase.com",
     "cdn.reviewsupport-coinbase.com",
     "mail2.reviewsupport-coinbase.com",
-    "mobile.reviewsupport-coinbase.com"
+    "mobile.reviewsupport-coinbase.com",
+    "trezors.net"
   ]
 }
