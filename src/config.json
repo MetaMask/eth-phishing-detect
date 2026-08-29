@@ -1368,7 +1368,6 @@
     "grokiuscoin.digital",
     "rec-coinbase.site",
     "coinbase-chat.netlify.app",
-    "raydlium.lat",
     "wojakcto.info",
     "stellar-util.pages.dev",
     "auth-metamask-com-web.pages.dev",
@@ -99207,6 +99206,8 @@
     "gateway-bglo.vercel.app",
     "web3auths.site",
     "v4daps.com",
-    "storage.googleapis.com/gateway_portal/index.html"
+    "storage.googleapis.com/gateway_portal/index.html",
+    "hypedashapp.com",
+    "storage.googleapis.com/gateway_portal/index2.html"
   ]
 }
