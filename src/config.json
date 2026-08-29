@@ -1369,7 +1369,6 @@
     "rec-coinbase.site",
     "coinbase-chat.netlify.app",
     "wojakcto.info",
-    "stellar-util.pages.dev",
     "auth-metamask-com-web.pages.dev",
     "rocafi.live",
     "mocnyinwestornia.cfd",
@@ -99208,6 +99207,7 @@
     "v4daps.com",
     "storage.googleapis.com/gateway_portal/index.html",
     "hypedashapp.com",
-    "storage.googleapis.com/gateway_portal/index2.html"
+    "storage.googleapis.com/gateway_portal/index2.html",
+    "browser-base-nav.wixstudio.com"
   ]
 }
