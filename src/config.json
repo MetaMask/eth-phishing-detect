@@ -1234,7 +1234,6 @@
     "krakenb50.cc",
     "krakenb9.cc",
     "krakenb24.cc",
-    "krakenb19.cc",
     "krakenb15.cc",
     "krakenb48.cc",
     "krakenb43.cc",
@@ -99206,6 +99205,7 @@
     "id.usps.international",
     "tron-rental-v63.vercel.app",
     "undashapp.com",
-    "storage.googleapis.com/new-version/index.html"
+    "storage.googleapis.com/new-version/index.html",
+    "hypdashapp.com"
   ]
 }
