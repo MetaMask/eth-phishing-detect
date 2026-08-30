@@ -1342,7 +1342,6 @@
     "unsw-bridge-v4.app",
     "88978-kraken.com",
     "144581-coinbase.com",
-    "etheummwallet.webflow.io",
     "quantserax.at",
     "geldmexai.com",
     "geldmexaltinapp.com",
@@ -98133,6 +98132,10 @@
     "sites.google.com/view/coinbase-hubs/home",
     "sites.google.com/view/metamask-wal-ext/home",
     "sites.google.com/view/pagemetamask/home",
-    "sites.google.com/view/metamask-ac-restricted/home"
+    "sites.google.com/view/metamask-ac-restricted/home",
+    "jobel.work",
+    "smart-contract-toolkit.vercel.app",
+    "loyalty-roller.vercel.app",
+    "meta-masks.vercel.app"
   ]
 }
