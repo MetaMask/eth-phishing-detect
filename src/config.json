@@ -97941,6 +97941,7 @@
     "my--river-cdn-autth.webflow.io",
     "secure--river---oauth.webflow.io",
     "en--river--auth.webflow.io",
-    "en--river--auths.webflow.io"
+    "en--river--auths.webflow.io",
+    "eng--river--financial-auth.webflow.io"
   ]
 }
