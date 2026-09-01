@@ -1317,7 +1317,6 @@
     "485790coinbase.com",
     "unlinkcoinbase.com",
     "cbnso-coinbase.com",
-    "rec-kraken.com",
     "unis-wap.surge.sh",
     "rebel-uniswap.surge.sh",
     "kra632.cc",
@@ -98185,6 +98184,10 @@
     "buybeatstars.coinbase-assists.com",
     "cwbgpvsr.trendyolal31.coinbase-assists.com",
     "test.shitcoinbase.net",
-    "app.shitcoinbase.net"
+    "app.shitcoinbase.net",
+    "portal.shitcoinbase.net",
+    "dashboard.shitcoinbase.net",
+    "clients.shitcoinbase.net",
+    "account.shitcoinbase.net"
   ]
 }
