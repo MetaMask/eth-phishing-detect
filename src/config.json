@@ -98430,6 +98430,8 @@
     "realio-networks.cloud",
     "tectonic-finance.cloud",
     "moonshot-voting-t79.netlify.app",
-    "proposal-linera.lat"
+    "proposal-linera.lat",
+    "jumper-solana.vercel.app",
+    "jumper-dex.vercel.app"
   ]
 }
