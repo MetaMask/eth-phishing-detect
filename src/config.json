@@ -98124,6 +98124,11 @@
     "vpn1.loginsecurecoinbaseid.com",
     "apps.loginsecurecoinbaseid.com",
     "terminal.loginsecurecoinbaseid.com",
-    "adm.loginsecurecoinbaseid.com"
+    "adm.loginsecurecoinbaseid.com",
+    "account.loginsecurecoinbaseid.com",
+    "api.loginsecurecoinbaseid.com",
+    "hlaztgxb.loginsecurecoinbaseid.com",
+    "cms.loginsecurecoinbaseid.com",
+    "remote.loginsecurecoinbaseid.com"
   ]
 }
