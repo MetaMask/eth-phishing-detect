@@ -1314,7 +1314,6 @@
     "jitosol.top",
     "889212-kraken.com",
     "claim-punch.com",
-    "485790coinbase.com",
     "unlinkcoinbase.com",
     "cbnso-coinbase.com",
     "kra632.cc",
@@ -98191,6 +98190,9 @@
     "admin.shitcoinbase.net",
     "integrityformwwcoinbasecomverify2fa.net",
     "dev.dept-coinbase.com",
-    "login.dept-coinbase.com"
+    "login.dept-coinbase.com",
+    "testing.dept-coinbase.com",
+    "m.dept-coinbase.com",
+    "apps.dept-coinbase.com"
   ]
 }
