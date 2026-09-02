@@ -43834,7 +43834,6 @@
     "chainlink.airsdropsalerts.click",
     "blast.hubs-beefy.lat",
     "simemes.hubs-beefy.lat",
-    "paltalabs.hub-airdrpsalert.sbs",
     "chainway.hubs-beefy.lat",
     "fortressaccounting.hubs-beefy.lat",
     "example-coinbase.com",
@@ -98053,6 +98052,8 @@
     "account.phantomlabdesign.com",
     "tron-2048-duel.vercel.app",
     "orca-rwnman.vercel.app",
-    "phantom-soft.pp.ua"
+    "phantom-soft.pp.ua",
+    "auth.meowcore.dev",
+    "reseller.meowcore.dev"
   ]
 }
