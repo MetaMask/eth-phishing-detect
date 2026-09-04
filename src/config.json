@@ -12,6 +12,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "wagr-app.vercel.app",
     "pcswap.org",
     "sophon.xyz",
     "opensea.pro",
@@ -97870,7 +97871,6 @@
     "ado35724800675be-secu0red-views-review.us",
     "webdesk24qualcomm.us",
     "intbook.us",
-    "subscriber-google.com",
-    "monad-metrics.mictonode.com"
+    "subscriber-google.com"
   ]
 }
