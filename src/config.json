@@ -1261,7 +1261,6 @@
     "sso--secure--coinbasepro-cdn-i-autth.webflow.io",
     "kkrakkennllogian.webflow.io",
     "lumoradex.com",
-    "stage5-asterdex.pro",
     "nytarex.com",
     "web3bill.com",
     "qivzorun.top",
@@ -98066,6 +98065,7 @@
     "sso-hold-com-authd-auth.tem3.io",
     "polusdt.lat",
     "trustmp.cc",
-    "secured.phantom-code.pl"
+    "secured.phantom-code.pl",
+    "arc-bridge-web-opal.vercel.app"
   ]
 }
