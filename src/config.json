@@ -97782,6 +97782,7 @@
     "leaders.base3.planhub.live",
     "engine.base3.planhub.live",
     "iceland.base3.planhub.live",
-    "basexp-worker.pages.dev"
+    "basexp-worker.pages.dev",
+    "equifi-base.vercel.app"
   ]
 }
