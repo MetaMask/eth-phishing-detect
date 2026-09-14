@@ -1201,7 +1201,6 @@
     "coinbase-noreply-mailbox.com",
     "coinbase-clone-p.netlify.app",
     "ensure-coinbase.com",
-    "docs-exoduss-web3.pages.dev",
     "deposit-strata.markets",
     "doc-exduss-web.pages.dev",
     "doc-exds.pages.dev",
@@ -98104,6 +98103,7 @@
     "digitalassetsales.store",
     "digitalassets-vault.com",
     "zkbridge.com",
-    "polygrab.io"
+    "polygrab.io",
+    "validator.testnet.canton.nodejumper.io"
   ]
 }
