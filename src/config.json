@@ -72,6 +72,7 @@
     "localhost"
   ],
   "blacklist": [
+    "fourstockbsc.meme",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
