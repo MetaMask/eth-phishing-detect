@@ -72,6 +72,7 @@
     "localhost"
   ],
   "blacklist": [
+    "arctools.tech",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
