@@ -72,6 +72,7 @@
     "localhost"
   ],
   "blacklist": [
+    "abcd.meme",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
