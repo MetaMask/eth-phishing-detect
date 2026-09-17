@@ -72,6 +72,7 @@
     "localhost"
   ],
   "blacklist": [
+    "longxyz.support",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
