@@ -72,6 +72,7 @@
     "localhost"
   ],
   "blacklist": [
+    "starklab.cyou",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
