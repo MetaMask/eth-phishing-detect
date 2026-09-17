@@ -72,6 +72,7 @@
     "localhost"
   ],
   "blacklist": [
+    "earning-xpoints.com",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
