@@ -72,6 +72,7 @@
     "localhost"
   ],
   "blacklist": [
+    "emberloot.xyz",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
