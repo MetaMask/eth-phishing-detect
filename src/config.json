@@ -72,6 +72,7 @@
     "localhost"
   ],
   "blacklist": [
+    "centralbank.bot",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
