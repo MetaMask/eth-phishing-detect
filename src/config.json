@@ -72,6 +72,7 @@
     "localhost"
   ],
   "blacklist": [
+    "x402x.cash",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
