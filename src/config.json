@@ -101326,6 +101326,9 @@
     "communitycollectivevotingselection.netlify.app",
     "portal-hylo.lat",
     "portals-usepaid.lat",
-    "get-embercruve.lat"
+    "get-embercruve.lat",
+    "wallet-ledger.network.mailserver-coinbase.com",
+    "coincover.network.mailserver-coinbase.com",
+    "mail.mailserver-coinbase.com"
   ]
 }
