@@ -260,4 +260,5 @@ export const customTlds = [
   "hashnode.dev",
   "com.tc",
   "kb.help",
+  "readme.io", // docs hosting; attackers abuse <project>.readme.io subdomains
 ];
