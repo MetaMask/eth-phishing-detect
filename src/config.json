@@ -100904,8 +100904,6 @@
     "case-trustwallet.com",
     "979182-crypto.com",
     "zevawin.com",
-    "webmail.trustwalletverifyweb3.com",
-    "cpcontacts.trustwalletverifyweb3.com",
     "wmplxhzhpp.trustwalletverifyweb3.com",
     "webdisk.trustwalletverifyweb3.com",
     "io-vivid-web.bond",
@@ -101028,6 +101026,10 @@
     "admin-base-extension.wixstudio.com",
     "help-base-extension.wixstudio.com",
     "into-koinbase-ext.wixstudio.com",
-    "base-user-extension.wixstudio.com"
+    "base-user-extension.wixstudio.com",
+    "ioapps-extensions-base.framer.website",
+    "koinbase-extension-wallet.framer.website",
+    "user-extension-base.framer.website",
+    "platform-coinbase.framer.website"
   ]
 }
