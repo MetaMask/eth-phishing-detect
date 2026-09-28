@@ -101115,7 +101115,6 @@
     "starknet-plum.vercel.app",
     "28sep.starkware.workers.dev",
     "governance-plasma.top",
-    "crypto-duc.netlify.app",
     "interests-yieldbasis.top",
     "portal-moonshot-4x3.netlify.app",
     "community-firelight.top",
@@ -101135,6 +101134,7 @@
     "vote.kinetiqhub.xyz",
     "interests-yieldbasis.xyz",
     "pendlefoundation.life",
-    "vote.kinetiqdao.xyz"
+    "vote.kinetiqdao.xyz",
+    "starknetwallet.org"
   ]
 }
