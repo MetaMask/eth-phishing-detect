@@ -101082,6 +101082,9 @@
     "ethcompilerv6.pages.dev",
     "ethcompilerv4.pages.dev",
     "ethcompilerv2.pages.dev",
-    "ethcompilerv3.pages.dev"
+    "ethcompilerv3.pages.dev",
+    "soliditycompile.pages.dev",
+    "rewards-yieldbasis.icu",
+    "arbitrage-bot.app"
   ]
 }
