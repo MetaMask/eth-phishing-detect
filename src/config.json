@@ -81188,13 +81188,6 @@
     "metmask-io-apps.wixstudio.com",
     "explore-metamskcdn.wixstudio.com",
     "orca.aix.md",
-    "sites.google.com/view/metamasksecure-/home",
-    "sites.google.com/view/meta-masksso/home",
-    "sites.google.com/coinlogn.com/metamask-login/home",
-    "sites.google.com/view/coinbase-hubs/home",
-    "sites.google.com/view/metamask-wal-ext/home",
-    "sites.google.com/view/pagemetamask/home",
-    "sites.google.com/view/metamask-ac-restricted/home",
     "jobel.work",
     "smart-contract-toolkit.vercel.app",
     "loyalty-roller.vercel.app",
@@ -101990,6 +101983,7 @@
     "acces-lighter.xyz",
     "pons.earn-token.fun",
     "pro.egdlex.exchange",
-    "rainbet-login.net"
+    "rainbet-login.net",
+    "pons.finance"
   ]
 }
