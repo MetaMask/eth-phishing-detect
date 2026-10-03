@@ -102070,6 +102070,14 @@
     "enter-papertrade.sbs",
     "proposals-ramses.sbs",
     "proposals-argus.sbs",
-    "gov-netnet.sbs"
+    "gov-netnet.sbs",
+    "proposal-ramses.sbs",
+    "proposal-papertrade.sbs",
+    "proposals-argus.top",
+    "crypto-sxu.netlify.app",
+    "gov-netnet.top",
+    "voting-zipcoin.sbs",
+    "stockereum-governs.sbs",
+    "concretefoundation.cfd"
   ]
 }
