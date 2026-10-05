@@ -1155,14 +1155,6 @@
     "apps-gokite.xyz",
     "app-yieldbasis.xyz",
     "events-turtle.xyz",
-    "metamsek-io.wixstudio.com",
-    "metamsk-extension.wixstudio.com",
-    "officialwallet.wixstudio.com",
-    "mskmta.wixstudio.com",
-    "mtamask-io.wixstudio.com",
-    "metamsk-eng.wixstudio.com",
-    "portal-metamsk-en.wixstudio.com",
-    "extension-metamsk.wixstudio.com",
     "metamskk-eng.wixstudio.com",
     "portal-metamsk.wixstudio.com",
     "my-metamsk-ext.wixstudio.com",
@@ -102650,6 +102642,7 @@
     "hyperfoundationvault.xyz",
     "desk-allocatlons.app",
     "portal-moonshot-8pz.netlify.app",
-    "flt-rewards.com"
+    "flt-rewards.com",
+    "portal-telco.in"
   ]
 }
