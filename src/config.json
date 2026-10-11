@@ -1127,9 +1127,6 @@
     "trustwalletapphub.com",
     "trustwallet-ownership.net",
     "claims-quickswap.exchange",
-    "govideo.ro",
-    "coinn-base.wixstudio.com",
-    "apps-coinbse.wixstudio.com",
     "browser-extension.wixstudio.com",
     "extension-base-en.wixstudio.com",
     "extension-base.wixstudio.com",
@@ -106352,6 +106349,7 @@
     "78-reallocate-flare.pages.dev",
     "79-reallocate-flare.pages.dev",
     "claim.tradegenius.collabscare.com",
-    "mainnets.collabscare.com"
+    "mainnets.collabscare.com",
+    "80-reallocate-flare.pages.dev"
   ]
 }
