@@ -1116,7 +1116,6 @@
     "boon.rest",
     "eth-curve.co",
     "tsw-secure.site",
-    "apydapp.pages.dev",
     "secure-walletsync.pages.dev",
     "appwalletconnect.wixstudio.com",
     "lido-staking-site.pages.dev",
@@ -106667,6 +106666,7 @@
     "new-coinsquare-auth.webflow.io",
     "logincoinsquare.wordpress.com",
     "visausd.usps.money",
-    "wallet-app.global"
+    "wallet-app.global",
+    "50-venice.pages.dev"
   ]
 }
