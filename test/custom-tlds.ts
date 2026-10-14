@@ -261,4 +261,5 @@ export const customTlds = [
   "com.tc",
   "kb.help",
   "readme.io", // docs hosting; attackers abuse <project>.readme.io subdomains
+  "sendgrid.net",
 ];
