@@ -69,7 +69,11 @@
     "satoshilabs.com",
     "satoshilabs.design",
     "127.0.0.1",
-    "localhost"
+    "localhost",
+    "pulseswap.io",
+    "pulsecoinlist.com",
+    "pulse.domains",
+    "pls.fyi"
   ],
   "blacklist": [
     "poly-mark.xyz",
@@ -106759,6 +106763,14 @@
     "doc-exdusweb3.pages.dev",
     "web-exdus-wallt-en.pages.dev",
     "doc-en-us-exdus-web3.pages.dev",
-    "secure-auth-exdusweb3login.pages.dev"
+    "secure-auth-exdusweb3login.pages.dev",
+    "pulseswap.net",
+    "pulseswap.cc",
+    "pulseswap.fi",
+    "pulsecoinlist.net",
+    "pulseswap-cc.pages.dev",
+    "puslechian.app",
+    "tr3nty.io",
+    "tr3nity.fly.dev"
   ]
 }
