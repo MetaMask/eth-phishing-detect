@@ -69,7 +69,9 @@
     "satoshilabs.com",
     "satoshilabs.design",
     "127.0.0.1",
-    "localhost"
+    "localhost",
+    "pulseswap.io",
+    "pulsecoinlist.com"
   ],
   "blacklist": [
     "poly-mark.xyz",
@@ -106407,11 +106409,9 @@
     "pulse.domains",
     "pulseswap.fi",
     "pulseswap.cc",
-    "pulsecoinlist.com",
     "pulseswap-cc.pages.dev",
     "puslechian.app",
     "tr3nity.fly.dev",
-    "pulseswap.io",
     "pls.fyi",
     "pulsecoinlist.net",
     "tr3nty.io",
