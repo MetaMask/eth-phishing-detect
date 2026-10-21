@@ -12,6 +12,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "metamask.tools",
     "pcswap.org",
     "sophon.xyz",
     "opensea.pro",
@@ -637,7 +638,6 @@
     "meitamask.mom",
     "meta-mask.biz",
     "meta-mask.live",
-    "metamask.tools",
     "metamaskd.com",
     "metamasks.email",
     "metamasks.org",
