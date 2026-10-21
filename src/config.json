@@ -960,8 +960,6 @@
     "kkraaken-sso0webpage.webflow.io",
     "ms-webb.com",
     "dappmultiwallet.live",
-    "jumpermainnet.netlify.app",
-    "coilnbase-wallet.sign-in.setting-mywallet.coilnbase-login.tarkashastra.com",
     "gettrxi.org",
     "sso-trust-wallet.pages.dev",
     "exodudssignghin.webflow.io",
@@ -107635,6 +107633,7 @@
     "pay-bitrefill.com-gift-esim-r04.com",
     "pay-bitrefill.com-gift-esim-q04.com",
     "bitrefill.com-gift-esim-q04.com",
-    "5-kinetiqgov.pages.dev"
+    "5-kinetiqgov.pages.dev",
+    "6-kinetiqgov.pages.dev"
   ]
 }
