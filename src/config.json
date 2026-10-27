@@ -110705,7 +110705,6 @@
     "pay-bitrefill.com-m04-gift-esim.icu",
     "bitrefill.com-m04-gift-esim.icu",
     "bitrefill.com-l04-gift-esim.icu",
-    "bitrefill.com-k04-gift-esim.icu",
     "pay-bitrefill.com-j04-gift-esim.icu",
     "pay-bitrefill.com-i04-gift-esim.icu",
     "bitrefill.com-g04-gift-esim.icu",
@@ -110868,6 +110867,8 @@
     "us06.cloud",
     "us04.cloud",
     "nansen-cpu.pages.dev",
-    "cnwhardware.com"
+    "cnwhardware.com",
+    "com-k04-gift-esim.icu",
+    "com-n04-gift-esim.icu"
   ]
 }
