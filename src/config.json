@@ -924,10 +924,6 @@
     "ochaiwertq.com",
     "98yj.com",
     "coinbasepro.hk",
-    "autodiscover.coinbase-reverifyld.duckdns.org",
-    "cpcontacts.coinbase-reverifyld.duckdns.org",
-    "cpcalendars.coinbase-reverifyld.duckdns.org",
-    "ripplectx.com",
     "krakcard.app",
     "dxptoken.live",
     "proposals-yieldbasis.com",
@@ -111845,6 +111841,7 @@
     "striatso.com",
     "stratisx.com",
     "nexavertex.info",
-    "262-reallocate-flare.pages.dev"
+    "262-reallocate-flare.pages.dev",
+    "101-governance-venice.pages.dev"
   ]
 }
