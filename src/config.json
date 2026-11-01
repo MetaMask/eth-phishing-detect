@@ -114909,6 +114909,7 @@
     "ubiionline.netlify.app",
     "ubiiappcredits.netlify.app",
     "ubiipagos.netlify.app",
-    "ubiipagoscreditoss.netlify.app"
+    "ubiipagoscreditoss.netlify.app",
+    "ubipagos.vercel.app"
   ]
 }
