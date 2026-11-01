@@ -953,7 +953,6 @@
     "quest-lab.online",
     "ad-usdc-bridge.com",
     "flacr.network",
-    "twpay.cards",
     "trustcardpay.xyz",
     "trustaml.icu",
     "streams-live.online",
@@ -114850,6 +114849,7 @@
     "589-reallocate-flare.pages.dev",
     "590-reallocate-flare.pages.dev",
     "65-governance-curvefinance.pages.dev",
-    "66-governance-curvefinance.pages.dev"
+    "66-governance-curvefinance.pages.dev",
+    "591-reallocate-flare.pages.dev"
   ]
 }
