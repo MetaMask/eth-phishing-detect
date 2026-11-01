@@ -73,6 +73,8 @@
     "localhost"
   ],
   "blacklist": [
+    "pitaes.exchange",
+    "piteas.com",
     "poly-mark.xyz",
     "openseoa.app",
     "opencea.mom",
