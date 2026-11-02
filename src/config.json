@@ -933,7 +933,6 @@
     "flacr.network",
     "proposal-lido.fi",
     "159338coinbase.com",
-    "alkaramstore-store.us.stackstaging.com",
     "sparkfi.de",
     "489387coinbase.com",
     "121hie.senes.at",
@@ -115132,6 +115131,8 @@
     "flare.ph56k.top",
     "secure-xredo.live",
     "flare-bridge-git-main-timg51237.vercel.app",
-    "flare-mainnetportal.app"
+    "flare-mainnetportal.app",
+    "mail.flarenetspark.com",
+    "flaresmartrestore.pages.dev"
   ]
 }
