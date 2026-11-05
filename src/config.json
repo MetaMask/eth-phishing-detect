@@ -115708,6 +115708,9 @@
     "pay-bitrefill.com-cd01-esim-gift.com",
     "pons-vote.pages.dev",
     "acrossprotocolcom.webflow.io",
-    "dex-flaredapp.pages.dev"
+    "dex-flaredapp.pages.dev",
+    "send-bep20surge.vercel.app",
+    "send-clickdt.vercel.app",
+    "sendusdtt-bep20.netlify.app"
   ]
 }
