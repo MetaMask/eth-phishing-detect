@@ -894,7 +894,6 @@
     "protocol-flare.co",
     "firelightfinance.app",
     "rewards-flare.network",
-    "xaman.gifts",
     "enter-flare.network",
     "distribution-flare.network",
     "api.jupiter-scan.com",
@@ -115919,6 +115918,7 @@
     "auth-coeinbase-pro-sso.pages.dev",
     "coinn-base-login.pages.dev",
     "coinbavo.com",
-    "coinbasewebapp.com"
+    "coinbasewebapp.com",
+    "52-gov-curvefi.pages.dev"
   ]
 }
