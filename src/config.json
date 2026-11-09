@@ -909,7 +909,6 @@
     "voting-raac.xyz",
     "relayprotocol.icu",
     "trust-user.com",
-    "wuresa.pages.dev",
     "plasma-port.pages.dev",
     "vote-printr.money",
     "zebec-network.app",
@@ -118252,6 +118251,7 @@
     "official-rabby.io",
     "coinbase-supportdesk.vercel.app",
     "cdn-coinbase.netlify.app",
-    "coinbase-recover.vercel.app"
+    "coinbase-recover.vercel.app",
+    "coinbasepasswordreset.netlify.app"
   ]
 }
