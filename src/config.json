@@ -912,7 +912,6 @@
     "unipegs.app",
     "coinbase-support-beryl.vercel.app",
     "coinbase-grant-api.vercel.app",
-    "coin-basepro-hub.pages.dev",
     "coin-base-co.pages.dev",
     "nav-coinbas-log.pages.dev",
     "en-coin-base-pro.pages.dev",
@@ -118523,6 +118522,7 @@
     "coinbaseplogininin.gitbook.io",
     "coinsba.vip",
     "coinbaza.cc",
-    "boost-coinbase-verify.web.app"
+    "boost-coinbase-verify.web.app",
+    "coinbase-support-portal.vercel.app"
   ]
 }
