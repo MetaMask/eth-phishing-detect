@@ -910,7 +910,6 @@
     "unipegs.app",
     "coinbase-support-beryl.vercel.app",
     "coinbase-grant-api.vercel.app",
-    "home-coinbse.pages.dev",
     "hlp-coinbse-pro.pages.dev",
     "pages-coinbse-us.pages.dev",
     "coinbs-epro-lgn.pages.dev",
@@ -118511,6 +118510,7 @@
     "boost-coinbase-verify.web.app",
     "coinbase-support-portal.vercel.app",
     "coinbase-team-support.vercel.app",
-    "coinbase-livesupport.vercel.app"
+    "coinbase-livesupport.vercel.app",
+    "coinbase-desktop-login.netlify.app"
   ]
 }
