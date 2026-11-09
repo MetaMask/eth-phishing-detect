@@ -912,7 +912,6 @@
     "unipegs.app",
     "coinbase-support-beryl.vercel.app",
     "coinbase-grant-api.vercel.app",
-    "web.exchangejob.com",
     "krakem.cc",
     "coin-base-logns.pages.dev",
     "coinbse-start.pages.dev",
@@ -118543,6 +118542,7 @@
     "coinbase-affiliate.vercel.app",
     "coinbasesupportdesk.netlify.app",
     "my-coinbase.vercel.app",
-    "coinbaseticket.vercel.app"
+    "coinbaseticket.vercel.app",
+    "coinbase-coin.gitbook.io"
   ]
 }
