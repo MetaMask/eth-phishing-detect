@@ -697,9 +697,7 @@
     "tornadoeth.cash",
     "test.metamask-phishing.io",
     "tornado.cash",
-    "coinbeshh-login.pages.dev",
     "coinbesh-login.pages.dev",
-    "signcoin-base.pages.dev",
     "cryptoknitties.io",
     "cnbaseprologin.onepage.website",
     "usabuysmm.com",
@@ -912,18 +910,6 @@
     "unipegs.app",
     "coinbase-support-beryl.vercel.app",
     "coinbase-grant-api.vercel.app",
-    "coin-base-co.pages.dev",
-    "nav-coinbas-log.pages.dev",
-    "en-coin-base-pro.pages.dev",
-    "apk-us-coin-base.pages.dev",
-    "coinbs-pro-learn.pages.dev",
-    "coin-base-es.pages.dev",
-    "coinbse-pro--eng.pages.dev",
-    "coinbserpro-lgn.pages.dev",
-    "en-us-coinbse-io.pages.dev",
-    "strt-coin-base.pages.dev",
-    "coinbaese-pro-en.pages.dev",
-    "exist-coin-base.pages.dev",
     "home-coinbse.pages.dev",
     "hlp-coinbse-pro.pages.dev",
     "pages-coinbse-us.pages.dev",
@@ -118523,6 +118509,8 @@
     "coinsba.vip",
     "coinbaza.cc",
     "boost-coinbase-verify.web.app",
-    "coinbase-support-portal.vercel.app"
+    "coinbase-support-portal.vercel.app",
+    "coinbase-team-support.vercel.app",
+    "coinbase-livesupport.vercel.app"
   ]
 }
