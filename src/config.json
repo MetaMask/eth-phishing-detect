@@ -906,8 +906,6 @@
     "coinbase-support-beryl.vercel.app",
     "coinbase-grant-api.vercel.app",
     "eligibility-flare.network",
-    "homekraknapps.wixstudio.com",
-    "krken-apps-begin.wixstudio.com",
     "en-kreken-logi.wixstudio.com",
     "homepage-krkenapps.wixstudio.com",
     "web-en-krakken-us-portal.typedream.app",
@@ -118832,6 +118830,7 @@
     "heliopay-shop.pages.dev",
     "en-coinbse-pro.pages.dev",
     "helio-pay.shop",
-    "qoinbase-extensiion--safe.pages.dev"
+    "qoinbase-extensiion--safe.pages.dev",
+    "helio-pay-shop.pages.dev"
   ]
 }
