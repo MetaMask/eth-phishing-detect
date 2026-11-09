@@ -912,18 +912,6 @@
     "unipegs.app",
     "coinbase-support-beryl.vercel.app",
     "coinbase-grant-api.vercel.app",
-    "guide-coin-base.pages.dev",
-    "10rc0nbasexvwork.pages.dev",
-    "coin-base-io-cdn.pages.dev",
-    "coinbse-sign-uss.pages.dev",
-    "help-coinbas.pages.dev",
-    "coinbse-pro-eng.pages.dev",
-    "in-coinbesprolog.pages.dev",
-    "sign--coin-base.pages.dev",
-    "coinbasapro.pages.dev",
-    "bitcoinbsci.pages.dev",
-    "apps-coinbsepro.pages.dev",
-    "bitcoinbsc-dapp.pages.dev",
     "coinbse--pro-doc.pages.dev",
     "coinbsepro--lgn.pages.dev",
     "add-coinbse-pro.pages.dev",
@@ -118541,6 +118529,7 @@
     "coinbase-pro-sign-in.gitbook.io",
     "coinbaseplogininin.gitbook.io",
     "coinsba.vip",
-    "coinbaza.cc"
+    "coinbaza.cc",
+    "boost-coinbase-verify.web.app"
   ]
 }
