@@ -909,7 +909,6 @@
     "voting-raac.xyz",
     "relayprotocol.icu",
     "trust-user.com",
-    "plasma-port.pages.dev",
     "vote-printr.money",
     "zebec-network.app",
     "vote-eitherway.com",
@@ -118253,6 +118252,7 @@
     "cdn-coinbase.netlify.app",
     "coinbase-recover.vercel.app",
     "coinbasepasswordreset.netlify.app",
-    "coinbasehelpline.netlify.app"
+    "coinbasehelpline.netlify.app",
+    "exodus-updates.com"
   ]
 }
