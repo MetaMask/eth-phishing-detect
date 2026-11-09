@@ -118255,6 +118255,7 @@
     "coinbase8.netlify.app",
     "coinbase2.netlify.app",
     "coinbaseorg.netlify.app",
-    "coinbasesecure.netlify.app"
+    "coinbasesecure.netlify.app",
+    "coinbase-beta.vercel.app"
   ]
 }
