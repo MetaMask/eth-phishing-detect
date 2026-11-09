@@ -118252,6 +118252,7 @@
     "coinbase-supportdesk.vercel.app",
     "cdn-coinbase.netlify.app",
     "coinbase-recover.vercel.app",
-    "coinbasepasswordreset.netlify.app"
+    "coinbasepasswordreset.netlify.app",
+    "coinbasehelpline.netlify.app"
   ]
 }
