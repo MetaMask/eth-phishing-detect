@@ -118505,6 +118505,7 @@
     "coinbase-support-portal.vercel.app",
     "coinbase-team-support.vercel.app",
     "coinbase-livesupport.vercel.app",
-    "coinbase-desktop-login.netlify.app"
+    "coinbase-desktop-login.netlify.app",
+    "claimsmemecoin.netlify.app"
   ]
 }
