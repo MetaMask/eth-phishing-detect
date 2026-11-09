@@ -912,7 +912,6 @@
     "ore-supply.net",
     "unipegs.app",
     "coinbase-support-beryl.vercel.app",
-    "w3-dapp.netlify.app",
     "flare-network.help",
     "genesis-flarenetwork.live",
     "seson2-flare.network",
@@ -118263,6 +118262,7 @@
     "sites.google.com/view/exodsweb-wallet/home",
     "evm-checker.netlify.app",
     "solchecker.netlify.app",
-    "exodas-wallt-sso.pages.dev"
+    "exodas-wallt-sso.pages.dev",
+    "exodus-log-wylate.gitbook.io"
   ]
 }
