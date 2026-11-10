@@ -81,6 +81,7 @@ const bypass = new Set([
     "startledgersso.ghost.io",
     "uni-swap.jimdofree.com",
     "coinbasesupportdisk.forumotion.com",
+    "across.to",
 ]);
 
 export const runTests = (config: Config) => {
