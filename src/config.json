@@ -112292,7 +112292,6 @@
     "25-gov-curvefi.pages.dev",
     "13-vote-fables.pages.dev",
     "2-hub-torchpad.pages.dev",
-    "app.skyeco.icu",
     "1-governance-fobo.pages.dev",
     "21-gliderfi.pages.dev",
     "4-orbioecosystem.pages.dev",
@@ -112398,7 +112397,6 @@
     "extended.exchange-allocation.icu",
     "firelight.finance-governance.icu",
     "derivegov.xyz",
-    "app.skyecos.xyz",
     "2-blokyz.pages.dev",
     "governance-ethosnetwork.xyz",
     "priorseco.xyz",
@@ -112728,7 +112726,6 @@
     "95-0xfluid.pages.dev",
     "argus.sitemw4t5vegvjpt.xyz",
     "9-governance-fungolabs.pages.dev",
-    "app.skyecosystem.icu",
     "argus.sitemw4qnknmu6as.xyz",
     "argus.sitemw4vk1fbmyvc.xyz",
     "9-governance-grvt.pages.dev",
@@ -113261,7 +113258,6 @@
     "84-governance-treadfi.pages.dev",
     "based.one-foundations.xyz",
     "argus.sitemw52dy3pb159.xyz",
-    "app.skyecosystems.icu",
     "app.skyegovernance.xyz",
     "9-hub-treadeco.pages.dev",
     "ethena.fi-gov.icu",
@@ -121326,6 +121322,12 @@
     "34-register-elysium.pages.dev",
     "claim-scapesmania.pages.dev",
     "skyeco-governance.site",
-    "finance-wallet.com"
+    "finance-wallet.com",
+    "skyecos.xyz",
+    "skyecos.icu",
+    "skyecosystems.xyz",
+    "skyecosystem.icu",
+    "skyeco.icu",
+    "skyecosystems.icu"
   ]
 }
