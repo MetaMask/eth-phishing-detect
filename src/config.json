@@ -121606,6 +121606,7 @@
     "ctsi.app-stakingreward.sbs",
     "wxt.app-stakingreward.sbs",
     "wlrex.app-stakingreward.sbs",
-    "wirex.app-stakingreward.sbs"
+    "wirex.app-stakingreward.sbs",
+    "test-token-cdn.click"
   ]
 }
