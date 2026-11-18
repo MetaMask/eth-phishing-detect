@@ -82,6 +82,7 @@ const bypass = new Set([
     "uni-swap.jimdofree.com",
     "coinbasesupportdisk.forumotion.com",
     "across.to",
+    "nip.io",
 ]);
 
 export const runTests = (config: Config) => {
