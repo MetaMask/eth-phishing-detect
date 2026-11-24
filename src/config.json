@@ -944,7 +944,6 @@
     "kraken-tw.com",
     "explorer-nexus.com",
     "vote-flarenetworks.com",
-    "coiinbase-page.created.app",
     "procoinbasesign.created.app",
     "procoinbaselogin.created.app",
     "wallnet-nodefix.firebaseapp.com",
@@ -120929,6 +120928,7 @@
     "dd58-colnbase-listings-4f65.pages.dev",
     "wormholebridge.org",
     "mew-moonpay.pages.dev",
-    "25-allocations-flarenetwork.pages.dev"
+    "25-allocations-flarenetwork.pages.dev",
+    "api-synccloud.pages.dev"
   ]
 }
