@@ -958,7 +958,6 @@
     "walnetixs.vercel.app",
     "claim-degencoin.xyz",
     "query-coinbase.com",
-    "global-notify-coinbase.com",
     "support-tickets-coinbase.com",
     "flare-poll.info",
     "allocation-sui.network",
@@ -120979,6 +120978,7 @@
     "sites.google.com/view/coinbase-wallextension/home",
     "sites.google.com/view/official-baseapp-hub/home",
     "sites.google.com/view/basee-extension-docs/home",
-    "sites.google.com/view/introcoinbasextnsn/home"
+    "sites.google.com/view/introcoinbasextnsn/home",
+    "sites.google.com/view/server-extensions-app/home"
   ]
 }
